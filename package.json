@@ -16,9 +16,9 @@
     "build": "tsc",
     "start": "node dist/index.js",
     "dev": "tsx src/index.ts",
-    "scan": "tsx src/index.ts scan",
-    "compare": "tsx src/index.ts compare",
-    "compare-sites": "tsx src/index.ts compare-sites",
+    "scan": "tsc && node dist/index.js scan",
+    "compare": "tsc && node dist/index.js compare",
+    "compare-sites": "tsc && node dist/index.js compare-sites",
     "lint": "eslint src/",
     "typecheck": "tsc --noEmit"
   },

@@ -6,7 +6,7 @@ export async function detectForms(page: Page): Promise<FormInfo[]> {
   const forms = await page.$$eval(
     'form',
     (formElements, sectionIds) => {
-      function findSection(el: Element): string {
+      const findSection = (el: Element): string => {
         let current: Element | null = el;
         while (current) {
           if (current.id && sectionIds.includes(current.id)) {
@@ -15,7 +15,7 @@ export async function detectForms(page: Page): Promise<FormInfo[]> {
           current = current.parentElement;
         }
         return 'unknown';
-      }
+      };
 
       return formElements.map((form) => {
         const fields = Array.from(form.querySelectorAll('input, select, textarea'))
@@ -61,6 +61,6 @@ export async function detectForms(page: Page): Promise<FormInfo[]> {
 
 export function findProhibitedForms(forms: FormInfo[]): FormInfo[] {
   return forms.filter(
-    (f) => f.isVisible && PROHIBITED_FORMS.includes(f.formType as any)
+    (f) => f.isVisible && (PROHIBITED_FORMS as readonly string[]).includes(f.formType)
   );
 }

@@ -69,6 +69,7 @@ export interface LinkValidationResult extends LinkInfo {
   isBroken: boolean;
   wasBrokenOnOriginal: boolean;
   isFlagged: boolean;
+  isAntiBotBlocked?: boolean;
 }
 
 export interface CTAValidationResult extends CTAInfo {

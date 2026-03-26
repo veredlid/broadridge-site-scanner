@@ -6,7 +6,7 @@ export async function collectAllCTAs(page: Page): Promise<CTAInfo[]> {
   return page.$$eval(
     'button, a.btn, a[class*="button"], a[class*="cta"], input[type="submit"]',
     (elements, sectionIds) => {
-      function findSection(el: Element): string {
+      const findSection = (el: Element): string => {
         let current: Element | null = el;
         while (current) {
           if (current.id && sectionIds.includes(current.id)) {
@@ -15,9 +15,9 @@ export async function collectAllCTAs(page: Page): Promise<CTAInfo[]> {
           current = current.parentElement;
         }
         return 'unknown';
-      }
+      };
 
-      function buildSelector(el: Element): string {
+      const buildSelector = (el: Element): string => {
         const parts: string[] = [];
         let current: Element | null = el;
         while (current && current !== document.body) {
@@ -34,7 +34,7 @@ export async function collectAllCTAs(page: Page): Promise<CTAInfo[]> {
           current = current.parentElement;
         }
         return parts.join(' > ');
-      }
+      };
 
       return elements.map((el) => {
         const tag = el.tagName.toLowerCase();

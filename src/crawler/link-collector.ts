@@ -10,7 +10,7 @@ export async function collectAllLinks(page: Page): Promise<LinkInfo[]> {
     (anchors, args) => {
       const { hostname, sectionIds } = args;
 
-      function findSection(el: Element): string {
+      const findSection = (el: Element): string => {
         let current: Element | null = el;
         while (current) {
           if (current.id && sectionIds.includes(current.id)) {
@@ -19,9 +19,9 @@ export async function collectAllLinks(page: Page): Promise<LinkInfo[]> {
           current = current.parentElement;
         }
         return 'unknown';
-      }
+      };
 
-      function buildSelector(el: Element): string {
+      const buildSelector = (el: Element): string => {
         const parts: string[] = [];
         let current: Element | null = el;
         while (current && current !== document.body) {
@@ -39,7 +39,7 @@ export async function collectAllLinks(page: Page): Promise<LinkInfo[]> {
           current = current.parentElement;
         }
         return parts.join(' > ');
-      }
+      };
 
       return (anchors as HTMLAnchorElement[]).map((a) => ({
         text: a.textContent?.trim() || '',

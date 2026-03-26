@@ -6,7 +6,7 @@ export async function auditImages(page: Page): Promise<ImageInfo[]> {
   return page.$$eval(
     'img',
     (images, sectionIds) => {
-      function findSection(el: Element): string {
+      const findSection = (el: Element): string => {
         let current: Element | null = el;
         while (current) {
           if (current.id && sectionIds.includes(current.id)) {
@@ -15,7 +15,7 @@ export async function auditImages(page: Page): Promise<ImageInfo[]> {
           current = current.parentElement;
         }
         return 'unknown';
-      }
+      };
 
       return images.map((img) => {
         const rect = img.getBoundingClientRect();

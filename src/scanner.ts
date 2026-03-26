@@ -61,11 +61,23 @@ export async function scanSite(options: ScanOptions): Promise<SiteSnapshot> {
     const linkResults = await validateLinks(pageSnapshot.links);
     allLinkResults.set(pageSnapshot.url, linkResults);
 
+    for (const lr of linkResults) {
+      const matchingLink = pageSnapshot.links.find((l) => l.href === lr.href);
+      if (matchingLink) matchingLink.httpStatus = lr.httpStatus;
+    }
+
     const broken = linkResults.filter((l) => l.isFlagged);
+    const antiBot = linkResults.filter((l) => l.isAntiBotBlocked);
     if (broken.length > 0) {
-      console.log(chalk.red(`    ✗ ${broken.length} broken link(s) found`));
+      console.log(chalk.red(`    ✗ ${broken.length} broken link(s) found:`));
+      for (const b of broken) {
+        console.log(chalk.red(`      [${b.httpStatus}] ${b.href}`));
+      }
     } else {
       console.log(chalk.green(`    ✓ All links OK`));
+    }
+    if (antiBot.length > 0) {
+      console.log(chalk.yellow(`    ⚠ ${antiBot.length} link(s) blocked by anti-bot (social media — likely OK in browser)`));
     }
   }
 

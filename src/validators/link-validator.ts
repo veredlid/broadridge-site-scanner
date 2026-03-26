@@ -1,6 +1,13 @@
 import type { LinkInfo, LinkValidationResult } from '../types/index.js';
 import { THRESHOLDS } from '../config.js';
 
+const ANTI_BOT_DOMAINS = [
+  'twitter.com', 'x.com',
+  'linkedin.com', 'www.linkedin.com',
+  'facebook.com', 'www.facebook.com',
+  'instagram.com', 'www.instagram.com',
+];
+
 export async function validateLinks(
   links: LinkInfo[],
   originalLinks?: LinkInfo[]
@@ -29,7 +36,8 @@ export async function validateLinks(
 
   return links.map((link) => {
     const status = statusMap.get(link.href) ?? -1;
-    const isBroken = status >= 400 || status === -1;
+    const isAntiBotDomain = isKnownAntiBotDomain(link.href);
+    const isBroken = (status >= 400 || status === -1) && !isAntiBotDomain;
     const wasBrokenOnOriginal = originalBrokenHrefs.has(link.href);
 
     return {
@@ -38,12 +46,22 @@ export async function validateLinks(
       isBroken,
       wasBrokenOnOriginal,
       isFlagged: isBroken && !wasBrokenOnOriginal,
+      isAntiBotBlocked: isAntiBotDomain && (status >= 400 || status === -1),
     };
   });
 }
 
+function isKnownAntiBotDomain(href: string): boolean {
+  try {
+    const hostname = new URL(href).hostname;
+    return ANTI_BOT_DOMAINS.some((d) => hostname === d || hostname.endsWith(`.${d}`));
+  } catch {
+    return false;
+  }
+}
+
 async function checkLink(href: string): Promise<{ href: string; status: number }> {
-  if (!href || href.startsWith('javascript:') || href.startsWith('mailto:') || href.startsWith('tel:')) {
+  if (!href || href.startsWith('javascript:') || href.startsWith('mailto:') || href.startsWith('tel:') || href.startsWith('#')) {
     return { href, status: 0 };
   }
 
