@@ -226,6 +226,7 @@ export interface DiffSummary {
   totalChecks: number;
   passed: number;
   failed: number;
+  contentChanged: number;
   fixed: number;
   regressed: number;
   newIssues: number;
@@ -239,7 +240,7 @@ export interface DiffItem {
   severity: 'critical' | 'major' | 'minor' | 'info';
   original: unknown;
   migrated: unknown;
-  changeType: 'match' | 'mismatch' | 'missing-in-migrated' | 'new-in-migrated' | 'fixed' | 'regressed';
+  changeType: 'match' | 'mismatch' | 'content-changed' | 'missing-in-migrated' | 'new-in-migrated' | 'fixed' | 'regressed';
 }
 
 export interface PageDiff {

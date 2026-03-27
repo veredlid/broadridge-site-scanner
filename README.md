@@ -22,10 +22,10 @@ npm install
 npx playwright install chromium
 
 # Scan a single site
-npm run dev -- scan www.blankequity.com
+npm run scan -- www.blankequity.com
 
 # Compare original vs migrated (the main use case)
-npm run dev -- compare-sites \
+npm run compare-sites -- \
   --original www.blankequity.com \
   --migrated blankequity.wixsite.com/migrated
 ```
@@ -35,7 +35,7 @@ npm run dev -- compare-sites \
 ### `scan` — Audit a single site
 
 ```bash
-npm run dev -- scan <domain> [options]
+npm run scan -- <domain> [options]
 
 Options:
   -l, --label <label>          Scan label (default: "scan")
@@ -53,7 +53,7 @@ Options:
 The primary use case. Scans both sites, then diffs them.
 
 ```bash
-npm run dev -- compare-sites \
+npm run compare-sites -- \
   --original www.blankequity.com \
   --migrated blankequity.wixsite.com/migrated \
   --csv
@@ -77,15 +77,15 @@ Compare two previously captured snapshots of the same site.
 
 ```bash
 # Step 1: Scan before
-npm run dev -- scan www.blankequity.com --label before
+npm run scan -- www.blankequity.com --label before
 
 # Step 2: Run fix scripts...
 
 # Step 3: Scan after
-npm run dev -- scan www.blankequity.com --label after
+npm run scan -- www.blankequity.com --label after
 
 # Step 4: Compare
-npm run dev -- compare \
+npm run compare -- \
   --before ./scans/www.blankequity.com/<timestamp>/snapshot.json \
   --after  ./scans/www.blankequity.com/<timestamp>/snapshot.json
 ```
@@ -160,6 +160,50 @@ The scanner implements **61 automated checks** mapped from the QA checklist:
 - **14 Flex/Deprecated site rules** (F1-F14)
 
 Categories: Forms, Images, Mobile, Links, Menu, Footer, Hero, Contact, Map, Sections, Callout, Social, Team, Typography, Spacing
+
+## Authentication & BR Source API
+
+The scanner can optionally fetch site metadata from the Broadridge Source API at `https://bo.wix.com/_api/broadridge-source/v1/sites/{domain}`. This provides page structure, FlexXML definitions, and live status — enabling automatic page discovery without menu crawling.
+
+### Getting the Auth Token
+
+The API requires a `WIX_AUTHORIZATION` token. This is a Wix session cookie obtained from an authenticated `bo.wix.com` session:
+
+1. Log in to **bo.wix.com** in your browser
+2. Open DevTools → Application → Cookies
+3. Copy the value of the cookie named `wixSession2` (or the Authorization header used in network requests)
+4. Pass it via CLI:
+
+```bash
+npm run scan -- www.blankequity.com --auth "YOUR_TOKEN_HERE"
+```
+
+Or set it as an environment variable:
+
+```bash
+export WIX_AUTHORIZATION="YOUR_TOKEN_HERE"
+npm run scan -- www.blankequity.com --auth "$WIX_AUTHORIZATION"
+```
+
+### Without Auth
+
+The scanner works **without** the auth token — it will skip the BR Source API and fall back to **menu crawling** to discover pages. You'll see:
+
+```
+⚠ Could not fetch BR Source API (will crawl menu): ...
+```
+
+This is fine for most use cases. The API mainly helps with sites that have pages not linked from the navigation menu.
+
+## Performance
+
+Pages are scanned in parallel with a bounded concurrency pool (default: 3 pages at a time). For a 7-page site with desktop-only viewport, a full scan takes ~20-30 seconds.
+
+| Site Size | Viewports | Approx Time |
+|-----------|-----------|-------------|
+| 5 pages   | desktop   | ~15s        |
+| 10 pages  | desktop   | ~25s        |
+| 10 pages  | all 3     | ~60s        |
 
 ## Requirements
 

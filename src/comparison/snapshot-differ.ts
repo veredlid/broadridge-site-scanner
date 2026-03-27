@@ -239,17 +239,18 @@ function compareSections(migrated: PageSnapshot, original?: PageSnapshot): DiffI
       });
     }
 
-    // Text content
+    // Text content — intentional edits are expected during migration,
+    // so content changes are informational rather than regressions
     if (oSection.textContent !== mSection.textContent) {
       items.push({
         page: migrated.url,
         section: mSection.id,
         checkId: 'section-content',
         description: `#${mSection.id} text content changed`,
-        severity: 'major',
+        severity: 'info',
         original: oSection.textContent.substring(0, 200),
         migrated: mSection.textContent.substring(0, 200),
-        changeType: 'mismatch',
+        changeType: 'content-changed',
       });
     }
   }
@@ -504,6 +505,7 @@ function computeSummary(items: DiffItem[]): DiffSummary {
     totalChecks: items.length,
     passed: items.filter((i) => i.changeType === 'match').length,
     failed: items.filter((i) => i.changeType === 'mismatch' || i.changeType === 'missing-in-migrated').length,
+    contentChanged: items.filter((i) => i.changeType === 'content-changed').length,
     fixed: items.filter((i) => i.changeType === 'fixed').length,
     regressed: items.filter((i) => i.changeType === 'regressed').length,
     newIssues: items.filter((i) => i.changeType === 'new-in-migrated').length,

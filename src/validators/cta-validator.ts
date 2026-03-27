@@ -22,25 +22,58 @@ async function validateSingleCTA(
   cta: CTAInfo
 ): Promise<CTAValidationResult> {
   const currentUrl = page.url();
+  const el = await page.$(cta.elementSelector);
+  if (!el) {
+    return { ...cta, navigatesTo: null, navigationWorks: false };
+  }
 
+  const isVisible = await el.isVisible().catch(() => false);
+  if (!isVisible) {
+    return { ...cta, navigatesTo: null, navigationWorks: false };
+  }
+
+  // Strategy 1: If it's an anchor with href, validate the href directly
+  // without clicking — this avoids DOM mutation entirely
+  if (cta.type === 'link' && cta.href) {
+    try {
+      const res = await fetch(cta.href, {
+        method: 'HEAD',
+        redirect: 'follow',
+        signal: AbortSignal.timeout(THRESHOLDS.linkTimeout),
+      });
+      return {
+        ...cta,
+        navigatesTo: cta.href,
+        destinationTitle: undefined,
+        navigationWorks: res.status < 400,
+        httpStatus: res.status,
+      };
+    } catch {
+      return { ...cta, navigatesTo: cta.href, navigationWorks: false };
+    }
+  }
+
+  // Strategy 2: For buttons/submits, use Playwright's native click
+  // and intercept navigation via waitForNavigation or new tab events
   try {
-    const [newPage] = await Promise.all([
-      page.context().waitForEvent('page', { timeout: THRESHOLDS.ctaWaitMs }),
-      page.evaluate((selector) => {
-        const el = document.querySelector(selector);
-        if (el) {
-          const clone = el.cloneNode(true) as HTMLElement;
-          clone.setAttribute('target', '_blank');
-          el.parentNode?.replaceChild(clone, el);
-          (clone as HTMLElement).click();
-        }
-      }, cta.elementSelector),
-    ]).catch(() => [null]);
+    const navigationPromise = page.waitForURL(
+      (url) => url.toString() !== currentUrl,
+      { timeout: THRESHOLDS.ctaWaitMs }
+    ).catch(() => null);
 
+    const newPagePromise = page.context().waitForEvent('page', {
+      timeout: THRESHOLDS.ctaWaitMs,
+    }).catch(() => null);
+
+    await el.click({ timeout: THRESHOLDS.ctaWaitMs });
+
+    const [navResult, newPage] = await Promise.all([navigationPromise, newPagePromise]);
+
+    // Case A: Click opened a new tab
     if (newPage) {
       await newPage.waitForLoadState('domcontentloaded').catch(() => {});
       const destinationUrl = newPage.url();
-      const title = await newPage.title();
+      const title = await newPage.title().catch(() => '');
       await newPage.close();
 
       return {
@@ -48,38 +81,35 @@ async function validateSingleCTA(
         navigatesTo: destinationUrl,
         destinationTitle: title,
         navigationWorks:
+          destinationUrl !== 'about:blank' &&
           !destinationUrl.includes('404') &&
-          !destinationUrl.includes('error') &&
-          destinationUrl !== 'about:blank',
+          !destinationUrl.includes('error'),
       };
     }
-  } catch {
-    // New tab approach failed, try direct click
-  }
 
-  try {
-    await page.click(cta.elementSelector, { timeout: THRESHOLDS.ctaWaitMs });
-    await page.waitForTimeout(THRESHOLDS.ctaWaitMs);
+    // Case B: Same-tab navigation occurred
     const newUrl = page.url();
-
-    const result: CTAValidationResult = {
-      ...cta,
-      navigatesTo: newUrl !== currentUrl ? newUrl : null,
-      navigationWorks: newUrl !== currentUrl,
-    };
-
     if (newUrl !== currentUrl) {
-      await page.goBack().catch(() => {
-        return page.goto(currentUrl, { waitUntil: 'domcontentloaded' });
-      });
+      const title = await page.title().catch(() => '');
+      await page.goBack({ timeout: THRESHOLDS.pageTimeout }).catch(() =>
+        page.goto(currentUrl, { waitUntil: 'domcontentloaded' })
+      );
+
+      return {
+        ...cta,
+        navigatesTo: newUrl,
+        destinationTitle: title,
+        navigationWorks: true,
+      };
     }
 
-    return result;
+    // Case C: No navigation — button may trigger in-page action (modal, accordion, etc.)
+    return { ...cta, navigatesTo: null, navigationWorks: true };
   } catch {
-    return {
-      ...cta,
-      navigatesTo: null,
-      navigationWorks: false,
-    };
+    // Restore page state if click caused unexpected navigation
+    if (page.url() !== currentUrl) {
+      await page.goto(currentUrl, { waitUntil: 'domcontentloaded' }).catch(() => {});
+    }
+    return { ...cta, navigatesTo: null, navigationWorks: false };
   }
 }

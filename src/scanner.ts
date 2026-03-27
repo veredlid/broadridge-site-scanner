@@ -26,6 +26,8 @@ import { saveSnapshot, ensureDir } from './utils/fs-helpers.js';
 import { generateHtmlReport } from './reporters/html-reporter.js';
 import { generateCsvReport } from './reporters/csv-reporter.js';
 
+const DEFAULT_PAGE_CONCURRENCY = 3;
+
 export async function scanSite(options: ScanOptions): Promise<SiteSnapshot> {
   const startTime = Date.now();
   const { domain, label, viewports, screenshots, timeout, auth, output } = options;
@@ -49,37 +51,41 @@ export async function scanSite(options: ScanOptions): Promise<SiteSnapshot> {
 
   await context.close();
 
-  const pageSnapshots: PageSnapshot[] = [];
+  // Scan pages in parallel with a bounded concurrency pool
   const allLinkResults = new Map<string, LinkValidationResult[]>();
+  const pageSnapshots = await runWithConcurrency(
+    discoveredPages,
+    DEFAULT_PAGE_CONCURRENCY,
+    async (discoveredPage) => {
+      console.log(chalk.cyan(`\n  Scanning page: ${discoveredPage.title} (${discoveredPage.url})`));
+      const pageSnapshot = await scanPage(domain, discoveredPage.url, discoveredPage, viewports, screenshots, output, timeout);
 
-  for (const discoveredPage of discoveredPages) {
-    console.log(chalk.cyan(`\n  Scanning page: ${discoveredPage.title} (${discoveredPage.url})`));
-    const pageSnapshot = await scanPage(domain, discoveredPage.url, discoveredPage, viewports, screenshots, output, timeout);
-    pageSnapshots.push(pageSnapshot);
+      console.log(chalk.yellow(`    Validating ${pageSnapshot.links.length} links...`));
+      const linkResults = await validateLinks(pageSnapshot.links);
+      allLinkResults.set(pageSnapshot.url, linkResults);
 
-    console.log(chalk.yellow(`    Validating ${pageSnapshot.links.length} links...`));
-    const linkResults = await validateLinks(pageSnapshot.links);
-    allLinkResults.set(pageSnapshot.url, linkResults);
-
-    for (const lr of linkResults) {
-      const matchingLink = pageSnapshot.links.find((l) => l.href === lr.href);
-      if (matchingLink) matchingLink.httpStatus = lr.httpStatus;
-    }
-
-    const broken = linkResults.filter((l) => l.isFlagged);
-    const antiBot = linkResults.filter((l) => l.isAntiBotBlocked);
-    if (broken.length > 0) {
-      console.log(chalk.red(`    ✗ ${broken.length} broken link(s) found:`));
-      for (const b of broken) {
-        console.log(chalk.red(`      [${b.httpStatus}] ${b.href}`));
+      for (const lr of linkResults) {
+        const matchingLink = pageSnapshot.links.find((l) => l.href === lr.href);
+        if (matchingLink) matchingLink.httpStatus = lr.httpStatus;
       }
-    } else {
-      console.log(chalk.green(`    ✓ All links OK`));
+
+      const broken = linkResults.filter((l) => l.isFlagged);
+      const antiBot = linkResults.filter((l) => l.isAntiBotBlocked);
+      if (broken.length > 0) {
+        console.log(chalk.red(`    ✗ ${broken.length} broken link(s) found:`));
+        for (const b of broken) {
+          console.log(chalk.red(`      [${b.httpStatus}] ${b.href}`));
+        }
+      } else {
+        console.log(chalk.green(`    ✓ All links OK`));
+      }
+      if (antiBot.length > 0) {
+        console.log(chalk.yellow(`    ⚠ ${antiBot.length} link(s) blocked by anti-bot (social media — likely OK in browser)`));
+      }
+
+      return pageSnapshot;
     }
-    if (antiBot.length > 0) {
-      console.log(chalk.yellow(`    ⚠ ${antiBot.length} link(s) blocked by anti-bot (social media — likely OK in browser)`));
-    }
-  }
+  );
 
   const snapshot: SiteSnapshot = {
     domain,
@@ -103,6 +109,26 @@ export async function scanSite(options: ScanOptions): Promise<SiteSnapshot> {
   console.log(chalk.green(`  ✓ Ran ${report.totalChecks} rule checks (${report.passed} passed, ${report.failed} failed)`));
 
   return snapshot;
+}
+
+async function runWithConcurrency<T, R>(
+  items: T[],
+  concurrency: number,
+  fn: (item: T) => Promise<R>
+): Promise<R[]> {
+  const results: R[] = new Array(items.length);
+  let nextIndex = 0;
+
+  const worker = async () => {
+    while (nextIndex < items.length) {
+      const index = nextIndex++;
+      results[index] = await fn(items[index]);
+    }
+  };
+
+  const workers = Array.from({ length: Math.min(concurrency, items.length) }, () => worker());
+  await Promise.all(workers);
+  return results;
 }
 
 async function scanPage(

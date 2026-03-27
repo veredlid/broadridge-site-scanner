@@ -71,18 +71,23 @@ async function checkLink(href: string): Promise<{ href: string; status: number }
       redirect: 'follow',
       signal: AbortSignal.timeout(THRESHOLDS.linkTimeout),
     });
+    // 405 = server rejects HEAD but the URL may be valid — fallback to GET
+    if (res.status !== 405) {
+      return { href, status: res.status };
+    }
+  } catch {
+    // HEAD failed entirely — fall through to GET
+  }
+
+  try {
+    const res = await fetch(href, {
+      method: 'GET',
+      redirect: 'follow',
+      signal: AbortSignal.timeout(THRESHOLDS.linkTimeout),
+    });
     return { href, status: res.status };
   } catch {
-    try {
-      const res = await fetch(href, {
-        method: 'GET',
-        redirect: 'follow',
-        signal: AbortSignal.timeout(THRESHOLDS.linkTimeout),
-      });
-      return { href, status: res.status };
-    } catch {
-      return { href, status: -1 };
-    }
+    return { href, status: -1 };
   }
 }
 

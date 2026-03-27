@@ -31,7 +31,7 @@ export const SUB_ELEMENT_SELECTORS = {
   disclaimer: 'table[class="disclaimer-text"]',
   disclaimerAccept: 'a[href*="disclaimer=accept"]',
   splashPage: 'body[id="splashPage"]',
-  splashSkip: 'a[href*="skipspash=1"]',
+  splashSkip: 'a[href*="skipspash=1"], a[href*="skipsplash=1"]',
 } as const;
 
 export const PROHIBITED_FORMS = [
