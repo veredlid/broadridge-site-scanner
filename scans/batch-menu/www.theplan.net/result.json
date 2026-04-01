@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.theplan.net",
     "migratedDomain": "https://theplan-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:25:41.220Z",
+    "capturedAt": "2026-04-01T14:55:35.292Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -356,25 +356,26 @@
           "Asset Management",
           "Wealth Manager",
           "Click Here",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tLife",
-          "Retirement \n\t\t\t\t\n\t\t\t\tLife",
-          "Retirement Time",
-          "Navigating Medicare",
-          "Open Enrollment",
-          "The Medicare",
-          "Original Medicare",
-          "Medicare Advantage",
-          "Medicare Prescription",
-          "Important Tax",
-          "Through Businesses",
+          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tInvesting",
+          "Market Cap",
+          "Mind \n\t\t\t\t\n\t\t\t\tHolding",
+          "New Tax",
+          "One Big",
+          "Beautiful Bill",
+          "Is Your",
+          "Dream Kitchen",
+          "Good Investment",
+          "Wealthy Colleges",
+          "Face Expanded",
+          "Endowment Tax",
           "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cash",
-          "Flow Analysis",
-          "This Cash",
-          "Life Expectancy",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Estate",
+          "Taxes\n          \n        \n        Use",
           "Taxable Equivalent",
           "Yield\n          \n        \n        Calculate",
-          "Estate Taxes",
+          "Life Expectancy",
+          "Cash Flow",
+          "Analysis\n          \n        \n        This",
           "More Calculators",
           "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tOur",
           "Learning Center",
@@ -419,6 +420,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://theplan-31030753.brprodaccount.com/",
+        "hostname": "theplan-31030753.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on theplan-31030753.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

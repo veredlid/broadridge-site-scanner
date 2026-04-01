@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.goldenfinancial.net",
     "migratedDomain": "https://goldenfinancial-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:09:30.656Z",
+    "capturedAt": "2026-04-01T14:45:22.983Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -863,8 +863,8 @@
           "Information Request",
           "Exchange Ave",
           "Fort Worth",
-          "View Flipbooks",
           "View Calculators",
+          "View Flipbooks",
           "Golden Financial",
           "Vanessa Mason",
           "Chartered Senior",
@@ -878,12 +878,12 @@
           "Advisor Representatives",
           "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost",
           "Retirement\n          \n        \n        Use",
-          "Retirement Plan",
-          "Early Distribution",
           "Retirement Portfolio",
           "Lifespan\n          \n        \n        How",
           "Long Will",
           "Your Funds",
+          "Retirement Plan",
+          "Early Distribution",
           "More Calculators",
           "Site Map",
           "To Top"
@@ -918,12 +918,28 @@
         },
         {
           "field": "person-name",
-          "originalValue": "Home\n          \n          About, Us\n           \n            Golden, Financial Mission, Statement\n            Our, Location\n            Our, Firm\n            Our, Services\n            Our, Qualifications\n            Our, Profiles\n            National, Ethics Association, Professional Profiles, Million Dollar, Round Table, Better Business, Request Additional, Information\n            Senior, Prom\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Exchange Ave, Fort Worth, View Flipbooks, View Calculators, Golden Financial, Vanessa Mason, Chartered Senior, Financial Planner, Government Employees, Federal Government, Government Organization, As Retirement, Social Security, As Investment, Advisor Representatives, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost, Retirement\n          \n        \n        Use, Retirement Plan, Early Distribution, Retirement Portfolio, Lifespan\n          \n        \n        How, Long Will, Your Funds, More Calculators, Site Map, To Top",
+          "originalValue": "Home\n          \n          About, Us\n           \n            Golden, Financial Mission, Statement\n            Our, Location\n            Our, Firm\n            Our, Services\n            Our, Qualifications\n            Our, Profiles\n            National, Ethics Association, Professional Profiles, Million Dollar, Round Table, Better Business, Request Additional, Information\n            Senior, Prom\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Exchange Ave, Fort Worth, View Calculators, View Flipbooks, Golden Financial, Vanessa Mason, Chartered Senior, Financial Planner, Government Employees, Federal Government, Government Organization, As Retirement, Social Security, As Investment, Advisor Representatives, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost, Retirement\n          \n        \n        Use, Retirement Portfolio, Lifespan\n          \n        \n        How, Long Will, Your Funds, Retirement Plan, Early Distribution, More Calculators, Site Map, To Top",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://goldenfinancial-31030801.brprodaccount.com/",
+        "hostname": "goldenfinancial-31030801.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on goldenfinancial-31030801.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

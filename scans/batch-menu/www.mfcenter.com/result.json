@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.mfcenter.com",
     "migratedDomain": "https://mfcenter-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:48:31.967Z",
+    "capturedAt": "2026-04-01T14:21:18.033Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -541,6 +541,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://mfcenter-31030758.brprodaccount.com/",
+        "hostname": "mfcenter-31030758.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on mfcenter-31030758.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

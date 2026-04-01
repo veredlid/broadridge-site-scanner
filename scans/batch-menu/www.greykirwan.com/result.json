@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.greykirwan.com",
     "migratedDomain": "https://greykirwan-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:43:51.923Z",
+    "capturedAt": "2026-04-01T14:16:30.415Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -550,6 +550,22 @@
         "footerText": "The content is developed from sources believed to provide accurate information. The information in this material is not intended as tax or legal advice. Please consult legal or tax professionals for specific information regarding your individual situation. Some of this material was developed and produced by Broadridge to provide information on a topic that may be of interest. Broadridge is not affiliated with the named representative, broker - dealer, state - or SEC - registered investment advisory firm. The opinions expressed and material provided are for general information and should not be considered a solicitation for the purchase or sale of any security.Grey Kirwan Financial, 1984 Isaac Newton Sq W, Ste 107, Reston VA 20190 Tel: 703-592-3944"
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://greykirwan-31030801.brprodaccount.com/",
+        "hostname": "greykirwan-31030801.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on greykirwan-31030801.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

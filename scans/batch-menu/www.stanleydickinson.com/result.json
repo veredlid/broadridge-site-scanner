@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.stanleydickinson.com",
     "migratedDomain": "https://stanleydickinson-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:21:13.357Z",
+    "capturedAt": "2026-04-01T14:52:59.691Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -644,19 +644,23 @@
           "Information Request",
           "Retirement Confidence",
           "Stanley A. Dickinson",
-          "Observation Care",
-          "Consider Roth",
-          "Free Income",
-          "Life Insurance",
-          "Two \n\t\t\t\t\n\t\t\t\tSurvivorship",
-          "Retirement Time",
+          "Navigating Medicare",
+          "Open Enrollment",
+          "The Medicare",
+          "Original Medicare",
+          "Medicare Advantage",
+          "Medicare Prescription",
+          "Financial Markets",
+          "Keeping Cool",
+          "Volatile Markets",
+          "Navigating Financial",
+          "Aging Parents",
           "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cash",
-          "Flow Analysis",
-          "This Cash",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            College",
+          "Funding\n          \n        \n        Use",
+          "Home Affordability",
+          "Estate Taxes",
           "Lifetime Earnings",
-          "Savings Accumulation",
-          "Net Worth",
           "More Calculators",
           "Learning Center",
           "Articles\n                Educate",
@@ -702,12 +706,28 @@
         },
         {
           "field": "person-name",
-          "originalValue": "Donley\n      Stanley, Dickinson\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, Louisiana Ave, Winter Park, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Location, Our Practice, Our Services, Our Qualifications, Tell A Friend, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Request, Quote\n           \n            Annuity, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Retirement Confidence, Stanley A. Dickinson, Observation Care, Consider Roth, Free Income, Life Insurance, Two \n\t\t\t\t\n\t\t\t\tSurvivorship, Retirement Time, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cash, Flow Analysis, This Cash, Lifetime Earnings, Savings Accumulation, Net Worth, More Calculators, Learning Center, Articles\n                Educate, Newsletters\n                Timely, Flipbooks\n                \n                  These, Glossary\n                  \n                  Financial, Site Map",
+          "originalValue": "Donley\n      Stanley, Dickinson\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, Louisiana Ave, Winter Park, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Location, Our Practice, Our Services, Our Qualifications, Tell A Friend, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Request, Quote\n           \n            Annuity, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Retirement Confidence, Stanley A. Dickinson, Navigating Medicare, Open Enrollment, The Medicare, Original Medicare, Medicare Advantage, Medicare Prescription, Financial Markets, Keeping Cool, Volatile Markets, Navigating Financial, Aging Parents, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            College, Funding\n          \n        \n        Use, Home Affordability, Estate Taxes, Lifetime Earnings, More Calculators, Learning Center, Articles\n                Educate, Newsletters\n                Timely, Flipbooks\n                \n                  These, Glossary\n                  \n                  Financial, Site Map",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://stanleydickinson-31030807.brprodaccount.com/",
+        "hostname": "stanleydickinson-31030807.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on stanleydickinson-31030807.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

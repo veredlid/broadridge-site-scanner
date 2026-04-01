@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.bensonfinancialservices.com",
     "migratedDomain": "https://bensonfinancialservices-31030805.brprodaccount.com/",
-    "capturedAt": "2026-04-01T07:59:04.789Z",
+    "capturedAt": "2026-04-01T14:33:07.984Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -611,8 +611,8 @@
           "Information Request",
           "Benson Financial",
           "Oneida Street",
-          "View Calculators",
           "View Videos",
+          "View Flipbooks",
           "Accounting Services",
           "Socially Conscious",
           "College Funding",
@@ -621,20 +621,24 @@
           "Wealth Accumulation",
           "Highest Level",
           "Customer Care",
-          "You Pay",
-          "Medicare Surcharge",
-          "Are Closing",
-          "Mutual Funds",
-          "Home Appliance",
-          "Economics \n\t\t\t\t\n\t\t\t\tThe",
-          "More Comfortable",
-          "Retirement \n\t\t\t\t\n\t\t\t\tOnly",
+          "Strengthen Your",
+          "Retirement Strategy",
+          "Foreign Stocks",
+          "Tariffs Drive",
+          "Market Volatility",
+          "Cash Balance",
+          "Plans Help",
+          "Some Business",
+          "Owners Supersize",
+          "Retirement Savings",
           "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Car",
-          "Affordability\n          \n        \n        How",
-          "Conversion\n          \n        \n        This",
-          "Loan Payoff",
-          "Retirement\n          \n        \n        Use",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cash",
+          "Flow Analysis",
+          "This Cash",
+          "Waiting\n          \n        \n        Estimate",
+          "Life Expectancy",
+          "Retirement Plan",
+          "Early Distribution",
           "More Calculators",
           "Investment Advisory",
           "Asset Management",
@@ -657,12 +661,28 @@
       "mismatches": [
         {
           "field": "person-name",
-          "originalValue": "Home\n          \n          About, Us\n           \n            Our, Locations\n            Our, Associates\n            Our, Mission Statement, Tell A Friend, Us\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Benson Financial, Oneida Street, View Calculators, View Videos, Accounting Services, Socially Conscious, College Funding, Savvy Social, Security Planning, Wealth Accumulation, Highest Level, Customer Care, You Pay, Medicare Surcharge, Are Closing, Mutual Funds, Home Appliance, Economics \n\t\t\t\t\n\t\t\t\tThe, More Comfortable, Retirement \n\t\t\t\t\n\t\t\t\tOnly, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Car, Affordability\n          \n        \n        How, Conversion\n          \n        \n        This, Loan Payoff, Retirement\n          \n        \n        Use, More Calculators, Investment Advisory, Asset Management, Site Map, To Top",
+          "originalValue": "Home\n          \n          About, Us\n           \n            Our, Locations\n            Our, Associates\n            Our, Mission Statement, Tell A Friend, Us\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Benson Financial, Oneida Street, View Videos, View Flipbooks, Accounting Services, Socially Conscious, College Funding, Savvy Social, Security Planning, Wealth Accumulation, Highest Level, Customer Care, Strengthen Your, Retirement Strategy, Foreign Stocks, Tariffs Drive, Market Volatility, Cash Balance, Plans Help, Some Business, Owners Supersize, Retirement Savings, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cash, Flow Analysis, This Cash, Waiting\n          \n        \n        Estimate, Life Expectancy, Retirement Plan, Early Distribution, More Calculators, Investment Advisory, Asset Management, Site Map, To Top",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://bensonfinancialservices-31030805.brprodaccount.com/",
+        "hostname": "bensonfinancialservices-31030805.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on bensonfinancialservices-31030805.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

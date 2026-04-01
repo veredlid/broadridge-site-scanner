@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.highlandwealth.com",
     "migratedDomain": "https://highlandwealth-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:12:00.000Z",
+    "capturedAt": "2026-04-01T14:46:36.910Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -190,7 +190,7 @@
         "subItems": [
           {
             "text": "Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=17173&SN=1910202584",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=17173&SN=2647945966",
             "path": "/form.cfm"
           }
         ],
@@ -626,23 +626,24 @@
           "Guide Your",
           "Financial Future",
           "Warren Buffet",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tMega",
-          "Backdoor Roth",
-          "Friendly Retirement",
-          "Serious Savers",
-          "Have You",
-          "Retirement Savings",
-          "Look Out",
-          "Observation Care",
-          "Individual Bonds",
-          "Bond Funds",
+          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tAre",
+          "You Prepared",
+          "High Cost",
+          "Why Renters",
+          "Should Have",
+          "Their Own",
+          "Insurance \n\t\t\t\t\n\t\t\t\tYoung",
+          "New Tax",
+          "One Big",
+          "Beautiful Bill",
+          "Strengthen Your",
+          "Retirement Strategy",
           "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Life",
-          "Insurance\n          \n        \n        How",
-          "Life Expectancy",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Home",
+          "Affordability\n          \n        \n        Estimate",
+          "Waiting\n          \n        \n        Estimate",
           "College Funding",
-          "Term Care",
-          "Self Insurance",
+          "Estate Taxes",
           "More Calculators",
           "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tAbout",
           "Links\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\n\t\t\n\t\n        \n          \n            Learning",
@@ -691,6 +692,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://highlandwealth-31030801.brprodaccount.com/",
+        "hostname": "highlandwealth-31030801.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on highlandwealth-31030801.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

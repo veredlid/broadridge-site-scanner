@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.networthmatters.com",
     "migratedDomain": "https://networthmatters-31030757.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:48:05.766Z",
+    "capturedAt": "2026-04-01T14:20:56.685Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -759,6 +759,22 @@
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://networthmatters-31030757.brprodaccount.com/",
+        "hostname": "networthmatters-31030757.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on networthmatters-31030757.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

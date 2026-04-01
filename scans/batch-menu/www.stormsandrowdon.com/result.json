@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.stormsandrowdon.com",
     "migratedDomain": "https://stormsandrowdon-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:48:04.114Z",
+    "capturedAt": "2026-04-01T14:20:45.279Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -765,6 +765,22 @@
         "footerText": "Storms & Rowdon Financial Services, Inc. (\"SRFS\") is a Registered Investment Advisor (\"RIA\"), located in the State of Florida. SRFS provides investment advisory and related services for clients nationally. SRFS will maintain all applicable registration and licenses as required by the various states in which SRFS conducts business, as applicable. SRFS renders individualized responses to persons in a particular state only after complying with all regulatory requirements, or pursuant to an applicable state exemption or exclusion. The information in this website is not investment or securities advice and does not constitute an offer. All content under the Learning Center (i.e. Newsletters, Articles) is written and prepared by Emerald. © 2018 Emerald Connect, Inc. Form CRS Disclaimers"
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://stormsandrowdon-31030753.brprodaccount.com/",
+        "hostname": "stormsandrowdon-31030753.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on stormsandrowdon-31030753.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

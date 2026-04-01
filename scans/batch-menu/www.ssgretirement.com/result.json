@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.ssgretirement.com",
     "migratedDomain": "https://ssgretirement-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:20:58.567Z",
+    "capturedAt": "2026-04-01T14:52:15.221Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -618,7 +618,8 @@
           "Health \n            Disability",
           "Income Insurance",
           "Information Request",
-          "Retirement Confidence",
+          "Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFuture",
+          "Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity",
           "Goals \n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tFinancial",
           "Goals \n\t\t\n\t\t\t\t\t\tDoesn",
           "Financial Wellness",
@@ -642,23 +643,24 @@
           "Business Bureau",
           "Rated          \n       Please",
           "Insurance License",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tHave",
-          "You Set",
-          "Retirement Savings",
-          "Plans Can",
-          "Just College",
-          "End Funds",
-          "May Offer",
-          "Higher Income",
-          "Concerned About",
-          "The Threat",
-          "Is Real",
+          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tConvertible",
+          "Bonds Straddle",
+          "Line Between",
+          "Fixed Income",
+          "Potential Growth",
+          "Playing Fair",
+          "New Consumer",
+          "Airline Passengers",
+          "Keeping Cool",
+          "Volatile Markets",
+          "The Iran",
+          "Your Portfolio",
           "More Newsletters",
-          "Eligibility\n          \n        \n        Use",
-          "Federal Income",
-          "Tax\n          \n        \n        This",
-          "Life Insurance",
-          "Deferred Savings",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Savings",
+          "Accumulation\n          \n        \n        Estimate",
+          "Waiting\n          \n        \n        Estimate",
+          "Self Insurance",
+          "Estate Taxes",
           "More Calculators",
           "Investment Advisory",
           "Registered Investment",
@@ -695,12 +697,28 @@
         },
         {
           "field": "person-name",
-          "originalValue": "Insurance Services, Retirement Planning, Help You, Reach Your, Secure Strategic, Goals \n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, Enterprise \n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tAliso, Home\n          \n          About, Us\n           \n            Our, Process\n            Our, Founder\n            Our, Services\n            Our, Location\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Retirement Confidence, Goals \n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tFinancial, Goals \n\t\t\n\t\t\t\t\t\tDoesn, Financial Wellness, Stress Test, Performance Analysisof, Retirement Plan, An Alternative, Haphazard Retirement, Strategic Goals, Uncle Sam, System Can, Big Mistakes, Your Wealth, Opinion Consultation, Solutions Financial, Neither Lifetime, Proud Members, International Association, Registered Financial, The Better, Business Bureau, Rated          \n       Please, Insurance License, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tHave, You Set, Retirement Savings, Plans Can, Just College, End Funds, May Offer, Higher Income, Concerned About, The Threat, Is Real, More Newsletters, Eligibility\n          \n        \n        Use, Federal Income, Tax\n          \n        \n        This, Life Insurance, Deferred Savings, More Calculators, Investment Advisory, Registered Investment, Privacy Policy, Site Map",
+          "originalValue": "Insurance Services, Retirement Planning, Help You, Reach Your, Secure Strategic, Goals \n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, Enterprise \n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tAliso, Home\n          \n          About, Us\n           \n            Our, Process\n            Our, Founder\n            Our, Services\n            Our, Location\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFuture, Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity, Goals \n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tFinancial, Goals \n\t\t\n\t\t\t\t\t\tDoesn, Financial Wellness, Stress Test, Performance Analysisof, Retirement Plan, An Alternative, Haphazard Retirement, Strategic Goals, Uncle Sam, System Can, Big Mistakes, Your Wealth, Opinion Consultation, Solutions Financial, Neither Lifetime, Proud Members, International Association, Registered Financial, The Better, Business Bureau, Rated          \n       Please, Insurance License, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tConvertible, Bonds Straddle, Line Between, Fixed Income, Potential Growth, Playing Fair, New Consumer, Airline Passengers, Keeping Cool, Volatile Markets, The Iran, Your Portfolio, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Savings, Accumulation\n          \n        \n        Estimate, Waiting\n          \n        \n        Estimate, Self Insurance, Estate Taxes, More Calculators, Investment Advisory, Registered Investment, Privacy Policy, Site Map",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://ssgretirement-31030754.brprodaccount.com/",
+        "hostname": "ssgretirement-31030754.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on ssgretirement-31030754.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

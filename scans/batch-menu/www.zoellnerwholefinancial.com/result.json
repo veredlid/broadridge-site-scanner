@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.zoellnerwholefinancial.com",
     "migratedDomain": "https://zoellnerwholefinancial-31030751.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:48:47.238Z",
+    "capturedAt": "2026-04-01T14:21:49.344Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -1006,6 +1006,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://zoellnerwholefinancial-31030751.brprodaccount.com/",
+        "hostname": "zoellnerwholefinancial-31030751.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on zoellnerwholefinancial-31030751.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

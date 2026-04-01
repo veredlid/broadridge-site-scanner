@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.diballc.com",
     "migratedDomain": "https://diballc-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:04:07.359Z",
+    "capturedAt": "2026-04-01T14:39:49.353Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -424,6 +424,22 @@
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://diballc-31030808.brprodaccount.com/",
+        "hostname": "diballc-31030808.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on diballc-31030808.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

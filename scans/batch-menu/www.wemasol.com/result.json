@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.wemasol.com",
     "migratedDomain": "https://wemasol-31030752.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:40:25.143Z",
+    "capturedAt": "2026-04-01T14:12:43.333Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -489,14 +489,6 @@
             "migratedPath": "/custom-section-1010"
           }
         ]
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "Home",
-        "migratedHref": "https://wemasol-31030752.brprodaccount.com/",
-        "migratedPath": "/",
-        "httpStatus": 502,
-        "note": "\"Home\" → HTTP 502 (https://wemasol-31030752.brprodaccount.com/)"
       }
     ],
     "summary": {
@@ -504,7 +496,7 @@
       "totalMigratedItems": 19,
       "missing": 0,
       "extra": 0,
-      "brokenLinks": 1,
+      "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 3,
       "structureChanges": 0,
@@ -687,14 +679,6 @@
             "migratedPath": "/custom-section-1010"
           }
         ]
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "Home",
-        "migratedHref": "https://wemasol-31030752.brprodaccount.com/",
-        "migratedPath": "/",
-        "httpStatus": 502,
-        "note": "\"Home\" → HTTP 502 (https://wemasol-31030752.brprodaccount.com/)"
       }
     ],
     "liveSummary": {
@@ -702,7 +686,7 @@
       "totalMigratedItems": 19,
       "missing": 3,
       "extra": 0,
-      "brokenLinks": 1,
+      "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
@@ -752,6 +736,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://wemasol-31030752.brprodaccount.com/",
+        "hostname": "wemasol-31030752.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on wemasol-31030752.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

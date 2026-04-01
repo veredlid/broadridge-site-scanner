@@ -75,13 +75,15 @@
   <h1>Menu Check Report — www.wemasol.com</h1>
   <div class="meta">
     Migrated: https://wemasol-31030752.brprodaccount.com/ &nbsp;·&nbsp;
-    Scanned: 4/1/2026, 11:40:25 AM
+    Scanned: 4/1/2026, 5:12:43 PM
   </div>
 </div>
 <div class="overall-bar">
   <span>Part 1 (BR JSON vs Migrated): BUGS FOUND</span>
   <span>Part 2 (Original vs Migrated): BUGS FOUND</span>
   <span>Part 3 (Content Identity): MISMATCH</span>
+  <span>Part 4 (BrokerCheck): N/A</span>
+  <span>Part 5 (Domain): NOT CONNECTED</span>
 </div>
 
 <div class="container">
@@ -107,7 +109,7 @@
       <div class="summary-card"><div class="num">19</div><div class="lbl">BR JSON Items</div></div>
       <div class="summary-card"><div class="num">19</div><div class="lbl">Migrated Items</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Missing</div></div>
-      <div class="summary-card"><div class="num num-red">1</div><div class="lbl">Broken Links</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Broken Links</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Duplicates</div></div>
       <div class="summary-card"><div class="num num-red">3</div><div class="lbl">Href Mismatches</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Structure Changes</div></div>
@@ -128,7 +130,7 @@
 
       
     <details open>
-      <summary class="section-title">❌ Bugs — Missing Items & Broken Links <span class="count">4</span></summary>
+      <summary class="section-title">❌ Bugs — Missing Items & Broken Links <span class="count">3</span></summary>
       <table class="issue-table">
         <tbody>
     <tr class="row-href-mismatch" style="--indent:0px">
@@ -317,17 +319,6 @@
     </tr>
     
   
-  
-    <tr class="row-broken" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-broken">🔴 Broken Link</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span> <span class="http http-502">502</span>
-        <div class="note">"Home" → HTTP 502 (https://wemasol-31030752.brprodaccount.com/)</div>
-      </td>
-    </tr>
-    
   </tbody>
       </table>
     </details>
@@ -389,7 +380,7 @@
       <div class="summary-card"><div class="num">22</div><div class="lbl">Original Items</div></div>
       <div class="summary-card"><div class="num">19</div><div class="lbl">Migrated Items</div></div>
       <div class="summary-card"><div class="num num-red">3</div><div class="lbl">Missing</div></div>
-      <div class="summary-card"><div class="num num-red">1</div><div class="lbl">Broken Links</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Broken Links</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Duplicates</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Href Mismatches</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Structure Changes</div></div>
@@ -410,7 +401,7 @@
 
           
     <details open>
-      <summary class="section-title">❌ Bugs — Missing Items & Broken Links <span class="count">4</span></summary>
+      <summary class="section-title">❌ Bugs — Missing Items & Broken Links <span class="count">3</span></summary>
       <table class="issue-table">
         <tbody>
     <tr class="row-ok" style="--indent:0px">
@@ -467,17 +458,6 @@
     </tr>
     
   
-  
-    <tr class="row-broken" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-broken">🔴 Broken Link</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span> <span class="http http-502">502</span>
-        <div class="note">"Home" → HTTP 502 (https://wemasol-31030752.brprodaccount.com/)</div>
-      </td>
-    </tr>
-    
   </tbody>
       </table>
     </details>
@@ -806,6 +786,75 @@
       </tr></tbody></table>
           </details>
         
+      </div>
+    </div>
+
+  <!-- ═══ PARTS 4-5: Site Health Checks ═══ -->
+  
+    <!-- PART 4: BrokerCheck Banner -->
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-skip">PART 4</span>
+            <span class="part-title">BrokerCheck Banner</span>
+            <span class="part-status" style="background:#757575">NOT FOUND</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Validates the FINRA BrokerCheck banner type &nbsp;·&nbsp;
+            Expected: <strong>Top and Bottom (SVG)</strong>
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card">
+            <div class="num ">None</div>
+            <div class="lbl">Banner Type</div>
+          </div>
+          <div class="summary-card">
+            <div class="num">N/A</div>
+            <div class="lbl">Position</div>
+          </div>
+          <div class="summary-card">
+            <div class="num ">No</div>
+            <div class="lbl">Banner Present</div>
+          </div>
+        </div>
+        <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
+          <span style="color:#2e7d32;font-weight:600">&#10003;</span> No BrokerCheck banner found on page
+        </div>
+      </div>
+    </div>
+
+    <!-- PART 5: Domain Connection -->
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-warn">PART 5</span>
+            <span class="part-title">Domain Connection</span>
+            <span class="part-status" style="background:#e65100">NOT CONNECTED</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Checks whether a custom domain is connected (vs default brprodaccount.com)
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card">
+            <div class="num num-orange">No</div>
+            <div class="lbl">Custom Domain</div>
+          </div>
+          <div class="summary-card">
+            <div class="num" style="font-size:14px;word-break:break-all">wemasol-31030752.brprodaccount.com</div>
+            <div class="lbl">Current Hostname</div>
+          </div>
+        </div>
+        <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
+          <span style="color:#e65100;font-weight:600">&#9888;</span> No custom domain — still on wemasol-31030752.brprodaccount.com
+        </div>
       </div>
     </div>
 

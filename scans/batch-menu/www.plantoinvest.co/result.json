@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.plantoinvest.co",
     "migratedDomain": "https://plantoinvest-31030756.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:40:47.824Z",
+    "capturedAt": "2026-04-01T14:12:58.897Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -614,6 +614,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://plantoinvest-31030756.brprodaccount.com/",
+        "hostname": "plantoinvest-31030756.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on plantoinvest-31030756.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

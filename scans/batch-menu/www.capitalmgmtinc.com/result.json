@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.capitalmgmtinc.com",
     "migratedDomain": "https://capitalmgmtinc-31030804.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:00:42.142Z",
+    "capturedAt": "2026-04-01T14:34:10.748Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -749,6 +749,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://capitalmgmtinc-31030804.brprodaccount.com/",
+        "hostname": "capitalmgmtinc-31030804.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on capitalmgmtinc-31030804.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

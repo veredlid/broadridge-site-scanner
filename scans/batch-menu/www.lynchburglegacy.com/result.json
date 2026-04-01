@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.lynchburglegacy.com",
     "migratedDomain": "https://lynchburglegacy-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:45:26.677Z",
+    "capturedAt": "2026-04-01T14:18:11.142Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -1018,6 +1018,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://lynchburglegacy-31030758.brprodaccount.com/",
+        "hostname": "lynchburglegacy-31030758.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on lynchburglegacy-31030758.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

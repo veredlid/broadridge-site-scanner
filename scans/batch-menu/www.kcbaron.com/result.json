@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.kcbaron.com",
     "migratedDomain": "https://kcbaron-31030759.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:43:02.169Z",
+    "capturedAt": "2026-04-01T14:15:32.405Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -739,6 +739,22 @@
         "footerText": "Contact Info Melville NY / Boca Raton FL Phone: (877) 97- Strategic Kbaron@StrategicWealthInnovations.com"
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://kcbaron-31030759.brprodaccount.com/",
+        "hostname": "kcbaron-31030759.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on kcbaron-31030759.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

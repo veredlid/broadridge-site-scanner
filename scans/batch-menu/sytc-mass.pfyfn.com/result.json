@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "sytc-mass.pfyfn.com",
     "migratedDomain": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:38:28.985Z",
+    "capturedAt": "2026-04-01T14:10:27.074Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -166,63 +166,63 @@
       },
       {
         "text": "Annuity",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=7096&SN=2647866212",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=7096&SN=1910283835",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Long-Term Care Insurance",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=7096&SN=2647866212",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=7096&SN=1910283835",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Group Health",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=7096&SN=2647866212",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=7096&SN=1910283835",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Life Insurance",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=7096&SN=2647866212",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=7096&SN=1910283835",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Individual Health",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=7096&SN=2647866212",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=7096&SN=1910283835",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Disability Income Insurance",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=7096&SN=2647866212",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=7096&SN=1910283835",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Mortgage Qualification",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=71&SSLID=7096&SN=2647866212",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=71&SSLID=7096&SN=1910283835",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "401(k) Information Request",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=7096&SN=2647866212",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=7096&SN=1910283835",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Information Request",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=7096&SN=2647866212",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=7096&SN=1910283835",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
@@ -613,6 +613,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
+        "hostname": "sytc-masspfyfn-31030809.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on sytc-masspfyfn-31030809.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

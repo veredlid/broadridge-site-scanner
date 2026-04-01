@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.stonebrookinvestment.com",
     "migratedDomain": "https://stonebrookinvestment-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:23:30.631Z",
+    "capturedAt": "2026-04-01T14:53:40.967Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -539,25 +539,19 @@
           "Videos\n          \n        \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tContact",
           "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t  Charles",
           "Mark Burkhardt",
-          "Will Tax",
-          "Law Changes",
-          "Impact Your",
-          "Giving Strategy",
-          "Balancing Life",
-          "Sandwich Generation",
-          "Consider Roth",
-          "Free Income",
-          "Grocery Games",
-          "Help Stretch",
-          "Your Food",
+          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tFine",
+          "Sector Funds",
+          "Financials \n\t\t\t\t\n\t\t\t\tCondominiums",
+          "Tariffs Drive",
+          "Market Volatility",
           "More Newsletters",
           "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Estate",
           "Taxes\n          \n        \n        Use",
-          "Retirement Plan",
-          "Early Distribution",
-          "Retirement\n          \n        \n        Use",
-          "Cash Flow",
-          "Analysis\n          \n        \n        This",
+          "Taxable Equivalent",
+          "Yield\n          \n        \n        Calculate",
+          "Federal Income",
+          "Tax\n          \n        \n        This",
+          "Waiting\n          \n        \n        Estimate",
           "More Calculators",
           "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSchwab",
           "Learning Center",
@@ -604,6 +598,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://stonebrookinvestment-31030753.brprodaccount.com/",
+        "hostname": "stonebrookinvestment-31030753.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on stonebrookinvestment-31030753.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

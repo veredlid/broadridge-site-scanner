@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.pbfsi.com",
     "migratedDomain": "https://pbfsi-31030756.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:42:02.656Z",
+    "capturedAt": "2026-04-01T14:14:29.434Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -954,6 +954,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://pbfsi-31030756.brprodaccount.com/",
+        "hostname": "pbfsi-31030756.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on pbfsi-31030756.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

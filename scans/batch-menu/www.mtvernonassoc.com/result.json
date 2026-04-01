@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.mtvernonassoc.com",
     "migratedDomain": "https://mtvernonassoc-31030757.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:16:38.511Z",
+    "capturedAt": "2026-04-01T14:49:52.915Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -649,24 +649,19 @@
           "Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n  \n    Uncovering",
           "Opportunistic Value",
           "Mount Vernon",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tNavigating",
-          "Financial Conversations",
-          "Aging Parents",
-          "Will Tax",
-          "Law Changes",
-          "Impact Your",
-          "Giving Strategy",
-          "Wealthy Colleges",
-          "Face Expanded",
-          "Endowment Tax",
-          "The Shutdown",
-          "What Now",
+          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tStrategies",
+          "Smarter Giving",
+          "Top Tax",
+          "Financials \n\t\t\t\t\n\t\t\t\tCondominiums",
+          "New Tax",
+          "One Big",
+          "Beautiful Bill",
           "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Lifetime",
-          "Earnings\n          \n        \n        This",
-          "Taxable Equivalent",
-          "Yield\n          \n        \n        Calculate",
-          "Net Worth",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Required",
+          "Minimum Distributions",
+          "Lifetime Earnings",
+          "Retirement Plan",
+          "Early Distribution",
           "Federal Income",
           "Tax\n          \n        \n        This",
           "More Calculators",
@@ -703,7 +698,7 @@
         },
         {
           "field": "person-name",
-          "originalValue": "Uncovering Opportunistic, Value\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, South Charles, Home\n          \n          About, Us\n           \n            Our, Firm\n            Our, Process\n            Equity, Management\n            Fixed, Income Management, We Are, Us\n            Tell, Friend\n            Latest, Relationship Summary, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Contact, Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n  \n    Uncovering, Opportunistic Value, Mount Vernon, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tNavigating, Financial Conversations, Aging Parents, Will Tax, Law Changes, Impact Your, Giving Strategy, Wealthy Colleges, Face Expanded, Endowment Tax, The Shutdown, What Now, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Lifetime, Earnings\n          \n        \n        This, Taxable Equivalent, Yield\n          \n        \n        Calculate, Net Worth, Federal Income, Tax\n          \n        \n        This, More Calculators, Privacy Policy, Site Map",
+          "originalValue": "Uncovering Opportunistic, Value\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, South Charles, Home\n          \n          About, Us\n           \n            Our, Firm\n            Our, Process\n            Equity, Management\n            Fixed, Income Management, We Are, Us\n            Tell, Friend\n            Latest, Relationship Summary, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Contact, Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n  \n    Uncovering, Opportunistic Value, Mount Vernon, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tStrategies, Smarter Giving, Top Tax, Financials \n\t\t\t\t\n\t\t\t\tCondominiums, New Tax, One Big, Beautiful Bill, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Required, Minimum Distributions, Lifetime Earnings, Retirement Plan, Early Distribution, Federal Income, Tax\n          \n        \n        This, More Calculators, Privacy Policy, Site Map",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
@@ -716,6 +711,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://mtvernonassoc-31030757.brprodaccount.com/",
+        "hostname": "mtvernonassoc-31030757.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on mtvernonassoc-31030757.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

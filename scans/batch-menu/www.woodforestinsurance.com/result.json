@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.woodforestinsurance.com",
     "migratedDomain": "https://woodforestinsurance-31030751.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:52:14.493Z",
+    "capturedAt": "2026-04-01T14:25:26.553Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -611,6 +611,22 @@
         "footerText": "1330 Lake Robbins Drive, Suite 150 The Woodlands, TX 77380 832.375.2999Insurance services are brought to you by Woodforest Financial Services, Inc. dba Woodforest Insurance Partners. Woodforest Financial Services, Inc. and Woodforest National Bank are wholly-owned subsidiaries of Woodforest Financial Group, Inc. Insurance products are not insured by bank insurance, the FDIC or any other government agency, are not deposits or obligations of a bank, are not guaranteed by a bank, and are subject to risks and may go down in value, including the possible loss of principal. Woodforest Insurance Partners is not an insurance company but acts as an agent for certain insurance companies. Products not available in all states. Woodforest Insurance Partners, Texas State Insurance License Number 9118."
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://woodforestinsurance-31030751.brprodaccount.com/",
+        "hostname": "woodforestinsurance-31030751.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on woodforestinsurance-31030751.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

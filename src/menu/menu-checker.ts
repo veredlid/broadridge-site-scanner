@@ -21,8 +21,10 @@ import { analyzeMenu } from '../crawler/menu-analyzer.js';
 import { fetchAndParse } from '../crawler/fetch-fallback.js';
 import { openPage } from '../utils/playwright-helpers.js';
 import { extractIdentity, compareIdentities, checkForKnownTemplateArtifacts } from './content-checker.js';
+import { runSiteHealthChecks, checkDomainConnection } from './site-health-checker.js';
 import type { BRSiteData } from '../types/index.js';
 import type { SiteIdentity, ContentMismatch, ContentCheckResult } from './content-checker.js';
+import type { SiteHealthResult } from './site-health-checker.js';
 
 // ─── Input / Output types ────────────────────────────────────────────────────
 
@@ -103,6 +105,9 @@ export interface MenuCheckResult {
 
   // Part 3: Content identity mismatch check
   contentCheck?: ContentCheckResult;
+
+  // Parts 4-5: Site health checks (BrokerCheck, domain)
+  siteHealth?: SiteHealthResult;
 }
 
 // ─── Normalize helpers ───────────────────────────────────────────────────────
@@ -606,6 +611,7 @@ export async function checkMenu(options: MenuCheckOptions): Promise<MenuCheckRes
   console.log(chalk.yellow('\nStep 2/5: Crawling Wix migrated site menu...'));
   let migratedItems: WixMenuItem[] = [];
   let migratedIdentity: SiteIdentity | null = null;
+  let siteHealth: SiteHealthResult | undefined;
   try {
     const { page, context } = await openPage(migrated, '/', 'desktop', timeout, false, 0);
     try {
@@ -628,6 +634,13 @@ export async function checkMenu(options: MenuCheckOptions): Promise<MenuCheckRes
         console.log(chalk.green(`  ✓ Migrated identity: ${migratedIdentity.companyNames.length} company names, ${migratedIdentity.phoneNumbers.length} phones, ${migratedIdentity.emailAddresses.length} emails`));
       } catch (err) {
         console.log(chalk.yellow(`  ⚠ Could not extract migrated identity: ${(err as Error).message}`));
+      }
+
+      // Run site health checks (BrokerCheck + domain) while page is open
+      try {
+        siteHealth = await runSiteHealthChecks(page, migrated);
+      } catch (err) {
+        console.log(chalk.yellow(`  ⚠ Site health checks failed: ${(err as Error).message}`));
       }
     } finally {
       await context.close();
@@ -856,6 +869,28 @@ export async function checkMenu(options: MenuCheckOptions): Promise<MenuCheckRes
     console.log(chalk.yellow('  Part 3 skipped — identity extraction failed for one or both sites.'));
   }
 
+  // ── Log site health results ──────────────────────────────────────────────
+  if (!siteHealth) {
+    siteHealth = {
+      brokerCheck: { found: false, type: 'none', position: 'none', details: 'Migrated page not crawled', severity: 'warning' },
+      domainCheck: checkDomainConnection(migrated),
+    };
+  }
+
+  console.log(chalk.bold('\n═══ Part 4: BrokerCheck Banner ═══\n'));
+  if (siteHealth.brokerCheck.found) {
+    const icon = siteHealth.brokerCheck.severity === 'ok' ? chalk.green('  ✓') :
+                 siteHealth.brokerCheck.severity === 'critical' ? chalk.red('  ✗') : chalk.yellow('  ⚠');
+    console.log(`${icon} ${siteHealth.brokerCheck.details}`);
+    console.log(chalk.gray(`    Type: ${siteHealth.brokerCheck.type} | Position: ${siteHealth.brokerCheck.position}`));
+  } else {
+    console.log(chalk.gray('  No BrokerCheck banner detected'));
+  }
+
+  console.log(chalk.bold('\n═══ Part 5: Domain Connection ═══\n'));
+  const domIcon = siteHealth.domainCheck.hasCustomDomain ? chalk.green('  ✓') : chalk.yellow('  ⚠');
+  console.log(`${domIcon} ${siteHealth.domainCheck.details}`);
+
   return {
     originalDomain: original,
     migratedDomain: migrated,
@@ -870,5 +905,6 @@ export async function checkMenu(options: MenuCheckOptions): Promise<MenuCheckRes
     originalCrawlFailed,
     originalCrawlError,
     contentCheck,
+    siteHealth,
   };
 }

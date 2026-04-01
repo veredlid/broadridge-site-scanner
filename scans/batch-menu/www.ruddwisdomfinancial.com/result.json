@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.ruddwisdomfinancial.com",
     "migratedDomain": "https://ruddwisdomfinancial-31030755.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:50:13.767Z",
+    "capturedAt": "2026-04-01T14:23:13.843Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -432,6 +432,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://ruddwisdomfinancial-31030755.brprodaccount.com/",
+        "hostname": "ruddwisdomfinancial-31030755.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on ruddwisdomfinancial-31030755.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

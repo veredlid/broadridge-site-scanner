@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.moneystrategies.biz",
     "migratedDomain": "https://moneystrategies-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:45:47.782Z",
+    "capturedAt": "2026-04-01T14:18:33.281Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -711,6 +711,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://moneystrategies-31030758.brprodaccount.com/",
+        "hostname": "moneystrategies-31030758.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on moneystrategies-31030758.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

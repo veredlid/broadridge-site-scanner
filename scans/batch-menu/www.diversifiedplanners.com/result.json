@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.diversifiedplanners.com",
     "migratedDomain": "https://diversifiedplanners-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:43:49.578Z",
+    "capturedAt": "2026-04-01T14:16:27.722Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -662,6 +662,22 @@
         "footerText": "This material has been prepared for informational and educational purposes only. It is not intended to provide, and should not be relied upon for, accounting, legal, tax, or investment advice."
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://diversifiedplanners-31030803.brprodaccount.com/",
+        "hostname": "diversifiedplanners-31030803.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on diversifiedplanners-31030803.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

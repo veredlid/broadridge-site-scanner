@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.americanwealthmanagement.com",
     "migratedDomain": "https://americanwealthmanagement-31030806.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:38:39.409Z",
+    "capturedAt": "2026-04-01T14:10:39.805Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -1038,6 +1038,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://americanwealthmanagement-31030806.brprodaccount.com/",
+        "hostname": "americanwealthmanagement-31030806.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on americanwealthmanagement-31030806.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

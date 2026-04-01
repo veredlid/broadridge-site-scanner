@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.smithfinancialgrouponline.com",
     "migratedDomain": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:55:05.813Z",
+    "capturedAt": "2026-04-01T14:28:24.233Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -654,6 +654,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
+        "hostname": "smithfinancialgrouponline-31030754.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on smithfinancialgrouponline-31030754.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

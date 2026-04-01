@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.cornerstonewealthmanagement.net",
     "migratedDomain": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:03:44.403Z",
+    "capturedAt": "2026-04-01T14:38:57.090Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -569,6 +569,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
+        "hostname": "cornerstonewealthmanagement-31030803.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on cornerstonewealthmanagement-31030803.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

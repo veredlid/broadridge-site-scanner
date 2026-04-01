@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.irabernstein.net",
     "migratedDomain": "https://irabernstein-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:35:41.419Z",
+    "capturedAt": "2026-04-01T14:07:40.406Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -979,6 +979,22 @@
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://irabernstein-31030808.brprodaccount.com/",
+        "hostname": "irabernstein-31030808.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on irabernstein-31030808.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.nealefinancial.com",
     "migratedDomain": "https://nealefinancial-31030757.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:48:50.027Z",
+    "capturedAt": "2026-04-01T14:21:43.454Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -715,6 +715,22 @@
         "footerText": "Website Disclosures Neale Financial, LLC is registered as an investment adviser with the State of South Carolina, and only transacts business in states where it is properly registered or is excluded or exempted from such requirements. Registration does not constitute an endorsement of the firm by any state or regulatory body nor does it indicate that the adviser has attained a particular level of skill or ability. Information on this website does not involve the rendering of personalized investment advice, but is limited to the dissemination of general information on products and services. Information on this website is not an offer to buy or sell, or a solicitation of any offer to buy or sell any particular securities. Hyperlinks on this website are provided as a convenience and we disclaim any responsibility for information, services or products found on websites linked hereto. Images and photographs are included for the sole purpose of visually enhancing the website, and should not "
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://nealefinancial-31030757.brprodaccount.com/",
+        "hostname": "nealefinancial-31030757.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on nealefinancial-31030757.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

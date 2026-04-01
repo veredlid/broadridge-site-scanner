@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.pathway401k.com",
     "migratedDomain": "https://pathway401k-31030757.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:49:35.025Z",
+    "capturedAt": "2026-04-01T14:22:29.302Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -727,6 +727,22 @@
           "note": "Company name \"Welcome to\" on migrated site may not match original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://pathway401k-31030757.brprodaccount.com/",
+        "hostname": "pathway401k-31030757.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on pathway401k-31030757.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

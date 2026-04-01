@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.armourtrust.com",
     "migratedDomain": "https://armourtrust-31030806.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:35:02.702Z",
+    "capturedAt": "2026-04-01T14:07:01.491Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -912,6 +912,22 @@
         "footerText": "Jose Lopez is registered with and securities are offered through Brokers International Financial Services, LLC. Member SIPC. Brokers International Financial Services, LLC is not an affiliated company. This site is published for residents of the United States only. Representatives may only conduct business with residents of the states and jurisdictions in which they are properly registered. Therefore, a response to a request for information may be delayed until appropriate registration is obtained or exemption from registration is determined. Not all of services referenced on this site are available in every state and through every advisor listed."
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://armourtrust-31030806.brprodaccount.com/",
+        "hostname": "armourtrust-31030806.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on armourtrust-31030806.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

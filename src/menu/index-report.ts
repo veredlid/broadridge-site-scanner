@@ -2,6 +2,7 @@ import { writeFileSync } from 'fs';
 import path from 'path';
 import type { BatchResult } from './batch-runner.js';
 import type { MenuItemIssue, MenuCheckResult } from './menu-checker.js';
+import type { SiteHealthResult } from './site-health-checker.js';
 
 interface FlatBug {
   site: string;
@@ -138,13 +139,22 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
   const p3Critical = p3Bugs.filter((b) => b.severity === 'critical');
   const sitesWithContentMismatch = new Set(p3Critical.map((b) => b.site)).size;
 
+  // Site health stats (Parts 4-5)
+  const sitesWithBrokerCheck = succeeded.filter((r) => r.result!.siteHealth?.brokerCheck.found).length;
+  const sitesWithWrongBrokerCheck = succeeded.filter((r) =>
+    r.result!.siteHealth?.brokerCheck.found && r.result!.siteHealth.brokerCheck.type !== 'svg'
+  ).length;
+  const sitesWithoutCustomDomain = succeeded.filter((r) =>
+    r.result!.siteHealth && !r.result!.siteHealth.domainCheck.hasCustomDomain
+  ).length;
+
   // ── Build site rows ──────────────────────────────────────────────────────
   const siteRows = results.map((r) => {
     const reportFile = r.reportPath
       ? path.basename(path.dirname(r.reportPath)) + '/menu-report.html'
       : '';
     if (r.error) {
-      return { domain: r.site.original, reportFile, p1Status: 'ERROR', p2Status: 'ERROR', p3Status: 'ERROR', p1Bugs: 0, p2Bugs: 0, p3Critical: 0, totalBugs: 0, malformedHrefs: 0, status: 'error' as const, error: r.error };
+      return { domain: r.site.original, reportFile, p1Status: 'ERROR', p2Status: 'ERROR', p3Status: 'ERROR', p4Status: 'ERROR', p5Status: 'ERROR', p1Bugs: 0, p2Bugs: 0, p3Critical: 0, totalBugs: 0, malformedHrefs: 0, status: 'error' as const, error: r.error };
     }
     const res = r.result!;
     const p1 = bugCount(res, 1);
@@ -153,9 +163,13 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
     const p2Status = res.originalCrawlFailed ? 'SKIP' : (p2! > 0 ? 'BUGS' : res.liveSummary.structureChanges > 0 ? 'CHANGES' : 'PASS');
     const cm = contentMismatchCount(res);
     const p3Status = res.originalCrawlFailed ? 'SKIP' : cm.critical > 0 ? 'MISMATCH' : cm.warning > 0 ? 'WARN' : 'PASS';
+    const bc = res.siteHealth?.brokerCheck;
+    const p4Status = !bc?.found ? 'N/A' : bc.type === 'svg' ? 'SVG' : 'NON-SVG';
+    const dc = res.siteHealth?.domainCheck;
+    const p5Status = dc?.hasCustomDomain ? 'YES' : 'NO';
     const totalBugs = p1 + (p2 ?? 0);
     const status = (totalBugs > 0 || cm.critical > 0) ? 'bugs' as const : p2Status === 'SKIP' ? 'skip' as const : 'pass' as const;
-    return { domain: r.site.original, reportFile, p1Status, p2Status, p3Status, p1Bugs: p1, p2Bugs: p2 ?? 0, p3Critical: cm.critical, totalBugs, malformedHrefs: countMalformedHrefs(res), status };
+    return { domain: r.site.original, reportFile, p1Status, p2Status, p3Status, p4Status, p5Status, p1Bugs: p1, p2Bugs: p2 ?? 0, p3Critical: cm.critical, totalBugs, malformedHrefs: countMalformedHrefs(res), status };
   });
 
   // Sort: bugs first (by count desc), then pass alphabetical, skip at bottom
@@ -175,16 +189,22 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
         <td><span class="st st-fail">ERROR</span></td>
         <td><span class="st st-fail">ERROR</span></td>
         <td><span class="st st-fail">ERROR</span></td>
+        <td><span class="st st-skip">—</span></td>
+        <td><span class="st st-skip">—</span></td>
         <td class="tc">—</td>
         <td>—</td></tr>`;
     }
     const hasBugs = r.status === 'bugs';
     const p3Cls = r.p3Status === 'MISMATCH' ? 'st-bugs' : r.p3Status === 'WARN' ? 'st-changes' : r.p3Status === 'SKIP' ? 'st-skip' : 'st-pass';
+    const p4Cls = r.p4Status === 'SVG' ? 'st-pass' : r.p4Status === 'NON-SVG' ? 'st-bugs' : 'st-skip';
+    const p5Cls = r.p5Status === 'YES' ? 'st-pass' : 'st-bugs';
     return `<tr class="${hasBugs ? 'tr-bug' : ''}" data-domain="${escHtml(r.domain)}" data-status="${r.status}">
       <td class="cell-domain"><a href="${r.reportFile}">${escHtml(r.domain)}</a></td>
       <td><span class="st st-${r.p1Status.toLowerCase()}">${r.p1Status}</span>${r.p1Bugs > 0 ? ` <span class="bub">${r.p1Bugs}</span>` : ''}</td>
       <td><span class="st st-${r.p2Status.toLowerCase()}">${r.p2Status}</span>${r.p2Bugs > 0 ? ` <span class="bub">${r.p2Bugs}</span>` : ''}</td>
       <td><span class="st ${p3Cls}">${r.p3Status}</span>${r.p3Critical > 0 ? ` <span class="bub">${r.p3Critical}</span>` : ''}</td>
+      <td><span class="st ${p4Cls}">${r.p4Status}</span></td>
+      <td><span class="st ${p5Cls}">${r.p5Status === 'YES' ? 'DOMAIN' : 'NO DOMAIN'}</span></td>
       <td class="tc">${hasBugs ? `<span class="bub bub-total">${r.totalBugs}</span>` : '<span class="muted">—</span>'}</td>
       <td class="tc"><a href="${r.reportFile}" class="link-report">View →</a></td>
     </tr>`;
@@ -369,6 +389,8 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
     <div class="hstat"><div class="n nr">${p1Bugs.length}</div><div class="l">P1 Issues</div></div>
     <div class="hstat"><div class="n nr">${p2Bugs.length}</div><div class="l">P2 Issues</div></div>
     <div class="hstat"><div class="n ${sitesWithContentMismatch > 0 ? 'nr' : 'ng'}">${sitesWithContentMismatch}</div><div class="l">Content Mix-ups</div></div>
+    <div class="hstat"><div class="n ${sitesWithWrongBrokerCheck > 0 ? 'nr' : 'ng'}">${sitesWithWrongBrokerCheck}</div><div class="l">Wrong BrokerCheck</div></div>
+    <div class="hstat"><div class="n ${sitesWithoutCustomDomain > 0 ? 'na' : 'ng'}">${sitesWithoutCustomDomain}</div><div class="l">No Domain</div></div>
   </div>
 </div>
 
@@ -387,7 +409,9 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
       <strong>${sitesWithAnyBug} sites</strong> have bugs &nbsp;·&nbsp;
       <strong>${cleanSites}</strong> clean &nbsp;·&nbsp;
       <strong>${skippedSites}</strong> skipped Part 2 (SSL) &nbsp;·&nbsp;
-      <strong style="color:var(--red)">${sitesWithContentMismatch}</strong> content mix-ups
+      <strong style="color:var(--red)">${sitesWithContentMismatch}</strong> content mix-ups &nbsp;·&nbsp;
+      <strong style="color:var(--red)">${sitesWithWrongBrokerCheck}</strong> wrong BrokerCheck &nbsp;·&nbsp;
+      <strong style="color:var(--orange)">${sitesWithoutCustomDomain}</strong> no custom domain
       ${failed.length > 0 ? `&nbsp;·&nbsp; <strong style="color:var(--orange)">${failed.length} scan errors</strong>` : ''}
     </div>
     <div class="toolbar">
@@ -402,10 +426,12 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
       <table id="table-all">
         <thead><tr>
           <th style="min-width:200px">Original Domain</th>
-          <th style="min-width:110px">P1 — BR JSON</th>
-          <th style="min-width:110px">P2 — Live Site</th>
-          <th style="min-width:110px">P3 — Content</th>
-          <th style="width:80px; text-align:center">Total Issues</th>
+          <th style="min-width:100px">P1 — BR JSON</th>
+          <th style="min-width:100px">P2 — Live Site</th>
+          <th style="min-width:100px">P3 — Content</th>
+          <th style="min-width:90px">P4 — BrokerCheck</th>
+          <th style="min-width:90px">P5 — Domain</th>
+          <th style="width:70px; text-align:center">Total Issues</th>
           <th style="width:55px"></th>
         </tr></thead>
         <tbody id="tbody-all">${allSiteRows}</tbody>

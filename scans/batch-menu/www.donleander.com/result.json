@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.donleander.com",
     "migratedDomain": "https://donleander-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:41:09.756Z",
+    "capturedAt": "2026-04-01T14:13:33.231Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -127,22 +127,22 @@
         "subItems": [
           {
             "text": "Annuity",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=42033&SN=2594253929",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=42033&SN=2594345255",
             "path": "/form.cfm"
           },
           {
             "text": "Long-Term Care Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=42033&SN=2594253929",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=42033&SN=2594345255",
             "path": "/form.cfm"
           },
           {
             "text": "Life Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=42033&SN=2594253929",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=42033&SN=2594345255",
             "path": "/form.cfm"
           },
           {
             "text": "Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=42033&SN=2594253929",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=42033&SN=2594345255",
             "path": "/form.cfm"
           }
         ],
@@ -410,6 +410,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "unknown",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://donleander-31030803.brprodaccount.com/",
+        "hostname": "donleander-31030803.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on donleander-31030803.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

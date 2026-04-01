@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.romeroinsurance.com",
     "migratedDomain": "https://romeroinsurance-31030755.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:18:38.619Z",
+    "capturedAt": "2026-04-01T14:50:39.273Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -428,6 +428,22 @@
         "migratedText": "Contact Us",
         "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
         "migratedPath": "/location"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Our Location",
+        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "httpStatus": 502,
+        "note": "\"Our Location\" → HTTP 502 (https://romeroinsurance-31030755.brprodaccount.com/location)"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "httpStatus": 502,
+        "note": "\"Contact Us\" → HTTP 502 (https://romeroinsurance-31030755.brprodaccount.com/location)"
       }
     ],
     "summary": {
@@ -435,7 +451,7 @@
       "totalMigratedItems": 15,
       "missing": 0,
       "extra": 0,
-      "brokenLinks": 0,
+      "brokenLinks": 2,
       "duplicates": 0,
       "hrefMismatches": 2,
       "structureChanges": 0,
@@ -586,6 +602,22 @@
         "migratedText": "Contact Us",
         "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
         "migratedPath": "/location"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Our Location",
+        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "httpStatus": 502,
+        "note": "\"Our Location\" → HTTP 502 (https://romeroinsurance-31030755.brprodaccount.com/location)"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "httpStatus": 502,
+        "note": "\"Contact Us\" → HTTP 502 (https://romeroinsurance-31030755.brprodaccount.com/location)"
       }
     ],
     "liveSummary": {
@@ -593,7 +625,7 @@
       "totalMigratedItems": 15,
       "missing": 3,
       "extra": 0,
-      "brokenLinks": 0,
+      "brokenLinks": 2,
       "duplicates": 0,
       "hrefMismatches": 2,
       "structureChanges": 0,
@@ -648,19 +680,27 @@
           "Apply Online",
           "Individual Health",
           "Learning Center",
-          "Strengthen Your",
-          "Retirement Strategy",
-          "Playing Fair",
-          "New Consumer",
-          "Airline Passengers",
-          "Financials \n\t\t\t\t\n\t\t\t\tCondominiums",
+          "How Savers",
+          "Spenders Can",
+          "New Tax",
+          "One Big",
+          "Beautiful Bill",
+          "Retroactive Social",
+          "Security Benefits",
+          "Turn Back",
+          "Time \n\t\t\t\t\n\t\t\t\tBeneficiaries",
+          "Social Security",
+          "Cash Balance",
+          "Plans Help",
+          "Some Business",
+          "Owners Supersize",
+          "Retirement Savings",
           "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Savings",
-          "Goals\n          \n        \n        How",
-          "Federal Income",
-          "Tax\n          \n        \n        This",
-          "Deferred Savings",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Roth",
           "Conversion\n          \n        \n        This",
+          "Deferred Savings",
+          "Estate Taxes",
+          "Net Worth",
           "More Calculators",
           "Articles\n                Educate",
           "Newsletters\n                Timely",
@@ -726,6 +766,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://romeroinsurance-31030755.brprodaccount.com/",
+        "hostname": "romeroinsurance-31030755.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on romeroinsurance-31030755.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

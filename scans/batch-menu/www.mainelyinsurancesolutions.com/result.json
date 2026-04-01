@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.mainelyinsurancesolutions.com",
     "migratedDomain": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:45:48.172Z",
+    "capturedAt": "2026-04-01T14:18:35.357Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -715,6 +715,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/",
+        "hostname": "mainelyinsurancesolutions-31030758.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on mainelyinsurancesolutions-31030758.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

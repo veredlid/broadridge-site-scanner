@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.markschrader.com",
     "migratedDomain": "https://markschrader-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:40:00.192Z",
+    "capturedAt": "2026-04-01T14:12:04.944Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -667,6 +667,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://markschrader-31030808.brprodaccount.com/",
+        "hostname": "markschrader-31030808.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on markschrader-31030808.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

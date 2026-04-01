@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.foundationfinancialconcepts.com",
     "migratedDomain": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:38:29.352Z",
+    "capturedAt": "2026-04-01T14:10:38.683Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -700,6 +700,22 @@
         "footerText": "Quincy Office Hopkinsville Office info@foundationfinancialconcepts.com 2240 Broadway Street The Press Business Center Quincy , IL 62301 1618 East 9th Steet, Suite 202 Hopkinsville , KY 44240 Phone: 217-214-9000 Phone: 270-984-8322 Map and Directions Map and Directions This site is for informational purposes only and does not constitute individual investment advice. Securities are offered through Great Point Capital, LLC (GPC), member FINRA/SIPC. Advisory services are offered through Great Point Advisors, LLC (GPA), an SEC-registered investment adviser. Insurance products are offered through Foundation Financial Concepts. Foundation Financial Concepts is independent of Great Point Capital, LLC (GPC) and Great Point Advisors, LLC (GPA), all of whom are unaffiliated with third-party sites, cannot verify the accuracy of, nor assume responsibility for any content of linked third-party sites. Information available on third-party sites is for informational purposes only. Material shared on th"
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "hostname": "foundationfinancialconcepts-31030802.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on foundationfinancialconcepts-31030802.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

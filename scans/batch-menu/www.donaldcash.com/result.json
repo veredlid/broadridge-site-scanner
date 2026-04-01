@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.donaldcash.com",
     "migratedDomain": "https://donaldcash-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:04:55.191Z",
+    "capturedAt": "2026-04-01T14:40:29.572Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -487,6 +487,22 @@
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://donaldcash-31030803.brprodaccount.com/",
+        "hostname": "donaldcash-31030803.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on donaldcash-31030803.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

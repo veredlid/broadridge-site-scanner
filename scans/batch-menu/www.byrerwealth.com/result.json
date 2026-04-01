@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.byrerwealth.com",
     "migratedDomain": "https://byrerwealth-31030804.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:43:17.668Z",
+    "capturedAt": "2026-04-01T14:15:50.727Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -722,6 +722,22 @@
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "unknown",
+        "details": "BrokerCheck banner detected but could not confirm SVG type",
+        "severity": "warning"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://byrerwealth-31030804.brprodaccount.com/",
+        "hostname": "byrerwealth-31030804.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on byrerwealth-31030804.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

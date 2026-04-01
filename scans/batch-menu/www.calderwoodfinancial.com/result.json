@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.calderwoodfinancial.com",
     "migratedDomain": "https://calderwoodfinancial-31030804.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:37:30.598Z",
+    "capturedAt": "2026-04-01T14:09:31.856Z",
     "brNavItems": [
       {
         "title": "About Us",
@@ -1124,6 +1124,22 @@
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://calderwoodfinancial-31030804.brprodaccount.com/",
+        "hostname": "calderwoodfinancial-31030804.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on calderwoodfinancial-31030804.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

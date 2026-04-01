@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.bergersontax.com",
     "migratedDomain": "https://bergersontax-31030805.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:40:03.183Z",
+    "capturedAt": "2026-04-01T14:12:21.353Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -730,6 +730,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://bergersontax-31030805.brprodaccount.com/",
+        "hostname": "bergersontax-31030805.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on bergersontax-31030805.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

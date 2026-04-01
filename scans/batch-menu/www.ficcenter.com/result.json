@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.ficcenter.com",
     "migratedDomain": "https://ficcenter-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:42:57.135Z",
+    "capturedAt": "2026-04-01T14:15:21.676Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -660,6 +660,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://ficcenter-31030802.brprodaccount.com/",
+        "hostname": "ficcenter-31030802.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on ficcenter-31030802.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

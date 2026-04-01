@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.wealthmastergroupinc.com",
     "migratedDomain": "https://wealthmastergroupinc-31030752.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:51:03.161Z",
+    "capturedAt": "2026-04-01T14:24:10.876Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -683,6 +683,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://wealthmastergroupinc-31030752.brprodaccount.com/",
+        "hostname": "wealthmastergroupinc-31030752.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on wealthmastergroupinc-31030752.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

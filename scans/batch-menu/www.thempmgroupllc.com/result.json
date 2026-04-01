@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.thempmgroupllc.com",
     "migratedDomain": "https://thempmgroupllc-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:37:12.086Z",
+    "capturedAt": "2026-04-01T14:09:06.897Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -675,6 +675,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://thempmgroupllc-31030753.brprodaccount.com/",
+        "hostname": "thempmgroupllc-31030753.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on thempmgroupllc-31030753.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

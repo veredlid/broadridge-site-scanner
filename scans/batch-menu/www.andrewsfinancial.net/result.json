@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.andrewsfinancial.net",
     "migratedDomain": "https://andrewsfinancial-31030806.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:40:10.863Z",
+    "capturedAt": "2026-04-01T14:12:18.186Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -729,6 +729,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://andrewsfinancial-31030806.brprodaccount.com/",
+        "hostname": "andrewsfinancial-31030806.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on andrewsfinancial-31030806.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

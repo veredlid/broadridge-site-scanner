@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.estateresourcegroup.com",
     "migratedDomain": "https://estateresourcegroup-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:06:06.593Z",
+    "capturedAt": "2026-04-01T14:42:50.952Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -82,44 +82,44 @@
     "originalItems": [
       {
         "text": "Home",
-        "href": "http://www.estateresourcegroup.com/",
+        "href": "https://www.estateresourcegroup.com/",
         "path": "/",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "About Us",
-        "href": "http://www.estateresourcegroup.com/#",
-        "path": "/",
+        "href": "#",
+        "path": "/#",
         "subItems": [
           {
             "text": "Our Mission Statement",
-            "href": "http://www.estateresourcegroup.com/Our-Mission-Statement.1.htm",
+            "href": "https://www.estateresourcegroup.com/Our-Mission-Statement.1.htm",
             "path": "/Our-Mission-Statement.1.htm"
           },
           {
             "text": "Our Associates",
-            "href": "http://www.estateresourcegroup.com/team.htm",
+            "href": "https://www.estateresourcegroup.com/team.htm",
             "path": "/team.htm"
           },
           {
             "text": "Our Location",
-            "href": "http://www.estateresourcegroup.com/location.htm",
+            "href": "https://www.estateresourcegroup.com/location.htm",
             "path": "/location.htm"
           },
           {
             "text": "Our Services",
-            "href": "http://www.estateresourcegroup.com/Our-Services.2.htm",
+            "href": "https://www.estateresourcegroup.com/Our-Services.2.htm",
             "path": "/Our-Services.2.htm"
           },
           {
             "text": "Our Approach",
-            "href": "http://www.estateresourcegroup.com/Our-Approach.3.htm",
+            "href": "https://www.estateresourcegroup.com/Our-Approach.3.htm",
             "path": "/Our-Approach.3.htm"
           },
           {
             "text": "Tips & Tricks",
-            "href": "http://www.estateresourcegroup.com/Tips-and-Tricks.5.htm",
+            "href": "https://www.estateresourcegroup.com/Tips-and-Tricks.5.htm",
             "path": "/Tips-and-Tricks.5.htm"
           },
           {
@@ -132,42 +132,42 @@
       },
       {
         "text": "Resources",
-        "href": "http://www.estateresourcegroup.com/#",
-        "path": "/",
+        "href": "#",
+        "path": "/#",
         "subItems": [
           {
             "text": "Articles",
-            "href": "http://www.estateresourcegroup.com/learning_center/research/",
+            "href": "https://www.estateresourcegroup.com/learning_center/research/",
             "path": "/learning_center/research"
           },
           {
             "text": "Calculators",
-            "href": "http://www.estateresourcegroup.com/learning_center/calculators/",
+            "href": "https://www.estateresourcegroup.com/learning_center/calculators/",
             "path": "/learning_center/calculators"
           },
           {
             "text": "Flipbooks",
-            "href": "http://www.estateresourcegroup.com/learning_center/flipbooks/",
+            "href": "https://www.estateresourcegroup.com/learning_center/flipbooks/",
             "path": "/learning_center/flipbooks"
           },
           {
             "text": "Newsletters",
-            "href": "http://www.estateresourcegroup.com/learning_center/newsletters/",
+            "href": "https://www.estateresourcegroup.com/learning_center/newsletters/",
             "path": "/learning_center/newsletters"
           },
           {
             "text": "Glossary",
-            "href": "http://www.estateresourcegroup.com/learning_center/glossary/",
+            "href": "https://www.estateresourcegroup.com/learning_center/glossary/",
             "path": "/learning_center/glossary"
           },
           {
             "text": "Tax Library",
-            "href": "http://www.estateresourcegroup.com/learning_center/tax_library/",
+            "href": "https://www.estateresourcegroup.com/learning_center/tax_library/",
             "path": "/learning_center/tax_library"
           },
           {
             "text": "Videos",
-            "href": "http://www.estateresourcegroup.com/learning_center/videos/",
+            "href": "https://www.estateresourcegroup.com/learning_center/videos/",
             "path": "/learning_center/videos"
           }
         ],
@@ -175,7 +175,7 @@
       },
       {
         "text": "Contact Us",
-        "href": "http://www.estateresourcegroup.com/contact_us/",
+        "href": "https://www.estateresourcegroup.com/contact_us/",
         "path": "/contact_us",
         "subItems": [],
         "hasDropdown": false
@@ -431,12 +431,13 @@
         "migratedPath": "/"
       },
       {
-        "kind": "ok",
+        "kind": "href-mismatch",
         "brTitle": "About Us",
-        "brHref": "/",
+        "brHref": "/#",
         "migratedText": "About Us",
         "migratedHref": "https://estateresourcegroup-31030802.brprodaccount.com/our-mission-statement1",
         "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
         "subIssues": [
           {
             "kind": "ok",
@@ -495,12 +496,13 @@
         ]
       },
       {
-        "kind": "ok",
+        "kind": "href-mismatch",
         "brTitle": "Resources",
-        "brHref": "/",
+        "brHref": "/#",
         "migratedText": "Resources",
         "migratedHref": "https://estateresourcegroup-31030802.brprodaccount.com/articles",
         "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -574,9 +576,9 @@
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 0,
+      "hrefMismatches": 2,
       "structureChanges": 0,
-      "ok": 16
+      "ok": 14
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -586,16 +588,61 @@
           "Estate Resource Group"
         ],
         "phoneNumbers": [
-          "8582091474"
+          "(858) 209-1474"
         ],
         "emailAddresses": [
           "barry@estateresourcegroup.com"
         ],
         "physicalAddresses": [
-          "12636 High Bluff Dr. Suite "
+          "12636 High Bluff Dr. Suite 400\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tSan Diego,\n\t\t\t\t\n\t\t\t\t\tCA \n\t\t\t\t\t92130"
         ],
-        "personNames": [],
-        "footerText": "var _ss = _ss || []; _ss.push(['_setDomain', 'https://koi-3QNF2TFEGI.marketingautomation.services/net']); _ss.push(['_setAccount', 'KOI-41QOKIFGDE']); _ss.push(['_trackPageView']); (function() { var ss = document.createElement('script'); ss.type = 'text/javascript'; ss.async = true; ss.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'koi-3QNF2TFEGI.marketingautomation.services/client/ss.js?ver=1.1.1'; var scr = document.getElementsByTagName('script')[0]; scr.parentNode.insertBefore(ss, scr); })(); Site Map"
+        "personNames": [
+          "Estate Resource",
+          "Group\n      Strategies",
+          "High Bluff",
+          "San Diego",
+          "Home\n          \n          About",
+          "Us\n           \n            Our",
+          "Mission Statement",
+          "Our Associates",
+          "Our Location",
+          "Our Services",
+          "Our Approach",
+          "Tricks\n            Tell",
+          "Friend\n            \n           \n          \n          Resources",
+          "Articles\n            Calculators",
+          "Flipbooks\n            Newsletters",
+          "Glossary\n            Tax",
+          "Library\n            Videos",
+          "Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFamily",
+          "Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRecreation",
+          "Prosperity \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity",
+          "Asset Protection",
+          "Business Succession",
+          "Charitable Planning",
+          "Personal Tax",
+          "Employee Benefits",
+          "Estate Planning",
+          "Corporate Guidance",
+          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tForeign",
+          "Stocks Outperformed",
+          "The Fed",
+          "Lowers Rates",
+          "Economic Balancing",
+          "Strengthen Your",
+          "Retirement Strategy",
+          "Retirement Time",
+          "More Newsletters",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Disability",
+          "Income Insurance",
+          "Disability Income",
+          "Lease Payment",
+          "Retirement\n          \n        \n        Use",
+          "Savings Goals",
+          "More Calculators",
+          "Site Map"
+        ],
+        "footerText": "var _ss = _ss || [];\n\n    _ss.push(['_setDomain', 'https://koi-3QNF2TFEGI.marketingautomation.services/net']);\n\n    _ss.push(['_setAccount', 'KOI-41QOKIFGDE']);\n\n    _ss.push(['_trackPageView']);\n\n(function() {\n\n    var ss = document.createElement('script');\n\n    ss.type = 'text/javascript'; ss.async = true;\n\n    ss.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'koi-3QNF2TFEGI.marketingautomation.services/client/ss.js?ver=1.1.1';\n\n    var scr = document.getElementsByT"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.estateresourcegroup.com",
@@ -624,8 +671,38 @@
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Estate Resource, Group\n      Strategies, High Bluff, San Diego, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Associates, Our Location, Our Services, Our Approach, Tricks\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFamily, Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRecreation, Prosperity \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity, Asset Protection, Business Succession, Charitable Planning, Personal Tax, Employee Benefits, Estate Planning, Corporate Guidance, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tForeign, Stocks Outperformed, The Fed, Lowers Rates, Economic Balancing, Strengthen Your, Retirement Strategy, Retirement Time, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Disability, Income Insurance, Disability Income, Lease Payment, Retirement\n          \n        \n        Use, Savings Goals, More Calculators, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        },
+        {
+          "field": "address",
+          "originalValue": "12636 High Bluff Dr. Suite 400\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tSan Diego,\n\t\t\t\t\n\t\t\t\t\tCA \n\t\t\t\t\t92130",
+          "migratedValue": "12636 High Bluff Dr. Suite ",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://estateresourcegroup-31030802.brprodaccount.com/",
+        "hostname": "estateresourcegroup-31030802.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on estateresourcegroup-31030802.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

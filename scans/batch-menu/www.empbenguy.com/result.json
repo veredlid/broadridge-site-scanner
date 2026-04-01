@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.empbenguy.com",
     "migratedDomain": "https://empbenguy-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:04:48.271Z",
+    "capturedAt": "2026-04-01T14:41:12.211Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -433,6 +433,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://empbenguy-31030803.brprodaccount.com/",
+        "hostname": "empbenguy-31030803.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on empbenguy-31030803.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

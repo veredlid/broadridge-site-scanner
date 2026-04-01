@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.alpinecapitalpartners.com",
     "migratedDomain": "https://alpinecapitalpartners-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:35:00.232Z",
+    "capturedAt": "2026-04-01T14:06:56.115Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -731,6 +731,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://alpinecapitalpartners-31030807.brprodaccount.com/",
+        "hostname": "alpinecapitalpartners-31030807.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on alpinecapitalpartners-31030807.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

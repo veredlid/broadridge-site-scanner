@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.finewealthmanagement.com",
     "migratedDomain": "https://finewealthmanagement-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:45:18.443Z",
+    "capturedAt": "2026-04-01T14:18:06.102Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -604,6 +604,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://finewealthmanagement-31030802.brprodaccount.com/",
+        "hostname": "finewealthmanagement-31030802.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on finewealthmanagement-31030802.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

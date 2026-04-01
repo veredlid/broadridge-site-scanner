@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.smrtplanning.com",
     "migratedDomain": "https://smrtplanning-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:52:04.440Z",
+    "capturedAt": "2026-04-01T14:25:17.634Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -650,6 +650,22 @@
         "footerText": "The information provided on this website is for educational purposes and does not intend to make an offer of solicitation for the sale or purchase of any specific products, investments, or investment strategies.Financial planning and investment advisory services offered through Sequent Planning, LLC, a Registered Investment Adviser (RIA). Advisors are registered with Sequent Planning as independent contractors and not employees of Sequent. Insurance products, Legal, Tax and Accounting advice are not offered through Sequent Planning.This site is published for residents of the United States only. Sequent Advisors may only conduct business with residents of the states and/or jurisdictions in which they are properly registered. Not all of the products and services referenced on this site may be available in every state and through every Advisor listed. For additional information please contact the Advisor(s) listed on the site.Additional information about Sequent Planning and our Advisors "
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://smrtplanning-31030754.brprodaccount.com/",
+        "hostname": "smrtplanning-31030754.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on smrtplanning-31030754.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

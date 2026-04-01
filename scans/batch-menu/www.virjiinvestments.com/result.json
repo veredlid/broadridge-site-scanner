@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.virjiinvestments.com",
     "migratedDomain": "https://virjiinvestments-31030752.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:28:17.546Z",
+    "capturedAt": "2026-04-01T14:57:04.276Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -634,7 +634,7 @@
           "Library\n            Videos",
           "Request A Quote",
           "Information Request",
-          "Retirement Confidence",
+          "Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive",
           "Securing The",
           "Future You",
           "Earned\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tSecuring",
@@ -642,21 +642,20 @@
           "Independent Advice",
           "Investment Strategies",
           "Personalized Service",
-          "Tariffs Drive",
-          "Market Volatility",
-          "The Premium",
-          "Parents Pay",
-          "Top Schools",
-          "More Comfortable",
-          "Retirement \n\t\t\t\t\n\t\t\t\tOnly",
-          "Concerned About",
-          "The Threat",
-          "Is Real",
+          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tHow",
+          "Spenders Can",
+          "Debt After",
+          "What Happens",
+          "Debt When",
+          "Someone Dies",
+          "Have You",
+          "Retirement Savings",
           "More Newsletters",
-          "Eligibility\n          \n        \n        Use",
-          "Savings Goals",
-          "Conversion\n          \n        \n        This",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost",
           "Retirement\n          \n        \n        Use",
+          "Conversion\n          \n        \n        This",
+          "Savings Goals",
+          "Eligibility\n          \n        \n        Use",
           "More Calculators",
           "Disclosure Brochure",
           "Site Map"
@@ -689,12 +688,28 @@
         },
         {
           "field": "person-name",
-          "originalValue": "Virji Investments, Inc\n      Securing, The Future, Earned\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, International Pkwy, Lake Mary, Home\n          \n          About, Us\n           \n            Why, Why Virji, Our Team, Client Log, Newsletter\n            Our, Location\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Information Request, Retirement Confidence, Securing The, Future You, Earned\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tSecuring, At Virji, Independent Advice, Investment Strategies, Personalized Service, Tariffs Drive, Market Volatility, The Premium, Parents Pay, Top Schools, More Comfortable, Retirement \n\t\t\t\t\n\t\t\t\tOnly, Concerned About, The Threat, Is Real, More Newsletters, Eligibility\n          \n        \n        Use, Savings Goals, Conversion\n          \n        \n        This, Retirement\n          \n        \n        Use, More Calculators, Disclosure Brochure, Site Map",
+          "originalValue": "Virji Investments, Inc\n      Securing, The Future, Earned\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, International Pkwy, Lake Mary, Home\n          \n          About, Us\n           \n            Why, Why Virji, Our Team, Client Log, Newsletter\n            Our, Location\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Information Request, Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive, Securing The, Future You, Earned\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tSecuring, At Virji, Independent Advice, Investment Strategies, Personalized Service, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tHow, Spenders Can, Debt After, What Happens, Debt When, Someone Dies, Have You, Retirement Savings, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost, Retirement\n          \n        \n        Use, Conversion\n          \n        \n        This, Savings Goals, Eligibility\n          \n        \n        Use, More Calculators, Disclosure Brochure, Site Map",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://virjiinvestments-31030752.brprodaccount.com/",
+        "hostname": "virjiinvestments-31030752.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on virjiinvestments-31030752.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

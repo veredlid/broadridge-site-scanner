@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.lovellwealthmanagement.com",
     "migratedDomain": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:43:32.397Z",
+    "capturedAt": "2026-04-01T14:16:09.126Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -694,6 +694,22 @@
         "footerText": "Stephen F Lovell is a Registered Representative of Realta Equities, Inc. and an Investment Advisory Representative of Realta Investment Advisors, Inc. Neither Realta Equities, Inc. nor Realta Investment Advisors, Inc. is affiliated with Lovell Wealth Management. Investment Advisory Services are offered through Realta Investment Advisors, Inc., a US SEC Registered Investment Advisor, and securities are offered through Realta Equities, Inc., Member FINRA/SIPC, 1201 N. Orange St., Suite 729, Wilmington, DE 19801.Form CRSRealta Wealth is the trade name for the Realta Wealth Companies. The Realta Wealth Companies are Realta Equities, Inc., Realta Investment Advisors, Inc., and Realta Insurance Services, which consist of several affiliated insurance agencies."
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "hostname": "lovellwealthmanagement-31030759.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on lovellwealthmanagement-31030759.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

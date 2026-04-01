@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "trust.cnb.bank",
     "migratedDomain": "https://trustcnb-31030809.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:35:48.931Z",
+    "capturedAt": "2026-04-01T14:07:47.522Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -626,6 +626,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://trustcnb-31030809.brprodaccount.com/",
+        "hostname": "trustcnb-31030809.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on trustcnb-31030809.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

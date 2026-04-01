@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.bryanedwardswealthmanagement.com",
     "migratedDomain": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:41:00.090Z",
+    "capturedAt": "2026-04-01T14:13:14.842Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -364,6 +364,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/",
+        "hostname": "bryanedwardswealthmanagement-31030805.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on bryanedwardswealthmanagement-31030805.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

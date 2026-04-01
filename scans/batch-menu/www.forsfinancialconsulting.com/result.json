@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.forsfinancialconsulting.com",
     "migratedDomain": "https://forsfinancialconsulting-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:42:11.266Z",
+    "capturedAt": "2026-04-01T14:14:27.150Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -599,6 +599,22 @@
         "footerText": "Check the background of your financial professional on FINRA's BrokerCheck.CRS FormInvestment Advisory Services advisory services offered through Fors Financial Consulting, PS, an SEC Registered Investment Advisor."
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://forsfinancialconsulting-31030802.brprodaccount.com/",
+        "hostname": "forsfinancialconsulting-31030802.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on forsfinancialconsulting-31030802.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

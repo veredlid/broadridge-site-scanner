@@ -1,6 +1,7 @@
 import { writeFileSync } from 'fs';
 import type { MenuCheckResult, MenuItemIssue, IssueKind, MenuSectionSummary } from './menu-checker.js';
 import type { ContentCheckResult, ContentMismatch } from './content-checker.js';
+import type { SiteHealthResult, BrokerCheckResult, DomainCheckResult } from './site-health-checker.js';
 
 function kindLabel(kind: IssueKind): string {
   switch (kind) {
@@ -247,6 +248,104 @@ function renderContentCheck(contentCheck: ContentCheckResult | undefined, origin
     </div>`;
 }
 
+function renderSiteHealth(siteHealth: SiteHealthResult | undefined): string {
+  if (!siteHealth) return '';
+
+  const { brokerCheck, domainCheck } = siteHealth;
+
+  // Part 4: BrokerCheck
+  const p4Color = !brokerCheck.found ? '#757575'
+    : brokerCheck.severity === 'ok' ? '#2e7d32'
+    : brokerCheck.severity === 'critical' ? '#d32f2f' : '#e65100';
+  const p4Label = !brokerCheck.found ? 'NOT FOUND'
+    : brokerCheck.severity === 'ok' ? 'PASS (SVG)'
+    : brokerCheck.severity === 'critical' ? 'WRONG TYPE' : 'CHECK NEEDED';
+  const p4Badge = !brokerCheck.found ? 'badge-skip'
+    : brokerCheck.severity === 'ok' ? 'badge-pass'
+    : brokerCheck.severity === 'critical' ? 'badge-bug' : 'badge-warn';
+
+  // Part 5: Domain
+  const p5Color = domainCheck.hasCustomDomain ? '#2e7d32' : '#e65100';
+  const p5Label = domainCheck.hasCustomDomain ? 'CONNECTED' : 'NOT CONNECTED';
+  const p5Badge = domainCheck.hasCustomDomain ? 'badge-pass' : 'badge-warn';
+
+  return `
+    <!-- PART 4: BrokerCheck Banner -->
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge ${p4Badge}">PART 4</span>
+            <span class="part-title">BrokerCheck Banner</span>
+            <span class="part-status" style="background:${p4Color}">${p4Label}</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Validates the FINRA BrokerCheck banner type &nbsp;·&nbsp;
+            Expected: <strong>Top and Bottom (SVG)</strong>
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card">
+            <div class="num ${brokerCheck.found ? (brokerCheck.type === 'svg' ? 'num-green' : 'num-red') : ''}">${brokerCheck.found ? (brokerCheck.type === 'svg' ? 'SVG' : 'Non-SVG') : 'None'}</div>
+            <div class="lbl">Banner Type</div>
+          </div>
+          <div class="summary-card">
+            <div class="num">${brokerCheck.position !== 'none' ? brokerCheck.position.replace(/-/g, ' ') : 'N/A'}</div>
+            <div class="lbl">Position</div>
+          </div>
+          <div class="summary-card">
+            <div class="num ${brokerCheck.found ? 'num-green' : ''}">${brokerCheck.found ? 'Yes' : 'No'}</div>
+            <div class="lbl">Banner Present</div>
+          </div>
+        </div>
+        <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
+          ${brokerCheck.severity === 'critical'
+            ? `<span style="color:#d32f2f;font-weight:600">&#10007;</span> ${escHtml(brokerCheck.details)}`
+            : brokerCheck.severity === 'ok'
+              ? `<span style="color:#2e7d32;font-weight:600">&#10003;</span> ${escHtml(brokerCheck.details)}`
+              : `<span style="color:#757575">&#8212;</span> ${escHtml(brokerCheck.details)}`
+          }
+        </div>
+      </div>
+    </div>
+
+    <!-- PART 5: Domain Connection -->
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge ${p5Badge}">PART 5</span>
+            <span class="part-title">Domain Connection</span>
+            <span class="part-status" style="background:${p5Color}">${p5Label}</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Checks whether a custom domain is connected (vs default brprodaccount.com)
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card">
+            <div class="num ${domainCheck.hasCustomDomain ? 'num-green' : 'num-orange'}">${domainCheck.hasCustomDomain ? 'Yes' : 'No'}</div>
+            <div class="lbl">Custom Domain</div>
+          </div>
+          <div class="summary-card">
+            <div class="num" style="font-size:14px;word-break:break-all">${escHtml(domainCheck.hostname)}</div>
+            <div class="lbl">Current Hostname</div>
+          </div>
+        </div>
+        <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
+          ${domainCheck.hasCustomDomain
+            ? `<span style="color:#2e7d32;font-weight:600">&#10003;</span> ${escHtml(domainCheck.details)}`
+            : `<span style="color:#e65100;font-weight:600">&#9888;</span> ${escHtml(domainCheck.details)}`
+          }
+        </div>
+      </div>
+    </div>`;
+}
+
 function escHtml(s: string): string {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
@@ -258,6 +357,7 @@ export function generateMenuHtmlReport(result: MenuCheckResult, outputPath: stri
     brNavItems, originalItems, migratedItems,
     originalCrawlFailed, originalCrawlError,
     contentCheck,
+    siteHealth,
   } = result;
 
   // Part 1 status
@@ -274,10 +374,17 @@ export function generateMenuHtmlReport(result: MenuCheckResult, outputPath: stri
   const p3Color = !contentCheck || contentCheck.error ? '#757575' : p3Critical > 0 ? '#d32f2f' : p3Warning > 0 ? '#e65100' : '#2e7d32';
   const p3Label = !contentCheck || contentCheck.error ? 'SKIPPED' : p3Critical > 0 ? 'MISMATCH' : p3Warning > 0 ? 'WARNINGS' : 'PASS';
 
+  // Parts 4-5 status
+  const p4Label = !siteHealth?.brokerCheck.found ? 'N/A'
+    : siteHealth.brokerCheck.severity === 'ok' ? 'SVG OK'
+    : siteHealth.brokerCheck.severity === 'critical' ? 'WRONG TYPE' : 'CHECK';
+  const p5Label = siteHealth?.domainCheck.hasCustomDomain ? 'CONNECTED' : 'NOT CONNECTED';
+
   // Overall worst status
-  const overallColor = (bugCount(summary) > 0 || bugCount(liveSummary) > 0 || p3Critical > 0)
+  const hasBrokerCheckBug = siteHealth?.brokerCheck.found && siteHealth.brokerCheck.severity === 'critical';
+  const overallColor = (bugCount(summary) > 0 || bugCount(liveSummary) > 0 || p3Critical > 0 || hasBrokerCheckBug)
     ? '#d32f2f'
-    : (summary.structureChanges > 0 || liveSummary.structureChanges > 0 || p3Warning > 0)
+    : (summary.structureChanges > 0 || liveSummary.structureChanges > 0 || p3Warning > 0 || !siteHealth?.domainCheck.hasCustomDomain)
       ? '#1565c0'
       : '#2e7d32';
 
@@ -393,6 +500,8 @@ export function generateMenuHtmlReport(result: MenuCheckResult, outputPath: stri
   <span>Part 1 (BR JSON vs Migrated): ${p1Label}</span>
   <span>Part 2 (Original vs Migrated): ${p2Label}</span>
   <span>Part 3 (Content Identity): ${p3Label}</span>
+  <span>Part 4 (BrokerCheck): ${p4Label}</span>
+  <span>Part 5 (Domain): ${p5Label}</span>
 </div>
 
 <div class="container">
@@ -479,6 +588,9 @@ export function generateMenuHtmlReport(result: MenuCheckResult, outputPath: stri
 
   <!-- ═══ PART 3: Content Identity Check ═══ -->
   ${renderContentCheck(contentCheck, originalDomain)}
+
+  <!-- ═══ PARTS 4-5: Site Health Checks ═══ -->
+  ${renderSiteHealth(siteHealth)}
 
 </div>
 </body>

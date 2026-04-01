@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.svgfinancial.com",
     "migratedDomain": "https://svgfinancial-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:23:34.769Z",
+    "capturedAt": "2026-04-01T14:54:38.854Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -617,13 +617,12 @@
           "Financial Advisor",
           "View Flipbooks",
           "View Videos",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Retirement",
-          "Plan Early",
-          "Distribution\n          \n        \n        Estimate",
-          "Mortgage Acceleration",
-          "Taxable Equivalent",
-          "Yield\n          \n        \n        Calculate",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Taxable",
+          "Equivalent Yield",
           "Inflation\n          \n        \n        Estimate",
+          "Mortgage Acceleration",
+          "Retirement Plan",
+          "Early Distribution",
           "More Calculators",
           "Regitered Investment",
           "Financial Services",
@@ -669,6 +668,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "unknown",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://svgfinancial-31030753.brprodaccount.com/",
+        "hostname": "svgfinancial-31030753.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on svgfinancial-31030753.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

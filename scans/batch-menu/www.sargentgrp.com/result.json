@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.sargentgrp.com",
     "migratedDomain": "https://sargentgrp-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:18:56.518Z",
+    "capturedAt": "2026-04-01T14:51:20.444Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -874,12 +874,15 @@
           "Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\nThanks",
           "Our Learning",
           "Quote Center",
-          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Disability",
-          "Income Insurance",
-          "Disability Income",
-          "Net Worth",
+          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Long",
+          "Term Care",
+          "Self Insurance",
           "Lifetime Earnings",
-          "Life Expectancy",
+          "Credit Card",
+          "Debt\n          \n        \n        How",
+          "Long Will",
+          "It Take",
+          "Car Affordability",
           "More Calculators",
           "Learning Center",
           "Articles\n                Educate",
@@ -972,7 +975,7 @@
         },
         {
           "field": "person-name",
-          "originalValue": "Pancheri Drive, Idaho Falls, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Location, Sargent Insurance, Group\n            Our, Services\n            Our, Qualifications\n            Our, Staff\n            Our, Carriers\n            Click, Free Prescription, Drug Discount, Card\n            Featured, Links\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Newsletters\n            Glossary, Tax Library, Faqs\n           \n          \n          Request, Quote\n           \n            Auto, Policy Change, Request\n            Auto, Card Request, Auto Quote, Request\n            Homeowners, Insurance Quote, Request\n            Life, Request\n           \n          \n          Contact, Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\nThanks, Our Learning, Quote Center, Calculators\n        \n      \n      \n         \n      \n        \n          \n            Disability, Income Insurance, Disability Income, Net Worth, Lifetime Earnings, Life Expectancy, More Calculators, Learning Center, Articles\n                Educate, Glossary\n                  \n                  Financial, Frequently Asked, Questions\n              \n            \n              \n                \n                  Tax, Library\n                \n                Manage, Auto Insurance, Home Insurance, Quotes Powered, Privacy Policy, Website Visitors, Internet Protocol, Identifying Information, Aggregated Statistics, Certain Personally, Business Transfers, If Sargent, Insurance Group, This Privacy, Site Map",
+          "originalValue": "Pancheri Drive, Idaho Falls, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Location, Sargent Insurance, Group\n            Our, Services\n            Our, Qualifications\n            Our, Staff\n            Our, Carriers\n            Click, Free Prescription, Drug Discount, Card\n            Featured, Links\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Newsletters\n            Glossary, Tax Library, Faqs\n           \n          \n          Request, Quote\n           \n            Auto, Policy Change, Request\n            Auto, Card Request, Auto Quote, Request\n            Homeowners, Insurance Quote, Request\n            Life, Request\n           \n          \n          Contact, Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\nThanks, Our Learning, Quote Center, Calculators\n        \n      \n      \n         \n      \n        \n          \n            Long, Term Care, Self Insurance, Lifetime Earnings, Credit Card, Debt\n          \n        \n        How, Long Will, It Take, Car Affordability, More Calculators, Learning Center, Articles\n                Educate, Glossary\n                  \n                  Financial, Frequently Asked, Questions\n              \n            \n              \n                \n                  Tax, Library\n                \n                Manage, Auto Insurance, Home Insurance, Quotes Powered, Privacy Policy, Website Visitors, Internet Protocol, Identifying Information, Aggregated Statistics, Certain Personally, Business Transfers, If Sargent, Insurance Group, This Privacy, Site Map",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
@@ -992,6 +995,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "unknown",
+        "details": "BrokerCheck banner detected but could not confirm SVG type",
+        "severity": "warning"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://sargentgrp-31030754.brprodaccount.com/",
+        "hostname": "sargentgrp-31030754.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on sargentgrp-31030754.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.mgbwealth.com",
     "migratedDomain": "https://mgbwealth-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:36:57.842Z",
+    "capturedAt": "2026-04-01T14:08:36.491Z",
     "brNavItems": [
       {
         "title": "HOME",
@@ -793,6 +793,22 @@
         "footerText": "Securities and investment advisory services are offered solely through Registered Representatives and Investment Adviser Representatives of Equity Services, Inc. Member FINRA/SIPC, One National Life Drive, Montpelier, Vermont 05604, 1-800-344-7437. Creative Financial Professionals and all other entities referenced are not affiliated with Equity Services, Inc., unless otherwise noted. Neil Resnik is a Registered Representative and Investment Adviser Representative of Equity Services, Inc. and offers securities in Texas. Neil is also licensed to offer life insurance and annuities in Texas. This site is not a solicitation of interest in any of these products in any other state. TC7475987(1224)3"
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://mgbwealth-31030808.brprodaccount.com/",
+        "hostname": "mgbwealth-31030808.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on mgbwealth-31030808.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

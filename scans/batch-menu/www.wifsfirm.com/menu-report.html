@@ -75,13 +75,15 @@
   <h1>Menu Check Report — www.wifsfirm.com</h1>
   <div class="meta">
     Migrated: https://wifsfirm-31030752.brprodaccount.com/ &nbsp;·&nbsp;
-    Scanned: 4/1/2026, 11:53:02 AM
+    Scanned: 4/1/2026, 5:26:20 PM
   </div>
 </div>
 <div class="overall-bar">
   <span>Part 1 (BR JSON vs Migrated): BUGS FOUND</span>
   <span>Part 2 (Original vs Migrated): BUGS FOUND</span>
   <span>Part 3 (Content Identity): MISMATCH</span>
+  <span>Part 4 (BrokerCheck): WRONG TYPE</span>
+  <span>Part 5 (Domain): NOT CONNECTED</span>
 </div>
 
 <div class="container">
@@ -729,6 +731,75 @@
       </tr></tbody></table>
           </details>
         
+      </div>
+    </div>
+
+  <!-- ═══ PARTS 4-5: Site Health Checks ═══ -->
+  
+    <!-- PART 4: BrokerCheck Banner -->
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-bug">PART 4</span>
+            <span class="part-title">BrokerCheck Banner</span>
+            <span class="part-status" style="background:#d32f2f">WRONG TYPE</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Validates the FINRA BrokerCheck banner type &nbsp;·&nbsp;
+            Expected: <strong>Top and Bottom (SVG)</strong>
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card">
+            <div class="num num-red">Non-SVG</div>
+            <div class="lbl">Banner Type</div>
+          </div>
+          <div class="summary-card">
+            <div class="num">bottom floater</div>
+            <div class="lbl">Position</div>
+          </div>
+          <div class="summary-card">
+            <div class="num num-green">Yes</div>
+            <div class="lbl">Banner Present</div>
+          </div>
+        </div>
+        <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
+          <span style="color:#d32f2f;font-weight:600">&#10007;</span> BrokerCheck banner uses non-SVG (should be &quot;Top and Bottom (SVG)&quot;)
+        </div>
+      </div>
+    </div>
+
+    <!-- PART 5: Domain Connection -->
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-warn">PART 5</span>
+            <span class="part-title">Domain Connection</span>
+            <span class="part-status" style="background:#e65100">NOT CONNECTED</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Checks whether a custom domain is connected (vs default brprodaccount.com)
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card">
+            <div class="num num-orange">No</div>
+            <div class="lbl">Custom Domain</div>
+          </div>
+          <div class="summary-card">
+            <div class="num" style="font-size:14px;word-break:break-all">wifsfirm-31030752.brprodaccount.com</div>
+            <div class="lbl">Current Hostname</div>
+          </div>
+        </div>
+        <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
+          <span style="color:#e65100;font-weight:600">&#9888;</span> No custom domain — still on wifsfirm-31030752.brprodaccount.com
+        </div>
       </div>
     </div>
 

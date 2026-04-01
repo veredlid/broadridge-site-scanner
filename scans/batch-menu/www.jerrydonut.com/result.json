@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.jerrydonut.com",
     "migratedDomain": "https://jerrydonut-31030800.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:44:46.520Z",
+    "capturedAt": "2026-04-01T14:17:27.453Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -898,6 +898,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://jerrydonut-31030800.brprodaccount.com/",
+        "hostname": "jerrydonut-31030800.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on jerrydonut-31030800.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.kaneinvestment.com",
     "migratedDomain": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5",
-    "capturedAt": "2026-04-01T08:35:24.690Z",
+    "capturedAt": "2026-04-01T14:07:21.756Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -696,6 +696,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5",
+        "hostname": "broadridgeprod.wixstudio.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on broadridgeprod.wixstudio.com",
+        "severity": "warning"
+      }
     }
   }
 }

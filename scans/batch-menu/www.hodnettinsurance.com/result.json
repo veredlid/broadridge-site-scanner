@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.hodnettinsurance.com",
     "migratedDomain": "https://hodnettinsurance-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:44:06.434Z",
+    "capturedAt": "2026-04-01T14:16:46.425Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -553,6 +553,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://hodnettinsurance-31030801.brprodaccount.com/",
+        "hostname": "hodnettinsurance-31030801.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on hodnettinsurance-31030801.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

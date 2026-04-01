@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.midwestwealthsolutions.com",
     "migratedDomain": "https://midwestwealthsolutions-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:14:06.236Z",
+    "capturedAt": "2026-04-01T14:48:16.392Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -220,6 +220,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://midwestwealthsolutions-31030758.brprodaccount.com/",
+        "hostname": "midwestwealthsolutions-31030758.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on midwestwealthsolutions-31030758.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

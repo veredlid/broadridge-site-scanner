@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.kanakfinancial.com",
     "migratedDomain": "https://kanakfinancial-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:13:43.734Z",
+    "capturedAt": "2026-04-01T14:47:29.459Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -127,8 +127,7 @@
         "personNames": [
           "Us\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\n\t\t\t\tKanak",
           "Home\n          \n          Contact",
-          "Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFuture",
-          "Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity",
+          "Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive",
           "Kanak Iyer",
           "National Institutes",
           "In Sanskrit",
@@ -161,6 +160,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://kanakfinancial-31030808.brprodaccount.com/",
+        "hostname": "kanakfinancial-31030808.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on kanakfinancial-31030808.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

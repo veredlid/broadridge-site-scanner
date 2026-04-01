@@ -75,13 +75,15 @@
   <h1>Menu Check Report — www.safe2retire.com</h1>
   <div class="meta">
     Migrated: https://safe2retire-31030755.brprodaccount.com/ &nbsp;·&nbsp;
-    Scanned: 4/1/2026, 11:50:40 AM
+    Scanned: 4/1/2026, 5:23:43 PM
   </div>
 </div>
 <div class="overall-bar">
   <span>Part 1 (BR JSON vs Migrated): BUGS FOUND</span>
   <span>Part 2 (Original vs Migrated): BUGS FOUND</span>
   <span>Part 3 (Content Identity): PASS</span>
+  <span>Part 4 (BrokerCheck): N/A</span>
+  <span>Part 5 (Domain): NOT CONNECTED</span>
 </div>
 
 <div class="container">
@@ -353,6 +355,75 @@
             ✓ All identity markers match between original and migrated sites
           </div>
         
+      </div>
+    </div>
+
+  <!-- ═══ PARTS 4-5: Site Health Checks ═══ -->
+  
+    <!-- PART 4: BrokerCheck Banner -->
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-skip">PART 4</span>
+            <span class="part-title">BrokerCheck Banner</span>
+            <span class="part-status" style="background:#757575">NOT FOUND</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Validates the FINRA BrokerCheck banner type &nbsp;·&nbsp;
+            Expected: <strong>Top and Bottom (SVG)</strong>
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card">
+            <div class="num ">None</div>
+            <div class="lbl">Banner Type</div>
+          </div>
+          <div class="summary-card">
+            <div class="num">N/A</div>
+            <div class="lbl">Position</div>
+          </div>
+          <div class="summary-card">
+            <div class="num ">No</div>
+            <div class="lbl">Banner Present</div>
+          </div>
+        </div>
+        <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
+          <span style="color:#2e7d32;font-weight:600">&#10003;</span> No BrokerCheck banner found on page
+        </div>
+      </div>
+    </div>
+
+    <!-- PART 5: Domain Connection -->
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-warn">PART 5</span>
+            <span class="part-title">Domain Connection</span>
+            <span class="part-status" style="background:#e65100">NOT CONNECTED</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Checks whether a custom domain is connected (vs default brprodaccount.com)
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card">
+            <div class="num num-orange">No</div>
+            <div class="lbl">Custom Domain</div>
+          </div>
+          <div class="summary-card">
+            <div class="num" style="font-size:14px;word-break:break-all">safe2retire-31030755.brprodaccount.com</div>
+            <div class="lbl">Current Hostname</div>
+          </div>
+        </div>
+        <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
+          <span style="color:#e65100;font-weight:600">&#9888;</span> No custom domain — still on safe2retire-31030755.brprodaccount.com
+        </div>
       </div>
     </div>
 

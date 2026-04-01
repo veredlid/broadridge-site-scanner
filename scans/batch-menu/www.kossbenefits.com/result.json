@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.kossbenefits.com",
     "migratedDomain": "https://kossbenefits-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:36:39.248Z",
+    "capturedAt": "2026-04-01T14:08:33.020Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -697,6 +697,22 @@
         "footerText": ""
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://kossbenefits-31030808.brprodaccount.com/",
+        "hostname": "kossbenefits-31030808.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on kossbenefits-31030808.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.thefinancialgrouponline.com",
     "migratedDomain": "https://thefinancialgrouponline-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:39:23.450Z",
+    "capturedAt": "2026-04-01T14:11:39.188Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -623,6 +623,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://thefinancialgrouponline-31030807.brprodaccount.com/",
+        "hostname": "thefinancialgrouponline-31030807.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on thefinancialgrouponline-31030807.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

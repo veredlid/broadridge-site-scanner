@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.sjedwardsfinancial.com",
     "migratedDomain": "https://sjedwardsfinancial-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:51:55.101Z",
+    "capturedAt": "2026-04-01T14:25:04.927Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -629,6 +629,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://sjedwardsfinancial-31030754.brprodaccount.com/",
+        "hostname": "sjedwardsfinancial-31030754.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on sjedwardsfinancial-31030754.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.coordinatedplanninggroup.com",
     "migratedDomain": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:41:44.239Z",
+    "capturedAt": "2026-04-01T14:14:08.518Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -117,32 +117,32 @@
         "subItems": [
           {
             "text": "Annuity",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=8877&SN=2594253996",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=8877&SN=2594345298",
             "path": "/form.cfm"
           },
           {
             "text": "Long-Term Care Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=8877&SN=2594253996",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=8877&SN=2594345298",
             "path": "/form.cfm"
           },
           {
             "text": "Group Health",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=8877&SN=2594253996",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=8877&SN=2594345298",
             "path": "/form.cfm"
           },
           {
             "text": "Life Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=8877&SN=2594253996",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=8877&SN=2594345298",
             "path": "/form.cfm"
           },
           {
             "text": "Disability Income Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=8877&SN=2594253996",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=8877&SN=2594345298",
             "path": "/form.cfm"
           },
           {
             "text": "401(k) Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=8877&SN=2594253996",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=8877&SN=2594345298",
             "path": "/form.cfm"
           }
         ],
@@ -631,6 +631,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
+        "hostname": "coordinatedplanninggroup-31030804.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on coordinatedplanninggroup-31030804.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.capitalfinancialmgt.com",
     "migratedDomain": "https://capitalfinancialmgt-31030804.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:01:11.855Z",
+    "capturedAt": "2026-04-01T14:35:40.212Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -532,6 +532,22 @@
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://capitalfinancialmgt-31030804.brprodaccount.com/",
+        "hostname": "capitalfinancialmgt-31030804.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on capitalfinancialmgt-31030804.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

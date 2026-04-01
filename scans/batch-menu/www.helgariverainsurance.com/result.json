@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.helgariverainsurance.com",
     "migratedDomain": "https://helgariverainsurance-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:45:39.521Z",
+    "capturedAt": "2026-04-01T14:18:29.431Z",
     "brNavItems": [
       {
         "title": "About Us",
@@ -686,6 +686,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://helgariverainsurance-31030801.brprodaccount.com/",
+        "hostname": "helgariverainsurance-31030801.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on helgariverainsurance-31030801.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

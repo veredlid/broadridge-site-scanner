@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.planaheadfs.com",
     "migratedDomain": "https://planaheadfs-31030756.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:50:40.435Z",
+    "capturedAt": "2026-04-01T14:23:45.387Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -646,6 +646,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://planaheadfs-31030756.brprodaccount.com/",
+        "hostname": "planaheadfs-31030756.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on planaheadfs-31030756.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

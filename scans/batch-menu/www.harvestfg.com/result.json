@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.harvestfg.com",
     "migratedDomain": "https://harvestfg-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:11:23.710Z",
+    "capturedAt": "2026-04-01T14:46:08.543Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -651,6 +651,22 @@
           "note": "Company name \"Creative Financial\nProfessionals\" on migrated site may not match original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://harvestfg-31030801.brprodaccount.com/",
+        "hostname": "harvestfg-31030801.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on harvestfg-31030801.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

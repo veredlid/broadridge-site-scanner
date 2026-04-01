@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.frifs.com",
     "migratedDomain": "https://frifs-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:35:56.724Z",
+    "capturedAt": "2026-04-01T14:07:38.009Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -725,6 +725,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://frifs-31030808.brprodaccount.com/",
+        "hostname": "frifs-31030808.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on frifs-31030808.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

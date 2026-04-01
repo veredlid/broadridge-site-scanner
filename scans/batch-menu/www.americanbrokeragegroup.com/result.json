@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.americanbrokeragegroup.com",
     "migratedDomain": "https://americanbrokeragegroup-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T07:57:58.710Z",
+    "capturedAt": "2026-04-01T14:30:46.702Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -644,23 +644,23 @@
           "Cost Averaging",
           "More Videos",
           "Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters",
-          "New Tax",
-          "One Big",
-          "Beautiful Bill",
-          "Two \n\t\t\t\t\n\t\t\t\tSurvivorship",
-          "The Premium",
-          "Parents Pay",
-          "Top Schools",
+          "Retirement Time",
           "Buffett Takes",
           "Iconic Investor",
           "Warren Buffett",
           "Berkshire Hathaway",
+          "Market Cap",
+          "Mind \n\t\t\t\t\n\t\t\t\tHolding",
+          "New Tax",
+          "One Big",
+          "Beautiful Bill",
           "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Lifetime",
-          "Earnings\n          \n        \n        This",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Federal",
+          "Income Tax",
+          "Savings Accumulation",
+          "Required Minimum",
+          "Distributions\n          \n        \n        Estimate",
           "Waiting\n          \n        \n        Estimate",
-          "Insurance\n          \n        \n        How",
-          "Life Expectancy",
           "More Calculators",
           "Site Map",
           "To Top"
@@ -695,12 +695,28 @@
         },
         {
           "field": "person-name",
-          "originalValue": "Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Location, Our Firm, Our Services, Our Qualifications, Tell A Friend, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Request, Quote\n           \n            Annuity, Group Health, Life Insurance, Disability Income, Insurance\n            Mortgage, Information Request, West Paces, Ferry Road, View Calculators, View Videos, Financial Services, Potential Benefits, Cost Averaging, More Videos, Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters, New Tax, One Big, Beautiful Bill, Two \n\t\t\t\t\n\t\t\t\tSurvivorship, The Premium, Parents Pay, Top Schools, Buffett Takes, Iconic Investor, Warren Buffett, Berkshire Hathaway, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Lifetime, Earnings\n          \n        \n        This, Waiting\n          \n        \n        Estimate, Insurance\n          \n        \n        How, Life Expectancy, More Calculators, Site Map, To Top",
+          "originalValue": "Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Location, Our Firm, Our Services, Our Qualifications, Tell A Friend, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Request, Quote\n           \n            Annuity, Group Health, Life Insurance, Disability Income, Insurance\n            Mortgage, Information Request, West Paces, Ferry Road, View Calculators, View Videos, Financial Services, Potential Benefits, Cost Averaging, More Videos, Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters, Retirement Time, Buffett Takes, Iconic Investor, Warren Buffett, Berkshire Hathaway, Market Cap, Mind \n\t\t\t\t\n\t\t\t\tHolding, New Tax, One Big, Beautiful Bill, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Federal, Income Tax, Savings Accumulation, Required Minimum, Distributions\n          \n        \n        Estimate, Waiting\n          \n        \n        Estimate, More Calculators, Site Map, To Top",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://americanbrokeragegroup-31030807.brprodaccount.com/",
+        "hostname": "americanbrokeragegroup-31030807.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on americanbrokeragegroup-31030807.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

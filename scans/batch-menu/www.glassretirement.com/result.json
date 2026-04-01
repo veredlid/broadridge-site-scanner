@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.glassretirement.com",
     "migratedDomain": "https://glassretirement-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:08:51.783Z",
+    "capturedAt": "2026-04-01T14:44:19.173Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -190,32 +190,32 @@
         "subItems": [
           {
             "text": "Annuity",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=52212&SN=2647861807",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=52212&SN=2647945557",
             "path": "/form.cfm"
           },
           {
             "text": "Long-Term Care Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=52212&SN=2647861807",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=52212&SN=2647945557",
             "path": "/form.cfm"
           },
           {
             "text": "Life Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=52212&SN=2647861807",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=52212&SN=2647945557",
             "path": "/form.cfm"
           },
           {
             "text": "Disability Income Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=52212&SN=2647861807",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=52212&SN=2647945557",
             "path": "/form.cfm"
           },
           {
             "text": "401(k) Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=52212&SN=2647861807",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=52212&SN=2647945557",
             "path": "/form.cfm"
           },
           {
             "text": "Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=52212&SN=2647861807",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=52212&SN=2647945557",
             "path": "/form.cfm"
           }
         ],
@@ -658,13 +658,13 @@
           "Employee Retirement",
           "Income Security",
           "Internal Revenue",
-          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Life",
-          "Expectancy\n          \n        \n        Knowing",
+          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Estate",
+          "Taxes\n          \n        \n        Use",
+          "Life Expectancy",
           "Retirement Portfolio",
           "Lifespan\n          \n        \n        How",
           "Long Will",
           "Your Funds",
-          "Estate Taxes",
           "More Calculators",
           "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tThe",
           "Links\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\n\t\t\n\t\n        \n          \n            Learning",
@@ -727,6 +727,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://glassretirement-31030802.brprodaccount.com/",
+        "hostname": "glassretirement-31030802.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on glassretirement-31030802.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

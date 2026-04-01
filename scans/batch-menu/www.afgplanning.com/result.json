@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.afgplanning.com",
     "migratedDomain": "https://afgplanning-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T13:00:39.816Z",
+    "capturedAt": "2026-04-01T14:29:10.859Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -613,27 +613,22 @@
           "State Street",
           "Retirement Plan",
           "Learn More",
-          "Individual Wealth",
           "Our Dedicated",
+          "Individual Wealth",
           "Advisory Group",
-          "Do You",
-          "Know Who",
-          "Your Beneficiaries",
+          "Closer Look",
+          "Target Date",
           "More Videos",
           "Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters",
-          "Peer Payments",
-          "Are Popular",
-          "Be Careful",
-          "Cash Balance",
-          "Plans Help",
-          "Some Business",
-          "Owners Supersize",
-          "Retirement Savings",
+          "Consider Munis",
+          "Free Income",
+          "The Fed",
+          "Lowers Rates",
+          "Economic Balancing",
           "Life Insurance",
           "Two \n\t\t\t\t\n\t\t\t\tSurvivorship",
-          "Concerned About",
-          "The Threat",
-          "Is Real",
+          "Key Retirement",
+          "Tax Numbers",
           "More Newsletters",
           "Certified Financial",
           "Planner Board",
@@ -656,6 +651,22 @@
         "footerText": "Certified Financial Planner Board of Standards Inc. owns the certification marks CFP®, CERTIFIED FINANCIAL PLANNER™ and in the U.S., which it awards to individuals who successfully complete CFP Board’s initial and ongoing certification requirements.Investment advisory services through Atlas Fiduciary Services, Inc., a Registered Investment Adviser. John R Heise, Investment Advisor Representative."
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://afgplanning-31030807.brprodaccount.com/",
+        "hostname": "afgplanning-31030807.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on afgplanning-31030807.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

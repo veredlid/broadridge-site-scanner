@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.brosnanfinancial.com",
     "migratedDomain": "https://brosnanfinancial-31030805.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:00:15.782Z",
+    "capturedAt": "2026-04-01T14:35:16.458Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -670,14 +670,13 @@
           "Health \n            Disability",
           "Income Insurance",
           "Information Request",
-          "Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive",
+          "Retirement Confidence",
           "Our Mission",
-          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Long",
+          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Disability",
+          "Disability Income",
+          "Waiting\n          \n        \n        Estimate",
           "Self Insurance",
           "Life Insurance",
-          "Waiting\n          \n        \n        Estimate",
-          "Disability Income",
-          "Insurance\n          \n        \n        How",
           "More Calculators",
           "Site Map"
         ],
@@ -708,6 +707,22 @@
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://brosnanfinancial-31030805.brprodaccount.com/",
+        "hostname": "brosnanfinancial-31030805.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on brosnanfinancial-31030805.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

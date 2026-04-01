@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.know-parallel.com",
     "migratedDomain": "https://know-parallel-31030759.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:45:14.556Z",
+    "capturedAt": "2026-04-01T14:17:57.562Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -783,6 +783,22 @@
         "footerText": "Securities offered through Fortune Financial Services, Inc. 3582 Brodhead Road, Suite 202 Monaca, PA 15061. Member of FINRA/SIPC 724-846-2488. Investment advisory services offered through Parallel Equity Advisors, LTD., CRD# 153265, a Licensed Registered Investment Adviser under the Ohio Department of Commerce/Division of Securities administers purview. Parallel Equity Advisors, LTD. is not an entity of Fortune Financial Services Inc.This communication is strictly intended for individuals residing in the state(s) of OH, IN, PA. No offers may be made or accepted from any resident outside the specific states referenced. Please review \"View ADV/Firm Brochure\" tab for more information pertaining to this matter.Investment Adviser Firm Summary may be found here Parallel Equity Advisors, LTD Firm Summary Check the background of this fiancial professional on FINRA's BrokerCheck"
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://know-parallel-31030759.brprodaccount.com/",
+        "hostname": "know-parallel-31030759.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on know-parallel-31030759.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

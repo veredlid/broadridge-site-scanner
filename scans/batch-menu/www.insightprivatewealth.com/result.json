@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.insightprivatewealth.com",
     "migratedDomain": "https://insightprivatewealth-31030800.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:44:42.440Z",
+    "capturedAt": "2026-04-01T14:17:22.441Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -825,6 +825,22 @@
         "footerText": "Disclosure: Important Disclosures Insight Private Wealth provides all investment advisory services through Concurrent Investment Advisors, LLC (\"Concurrent\"), a Registered Investment Advisor (\"RIA\") with the U.S. Securities and Exchange Commission (“SEC”). Concurrent provides investment advisory and related services for clients nationally. Concurrent will maintain all applicable registrations, notice filings, and/or licenses as required by the various states in which Insight Private Wealth and Concurrent conducts business, as applicable. Concurrent renders individualized responses to persons in a particular state only after complying with all regulatory requirements, or pursuant to an applicable state exemption or exclusion. Terms of Use Please read these terms and conditions of use (“Terms”) carefully before using the Website located at www.Insightprivatewealth.com (“the Website”) or any of the information or services provided by Insight Privat Wealth and Concurrent in connection with"
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://insightprivatewealth-31030800.brprodaccount.com/",
+        "hostname": "insightprivatewealth-31030800.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on insightprivatewealth-31030800.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.montalvotax.com",
     "migratedDomain": "https://montalvotax-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:53:06.728Z",
+    "capturedAt": "2026-04-01T14:26:24.302Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -803,6 +803,22 @@
           "note": "Company name \"Creative Financial\nProfessionals\" on migrated site may not match original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://montalvotax-31030758.brprodaccount.com/",
+        "hostname": "montalvotax-31030758.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on montalvotax-31030758.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

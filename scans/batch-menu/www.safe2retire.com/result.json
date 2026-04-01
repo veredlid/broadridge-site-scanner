@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.safe2retire.com",
     "migratedDomain": "https://safe2retire-31030755.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:50:40.414Z",
+    "capturedAt": "2026-04-01T14:23:43.728Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -301,6 +301,22 @@
         "footerText": ""
       },
       "mismatches": []
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "No BrokerCheck banner found on page",
+        "severity": "ok"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://safe2retire-31030755.brprodaccount.com/",
+        "hostname": "safe2retire-31030755.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on safe2retire-31030755.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }

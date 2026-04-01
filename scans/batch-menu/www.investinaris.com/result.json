@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.investinaris.com",
     "migratedDomain": "https://investinaris-31030800.brprodaccount.com/",
-    "capturedAt": "2026-04-01T08:44:10.429Z",
+    "capturedAt": "2026-04-01T14:16:49.474Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -859,6 +859,22 @@
           "note": "Physical address on migrated site differs from original"
         }
       ]
+    },
+    "siteHealth": {
+      "brokerCheck": {
+        "found": true,
+        "type": "non-svg",
+        "position": "bottom-floater",
+        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
+        "severity": "critical"
+      },
+      "domainCheck": {
+        "migratedUrl": "https://investinaris-31030800.brprodaccount.com/",
+        "hostname": "investinaris-31030800.brprodaccount.com",
+        "hasCustomDomain": false,
+        "details": "No custom domain — still on investinaris-31030800.brprodaccount.com",
+        "severity": "warning"
+      }
     }
   }
 }
