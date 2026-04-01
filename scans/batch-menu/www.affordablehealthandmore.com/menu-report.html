@@ -75,12 +75,12 @@
   <h1>Menu Check Report — www.affordablehealthandmore.com</h1>
   <div class="meta">
     Migrated: https://affordablehealthandmore-31030807.brprodaccount.com/ &nbsp;·&nbsp;
-    Scanned: 4/1/2026, 10:56:11 AM
+    Scanned: 4/1/2026, 4:05:38 PM
   </div>
 </div>
 <div class="overall-bar">
   <span>Part 1 (BR JSON vs Migrated): BUGS FOUND</span>
-  <span>Part 2 (Original vs Migrated): SKIPPED</span>
+  <span>Part 2 (Original vs Migrated): BUGS FOUND</span>
   <span>Part 3 (Content Identity): MISMATCH</span>
 </div>
 
@@ -284,9 +284,9 @@
     <div class="part-header">
       <div>
         <div style="display:flex;align-items:center;gap:10px">
-          <span class="part-badge badge-skip">PART 2</span>
+          <span class="part-badge badge-bug">PART 2</span>
           <span class="part-title">Original Live Site vs Migrated Site</span>
-          <span class="part-status" style="background:#757575">SKIPPED</span>
+          <span class="part-status" style="background:#d32f2f">BUGS FOUND</span>
         </div>
         <div class="part-subtitle" style="margin-top:6px">
           Source of truth: crawled menu from <strong>www.affordablehealthandmore.com</strong> &nbsp;·&nbsp;
@@ -295,34 +295,504 @@
       </div>
     </div>
     <div class="part-body">
-      <div class="skipped-notice">
-            ⚠ Original site could not be crawled (may be Cloudflare-blocked or unreachable).<br>
-            <small>Playwright: page.goto: net::ERR_ADDRESS_INVALID at http://www.affordablehealthandmore.com/
-Call log:
-  - navigat | Fetch: fetch failed</small>
+      
+          
+    <div class="summary-grid">
+      <div class="summary-card"><div class="num">30</div><div class="lbl">Original Items</div></div>
+      <div class="summary-card"><div class="num">12</div><div class="lbl">Migrated Items</div></div>
+      <div class="summary-card"><div class="num num-red">4</div><div class="lbl">Missing</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Broken Links</div></div>
+      <div class="summary-card"><div class="num num-red">1</div><div class="lbl">Duplicates</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Href Mismatches</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Structure Changes</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Extra Items</div></div>
+    </div>
+  
+
+          <div class="raw-nav">
+            <div class="raw-nav-box">
+              <h3>Original Live Site Menu (crawled)</h3>
+              <ul><li><code>Home</code> <span class="path">/</span></li><li><code>About Us</code> <span class="path">/about_us</span><ul class="sub-list"><li><code>Life and Disability Insurance</code> <span class="path">/Life-and-Disability-Insurance.12.htm</span></li><li><code>Dental Insurance</code> <span class="path">/Dental-Insurance.11.htm</span></li><li><code>Temporary Health Insurance Quotes</code> <span class="path">/Temporary-Health-Insurance-Quotes.15.htm</span></li><li><code>International Insurance Plans</code> <span class="path">/International-Insurance-Plans.16.htm</span></li><li><code>Real Wealth® Monthly Podcasts</code> <span class="path">/Real-Wealth-Monthly-Podcasts.6.htm</span></li><li><code>About Me</code> <span class="path">/About-Me.2.htm</span></li><li><code>My Continuing Education Coursework</code> <span class="path">/My-Continuing-Education-Coursework.5.htm</span></li><li><code>My Location</code> <span class="path">/location.htm</span></li><li><code>Tell A Friend</code> <span class="path">/tellafriend.cfm</span></li><li><code>Featured Links</code> <span class="path">/featured_links.htm</span></li></ul></li><li><code>Resources</code> <span class="path">/learning_center</span><ul class="sub-list"><li><code>Articles</code> <span class="path">/learning_center/research</span></li><li><code>Calculators</code> <span class="path">/learning_center/calculators</span></li><li><code>Flipbooks</code> <span class="path">/learning_center/flipbooks</span></li><li><code>Newsletters</code> <span class="path">/learning_center/newsletters</span></li><li><code>Glossary</code> <span class="path">/learning_center/glossary</span></li><li><code>Tax Library</code> <span class="path">/learning_center/tax_library</span></li><li><code>Videos</code> <span class="path">/learning_center/videos</span></li></ul></li><li><code>Request A Quote</code> <span class="path">/request_quote</span><ul class="sub-list"><li><code>Annuity</code> <span class="path">/form.cfm</span></li><li><code>Long-Term Care Insurance</code> <span class="path">/form.cfm</span></li><li><code>Group Health</code> <span class="path">/form.cfm</span></li><li><code>Life Insurance</code> <span class="path">/form.cfm</span></li><li><code>Individual Health</code> <span class="path">/form.cfm</span></li><li><code>Disability Income Insurance</code> <span class="path">/form.cfm</span></li><li><code>401(k) Information Request</code> <span class="path">/form.cfm</span></li><li><code>Information Request</code> <span class="path">/form.cfm</span></li></ul></li><li><code>Contact Us</code> <span class="path">/contact_us</span></li></ul>
+            </div>
+            <div class="raw-nav-box">
+              <h3>Migrated Site Menu (crawled)</h3>
+              <ul><li><code>Home</code> <span class="path">/</span></li><li><code>Home</code> <span class="path">/</span></li><li><code>About Us</code> <span class="path">/life-and-disability-insurance12</span><ul class="sub-list"><li><code>Life and Disability Insurance</code> <span class="path">/life-and-disability-insurance12</span></li><li><code>Dental Insurance</code> <span class="path">/</span></li><li><code>Temporary Health Insurance Quotes</code> <span class="path">/Agent/0053870</span></li><li><code>International Insurance Plans</code> <span class="path">/international-insurance-plans.aspx</span></li><li><code>Real Wealth® Monthly Podcasts</code> <span class="path">/custom-section-66</span></li><li><code>About Me</code> <span class="path">/liz-pollock-bio2</span></li><li><code>My Continuing Education Coursework</code> <span class="path">/my-continuing-education-coursework5</span></li><li><code>My Location</code> <span class="path">/location</span></li><li><code>Featured Links</code> <span class="path">/featured-links</span></li></ul></li></ul>
+            </div>
           </div>
+
+          
+    <details open>
+      <summary class="section-title">❌ Bugs — Missing Items & Broken Links <span class="count">5</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-duplicate" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-duplicate">🔁 Duplicate</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        
+        
+        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span>
+        <div class="note">"Home" appears 2 times in the migrated menu</div>
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>About Us</code> <span class="path">/about_us</span>
+        <br>
+        <span class="label">Migrated:</span> <code>About Us</code> <span class="path">/life-and-disability-insurance12</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Tell A Friend</code> <span class="path">/tellafriend.cfm</span>
+        
+        
+        <div class="note">Sub-item "Tell A Friend" under "About Us" is missing in migrated</div>
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-missing" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Resources</code> <span class="path">/learning_center</span>
+        
+        
+        <div class="note">"Resources" is in the original live site but not found in the migrated site menu</div>
+      </td>
+    </tr>
+    
+  
+    <tr class="row-missing" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Request A Quote</code> <span class="path">/request_quote</span>
+        
+        
+        <div class="note">"Request A Quote" is in the original live site but not found in the migrated site menu</div>
+      </td>
+    </tr>
+    
+  
+    <tr class="row-missing" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Contact Us</code> <span class="path">/contact_us</span>
+        
+        
+        <div class="note">"Contact Us" is in the original live site but not found in the migrated site menu</div>
+      </td>
+    </tr>
+    
+  </tbody>
+      </table>
+    </details>
+  
+          
+          
+          
+    <details >
+      <summary class="section-title">✅ Matched Items <span class="count">2</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Home</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>About Us</code> <span class="path">/about_us</span>
+        <br>
+        <span class="label">Migrated:</span> <code>About Us</code> <span class="path">/life-and-disability-insurance12</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Life and Disability Insurance</code> <span class="path">/Life-and-Disability-Insurance.12.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Life and Disability Insurance</code> <span class="path">/life-and-disability-insurance12</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Dental Insurance</code> <span class="path">/Dental-Insurance.11.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Dental Insurance</code> <span class="path">/</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Temporary Health Insurance Quotes</code> <span class="path">/Temporary-Health-Insurance-Quotes.15.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Temporary Health Insurance Quotes</code> <span class="path">/Agent/0053870</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>International Insurance Plans</code> <span class="path">/International-Insurance-Plans.16.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>International Insurance Plans</code> <span class="path">/international-insurance-plans.aspx</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Real Wealth® Monthly Podcasts</code> <span class="path">/Real-Wealth-Monthly-Podcasts.6.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Real Wealth® Monthly Podcasts</code> <span class="path">/custom-section-66</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>About Me</code> <span class="path">/About-Me.2.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>About Me</code> <span class="path">/liz-pollock-bio2</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>My Continuing Education Coursework</code> <span class="path">/My-Continuing-Education-Coursework.5.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>My Continuing Education Coursework</code> <span class="path">/my-continuing-education-coursework5</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>My Location</code> <span class="path">/location.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>My Location</code> <span class="path">/location</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Tell A Friend</code> <span class="path">/tellafriend.cfm</span>
+        
+        
+        <div class="note">Sub-item "Tell A Friend" under "About Us" is missing in migrated</div>
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Featured Links</code> <span class="path">/featured_links.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Featured Links</code> <span class="path">/featured-links</span>
+        
+      </td>
+    </tr>
+    
+  
+  </tbody>
+      </table>
+    </details>
+  
+        
     </div>
   </div>
 
   <!-- ═══ PART 3: Content Identity Check ═══ -->
   
-      <div class="part">
-        <div class="part-header">
-          <div>
-            <div style="display:flex;align-items:center;gap:10px">
-              <span class="part-badge badge-skip">PART 3</span>
-              <span class="part-title">Content Identity Check</span>
-              <span class="part-status" style="background:#757575">SKIPPED</span>
-            </div>
-            <div class="part-subtitle" style="margin-top:6px">
-              Compares company name, phone, email, address, and person names between sites
-            </div>
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-bug">PART 3</span>
+            <span class="part-title">Content Identity Check</span>
+            <span class="part-status" style="background:#d32f2f">MISMATCH</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Compares company name, phone, email, address, and person names between <strong>www.affordablehealthandmore.com</strong> and migrated site
+            &nbsp;·&nbsp; Answers: <em>"Is the migrated site showing the correct company's information?"</em>
           </div>
         </div>
-        <div class="part-body">
-          <div class="skipped-notice">⚠ Identity data unavailable</div>
-        </div>
       </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card"><div class="num num-red">2</div><div class="lbl">Critical Mismatches</div></div>
+          <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Warnings</div></div>
+          <div class="summary-card"><div class="num">2</div><div class="lbl">Original Phones</div></div>
+          <div class="summary-card"><div class="num">2</div><div class="lbl">Migrated Phones</div></div>
+          <div class="summary-card"><div class="num">51</div><div class="lbl">Original Names</div></div>
+          <div class="summary-card"><div class="num">1</div><div class="lbl">Migrated Names</div></div>
+        </div>
+
+        <div class="raw-nav">
+          
+    <div class="raw-nav-box">
+      <h3>Original Site Identity</h3>
+      <div style="font-size:12px;line-height:1.8">
+        <div><strong>Page Title:</strong> Affordable Health and More LLC</div>
+        <div><strong>Company Names:</strong> Affordable Health and More LLC</div>
+        <div><strong>Phone Numbers:</strong> (262) 439-9867, (262) 439-9591</div>
+        <div><strong>Emails:</strong> <span class="muted">(none found)</span></div>
+        <div><strong>Person Names:</strong> New Berlin, Us
+
+						
+							
+      
+        Life, Disability Insurance, Dental Insurance, Temporary Health, Insurance Quotes, International Insurance, Plans
+      
+    
+      
+        Real, Monthly Podcasts, My Continuing, Education Coursework, My Location, Tell A Friend, Featured Links, Resources
+
+						
+							
+          
+            Articles, Calculators
+          
+        
+          
+            Flipbooks, Newsletters
+          
+        
+          
+            Glossary, Tax Library, Videos
+          
+        
+						
+					
+				
+					
+						Request, Quote
+
+						
+							
+            
+              Annuity, Term Care, Insurance  
+            
+          
+            
+              Group, Health 
+            
+          
+            
+              Life, Insurance  
+            
+          
+            
+              Individual, Health 
+            
+          
+            
+              Disability, Income Insurance, Information Request, Us
+
+						
+					
+				
+		
+
+
+          
+        
+      
+    
+  
+      
+        
+          
+    
+      
+        
+     
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+         
+           
+         
+       
+     
+     
+  
+      
+    
+  
+	
+		
+			
+			
+				
+			
+		
+						
+
+					
+						
+							
+		
+			
+				Newsletters, Your Family, Life Insurance, Might Help, During Turbulent, Economic Times, The Iran, Your Portfolio, Top Tax, More Newsletters, Calculators
+        
+      
+      
+        
+      
+        
+          
+            Cost, Retirement
+          
+        
+        Use, College Funding, Life Expectancy, Retirement Plan, Early Distribution, More Calculators, Us 
+			
+			
+			
+						
+							Life, Learning Center, Articles
+                Educate, Newsletters
+                Timely, Flipbooks
+                
+                  These, Glossary
+                  
+                  Financial, Site Map</div>
+        <div><strong>Addresses:</strong> <span class="muted">(none found)</span></div>
+      </div>
+    </div>
+          
+    <div class="raw-nav-box">
+      <h3>Migrated Site Identity</h3>
+      <div style="font-size:12px;line-height:1.8">
+        <div><strong>Page Title:</strong> Home | www.affordablehealthandmore.com</div>
+        <div><strong>Company Names:</strong> <span class="muted">(none found)</span></div>
+        <div><strong>Phone Numbers:</strong> 2624399867, 9723800097</div>
+        <div><strong>Emails:</strong> Liz@AffordableHealthandMore.com</div>
+        <div><strong>Person Names:</strong> Neil H. Resnik</div>
+        <div><strong>Addresses:</strong> <span class="muted">(none found)</span></div>
+      </div>
+    </div>
+        </div>
+
+        
+          <details open>
+            <summary class="section-title">🚨 Content Mismatches <span class="count">2</span></summary>
+            <table class="issue-table"><tbody>
+      <tr>
+        <td class="badge-cell"><span class="badge badge-missing">🚨 CRITICAL</span></td>
+        <td style="padding:10px 16px; font-weight:600">Phone Number</td>
+        <td style="padding:10px 16px">
+          <div><span class="label">Original:</span> <code>(262) 439-9867, (262) 439-9591</code></div>
+          <div><span class="label">Migrated:</span> <code>(972) 380-0097</code></div>
+          <div class="note">Template phone &quot;(972) 380-0097&quot; found on migrated site — not the company's real number</div>
+        </td>
+      </tr>
+      <tr>
+        <td class="badge-cell"><span class="badge badge-missing">🚨 CRITICAL</span></td>
+        <td style="padding:10px 16px; font-weight:600">Person Name</td>
+        <td style="padding:10px 16px">
+          <div><span class="label">Original:</span> <code>New Berlin, Us
+
+						
+							
+      
+        Life, Disability Insurance, Dental Insurance, Temporary Health, Insurance </code></div>
+          <div><span class="label">Migrated:</span> <code>Neil H. Resnik</code></div>
+          <div class="note">Person &quot;Neil H. Resnik&quot; appears on migrated site but not on original</div>
+        </td>
+      </tr></tbody></table>
+          </details>
+        
+      </div>
+    </div>
 
 </div>
 </body>

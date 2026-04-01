@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.affordablehealthandmore.com",
     "migratedDomain": "https://affordablehealthandmore-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T07:56:11.323Z",
+    "capturedAt": "2026-04-01T13:05:38.682Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -56,7 +56,171 @@
         ]
       }
     ],
-    "originalItems": [],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.affordablehealthandmore.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.affordablehealthandmore.com/about_us/",
+        "path": "/about_us",
+        "subItems": [
+          {
+            "text": "Life and Disability Insurance",
+            "href": "https://www.affordablehealthandmore.com/Life-and-Disability-Insurance.12.htm",
+            "path": "/Life-and-Disability-Insurance.12.htm"
+          },
+          {
+            "text": "Dental Insurance",
+            "href": "https://www.affordablehealthandmore.com/Dental-Insurance.11.htm",
+            "path": "/Dental-Insurance.11.htm"
+          },
+          {
+            "text": "Temporary Health Insurance Quotes",
+            "href": "https://www.affordablehealthandmore.com/Temporary-Health-Insurance-Quotes.15.htm",
+            "path": "/Temporary-Health-Insurance-Quotes.15.htm"
+          },
+          {
+            "text": "International Insurance Plans",
+            "href": "https://www.affordablehealthandmore.com/International-Insurance-Plans.16.htm",
+            "path": "/International-Insurance-Plans.16.htm"
+          },
+          {
+            "text": "Real Wealth® Monthly Podcasts",
+            "href": "https://www.affordablehealthandmore.com/Real-Wealth-Monthly-Podcasts.6.htm",
+            "path": "/Real-Wealth-Monthly-Podcasts.6.htm"
+          },
+          {
+            "text": "About Me",
+            "href": "https://www.affordablehealthandmore.com/About-Me.2.htm",
+            "path": "/About-Me.2.htm"
+          },
+          {
+            "text": "My Continuing Education Coursework",
+            "href": "https://www.affordablehealthandmore.com/My-Continuing-Education-Coursework.5.htm",
+            "path": "/My-Continuing-Education-Coursework.5.htm"
+          },
+          {
+            "text": "My Location",
+            "href": "https://www.affordablehealthandmore.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=20062",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.affordablehealthandmore.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.affordablehealthandmore.com/learning_center/",
+        "path": "/learning_center",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.affordablehealthandmore.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.affordablehealthandmore.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.affordablehealthandmore.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.affordablehealthandmore.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.affordablehealthandmore.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.affordablehealthandmore.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.affordablehealthandmore.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.affordablehealthandmore.com/request_quote/",
+        "path": "/request_quote",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=20062&SN=1910271181",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=20062&SN=1910271181",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=20062&SN=1910271181",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=20062&SN=1910271181",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=20062&SN=1910271181",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=20062&SN=1910271181",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=20062&SN=1910271181",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=20062&SN=1910271181",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.affordablehealthandmore.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
     "migratedItems": [
       {
         "text": "Home",
@@ -238,22 +402,208 @@
       "ok": 10,
       "totalBrItems": 11
     },
-    "liveIssues": [],
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/about_us",
+        "migratedText": "About Us",
+        "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/life-and-disability-insurance12",
+        "migratedPath": "/life-and-disability-insurance12",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Life and Disability Insurance",
+            "brHref": "/Life-and-Disability-Insurance.12.htm",
+            "migratedText": "Life and Disability Insurance",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/life-and-disability-insurance12",
+            "migratedPath": "/life-and-disability-insurance12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Dental Insurance",
+            "brHref": "/Dental-Insurance.11.htm",
+            "migratedText": "Dental Insurance",
+            "migratedHref": "https://www.deltadentalcoversme.com/?agency=1781605498",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Temporary Health Insurance Quotes",
+            "brHref": "/Temporary-Health-Insurance-Quotes.15.htm",
+            "migratedText": "Temporary Health Insurance Quotes",
+            "migratedHref": "https://www.ihcmarketplace.com/Agent/0053870?productType=STM&bundleGID=2",
+            "migratedPath": "/Agent/0053870"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "International Insurance Plans",
+            "brHref": "/International-Insurance-Plans.16.htm",
+            "migratedText": "International Insurance Plans",
+            "migratedHref": "http://producer.imglobal.com/international-insurance-plans.aspx?imgac=18581",
+            "migratedPath": "/international-insurance-plans.aspx"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Real Wealth® Monthly Podcasts",
+            "brHref": "/Real-Wealth-Monthly-Podcasts.6.htm",
+            "migratedText": "Real Wealth® Monthly Podcasts",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Me",
+            "brHref": "/About-Me.2.htm",
+            "migratedText": "About Me",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/liz-pollock-bio2",
+            "migratedPath": "/liz-pollock-bio2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "My Continuing Education Coursework",
+            "brHref": "/My-Continuing-Education-Coursework.5.htm",
+            "migratedText": "My Continuing Education Coursework",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/my-continuing-education-coursework5",
+            "migratedPath": "/my-continuing-education-coursework5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "My Location",
+            "brHref": "/location.htm",
+            "migratedText": "My Location",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/learning_center",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/request_quote",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
     "liveSummary": {
-      "totalSourceItems": 0,
+      "totalSourceItems": 30,
       "totalMigratedItems": 12,
-      "missing": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 0,
+      "duplicates": 1,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 0
+      "ok": 11
     },
-    "originalCrawlFailed": true,
-    "originalCrawlError": "Playwright: page.goto: net::ERR_ADDRESS_INVALID at http://www.affordablehealthandmore.com/\nCall log:\n  - navigat | Fetch: fetch failed",
+    "originalCrawlFailed": false,
     "contentCheck": {
-      "originalIdentity": null,
+      "originalIdentity": {
+        "pageTitle": "Affordable Health and More LLC",
+        "companyNames": [
+          "Affordable Health and More LLC"
+        ],
+        "phoneNumbers": [
+          "(262) 439-9867",
+          "(262) 439-9591"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "New Berlin",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Life",
+          "Disability Insurance",
+          "Dental Insurance",
+          "Temporary Health",
+          "Insurance Quotes",
+          "International Insurance",
+          "Plans\n      \n    \n      \n        Real",
+          "Monthly Podcasts",
+          "My Continuing",
+          "Education Coursework",
+          "My Location",
+          "Tell A Friend",
+          "Featured Links",
+          "Resources\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n          \n            Articles",
+          "Calculators\n          \n        \n          \n            Flipbooks",
+          "Newsletters\n          \n        \n          \n            Glossary",
+          "Tax Library",
+          "Videos\n          \n        \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tRequest",
+          "Quote\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n            \n              Annuity",
+          "Term Care",
+          "Insurance  \n            \n          \n            \n              Group",
+          "Health \n            \n          \n            \n              Life",
+          "Insurance  \n            \n          \n            \n              Individual",
+          "Health \n            \n          \n            \n              Disability",
+          "Income Insurance",
+          "Information Request",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters",
+          "Your Family",
+          "Life Insurance",
+          "Might Help",
+          "During Turbulent",
+          "Economic Times",
+          "The Iran",
+          "Your Portfolio",
+          "Top Tax",
+          "More Newsletters",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost",
+          "Retirement\n          \n        \n        Use",
+          "College Funding",
+          "Life Expectancy",
+          "Retirement Plan",
+          "Early Distribution",
+          "More Calculators",
+          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tLife",
+          "Learning Center",
+          "Articles\n                Educate",
+          "Newsletters\n                Timely",
+          "Flipbooks\n                \n                  These",
+          "Glossary\n                  \n                  Financial",
+          "Site Map"
+        ],
+        "footerText": "Site Map"
+      },
       "migratedIdentity": {
         "pageTitle": "Home | www.affordablehealthandmore.com",
         "companyNames": [],
@@ -273,10 +623,17 @@
       "mismatches": [
         {
           "field": "phone",
-          "originalValue": "(original not available)",
+          "originalValue": "(262) 439-9867, (262) 439-9591",
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "New Berlin, Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Life, Disability Insurance, Dental Insurance, Temporary Health, Insurance Quotes, International Insurance, Plans\n      \n    \n      \n        Real, Monthly Podcasts, My Continuing, Education Coursework, My Location, Tell A Friend, Featured Links, Resources\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n          \n            Articles, Calculators\n          \n        \n          \n            Flipbooks, Newsletters\n          \n        \n          \n            Glossary, Tax Library, Videos\n          \n        \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tRequest, Quote\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n            \n              Annuity, Term Care, Insurance  \n            \n          \n            \n              Group, Health \n            \n          \n            \n              Life, Insurance  \n            \n          \n            \n              Individual, Health \n            \n          \n            \n              Disability, Income Insurance, Information Request, Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters, Your Family, Life Insurance, Might Help, During Turbulent, Economic Times, The Iran, Your Portfolio, Top Tax, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost, Retirement\n          \n        \n        Use, College Funding, Life Expectancy, Retirement Plan, Early Distribution, More Calculators, Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tLife, Learning Center, Articles\n                Educate, Newsletters\n                Timely, Flipbooks\n                \n                  These, Glossary\n                  \n                  Financial, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
     }
