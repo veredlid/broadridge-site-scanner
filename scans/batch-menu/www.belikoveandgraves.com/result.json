@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.belikoveandgraves.com",
     "migratedDomain": "https://belikoveandgraves-31030806.brprodaccount.com/",
-    "capturedAt": "2026-04-01T07:59:03.648Z",
+    "capturedAt": "2026-04-01T13:13:53.286Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -299,7 +299,7 @@
       "ok": 0
     },
     "originalCrawlFailed": true,
-    "originalCrawlError": "Playwright: page.goto: net::ERR_NETWORK_CHANGED at http://www.belikoveandgraves.com/\nCall log:\n  - navigating to | Fetch: fetch failed",
+    "originalCrawlError": "Playwright: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"http://www.belikoveandgraves.com/\" | Fetch: fetch failed",
     "contentCheck": {
       "originalIdentity": null,
       "migratedIdentity": {
