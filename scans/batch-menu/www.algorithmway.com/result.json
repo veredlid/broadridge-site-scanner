@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.algorithmway.com",
     "migratedDomain": "https://algorithmway-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T07:56:49.714Z",
+    "capturedAt": "2026-04-01T13:09:14.705Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -40,7 +40,50 @@
         ]
       }
     ],
-    "originalItems": [],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.algorithmway.com/index.cfm",
+        "path": "/index.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Mission Statement",
+        "href": "https://www.algorithmway.com/Our-Mission-Statement.1.htm",
+        "path": "/Our-Mission-Statement.1.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Location",
+        "href": "https://www.algorithmway.com/location.cfm",
+        "path": "/location.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Firm",
+        "href": "https://www.algorithmway.com/Our-Firm.2.htm",
+        "path": "/Our-Firm.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Services",
+        "href": "https://www.algorithmway.com/Our-Services.3.htm",
+        "path": "/Our-Services.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Qualifications",
+        "href": "https://www.algorithmway.com/Our-Qualifications.4.htm",
+        "path": "/Our-Qualifications.4.htm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
     "migratedItems": [
       {
         "text": "Home",
@@ -170,22 +213,113 @@
       "ok": 6,
       "totalBrItems": 7
     },
-    "liveIssues": [],
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://algorithmway-31030807.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/index.cfm",
+        "migratedText": "Home",
+        "migratedHref": "https://algorithmway-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Mission Statement",
+        "brHref": "/Our-Mission-Statement.1.htm",
+        "migratedText": "Our Mission Statement",
+        "migratedHref": "https://algorithmway-31030807.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"Our Mission Statement\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Location",
+        "brHref": "/location.cfm",
+        "migratedText": "Our Location",
+        "migratedHref": "https://algorithmway-31030807.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Our Location\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Firm",
+        "brHref": "/Our-Firm.2.htm",
+        "migratedText": "Our Firm",
+        "migratedHref": "https://algorithmway-31030807.brprodaccount.com/our-firm2",
+        "migratedPath": "/our-firm2",
+        "note": "\"Our Firm\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Our Services",
+        "migratedHref": "https://algorithmway-31030807.brprodaccount.com/our-services3",
+        "migratedPath": "/our-services3",
+        "note": "\"Our Services\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Qualifications",
+        "brHref": "/Our-Qualifications.4.htm",
+        "migratedText": "Our Qualifications",
+        "migratedHref": "https://algorithmway-31030807.brprodaccount.com/our-qualifications4",
+        "migratedPath": "/our-qualifications4",
+        "note": "\"Our Qualifications\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Us",
+        "migratedHref": "https://algorithmway-31030807.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
     "liveSummary": {
-      "totalSourceItems": 0,
+      "totalSourceItems": 6,
       "totalMigratedItems": 8,
       "missing": 0,
-      "extra": 0,
+      "extra": 1,
       "brokenLinks": 0,
-      "duplicates": 0,
+      "duplicates": 1,
       "hrefMismatches": 0,
-      "structureChanges": 0,
-      "ok": 0
+      "structureChanges": 5,
+      "ok": 1
     },
-    "originalCrawlFailed": true,
-    "originalCrawlError": "Playwright: page.goto: net::ERR_ADDRESS_INVALID at http://www.algorithmway.com/\nCall log:\n  - navigating to \"htt | Fetch: fetch failed",
+    "originalCrawlFailed": false,
     "contentCheck": {
-      "originalIdentity": null,
+      "originalIdentity": {
+        "pageTitle": "Julia Parks and AlgorithmWay",
+        "companyNames": [
+          "Julia Parks and AlgorithmWay"
+        ],
+        "phoneNumbers": [
+          "(803) 348-2307"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Julia W. Parks",
+          "Chief Creative",
+          "Officer\n    \n    \n  \n\n\t\t\t\n\t\t\t\tContact",
+          "Home\n          \n                Our",
+          "Mission Statement",
+          "Our Location",
+          "Our Firm",
+          "Our Services",
+          "Our Qualifications",
+          "Contact Info",
+          "Site Map"
+        ],
+        "footerText": "Site Map"
+      },
       "migratedIdentity": {
         "pageTitle": "Home | www.algorithmway.com",
         "companyNames": [],
@@ -203,10 +337,17 @@
       "mismatches": [
         {
           "field": "phone",
-          "originalValue": "(original not available)",
+          "originalValue": "(803) 348-2307",
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Julia W. Parks, Chief Creative, Officer\n    \n    \n  \n\n\t\t\t\n\t\t\t\tContact, Home\n          \n                Our, Mission Statement, Our Location, Our Firm, Our Services, Our Qualifications, Contact Info, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
     }
