@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Menu Check — www.know-parallel.com</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #1a1a1a; background: #f5f5f5; }
+  .header { background: #1a237e; color: white; padding: 24px 32px; }
+  .header h1 { font-size: 20px; font-weight: 600; margin-bottom: 6px; }
+  .header .meta { font-size: 12px; opacity: 0.7; }
+  .overall-bar { background: #d32f2f; color: white; padding: 8px 32px; font-size: 12px; font-weight: 600; letter-spacing: 1px; display: flex; gap: 32px; }
+  .container { max-width: 1100px; margin: 24px auto; padding: 0 24px; }
+  /* Part tabs */
+  .part { background: white; border-radius: 8px; margin-bottom: 24px; box-shadow: 0 1px 3px rgba(0,0,0,.1); overflow: hidden; }
+  .part-header { padding: 16px 24px; border-bottom: 1px solid #e0e0e0; display: flex; align-items: center; gap: 12px; }
+  .part-badge { padding: 4px 12px; border-radius: 4px; font-size: 12px; font-weight: 700; letter-spacing: .5px; }
+  .part-title { font-size: 16px; font-weight: 600; }
+  .part-subtitle { font-size: 12px; color: #666; margin-top: 2px; }
+  .part-status { margin-left: auto; padding: 4px 12px; border-radius: 4px; font-size: 12px; font-weight: 700; color: white; }
+  .part-body { padding: 20px 24px; }
+  .badge-pass { background: #e8f5e9; color: #2e7d32; }
+  .badge-bug  { background: #ffebee; color: #c62828; }
+  .badge-warn { background: #e3f2fd; color: #1565c0; }
+  .badge-skip { background: #f5f5f5; color: #757575; }
+  /* Summary cards */
+  .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; margin-bottom: 20px; }
+  .summary-card { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 8px; padding: 14px; text-align: center; }
+  .summary-card .num { font-size: 28px; font-weight: 700; }
+  .summary-card .lbl { font-size: 11px; text-transform: uppercase; letter-spacing: .5px; color: #666; margin-top: 4px; }
+  .num-red { color: #d32f2f; } .num-orange { color: #e65100; }
+  .num-blue { color: #1565c0; } .num-green { color: #2e7d32; }
+  /* Issue tables */
+  details { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 6px; margin-bottom: 10px; overflow: hidden; }
+  summary.section-title { padding: 12px 16px; font-weight: 600; font-size: 13px; cursor: pointer; user-select: none; list-style: none; display: flex; align-items: center; gap: 8px; }
+  summary.section-title::-webkit-details-marker { display: none; }
+  summary.section-title .count { background: #e0e0e0; border-radius: 12px; padding: 2px 8px; font-size: 12px; font-weight: 700; }
+  .issue-table { width: 100%; border-collapse: collapse; }
+  .issue-table tr { border-top: 1px solid #f0f0f0; }
+  .issue-table tr:hover { background: #f5f5f5; }
+  .badge-cell { width: 160px; padding: 10px 16px; vertical-align: top; }
+  .detail-cell { padding: 10px 16px; line-height: 1.6; }
+  .badge { display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; white-space: nowrap; }
+  .badge-missing  { background: #ffebee; color: #c62828; }
+  .badge-broken   { background: #ffebee; color: #c62828; }
+  .badge-duplicate    { background: #fff3e0; color: #e65100; }
+  .badge-href-mismatch{ background: #fce4ec; color: #ad1457; }
+  .badge-structure{ background: #e3f2fd; color: #1565c0; }
+  .badge-extra    { background: #e8f5e9; color: #2e7d32; }
+  .badge-ok       { background: #e8f5e9; color: #2e7d32; }
+  code { background: #f5f5f5; border-radius: 3px; padding: 1px 5px; font-size: 13px; }
+  .path { color: #666; font-size: 12px; font-family: monospace; }
+  .label { font-size: 11px; text-transform: uppercase; letter-spacing: .5px; color: #999; }
+  .note { margin-top: 4px; font-size: 12px; color: #555; font-style: italic; }
+  .http { display: inline-block; padding: 1px 6px; border-radius: 3px; font-size: 11px; font-weight: 700; }
+  .http-200 { background: #e8f5e9; color: #2e7d32; }
+  .http-404 { background: #ffebee; color: #c62828; }
+  .http-301, .http-302 { background: #fff8e1; color: #e65100; }
+  /* Raw nav panels */
+  .raw-nav { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 20px; }
+  .raw-nav-box { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 6px; padding: 14px; }
+  .raw-nav-box h3 { font-size: 12px; font-weight: 600; margin-bottom: 8px; color: #444; text-transform: uppercase; letter-spacing: .5px; }
+  .raw-nav-box ul { padding-left: 16px; }
+  .raw-nav-box li { padding: 3px 0; font-size: 13px; }
+  .sub-list { padding-left: 20px; margin-top: 4px; }
+  .sub-list li { font-size: 12px; color: #555; }
+  .muted { color: #bbb; }
+  .skipped-notice { background: #f5f5f5; border: 1px solid #e0e0e0; border-radius: 6px; padding: 20px; text-align: center; color: #757575; font-size: 13px; }
+  @media (max-width: 700px) { .raw-nav { grid-template-columns: 1fr; } .summary-grid { grid-template-columns: repeat(3, 1fr); } }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Menu Check Report — www.know-parallel.com</h1>
+  <div class="meta">
+    Migrated: https://know-parallel-31030759.brprodaccount.com/ &nbsp;·&nbsp;
+    Scanned: 4/1/2026, 11:45:14 AM
+  </div>
+</div>
+<div class="overall-bar">
+  <span>Part 1 (BR JSON vs Migrated): BUGS FOUND</span>
+  <span>Part 2 (Original vs Migrated): BUGS FOUND</span>
+  <span>Part 3 (Content Identity): PASS</span>
+</div>
+
+<div class="container">
+
+  <!-- ═══ PART 1: BR JSON vs Migrated ═══ -->
+  <div class="part">
+    <div class="part-header">
+      <div>
+        <div style="display:flex;align-items:center;gap:10px">
+          <span class="part-badge badge-bug">PART 1</span>
+          <span class="part-title">BR JSON vs Migrated Site</span>
+          <span class="part-status" style="background:#d32f2f">BUGS FOUND</span>
+        </div>
+        <div class="part-subtitle" style="margin-top:6px">
+          Source of truth: BR Source API navigation spec &nbsp;·&nbsp;
+          Answers: <em>"Was everything in the migration spec actually migrated?"</em>
+        </div>
+      </div>
+    </div>
+    <div class="part-body">
+      
+    <div class="summary-grid">
+      <div class="summary-card"><div class="num">20</div><div class="lbl">BR JSON Items</div></div>
+      <div class="summary-card"><div class="num">20</div><div class="lbl">Migrated Items</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Missing</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Broken Links</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Duplicates</div></div>
+      <div class="summary-card"><div class="num num-red">1</div><div class="lbl">Href Mismatches</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Structure Changes</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Extra Items</div></div>
+    </div>
+  
+
+      <div class="raw-nav">
+        <div class="raw-nav-box">
+          <h3>BR JSON Navigation (source of truth)</h3>
+          <ul><li><code>Home</code> <span class="path">/./</span><ul class="sub-list"><li><code>Secure Client Upload</code> <span class="path">/https://www.dropbox.com/request/5LxehF1SgqfV0jIQhfSr</span></li><li><code>Parallel Family Office Secure Upload</code> <span class="path">/https://www.dropbox.com/request/ZsF7M1NKsdJrPlZrdaDv</span></li></ul></li><li><code>About Our Team</code> <span class="path">/About-Our-Team.5.htm</span><ul class="sub-list"><li><code>Our Mission Statement</code> <span class="path">/Our-Mission-Statement.1.htm</span></li><li><code>Our Location</code> <span class="path">/location.htm</span></li><li><code>Our Firm</code> <span class="path">/Our-Firm.2.htm</span></li><li><code>Our Services</code> <span class="path">/Our-Services.3.htm</span></li><li><code>Our Qualifications</code> <span class="path">/Our-Qualifications.4.htm</span></li></ul></li><li><code>Your Account</code> <span class="path">/You-Account.6.htm</span></li><li><code>Resources</code> <span class="path">/#</span><ul class="sub-list"><li><code>Articles</code> <span class="path">/learning_center/research/</span></li><li><code>Calculators</code> <span class="path">/learning_center/calculators/</span></li><li><code>Newsletters</code> <span class="path">/learning_center/newsletters/</span></li><li><code>Glossary</code> <span class="path">/learning_center/glossary/</span></li><li><code>Tax Library</code> <span class="path">/learning_center/tax_library/</span></li><li><code>Videos</code> <span class="path">/learning_center/videos/</span></li></ul></li><li><code>Broker/Dealer Form CRS</code> <span class="path">/Broker-Dealer-Form-CRS.8.htm</span></li><li><code>ADV/Firm Brochure</code> <span class="path">/View-ADV-Brochure.7.htm</span></li><li><code>Contact Us</code> <span class="path">/contact_us/</span></li></ul>
+        </div>
+        <div class="raw-nav-box">
+          <h3>Migrated Site Menu (crawled)</h3>
+          <ul><li><code>Home</code> <span class="path">/</span><ul class="sub-list"><li><code>Secure Client Upload</code> <span class="path">/request/5LxehF1SgqfV0jIQhfSr</span></li><li><code>Parallel Family Office Secure Upload</code> <span class="path">/request/ZsF7M1NKsdJrPlZrdaDv</span></li></ul></li><li><code>About Our Team</code> <span class="path">/our-team</span><ul class="sub-list"><li><code>Our Mission Statement</code> <span class="path">/our-mission-statement1</span></li><li><code>Our Location</code> <span class="path">/location</span></li><li><code>Our Firm</code> <span class="path">/our-firm2</span></li><li><code>Our Services</code> <span class="path">/our-services3</span></li><li><code>Our Qualifications</code> <span class="path">/our-qualifications4</span></li></ul></li><li><code>Your Account</code> <span class="path">/your-account6</span></li><li><code>Resources</code> <span class="path">/articles</span><ul class="sub-list"><li><code>Articles</code> <span class="path">/articles</span></li><li><code>Calculators</code> <span class="path">/calculators</span></li><li><code>Newsletters</code> <span class="path">/newsletters</span></li><li><code>Glossary</code> <span class="path">/glossary</span></li><li><code>Tax Library</code> <span class="path">/tax-library</span></li><li><code>Videos</code> <span class="path">/videos</span></li></ul></li><li><code>Broker/Dealer Form CRS</code> <span class="path">/custom-section-88</span></li><li><code>ADV/Firm Brochure</code> <span class="path">/custom-section-77</span></li><li><code>Contact Us</code> <span class="path">/location</span></li></ul>
+        </div>
+      </div>
+
+      
+    <details open>
+      <summary class="section-title">❌ Bugs — Missing Items & Broken Links <span class="count">1</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-href-mismatch" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-href-mismatch">🔗 Href Mismatch</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Resources</code> <span class="path">/#</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Resources</code> <span class="path">/articles</span>
+        <div class="note">"Resources" should be a dropdown (/#) but migrated links to /articles</div>
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Articles</code> <span class="path">/learning_center/research/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Articles</code> <span class="path">/articles</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Calculators</code> <span class="path">/learning_center/calculators/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Calculators</code> <span class="path">/calculators</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Newsletters</code> <span class="path">/learning_center/newsletters/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Newsletters</code> <span class="path">/newsletters</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Glossary</code> <span class="path">/learning_center/glossary/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Glossary</code> <span class="path">/glossary</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Tax Library</code> <span class="path">/learning_center/tax_library/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Tax Library</code> <span class="path">/tax-library</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Videos</code> <span class="path">/learning_center/videos/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Videos</code> <span class="path">/videos</span>
+        
+      </td>
+    </tr>
+    
+  
+  </tbody>
+      </table>
+    </details>
+  
+      
+      
+      
+    <details >
+      <summary class="section-title">✅ Matched Items <span class="count">6</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Home</code> <span class="path">/./</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Secure Client Upload</code> <span class="path">/https://www.dropbox.com/request/5LxehF1SgqfV0jIQhfSr</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Secure Client Upload</code> <span class="path">/request/5LxehF1SgqfV0jIQhfSr</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Parallel Family Office Secure Upload</code> <span class="path">/https://www.dropbox.com/request/ZsF7M1NKsdJrPlZrdaDv</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Parallel Family Office Secure Upload</code> <span class="path">/request/ZsF7M1NKsdJrPlZrdaDv</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>About Our Team</code> <span class="path">/About-Our-Team.5.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>About Our Team</code> <span class="path">/our-team</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Mission Statement</code> <span class="path">/Our-Mission-Statement.1.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Mission Statement</code> <span class="path">/our-mission-statement1</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Location</code> <span class="path">/location.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Location</code> <span class="path">/location</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Firm</code> <span class="path">/Our-Firm.2.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Firm</code> <span class="path">/our-firm2</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Services</code> <span class="path">/Our-Services.3.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Services</code> <span class="path">/our-services3</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Qualifications</code> <span class="path">/Our-Qualifications.4.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Qualifications</code> <span class="path">/our-qualifications4</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Your Account</code> <span class="path">/You-Account.6.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Your Account</code> <span class="path">/your-account6</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Broker/Dealer Form CRS</code> <span class="path">/Broker-Dealer-Form-CRS.8.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Broker/Dealer Form CRS</code> <span class="path">/custom-section-88</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>ADV/Firm Brochure</code> <span class="path">/View-ADV-Brochure.7.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>ADV/Firm Brochure</code> <span class="path">/custom-section-77</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Contact Us</code> <span class="path">/contact_us/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Contact Us</code> <span class="path">/location</span>
+        
+      </td>
+    </tr>
+    
+  </tbody>
+      </table>
+    </details>
+  
+    </div>
+  </div>
+
+  <!-- ═══ PART 2: Original Live Site vs Migrated ═══ -->
+  <div class="part">
+    <div class="part-header">
+      <div>
+        <div style="display:flex;align-items:center;gap:10px">
+          <span class="part-badge badge-bug">PART 2</span>
+          <span class="part-title">Original Live Site vs Migrated Site</span>
+          <span class="part-status" style="background:#d32f2f">BUGS FOUND</span>
+        </div>
+        <div class="part-subtitle" style="margin-top:6px">
+          Source of truth: crawled menu from <strong>www.know-parallel.com</strong> &nbsp;·&nbsp;
+          Answers: <em>"Does the migrated site look the same as the original?"</em>
+        </div>
+      </div>
+    </div>
+    <div class="part-body">
+      
+          
+    <div class="summary-grid">
+      <div class="summary-card"><div class="num">24</div><div class="lbl">Original Items</div></div>
+      <div class="summary-card"><div class="num">20</div><div class="lbl">Migrated Items</div></div>
+      <div class="summary-card"><div class="num num-red">2</div><div class="lbl">Missing</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Broken Links</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Duplicates</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Href Mismatches</div></div>
+      <div class="summary-card"><div class="num num-blue">2</div><div class="lbl">Structure Changes</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Extra Items</div></div>
+    </div>
+  
+
+          <div class="raw-nav">
+            <div class="raw-nav-box">
+              <h3>Original Live Site Menu (crawled)</h3>
+              <ul><li><code>Home</code> <span class="path">/</span><ul class="sub-list"><li><code>Home</code> <span class="path">/</span></li><li><code>Secure Client Upload</code> <span class="path">/request/5LxehF1SgqfV0jIQhfSr</span></li><li><code>Parallel Family Office Secure Upload</code> <span class="path">/Parallel-Family-Office-Secure-Upload.15.htm</span></li></ul></li><li><code>About Our Team</code> <span class="path">/</span><ul class="sub-list"><li><code>About Our Team</code> <span class="path">/About-Our-Team.5.htm</span></li><li><code>Our Mission Statement</code> <span class="path">/Our-Mission-Statement.1.htm</span></li><li><code>Our Location</code> <span class="path">/location.htm</span></li><li><code>Our Firm</code> <span class="path">/Our-Firm.2.htm</span></li><li><code>Our Services</code> <span class="path">/Our-Services.3.htm</span></li><li><code>Our Qualifications</code> <span class="path">/Our-Qualifications.4.htm</span></li><li><code>Tell A Friend</code> <span class="path">/tellafriend.cfm</span></li></ul></li><li><code>Your Account</code> <span class="path">/You-Account.6.htm</span></li><li><code>Resources</code> <span class="path">/</span><ul class="sub-list"><li><code>Articles</code> <span class="path">/learning_center/research</span></li><li><code>Calculators</code> <span class="path">/learning_center/calculators</span></li><li><code>Flipbooks</code> <span class="path">/learning_center/flipbooks</span></li><li><code>Newsletters</code> <span class="path">/learning_center/newsletters</span></li><li><code>Glossary</code> <span class="path">/learning_center/glossary</span></li><li><code>Tax Library</code> <span class="path">/learning_center/tax_library</span></li><li><code>Videos</code> <span class="path">/learning_center/videos</span></li></ul></li><li><code>Broker/Dealer Form CRS</code> <span class="path">/Broker-Dealer-Form-CRS.8.htm</span></li><li><code>ADV/Firm Brochure</code> <span class="path">/View-ADV-Brochure.7.htm</span></li><li><code>Contact Us</code> <span class="path">/contact_us</span></li></ul>
+            </div>
+            <div class="raw-nav-box">
+              <h3>Migrated Site Menu (crawled)</h3>
+              <ul><li><code>Home</code> <span class="path">/</span><ul class="sub-list"><li><code>Secure Client Upload</code> <span class="path">/request/5LxehF1SgqfV0jIQhfSr</span></li><li><code>Parallel Family Office Secure Upload</code> <span class="path">/request/ZsF7M1NKsdJrPlZrdaDv</span></li></ul></li><li><code>About Our Team</code> <span class="path">/our-team</span><ul class="sub-list"><li><code>Our Mission Statement</code> <span class="path">/our-mission-statement1</span></li><li><code>Our Location</code> <span class="path">/location</span></li><li><code>Our Firm</code> <span class="path">/our-firm2</span></li><li><code>Our Services</code> <span class="path">/our-services3</span></li><li><code>Our Qualifications</code> <span class="path">/our-qualifications4</span></li></ul></li><li><code>Your Account</code> <span class="path">/your-account6</span></li><li><code>Resources</code> <span class="path">/articles</span><ul class="sub-list"><li><code>Articles</code> <span class="path">/articles</span></li><li><code>Calculators</code> <span class="path">/calculators</span></li><li><code>Newsletters</code> <span class="path">/newsletters</span></li><li><code>Glossary</code> <span class="path">/glossary</span></li><li><code>Tax Library</code> <span class="path">/tax-library</span></li><li><code>Videos</code> <span class="path">/videos</span></li></ul></li><li><code>Broker/Dealer Form CRS</code> <span class="path">/custom-section-88</span></li><li><code>ADV/Firm Brochure</code> <span class="path">/custom-section-77</span></li><li><code>Contact Us</code> <span class="path">/location</span></li></ul>
+            </div>
+          </div>
+
+          
+    <details open>
+      <summary class="section-title">❌ Bugs — Missing Items & Broken Links <span class="count">2</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>About Our Team</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>About Our Team</code> <span class="path">/our-team</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Tell A Friend</code> <span class="path">/tellafriend.cfm</span>
+        
+        
+        <div class="note">Sub-item "Tell A Friend" under "About Our Team" is missing in migrated</div>
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Resources</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Resources</code> <span class="path">/articles</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Flipbooks</code> <span class="path">/learning_center/flipbooks</span>
+        
+        
+        <div class="note">Sub-item "Flipbooks" under "Resources" is missing in migrated</div>
+      </td>
+    </tr>
+    
+  
+  </tbody>
+      </table>
+    </details>
+  
+          
+          
+          
+    <details >
+      <summary class="section-title">✅ Matched Items <span class="count">7</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Home</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-structure" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-structure">🔀 Structure Change</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Home</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span>
+        <div class="note">"Home" is a sub-item in the original live site but top-level in migrated</div>
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Secure Client Upload</code> <span class="path">/request/5LxehF1SgqfV0jIQhfSr</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Secure Client Upload</code> <span class="path">/request/5LxehF1SgqfV0jIQhfSr</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Parallel Family Office Secure Upload</code> <span class="path">/Parallel-Family-Office-Secure-Upload.15.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Parallel Family Office Secure Upload</code> <span class="path">/request/ZsF7M1NKsdJrPlZrdaDv</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>About Our Team</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>About Our Team</code> <span class="path">/our-team</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-structure" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-structure">🔀 Structure Change</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>About Our Team</code> <span class="path">/About-Our-Team.5.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>About Our Team</code> <span class="path">/our-team</span>
+        <div class="note">"About Our Team" is a sub-item in the original live site but top-level in migrated</div>
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Mission Statement</code> <span class="path">/Our-Mission-Statement.1.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Mission Statement</code> <span class="path">/our-mission-statement1</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Location</code> <span class="path">/location.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Location</code> <span class="path">/location</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Firm</code> <span class="path">/Our-Firm.2.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Firm</code> <span class="path">/our-firm2</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Services</code> <span class="path">/Our-Services.3.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Services</code> <span class="path">/our-services3</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Qualifications</code> <span class="path">/Our-Qualifications.4.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Qualifications</code> <span class="path">/our-qualifications4</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Tell A Friend</code> <span class="path">/tellafriend.cfm</span>
+        
+        
+        <div class="note">Sub-item "Tell A Friend" under "About Our Team" is missing in migrated</div>
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Your Account</code> <span class="path">/You-Account.6.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Your Account</code> <span class="path">/your-account6</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Resources</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Resources</code> <span class="path">/articles</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Articles</code> <span class="path">/learning_center/research</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Articles</code> <span class="path">/articles</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Calculators</code> <span class="path">/learning_center/calculators</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Calculators</code> <span class="path">/calculators</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Flipbooks</code> <span class="path">/learning_center/flipbooks</span>
+        
+        
+        <div class="note">Sub-item "Flipbooks" under "Resources" is missing in migrated</div>
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Newsletters</code> <span class="path">/learning_center/newsletters</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Newsletters</code> <span class="path">/newsletters</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Glossary</code> <span class="path">/learning_center/glossary</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Glossary</code> <span class="path">/glossary</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Tax Library</code> <span class="path">/learning_center/tax_library</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Tax Library</code> <span class="path">/tax-library</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Videos</code> <span class="path">/learning_center/videos</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Videos</code> <span class="path">/videos</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Broker/Dealer Form CRS</code> <span class="path">/Broker-Dealer-Form-CRS.8.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Broker/Dealer Form CRS</code> <span class="path">/custom-section-88</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>ADV/Firm Brochure</code> <span class="path">/View-ADV-Brochure.7.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>ADV/Firm Brochure</code> <span class="path">/custom-section-77</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Contact Us</code> <span class="path">/contact_us</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Contact Us</code> <span class="path">/location</span>
+        
+      </td>
+    </tr>
+    
+  </tbody>
+      </table>
+    </details>
+  
+        
+    </div>
+  </div>
+
+  <!-- ═══ PART 3: Content Identity Check ═══ -->
+  
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-pass">PART 3</span>
+            <span class="part-title">Content Identity Check</span>
+            <span class="part-status" style="background:#2e7d32">PASS</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Compares company name, phone, email, address, and person names between <strong>www.know-parallel.com</strong> and migrated site
+            &nbsp;·&nbsp; Answers: <em>"Is the migrated site showing the correct company's information?"</em>
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Critical Mismatches</div></div>
+          <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Warnings</div></div>
+          <div class="summary-card"><div class="num">1</div><div class="lbl">Original Phones</div></div>
+          <div class="summary-card"><div class="num">1</div><div class="lbl">Migrated Phones</div></div>
+          <div class="summary-card"><div class="num">0</div><div class="lbl">Original Names</div></div>
+          <div class="summary-card"><div class="num">0</div><div class="lbl">Migrated Names</div></div>
+        </div>
+
+        <div class="raw-nav">
+          
+    <div class="raw-nav-box">
+      <h3>Original Site Identity</h3>
+      <div style="font-size:12px;line-height:1.8">
+        <div><strong>Page Title:</strong> Parallel Equity Advisors LTD.</div>
+        <div><strong>Company Names:</strong> Parallel Equity Advisors, Ltd., Parallel Equity Advisors LTD.</div>
+        <div><strong>Phone Numbers:</strong> 7248462488</div>
+        <div><strong>Emails:</strong> advisor@know-parallel.com</div>
+        <div><strong>Person Names:</strong> <span class="muted">(none found)</span></div>
+        <div><strong>Addresses:</strong> 3582 Brodhead Road, Suite </div>
+      </div>
+    </div>
+          
+    <div class="raw-nav-box">
+      <h3>Migrated Site Identity</h3>
+      <div style="font-size:12px;line-height:1.8">
+        <div><strong>Page Title:</strong> Home | www.know-parallel.com</div>
+        <div><strong>Company Names:</strong> <span class="muted">(none found)</span></div>
+        <div><strong>Phone Numbers:</strong> 7248462488</div>
+        <div><strong>Emails:</strong> advisor@know-parallel.com</div>
+        <div><strong>Person Names:</strong> <span class="muted">(none found)</span></div>
+        <div><strong>Addresses:</strong> 3582 Brodhead Road, Suite </div>
+      </div>
+    </div>
+        </div>
+
+        
+          <div style="padding:20px;text-align:center;color:#2e7d32;font-weight:600">
+            ✓ All identity markers match between original and migrated sites
+          </div>
+        
+      </div>
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,831 @@
+{
+  "site": {
+    "original": "www.sterlingbenefitsgroups.net",
+    "migrated": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.sterlingbenefitsgroups.net",
+    "migratedDomain": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:49:29.501Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.1.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.2.htm"
+          },
+          {
+            "title": "OML Financial Associates",
+            "href": "/OML-Financial-Associates.20.htm"
+          },
+          {
+            "title": "CDC COVID19 Info",
+            "href": "/CDC-COVID19-Info.19.htm"
+          },
+          {
+            "title": "Dental & Vision Insurance quote",
+            "href": "/https://brokers.dentalforeveryone.com/?share=true&Portal=7EFD1C5C-BD7B-414E-AA84-CD73BFA6B3D2"
+          },
+          {
+            "title": "Short Term Medical Insurance- In between Jobs? Missed Enrollment?",
+            "href": "/https://www.uhone.com/shop/#/census?brokerid=AA1042973"
+          },
+          {
+            "title": "Traveling Overseas? Click on Travel Insurance Quote Link",
+            "href": "/Traveling-Overseas-Click-on-Travel-Insurance-Quote-Link.3.htm"
+          },
+          {
+            "title": "COBRA-Department of Insurance",
+            "href": "/http://www.dol.gov/dol/topic/health-plans/cobra.htm"
+          },
+          {
+            "title": "Some of the companies we represent:",
+            "href": "/Some-of-the-companies-we-represent.8.htm"
+          },
+          {
+            "title": "Links to quotes and more information",
+            "href": "/featured_links.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.sterlingbenefitsgroups.net/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.sterlingbenefitsgroups.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Associates",
+            "href": "https://www.sterlingbenefitsgroups.net/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.sterlingbenefitsgroups.net/Our-Firm.1.htm",
+            "path": "/Our-Firm.1.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.sterlingbenefitsgroups.net/Our-Services.2.htm",
+            "path": "/Our-Services.2.htm"
+          },
+          {
+            "text": "OML Financial Associates",
+            "href": "https://www.sterlingbenefitsgroups.net/OML-Financial-Associates.20.htm",
+            "path": "/OML-Financial-Associates.20.htm"
+          },
+          {
+            "text": "CDC COVID19 Info",
+            "href": "https://www.sterlingbenefitsgroups.net/CDC-COVID19-Info.19.htm",
+            "path": "/CDC-COVID19-Info.19.htm"
+          },
+          {
+            "text": "Dental & Vision Insurance quote",
+            "href": "https://www.sterlingbenefitsgroups.net/Dental-and-Vision-Insurance-quote.13.htm",
+            "path": "/Dental-and-Vision-Insurance-quote.13.htm"
+          },
+          {
+            "text": "Short Term Medical Insurance- In between Jobs? Missed Enrollment?",
+            "href": "https://www.sterlingbenefitsgroups.net/Short-Term-Medical-Insurance--In-between-Jobs-Missed-Enrollment.5.htm",
+            "path": "/Short-Term-Medical-Insurance--In-between-Jobs-Missed-Enrollment.5.htm"
+          },
+          {
+            "text": "Traveling Overseas? Click on Travel Insurance Quote Link",
+            "href": "https://www.sterlingbenefitsgroups.net/Traveling-Overseas-Click-on-Travel-Insurance-Quote-Link.3.htm",
+            "path": "/Traveling-Overseas-Click-on-Travel-Insurance-Quote-Link.3.htm"
+          },
+          {
+            "text": "COBRA-Department of Insurance",
+            "href": "https://www.sterlingbenefitsgroups.net/COBRA-Department-of-Insurance.6.htm",
+            "path": "/COBRA-Department-of-Insurance.6.htm"
+          },
+          {
+            "text": "Some of the companies we represent:",
+            "href": "https://www.sterlingbenefitsgroups.net/Some-of-the-companies-we-represent.8.htm",
+            "path": "/Some-of-the-companies-we-represent.8.htm"
+          },
+          {
+            "text": "Links to quotes and more information",
+            "href": "https://www.sterlingbenefitsgroups.net/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=22968",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.sterlingbenefitsgroups.net/location.htm",
+            "path": "/location.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.sterlingbenefitsgroups.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.sterlingbenefitsgroups.net/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.sterlingbenefitsgroups.net/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.sterlingbenefitsgroups.net/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.sterlingbenefitsgroups.net/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.sterlingbenefitsgroups.net/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.sterlingbenefitsgroups.net/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.sterlingbenefitsgroups.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.sterlingbenefitsgroups.net/form.cfm?ID=65&SSLID=22968",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.sterlingbenefitsgroups.net/form.cfm?ID=67&SSLID=22968",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.sterlingbenefitsgroups.net/form.cfm?ID=68&SSLID=22968",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.sterlingbenefitsgroups.net/form.cfm?ID=69&SSLID=22968",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.sterlingbenefitsgroups.net/form.cfm?ID=70&SSLID=22968",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.sterlingbenefitsgroups.net/form.cfm?ID=73&SSLID=22968",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.sterlingbenefitsgroups.net/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Associates",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-firm1",
+            "path": "/our-firm1"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-services2",
+            "path": "/our-services2"
+          },
+          {
+            "text": "OML Financial Associates",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/visit-oml-financial-associates-website-for-investments-retirement-planning-life-insurance20",
+            "path": "/visit-oml-financial-associates-website-for-investments-retirement-planning-life-insurance20"
+          },
+          {
+            "text": "CDC COVID19 Info",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Dental & Vision Insurance quote",
+            "href": "https://brokers.dentalforeveryone.com/?share=true&Portal=7EFD1C5C-BD7B-414E-AA84-CD73BFA6B3D2",
+            "path": "/"
+          },
+          {
+            "text": "Short Term Medical Insurance- In between Jobs? Missed Enrollment?",
+            "href": "https://www.uhone.com/shop/#/census?brokerid=AA1042973",
+            "path": "/shop"
+          },
+          {
+            "text": "Traveling Overseas? Click on Travel Insurance Quote Link",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/traveling-overseas3",
+            "path": "/traveling-overseas3"
+          },
+          {
+            "text": "COBRA-Department of Insurance",
+            "href": "http://www.dol.gov/dol/topic/health-plans/cobra.htm",
+            "path": "/dol/topic/health-plans/cobra.htm"
+          },
+          {
+            "text": "Some of the companies we represent:",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/some-of-the-companies-we-represent8",
+            "path": "/some-of-the-companies-we-represent8"
+          },
+          {
+            "text": "Links to quotes and more information",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "OML Financial Associates",
+            "brHref": "/OML-Financial-Associates.20.htm",
+            "migratedText": "OML Financial Associates",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/visit-oml-financial-associates-website-for-investments-retirement-planning-life-insurance20",
+            "migratedPath": "/visit-oml-financial-associates-website-for-investments-retirement-planning-life-insurance20"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "CDC COVID19 Info",
+            "brHref": "/CDC-COVID19-Info.19.htm",
+            "migratedText": "CDC COVID19 Info",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Dental & Vision Insurance quote",
+            "brHref": "/https://brokers.dentalforeveryone.com/?share=true&Portal=7EFD1C5C-BD7B-414E-AA84-CD73BFA6B3D2",
+            "migratedText": "Dental & Vision Insurance quote",
+            "migratedHref": "https://brokers.dentalforeveryone.com/?share=true&Portal=7EFD1C5C-BD7B-414E-AA84-CD73BFA6B3D2",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Short Term Medical Insurance- In between Jobs? Missed Enrollment?",
+            "brHref": "/https://www.uhone.com/shop/#/census?brokerid=AA1042973",
+            "migratedText": "Short Term Medical Insurance- In between Jobs? Missed Enrollment?",
+            "migratedHref": "https://www.uhone.com/shop/#/census?brokerid=AA1042973",
+            "migratedPath": "/shop"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Traveling Overseas? Click on Travel Insurance Quote Link",
+            "brHref": "/Traveling-Overseas-Click-on-Travel-Insurance-Quote-Link.3.htm",
+            "migratedText": "Traveling Overseas? Click on Travel Insurance Quote Link",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/traveling-overseas3",
+            "migratedPath": "/traveling-overseas3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "COBRA-Department of Insurance",
+            "brHref": "/http://www.dol.gov/dol/topic/health-plans/cobra.htm",
+            "migratedText": "COBRA-Department of Insurance",
+            "migratedHref": "http://www.dol.gov/dol/topic/health-plans/cobra.htm",
+            "migratedPath": "/dol/topic/health-plans/cobra.htm"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Some of the companies we represent:",
+            "brHref": "/Some-of-the-companies-we-represent.8.htm",
+            "migratedText": "Some of the companies we represent:",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/some-of-the-companies-we-represent8",
+            "migratedPath": "/some-of-the-companies-we-represent8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Links to quotes and more information",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Links to quotes and more information",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 21,
+      "totalMigratedItems": 21,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 19,
+      "totalBrItems": 21
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "OML Financial Associates",
+            "brHref": "/OML-Financial-Associates.20.htm",
+            "migratedText": "OML Financial Associates",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/visit-oml-financial-associates-website-for-investments-retirement-planning-life-insurance20",
+            "migratedPath": "/visit-oml-financial-associates-website-for-investments-retirement-planning-life-insurance20"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "CDC COVID19 Info",
+            "brHref": "/CDC-COVID19-Info.19.htm",
+            "migratedText": "CDC COVID19 Info",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Dental & Vision Insurance quote",
+            "brHref": "/Dental-and-Vision-Insurance-quote.13.htm",
+            "migratedText": "Dental & Vision Insurance quote",
+            "migratedHref": "https://brokers.dentalforeveryone.com/?share=true&Portal=7EFD1C5C-BD7B-414E-AA84-CD73BFA6B3D2",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Short Term Medical Insurance- In between Jobs? Missed Enrollment?",
+            "brHref": "/Short-Term-Medical-Insurance--In-between-Jobs-Missed-Enrollment.5.htm",
+            "migratedText": "Short Term Medical Insurance- In between Jobs? Missed Enrollment?",
+            "migratedHref": "https://www.uhone.com/shop/#/census?brokerid=AA1042973",
+            "migratedPath": "/shop"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Traveling Overseas? Click on Travel Insurance Quote Link",
+            "brHref": "/Traveling-Overseas-Click-on-Travel-Insurance-Quote-Link.3.htm",
+            "migratedText": "Traveling Overseas? Click on Travel Insurance Quote Link",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/traveling-overseas3",
+            "migratedPath": "/traveling-overseas3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "COBRA-Department of Insurance",
+            "brHref": "/COBRA-Department-of-Insurance.6.htm",
+            "migratedText": "COBRA-Department of Insurance",
+            "migratedHref": "http://www.dol.gov/dol/topic/health-plans/cobra.htm",
+            "migratedPath": "/dol/topic/health-plans/cobra.htm"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Some of the companies we represent:",
+            "brHref": "/Some-of-the-companies-we-represent.8.htm",
+            "migratedText": "Some of the companies we represent:",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/some-of-the-companies-we-represent8",
+            "migratedPath": "/some-of-the-companies-we-represent8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Links to quotes and more information",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Links to quotes and more information",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://sterlingbenefitsgroups-31030754.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 30,
+      "totalMigratedItems": 21,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 21
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Health insurance and employee benefits dental vision financial services life insurance",
+        "companyNames": [
+          "Sterling Benefits Group, LLC"
+        ],
+        "phoneNumbers": [
+          "3056773675",
+          "3056779840"
+        ],
+        "emailAddresses": [
+          "info@sterlingbenefitsgroups.net"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Odalis M. Lopez"
+        ],
+        "footerText": "Securities offered through Chelsea Financial Services, a registered broker-dealer and member, FINRA. Investment Advisory Services offered through Chelsea Advisory Services, Inc., an SEC Registered Investment Advisor. Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.sterlingbenefitsgroups.net",
+        "companyNames": [
+          "Sterling Benefits Group, LLC"
+        ],
+        "phoneNumbers": [
+          "3056773675",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "info@sterlingbenefitsgroups.net"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Securities offered through Chelsea Financial Services, a registered broker-dealer and member, FINRA. Investment Advisory Services offered through Chelsea Advisory Services, Inc., an SEC Registered Investment Advisor."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(305) 677-3675, (305) 677-9840",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Odalis M. Lopez",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

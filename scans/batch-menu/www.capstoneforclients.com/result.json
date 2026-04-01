@@ -1,0 +1,796 @@
+{
+  "site": {
+    "original": "www.capstoneforclients.com",
+    "migrated": "https://capstoneforclients-31030804.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.capstoneforclients.com",
+    "migratedDomain": "https://capstoneforclients-31030804.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:01:30.992Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Welcome",
+            "href": "/Welcome.12.htm"
+          },
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Account Access",
+        "href": "/Account-Access.9.htm",
+        "children": [
+          {
+            "title": "-empty-",
+            "href": "/:void(0);"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.capstoneforclients.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Welcome",
+            "href": "https://www.capstoneforclients.com/Welcome.12.htm",
+            "path": "/Welcome.12.htm"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.capstoneforclients.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.capstoneforclients.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.capstoneforclients.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.capstoneforclients.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.capstoneforclients.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.capstoneforclients.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.capstoneforclients.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.capstoneforclients.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.capstoneforclients.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.capstoneforclients.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.capstoneforclients.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.capstoneforclients.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.capstoneforclients.com/form.cfm?ID=64&SSLID=72148",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.capstoneforclients.com/form.cfm?ID=65&SSLID=72148",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.capstoneforclients.com/form.cfm?ID=68&SSLID=72148",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.capstoneforclients.com/form.cfm?ID=70&SSLID=72148",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.capstoneforclients.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.capstoneforclients.com/tellafriend.cfm?SSLID=72148",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Account Access",
+        "href": "https://www.capstoneforclients.com/Account-Access.9.htm",
+        "path": "/Account-Access.9.htm",
+        "subItems": [
+          {
+            "text": "-empty-",
+            "href": "https://www.capstoneforclients.com/:void(0);",
+            "path": "/:void(0);"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://capstoneforclients-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://capstoneforclients-31030804.brprodaccount.com/welcome12",
+        "path": "/welcome12",
+        "subItems": [
+          {
+            "text": "Welcome",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/welcome12",
+            "path": "/welcome12"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://capstoneforclients-31030804.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://capstoneforclients-31030804.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Account Access",
+        "href": "https://capstoneforclients-31030804.brprodaccount.com/client-account-access9",
+        "path": "/client-account-access9",
+        "subItems": [
+          {
+            "text": "-empty-",
+            "href": "https://capstoneforclients-31030804.brprodaccount.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/welcome12",
+        "migratedPath": "/welcome12",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /welcome12",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Welcome",
+            "brHref": "/Welcome.12.htm",
+            "migratedText": "Welcome",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/welcome12",
+            "migratedPath": "/welcome12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Account Access",
+        "brHref": "/Account-Access.9.htm",
+        "migratedText": "Account Access",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/client-account-access9",
+        "migratedPath": "/client-account-access9",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "-empty-",
+            "brHref": "/:void(0);",
+            "migratedText": "-empty-",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/",
+            "migratedPath": "/"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 18,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 16,
+      "totalBrItems": 18
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/welcome12",
+        "migratedPath": "/welcome12",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /welcome12",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Welcome",
+            "brHref": "/Welcome.12.htm",
+            "migratedText": "Welcome",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/welcome12",
+            "migratedPath": "/welcome12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/#",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"Contact Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Account Access",
+        "brHref": "/Account-Access.9.htm",
+        "migratedText": "Account Access",
+        "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/client-account-access9",
+        "migratedPath": "/client-account-access9",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "-empty-",
+            "brHref": "/:void(0);",
+            "migratedText": "-empty-",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/",
+            "migratedPath": "/"
+          }
+        ]
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 18,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 16
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "",
+        "companyNames": [
+          "CAPSTONE INDEPENDENT FIRM"
+        ],
+        "phoneNumbers": [
+          "(616) 949-7130"
+        ],
+        "emailAddresses": [
+          "rembassy7130@gmail.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Home\n          \n          About",
+          "Us\n           \n            Welcome",
+          "Our Mission",
+          "Statement\n            Our",
+          "Firm\n            Our",
+          "Services\n            \n            Our",
+          "Qualifications\n            \n            \n            \n            Featured",
+          "Links\n            \n           \n          \n          Resources",
+          "Articles\n            Calculators",
+          "Flipbooks\n            Newsletters",
+          "Glossary\n            Tax",
+          "Library\n            Videos",
+          "Request A Quote",
+          "Annuity \n            Long",
+          "Term Care",
+          "Insurance  \n            Life",
+          "Insurance  \n            Disability",
+          "Income Insurance",
+          "Us\n          Tell",
+          "Embassy Drive",
+          "Grand Rapids",
+          "View Calculators",
+          "View Videos",
+          "View Flipbooks",
+          "Do You",
+          "Know Who",
+          "Your Beneficiaries",
+          "More Videos",
+          "Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters",
+          "Smarter Giving",
+          "Playing Fair",
+          "New Consumer",
+          "Airline Passengers",
+          "Look Out",
+          "Observation Care",
+          "Cash Balance",
+          "Plans Help",
+          "Some Business",
+          "Owners Supersize",
+          "Retirement Savings",
+          "More Newsletters",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Required",
+          "Minimum Distributions",
+          "Estate Taxes",
+          "Federal Income",
+          "Tax\n          \n        \n        This",
+          "Retirement\n          \n        \n        Use",
+          "More Calculators",
+          "Site Map",
+          "To Top"
+        ],
+        "footerText": "Site Map\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBack To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.capstoneforclients.com",
+        "companyNames": [
+          "CAPSTONE INDEPENDENT FIRM"
+        ],
+        "phoneNumbers": [
+          "6169497130",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "rembassy7130@gmail.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(616) 949-7130",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Home\n          \n          About, Us\n           \n            Welcome, Our Mission, Statement\n            Our, Firm\n            Our, Services\n            \n            Our, Qualifications\n            \n            \n            \n            Featured, Links\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Life, Insurance  \n            Disability, Income Insurance, Us\n          Tell, Embassy Drive, Grand Rapids, View Calculators, View Videos, View Flipbooks, Do You, Know Who, Your Beneficiaries, More Videos, Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters, Smarter Giving, Playing Fair, New Consumer, Airline Passengers, Look Out, Observation Care, Cash Balance, Plans Help, Some Business, Owners Supersize, Retirement Savings, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Required, Minimum Distributions, Estate Taxes, Federal Income, Tax\n          \n        \n        This, Retirement\n          \n        \n        Use, More Calculators, Site Map, To Top",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

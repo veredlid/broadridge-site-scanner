@@ -1,0 +1,1129 @@
+{
+  "site": {
+    "original": "www.calderwoodfinancial.com",
+    "migrated": "https://calderwoodfinancial-31030804.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.calderwoodfinancial.com",
+    "migratedDomain": "https://calderwoodfinancial-31030804.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:37:30.598Z",
+    "brNavItems": [
+      {
+        "title": "About Us",
+        "href": "/About-Us.16.htm",
+        "children": [
+          {
+            "title": "Team",
+            "href": "/Team.1.htm"
+          },
+          {
+            "title": "Strategic Alliances",
+            "href": "/Strategic-Alliances.3.htm"
+          },
+          {
+            "title": "Disclosures",
+            "href": "/Disclosures.17.htm"
+          }
+        ]
+      },
+      {
+        "title": "Business Owner",
+        "href": "/Products-and-Services.4.htm",
+        "children": [
+          {
+            "title": "401k",
+            "href": "/401k.5.htm"
+          },
+          {
+            "title": "Pension Plans",
+            "href": "/Pension-Plans.6.htm"
+          },
+          {
+            "title": "Supplemental Retirement Plans",
+            "href": "/Non-Qualified-Retirement-Plans.7.htm"
+          },
+          {
+            "title": "Corporate Owned Life Insurance",
+            "href": "/Corporate-Owned-Life-Insurance.2.htm"
+          },
+          {
+            "title": "Strategies for Business Owners",
+            "href": "/Benchmark-for-Business-Owners.12.htm"
+          },
+          {
+            "title": "Employer Group Health Benefits",
+            "href": "/Group-Health--Benefits.9.htm"
+          }
+        ]
+      },
+      {
+        "title": "Individual",
+        "href": "/Analytical-Services.15.htm",
+        "children": [
+          {
+            "title": "Life Insurance",
+            "href": "/Life-Insurance.8.htm"
+          },
+          {
+            "title": "Life Insurance Policy Review",
+            "href": "/Life-Insurance-Policy-Review.14.htm"
+          },
+          {
+            "title": "Investment Portfolio Managment",
+            "href": "/Investment-Portfolio-Managment.18.htm"
+          }
+        ]
+      },
+      {
+        "title": "Client Log-In",
+        "href": "/",
+        "children": [
+          {
+            "title": "SEI",
+            "href": "/https://www.investor.sei-connect.com/"
+          },
+          {
+            "title": "Penn Mutual",
+            "href": "/https://www.pennmutual.com"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/:void(0);",
+        "children": [
+          {
+            "title": "Latest News",
+            "href": "/Latest-News.19.htm"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "401&lpar;k&rpar;",
+        "href": "/401andlparkandrpar.5.htm",
+        "children": []
+      },
+      {
+        "title": "Supplemental Retirement Plans 1",
+        "href": "/Supplemental-Retirement-Plans.7.htm",
+        "children": []
+      },
+      {
+        "title": "Employer Group Benefits ",
+        "href": "/Employer-Group-Health-Benefits.9.htm",
+        "children": []
+      },
+      {
+        "title": "Individuals",
+        "href": "/Individual.15.htm",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "About Us",
+        "href": "https://www.calderwoodfinancial.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "About Us",
+            "href": "https://www.calderwoodfinancial.com/About-Us.16.htm",
+            "path": "/About-Us.16.htm"
+          },
+          {
+            "text": "Team",
+            "href": "https://www.calderwoodfinancial.com/Team.1.htm",
+            "path": "/Team.1.htm"
+          },
+          {
+            "text": "Strategic Alliances",
+            "href": "https://www.calderwoodfinancial.com/Strategic-Alliances.3.htm",
+            "path": "/Strategic-Alliances.3.htm"
+          },
+          {
+            "text": "Disclosures",
+            "href": "https://www.calderwoodfinancial.com/Disclosures.17.htm",
+            "path": "/Disclosures.17.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Business Owner",
+        "href": "https://www.calderwoodfinancial.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Business Owner",
+            "href": "https://www.calderwoodfinancial.com/Products-and-Services.4.htm",
+            "path": "/Products-and-Services.4.htm"
+          },
+          {
+            "text": "401k",
+            "href": "https://www.calderwoodfinancial.com/401k.5.htm",
+            "path": "/401k.5.htm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.calderwoodfinancial.com/form.cfm?ID=72&SSLID=48550",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Pension Plans",
+            "href": "https://www.calderwoodfinancial.com/Pension-Plans.6.htm",
+            "path": "/Pension-Plans.6.htm"
+          },
+          {
+            "text": "Supplemental Retirement Plans",
+            "href": "https://www.calderwoodfinancial.com/Non-Qualified-Retirement-Plans.7.htm",
+            "path": "/Non-Qualified-Retirement-Plans.7.htm"
+          },
+          {
+            "text": "Corporate Owned Life Insurance",
+            "href": "https://www.calderwoodfinancial.com/Corporate-Owned-Life-Insurance.2.htm",
+            "path": "/Corporate-Owned-Life-Insurance.2.htm"
+          },
+          {
+            "text": "Strategies for Business Owners",
+            "href": "https://www.calderwoodfinancial.com/Benchmark-for-Business-Owners.12.htm",
+            "path": "/Benchmark-for-Business-Owners.12.htm"
+          },
+          {
+            "text": "Employer Group Health Benefits",
+            "href": "https://www.calderwoodfinancial.com/Group-Health--Benefits.9.htm",
+            "path": "/Group-Health--Benefits.9.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Individual",
+        "href": "https://www.calderwoodfinancial.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Individual",
+            "href": "https://www.calderwoodfinancial.com/Analytical-Services.15.htm",
+            "path": "/Analytical-Services.15.htm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.calderwoodfinancial.com/Life-Insurance.8.htm",
+            "path": "/Life-Insurance.8.htm"
+          },
+          {
+            "text": "Life Insurance Policy Review",
+            "href": "https://www.calderwoodfinancial.com/Life-Insurance-Policy-Review.14.htm",
+            "path": "/Life-Insurance-Policy-Review.14.htm"
+          },
+          {
+            "text": "Investment Portfolio Managment",
+            "href": "https://www.calderwoodfinancial.com/Investment-Portfolio-Managment.18.htm",
+            "path": "/Investment-Portfolio-Managment.18.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Client Log-In",
+        "href": "https://www.calderwoodfinancial.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "SEI",
+            "href": "https://www.investor.sei-connect.com/",
+            "path": "/"
+          },
+          {
+            "text": "Penn Mutual",
+            "href": "https://www.pennmutual.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.calderwoodfinancial.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Resources",
+            "href": "https://www.calderwoodfinancial.com/:void(0);",
+            "path": "/:void(0);"
+          },
+          {
+            "text": "Latest News",
+            "href": "https://www.calderwoodfinancial.com/Latest-News.19.htm",
+            "path": "/Latest-News.19.htm"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.calderwoodfinancial.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.calderwoodfinancial.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.calderwoodfinancial.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.calderwoodfinancial.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.calderwoodfinancial.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.calderwoodfinancial.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.calderwoodfinancial.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Request a Quote",
+            "href": "https://www.calderwoodfinancial.com/request_quote.htm",
+            "path": "/request_quote.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.calderwoodfinancial.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Contact Us",
+            "href": "https://www.calderwoodfinancial.com/contact_us/",
+            "path": "/contact_us"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.calderwoodfinancial.com/tellafriend.cfm?SSLID=48550",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "About Us",
+        "href": "https://calderwoodfinancial-31030804.brprodaccount.com/about-us16",
+        "path": "/about-us16",
+        "subItems": [
+          {
+            "text": "Team",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Strategic Alliances",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/custom-section-33",
+            "path": "/custom-section-33"
+          },
+          {
+            "text": "Disclosures",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/custom-section-1717",
+            "path": "/custom-section-1717"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Business Owner",
+        "href": "https://calderwoodfinancial-31030804.brprodaccount.com/business-owner4",
+        "path": "/business-owner4",
+        "subItems": [
+          {
+            "text": "401k",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/401lparkrpar5",
+            "path": "/401lparkrpar5"
+          },
+          {
+            "text": "Pension Plans",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/pension-plans6",
+            "path": "/pension-plans6"
+          },
+          {
+            "text": "Supplemental Retirement Plans",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/supplemental-retirement-plans-17",
+            "path": "/supplemental-retirement-plans-17"
+          },
+          {
+            "text": "Corporate Owned Life Insurance",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/corporate-owned-life-insurance2",
+            "path": "/corporate-owned-life-insurance2"
+          },
+          {
+            "text": "Strategies for Business Owners",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/strategies-for-business-owners12",
+            "path": "/strategies-for-business-owners12"
+          },
+          {
+            "text": "Employer Group Health Benefits",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/employer-group-benefits9",
+            "path": "/employer-group-benefits9"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Individual",
+        "href": "https://calderwoodfinancial-31030804.brprodaccount.com/individuals15",
+        "path": "/individuals15",
+        "subItems": [
+          {
+            "text": "Life Insurance",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/life-insurance8",
+            "path": "/life-insurance8"
+          },
+          {
+            "text": "Life Insurance Policy Review",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/life-insurance-policy-review14",
+            "path": "/life-insurance-policy-review14"
+          },
+          {
+            "text": "Investment Portfolio Managment",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/investment-portfolio-managment18",
+            "path": "/investment-portfolio-managment18"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Client Log-In",
+        "href": "https://calderwoodfinancial-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "SEI",
+            "href": "https://www.investor.sei-connect.com/",
+            "path": "/"
+          },
+          {
+            "text": "Penn Mutual",
+            "href": "https://www.pennmutual.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://calderwoodfinancial-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Latest News",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/latest-news19",
+            "path": "/latest-news19"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Articles",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://calderwoodfinancial-31030804.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://calderwoodfinancial-31030804.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/About-Us.16.htm",
+        "migratedText": "About Us",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/about-us16",
+        "migratedPath": "/about-us16",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Team",
+            "brHref": "/Team.1.htm",
+            "migratedText": "Team",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Strategic Alliances",
+            "brHref": "/Strategic-Alliances.3.htm",
+            "migratedText": "Strategic Alliances",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/custom-section-33",
+            "migratedPath": "/custom-section-33"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Disclosures",
+            "brHref": "/Disclosures.17.htm",
+            "migratedText": "Disclosures",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/custom-section-1717",
+            "migratedPath": "/custom-section-1717"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Business Owner",
+        "brHref": "/Products-and-Services.4.htm",
+        "migratedText": "Business Owner",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/business-owner4",
+        "migratedPath": "/business-owner4",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "401k",
+            "brHref": "/401k.5.htm",
+            "migratedText": "401k",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/401lparkrpar5",
+            "migratedPath": "/401lparkrpar5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Pension Plans",
+            "brHref": "/Pension-Plans.6.htm",
+            "migratedText": "Pension Plans",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/pension-plans6",
+            "migratedPath": "/pension-plans6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Supplemental Retirement Plans",
+            "brHref": "/Non-Qualified-Retirement-Plans.7.htm",
+            "migratedText": "Supplemental Retirement Plans",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/supplemental-retirement-plans-17",
+            "migratedPath": "/supplemental-retirement-plans-17"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Corporate Owned Life Insurance",
+            "brHref": "/Corporate-Owned-Life-Insurance.2.htm",
+            "migratedText": "Corporate Owned Life Insurance",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/corporate-owned-life-insurance2",
+            "migratedPath": "/corporate-owned-life-insurance2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Strategies for Business Owners",
+            "brHref": "/Benchmark-for-Business-Owners.12.htm",
+            "migratedText": "Strategies for Business Owners",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/strategies-for-business-owners12",
+            "migratedPath": "/strategies-for-business-owners12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Employer Group Health Benefits",
+            "brHref": "/Group-Health--Benefits.9.htm",
+            "migratedText": "Employer Group Health Benefits",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/employer-group-benefits9",
+            "migratedPath": "/employer-group-benefits9"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Individual",
+        "brHref": "/Analytical-Services.15.htm",
+        "migratedText": "Individual",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/individuals15",
+        "migratedPath": "/individuals15",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance",
+            "brHref": "/Life-Insurance.8.htm",
+            "migratedText": "Life Insurance",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/life-insurance8",
+            "migratedPath": "/life-insurance8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance Policy Review",
+            "brHref": "/Life-Insurance-Policy-Review.14.htm",
+            "migratedText": "Life Insurance Policy Review",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/life-insurance-policy-review14",
+            "migratedPath": "/life-insurance-policy-review14"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investment Portfolio Managment",
+            "brHref": "/Investment-Portfolio-Managment.18.htm",
+            "migratedText": "Investment Portfolio Managment",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/investment-portfolio-managment18",
+            "migratedPath": "/investment-portfolio-managment18"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Client Log-In",
+        "brHref": "/",
+        "migratedText": "Client Log-In",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "SEI",
+            "brHref": "/https://www.investor.sei-connect.com/",
+            "migratedText": "SEI",
+            "migratedHref": "https://www.investor.sei-connect.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Penn Mutual",
+            "brHref": "/https://www.pennmutual.com",
+            "migratedText": "Penn Mutual",
+            "migratedHref": "https://www.pennmutual.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/:void(0);",
+        "migratedText": "Resources",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Latest News",
+            "brHref": "/Latest-News.19.htm",
+            "migratedText": "Latest News",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/latest-news19",
+            "migratedPath": "/latest-news19"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "401&lpar;k&rpar;",
+        "brHref": "/401andlparkandrpar.5.htm",
+        "note": "\"401&lpar;k&rpar;\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Supplemental Retirement Plans 1",
+        "brHref": "/Supplemental-Retirement-Plans.7.htm",
+        "migratedText": "Supplemental Retirement Plans",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/supplemental-retirement-plans-17",
+        "migratedPath": "/supplemental-retirement-plans-17",
+        "note": "\"Supplemental Retirement Plans 1\" is top-level in the BR navigation JSON but nested under \"Business Owner\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Employer Group Benefits ",
+        "brHref": "/Employer-Group-Health-Benefits.9.htm",
+        "note": "\"Employer Group Benefits \" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Individuals",
+        "brHref": "/Individual.15.htm",
+        "migratedText": "Individual",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/individuals15",
+        "migratedPath": "/individuals15",
+        "note": "\"Individuals\" has no sub-items in the BR navigation JSON but has 3 sub-items in migrated"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 31,
+      "totalMigratedItems": 27,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 2,
+      "ok": 27,
+      "totalBrItems": 31
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/about-us16",
+        "migratedPath": "/about-us16",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "About Us",
+            "brHref": "/About-Us.16.htm",
+            "migratedText": "About Us",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/about-us16",
+            "migratedPath": "/about-us16",
+            "note": "\"About Us\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Team",
+            "brHref": "/Team.1.htm",
+            "migratedText": "Team",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Strategic Alliances",
+            "brHref": "/Strategic-Alliances.3.htm",
+            "migratedText": "Strategic Alliances",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/custom-section-33",
+            "migratedPath": "/custom-section-33"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Disclosures",
+            "brHref": "/Disclosures.17.htm",
+            "migratedText": "Disclosures",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/custom-section-1717",
+            "migratedPath": "/custom-section-1717"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Business Owner",
+        "brHref": "/",
+        "migratedText": "Business Owner",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/business-owner4",
+        "migratedPath": "/business-owner4",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Business Owner",
+            "brHref": "/Products-and-Services.4.htm",
+            "migratedText": "Business Owner",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/business-owner4",
+            "migratedPath": "/business-owner4",
+            "note": "\"Business Owner\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "401k",
+            "brHref": "/401k.5.htm",
+            "migratedText": "401k",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/401lparkrpar5",
+            "migratedPath": "/401lparkrpar5"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "401(k) Information Request",
+            "brHref": "/form.cfm",
+            "note": "Sub-item \"401(k) Information Request\" under \"Business Owner\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Pension Plans",
+            "brHref": "/Pension-Plans.6.htm",
+            "migratedText": "Pension Plans",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/pension-plans6",
+            "migratedPath": "/pension-plans6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Supplemental Retirement Plans",
+            "brHref": "/Non-Qualified-Retirement-Plans.7.htm",
+            "migratedText": "Supplemental Retirement Plans",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/supplemental-retirement-plans-17",
+            "migratedPath": "/supplemental-retirement-plans-17"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Corporate Owned Life Insurance",
+            "brHref": "/Corporate-Owned-Life-Insurance.2.htm",
+            "migratedText": "Corporate Owned Life Insurance",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/corporate-owned-life-insurance2",
+            "migratedPath": "/corporate-owned-life-insurance2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Strategies for Business Owners",
+            "brHref": "/Benchmark-for-Business-Owners.12.htm",
+            "migratedText": "Strategies for Business Owners",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/strategies-for-business-owners12",
+            "migratedPath": "/strategies-for-business-owners12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Employer Group Health Benefits",
+            "brHref": "/Group-Health--Benefits.9.htm",
+            "migratedText": "Employer Group Health Benefits",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/employer-group-benefits9",
+            "migratedPath": "/employer-group-benefits9"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Individual",
+        "brHref": "/",
+        "migratedText": "Individual",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/individuals15",
+        "migratedPath": "/individuals15",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Individual",
+            "brHref": "/Analytical-Services.15.htm",
+            "migratedText": "Individual",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/individuals15",
+            "migratedPath": "/individuals15",
+            "note": "\"Individual\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance",
+            "brHref": "/Life-Insurance.8.htm",
+            "migratedText": "Life Insurance",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/life-insurance8",
+            "migratedPath": "/life-insurance8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance Policy Review",
+            "brHref": "/Life-Insurance-Policy-Review.14.htm",
+            "migratedText": "Life Insurance Policy Review",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/life-insurance-policy-review14",
+            "migratedPath": "/life-insurance-policy-review14"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investment Portfolio Managment",
+            "brHref": "/Investment-Portfolio-Managment.18.htm",
+            "migratedText": "Investment Portfolio Managment",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/investment-portfolio-managment18",
+            "migratedPath": "/investment-portfolio-managment18"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Client Log-In",
+        "brHref": "/",
+        "migratedText": "Client Log-In",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "SEI",
+            "brHref": "/",
+            "migratedText": "SEI",
+            "migratedHref": "https://www.investor.sei-connect.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Penn Mutual",
+            "brHref": "/",
+            "migratedText": "Penn Mutual",
+            "migratedHref": "https://www.pennmutual.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Resources",
+            "brHref": "/:void(0);",
+            "migratedText": "Resources",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Resources\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Latest News",
+            "brHref": "/Latest-News.19.htm",
+            "migratedText": "Latest News",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/latest-news19",
+            "migratedPath": "/latest-news19"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Request a Quote",
+            "brHref": "/request_quote.htm",
+            "note": "Sub-item \"Request a Quote\" under \"Resources\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Contact Us",
+            "brHref": "/contact_us",
+            "migratedText": "Contact Us",
+            "migratedHref": "https://calderwoodfinancial-31030804.brprodaccount.com/location",
+            "migratedPath": "/location",
+            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"Contact Us\" is missing in migrated"
+          }
+        ]
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 36,
+      "totalMigratedItems": 27,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 5,
+      "ok": 27
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Calderwood Financial Strategies, Inc.",
+        "companyNames": [
+          "Calderwood Financial Strategies, Inc."
+        ],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Charles Calderwood",
+          "More\n\nStephanie Blakes",
+          "More\n\nPatrick Connelly",
+          "More\n\nLenny Saizan"
+        ],
+        "footerText": "Investment advisory services offered through Calderwood Financial Strategies, Inc., an SEC-Registered Investment Adviser. We do not offer tax or legal advice. Please consult a qualified tax or legal advisor regarding your individual circumstances.Calderwood Financial Form ADV Part 2ACalderwood Financial Form CRSWorking with an advisor that is listed in the Brightscope Financial Advisor Directory cannot guarantee investment success or that financial goals will be achieved. There can be no assurance that working with an advisor that is listed in the Brightscope Financial Advisor Directory will produce or achieve better results than working with an advisor not listed in the Brightscope Financial Advisor Directory. This communication is not an offer or solicitation in any state without proper licensing or registration.PLEASE NOTE: This information is being provided as a courtesy. If you link to any web sites provided here, you are leaving our web site. We make no representation as to the c"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.calderwoodfinancial.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik",
+          "Charles Calderwood",
+          "More\n\nStephanie Blakes",
+          "More\n\nPatrick Connelly",
+          "More\n\nLenny Saizan"
+        ],
+        "footerText": "Investment advisory services offered through Calderwood Financial Strategies, Inc., an SEC-Registered Investment Adviser. We do not offer tax or legal advice. Please consult a qualified tax or legal advisor regarding your individual circumstances.Calderwood Financial ADV Part 2ACalderwood Financial Form CRSWorking with an advisor that is listed in the Brightscope Financial Advisor Directory cannot guarantee investment success or that financial goals will be achieved. There can be no assurance that working with an advisor that is listed in the Brightscope Financial Advisor Directory will produce or achieve better results than working with an advisor not listed in the Brightscope Financial Advisor Directory. This communication is not an offer or solicitation in any state without proper licensing or registration.PLEASE NOTE: This information is being provided as a courtesy. If you link to any web sites provided here, you are leaving our web site. We make no representation as to the comple"
+      },
+      "mismatches": [
+        {
+          "field": "person-name",
+          "originalValue": "Charles Calderwood, More\n\nStephanie Blakes, More\n\nPatrick Connelly, More\n\nLenny Saizan",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

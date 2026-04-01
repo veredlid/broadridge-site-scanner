@@ -1,0 +1,688 @@
+{
+  "site": {
+    "original": "www.wealthmastergroupinc.com",
+    "migrated": "https://wealthmastergroupinc-31030752.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.wealthmastergroupinc.com",
+    "migratedDomain": "https://wealthmastergroupinc-31030752.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:51:03.161Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Mission Statement",
+            "href": "/Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/Our-Team.5.htm"
+          },
+          {
+            "title": "Firm",
+            "href": "/Firm.2.htm"
+          },
+          {
+            "title": "Services",
+            "href": "/Services.3.htm"
+          },
+          {
+            "title": "Office Locations",
+            "href": "/Office-Locations.4.htm"
+          },
+          {
+            "title": "Upcoming Seminars",
+            "href": "/Upcoming-Seminars.7.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.wealthmastergroupinc.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.wealthmastergroupinc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Mission Statement",
+            "href": "https://www.wealthmastergroupinc.com/Mission-Statement.1.htm",
+            "path": "/Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://www.wealthmastergroupinc.com/Our-Team.5.htm",
+            "path": "/Our-Team.5.htm"
+          },
+          {
+            "text": "Firm",
+            "href": "https://www.wealthmastergroupinc.com/Firm.2.htm",
+            "path": "/Firm.2.htm"
+          },
+          {
+            "text": "Services",
+            "href": "https://www.wealthmastergroupinc.com/Services.3.htm",
+            "path": "/Services.3.htm"
+          },
+          {
+            "text": "Office Locations",
+            "href": "https://www.wealthmastergroupinc.com/Office-Locations.4.htm",
+            "path": "/Office-Locations.4.htm"
+          },
+          {
+            "text": "Upcoming Seminars",
+            "href": "https://www.wealthmastergroupinc.com/Upcoming-Seminars.7.htm",
+            "path": "/Upcoming-Seminars.7.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=75712",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.wealthmastergroupinc.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.wealthmastergroupinc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.wealthmastergroupinc.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.wealthmastergroupinc.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.wealthmastergroupinc.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.wealthmastergroupinc.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.wealthmastergroupinc.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.wealthmastergroupinc.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.wealthmastergroupinc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.wealthmastergroupinc.com/form.cfm?ID=64&SSLID=75712",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.wealthmastergroupinc.com/form.cfm?ID=65&SSLID=75712",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.wealthmastergroupinc.com/form.cfm?ID=68&SSLID=75712",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.wealthmastergroupinc.com/form.cfm?ID=70&SSLID=75712",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.wealthmastergroupinc.com/form.cfm?ID=72&SSLID=75712",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.wealthmastergroupinc.com/form.cfm?ID=73&SSLID=75712",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.wealthmastergroupinc.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/mission-statement1",
+        "path": "/mission-statement1",
+        "subItems": [
+          {
+            "text": "Mission Statement",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/mission-statement1",
+            "path": "/mission-statement1"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Firm",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/wealth-master-group-inc2",
+            "path": "/wealth-master-group-inc2"
+          },
+          {
+            "text": "Services",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/services3",
+            "path": "/services3"
+          },
+          {
+            "text": "Office Locations",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Upcoming Seminars",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/upcoming-seminars7",
+            "path": "/upcoming-seminars7"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://wealthmastergroupinc-31030752.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/mission-statement1",
+        "migratedPath": "/mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Mission Statement",
+            "brHref": "/Mission-Statement.1.htm",
+            "migratedText": "Mission Statement",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/mission-statement1",
+            "migratedPath": "/mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/Our-Team.5.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Firm",
+            "brHref": "/Firm.2.htm",
+            "migratedText": "Firm",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/wealth-master-group-inc2",
+            "migratedPath": "/wealth-master-group-inc2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services",
+            "brHref": "/Services.3.htm",
+            "migratedText": "Services",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/services3",
+            "migratedPath": "/services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Office Locations",
+            "brHref": "/Office-Locations.4.htm",
+            "migratedText": "Office Locations",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Upcoming Seminars",
+            "brHref": "/Upcoming-Seminars.7.htm",
+            "migratedText": "Upcoming Seminars",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/upcoming-seminars7",
+            "migratedPath": "/upcoming-seminars7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 17,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 15,
+      "totalBrItems": 17
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/mission-statement1",
+        "migratedPath": "/mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Mission Statement",
+            "brHref": "/Mission-Statement.1.htm",
+            "migratedText": "Mission Statement",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/mission-statement1",
+            "migratedPath": "/mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/Our-Team.5.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Firm",
+            "brHref": "/Firm.2.htm",
+            "migratedText": "Firm",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/wealth-master-group-inc2",
+            "migratedPath": "/wealth-master-group-inc2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services",
+            "brHref": "/Services.3.htm",
+            "migratedText": "Services",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/services3",
+            "migratedPath": "/services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Office Locations",
+            "brHref": "/Office-Locations.4.htm",
+            "migratedText": "Office Locations",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Upcoming Seminars",
+            "brHref": "/Upcoming-Seminars.7.htm",
+            "migratedText": "Upcoming Seminars",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/upcoming-seminars7",
+            "migratedPath": "/upcoming-seminars7"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://wealthmastergroupinc-31030752.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 17,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 17
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Wealth Master Group Inc.",
+        "companyNames": [
+          "Wealth Master Group, Inc.",
+          "Wealth Master Group Inc."
+        ],
+        "phoneNumbers": [
+          "2018889832",
+          "8663006263"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Wealth Master Group does not provide tax or legal advice. Those topics are discussed in conjunction with your CPA, tax advisor or attorney. Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.wealthmastergroupinc.com",
+        "companyNames": [
+          "Wealth Master Group, Inc."
+        ],
+        "phoneNumbers": [
+          "2018889832",
+          "9723800097"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Wealth Master Group does not provide tax or legal advice. Those topics are discussed in conjunction with your CPA, tax advisor or attorney."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(201) 888-9832, (866) 300-6263",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

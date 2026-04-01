@@ -1,6 +1,13 @@
 node_modules/
 dist/
-scans/
+data/
 *.tsbuildinfo
+*.db
+*.db-shm
+*.db-wal
 .env
 .DS_Store
+
+# Ignore all scans except the batch-menu results
+scans/*
+!scans/batch-menu/

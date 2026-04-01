@@ -1,0 +1,727 @@
+{
+  "site": {
+    "original": "www.byrerwealth.com",
+    "migrated": "https://byrerwealth-31030804.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.byrerwealth.com",
+    "migratedDomain": "https://byrerwealth-31030804.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:43:17.668Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "Our Process",
+            "href": "/Our-Process.6.htm"
+          },
+          {
+            "title": "About Byrer Wealth Management LLC",
+            "href": "/About-Byrer-Wealth-Management-LLC.5.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "RBC CircleBlack Client Login",
+        "href": "/https://investor-rbcblack.circleblack.com/login",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.byrerwealth.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.byrerwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.byrerwealth.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.byrerwealth.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.byrerwealth.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.byrerwealth.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.byrerwealth.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Our Process",
+            "href": "https://www.byrerwealth.com/Our-Process.6.htm",
+            "path": "/Our-Process.6.htm"
+          },
+          {
+            "text": "About Byrer Wealth Management LLC",
+            "href": "https://www.byrerwealth.com/About-Byrer-Wealth-Management-LLC.5.htm",
+            "path": "/About-Byrer-Wealth-Management-LLC.5.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.byrerwealth.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.byrerwealth.com/tellafriend.cfm?SSLID=118946",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.byrerwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.byrerwealth.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.byrerwealth.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.byrerwealth.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.byrerwealth.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.byrerwealth.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.byrerwealth.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.byrerwealth.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "RBC CircleBlack Client Login",
+        "href": "https://investor-rbcblack.circleblack.com/login",
+        "path": "/login",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://byrerwealth-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://byrerwealth-31030804.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          },
+          {
+            "text": "Our Process",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/our-process6",
+            "path": "/our-process6"
+          },
+          {
+            "text": "About Byrer Wealth Management LLC",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/about-byrer-wealth-management-llc5",
+            "path": "/about-byrer-wealth-management-llc5"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://byrerwealth-31030804.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://byrerwealth-31030804.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://byrerwealth-31030804.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "RBC CircleBlack Client Login",
+        "href": "https://investor-rbcblack.circleblack.com/login",
+        "path": "/login",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Process",
+            "brHref": "/Our-Process.6.htm",
+            "migratedText": "Our Process",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-process6",
+            "migratedPath": "/our-process6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Byrer Wealth Management LLC",
+            "brHref": "/About-Byrer-Wealth-Management-LLC.5.htm",
+            "migratedText": "About Byrer Wealth Management LLC",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/about-byrer-wealth-management-llc5",
+            "migratedPath": "/about-byrer-wealth-management-llc5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "RBC CircleBlack Client Login",
+        "brHref": "/https://investor-rbcblack.circleblack.com/login",
+        "migratedText": "RBC CircleBlack Client Login",
+        "migratedHref": "https://investor-rbcblack.circleblack.com/login",
+        "migratedPath": "/login"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 19,
+      "totalMigratedItems": 19,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 17,
+      "totalBrItems": 19
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Process",
+            "brHref": "/Our-Process.6.htm",
+            "migratedText": "Our Process",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/our-process6",
+            "migratedPath": "/our-process6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Byrer Wealth Management LLC",
+            "brHref": "/About-Byrer-Wealth-Management-LLC.5.htm",
+            "migratedText": "About Byrer Wealth Management LLC",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/about-byrer-wealth-management-llc5",
+            "migratedPath": "/about-byrer-wealth-management-llc5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "RBC CircleBlack Client Login",
+        "brHref": "/login",
+        "migratedText": "RBC CircleBlack Client Login",
+        "migratedHref": "https://investor-rbcblack.circleblack.com/login",
+        "migratedPath": "/login"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://byrerwealth-31030804.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 20,
+      "totalMigratedItems": 19,
+      "missing": 2,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 18
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "",
+        "companyNames": [
+          "Ted Byrer - Financial Advisor, President & CEO"
+        ],
+        "phoneNumbers": [
+          "3173423365",
+          "3175615063"
+        ],
+        "emailAddresses": [
+          "ted@byrerwealth.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Financial Advisor"
+        ],
+        "footerText": "Advisory Services Offered Through: American Independent Securities Group, LLC (AISG) Member FINRA/ SIPC. AISG is a SEC registered investment advisor. P.O. Box 579 Eagle, ID 83616 Byrer Wealth Management, LLC is separate and not affiliated with AISG. Please note that not all the services and products mentioned in this site are available in every state. Representatives may transact business, which includes offering products and services and/or responding to inquiries, only in state(s) in which they are properly registered and/or licensed. The information within this website has been prepared for informational purposes only and is not an offer to buy or sell, or a solicitation of an offer to buy or sell any security or instrument or to participate in any particular investment or trading strategy. Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.byrerwealth.com",
+        "companyNames": [
+          "Ted Byrer - Financial Advisor, President & CEO"
+        ],
+        "phoneNumbers": [
+          "3173423365",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "ted@byrerwealth.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik",
+          "Financial Advisor"
+        ],
+        "footerText": "Advisory Services Offered Through: American Independent Securities Group, LLC (AISG) Member FINRA/ SIPC. AISG is a SEC registered investment advisor. P.O. Box 579 Eagle, ID 83616 Byrer Wealth Management, LLC is separate and not affiliated with AISG. Please note that not all the services and products mentioned in this site are available in every state. Representatives may transact business, which includes offering products and services and/or responding to inquiries, only in state(s) in which they are properly registered and/or licensed. The information within this website has been prepared for informational purposes only and is not an offer to buy or sell, or a solicitation of an offer to buy or sell any security or instrument or to participate in any particular investment or trading strategy."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(317) 342-3365, (317) 561-5063",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Financial Advisor",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

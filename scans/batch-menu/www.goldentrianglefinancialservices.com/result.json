@@ -1,0 +1,634 @@
+{
+  "site": {
+    "original": "www.goldentrianglefinancialservices.com",
+    "migrated": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.goldentrianglefinancialservices.com",
+    "migratedDomain": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:36:20.678Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.2.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.3.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Form CRS",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Prosperity Wealth Management Client Relationship Summary",
+            "href": "/files/19338/PWM CRS FORM.pdf"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.goldentrianglefinancialservices.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.goldentrianglefinancialservices.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.goldentrianglefinancialservices.com/Our-Firm.1.htm",
+            "path": "/Our-Firm.1.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.goldentrianglefinancialservices.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.goldentrianglefinancialservices.com/Our-Services.2.htm",
+            "path": "/Our-Services.2.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.goldentrianglefinancialservices.com/Our-Qualifications.3.htm",
+            "path": "/Our-Qualifications.3.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.goldentrianglefinancialservices.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.goldentrianglefinancialservices.com/tellafriend.cfm?SSLID=19338",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.goldentrianglefinancialservices.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Flipbooks",
+            "href": "https://www.goldentrianglefinancialservices.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.goldentrianglefinancialservices.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.goldentrianglefinancialservices.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.goldentrianglefinancialservices.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.goldentrianglefinancialservices.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.goldentrianglefinancialservices.com/form.cfm?ID=64&SSLID=19338",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.goldentrianglefinancialservices.com/form.cfm?ID=65&SSLID=19338",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.goldentrianglefinancialservices.com/form.cfm?ID=68&SSLID=19338",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.goldentrianglefinancialservices.com/form.cfm?ID=69&SSLID=19338",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.goldentrianglefinancialservices.com/form.cfm?ID=70&SSLID=19338",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.goldentrianglefinancialservices.com/form.cfm?ID=72&SSLID=19338",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.goldentrianglefinancialservices.com/form.cfm?ID=73&SSLID=19338",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.goldentrianglefinancialservices.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Form CRS",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Prosperity Wealth Management Client Relationship Summary",
+            "href": "https://www.goldentrianglefinancialservices.com/files/19338/PWM%20CRS%20FORM.pdf",
+            "path": "/files/19338/PWM%20CRS%20FORM.pdf"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-firm1",
+        "path": "/our-firm1",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-firm1",
+            "path": "/our-firm1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-services2",
+            "path": "/our-services2"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-qualifications3",
+            "path": "/our-qualifications3"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/newsletters",
+        "path": "/newsletters",
+        "subItems": [
+          {
+            "text": "Newsletters",
+            "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Form CRS",
+        "href": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Prosperity Wealth Management Client Relationship Summary",
+            "href": "https://50b2dedd-7ec9-421b-8fed-ef9fcbec3bf5.usrfiles.com/ugd/4f907f_88e89310c2d04c7fb35b1247cc63c34d.pdf",
+            "path": "/ugd/4f907f_88e89310c2d04c7fb35b1247cc63c34d.pdf"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /newsletters",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Form CRS",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Form CRS",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Prosperity Wealth Management Client Relationship Summary",
+            "brHref": "/files/19338/PWM CRS FORM.pdf",
+            "migratedText": "Prosperity Wealth Management Client Relationship Summary",
+            "migratedHref": "https://50b2dedd-7ec9-421b-8fed-ef9fcbec3bf5.usrfiles.com/ugd/4f907f_88e89310c2d04c7fb35b1247cc63c34d.pdf",
+            "migratedPath": "/ugd/4f907f_88e89310c2d04c7fb35b1247cc63c34d.pdf"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 14,
+      "totalMigratedItems": 14,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 12,
+      "totalBrItems": 14
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Form CRS",
+        "brHref": "void(0);",
+        "migratedText": "Form CRS",
+        "migratedHref": "https://goldentrianglefinancialservices-31030808.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Prosperity Wealth Management Client Relationship Summary",
+            "brHref": "/files/19338/PWM%20CRS%20FORM.pdf",
+            "migratedText": "Prosperity Wealth Management Client Relationship Summary",
+            "migratedHref": "https://50b2dedd-7ec9-421b-8fed-ef9fcbec3bf5.usrfiles.com/ugd/4f907f_88e89310c2d04c7fb35b1247cc63c34d.pdf",
+            "migratedPath": "/ugd/4f907f_88e89310c2d04c7fb35b1247cc63c34d.pdf"
+          }
+        ]
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 24,
+      "totalMigratedItems": 14,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 14
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Golden Triangle Financial Services.",
+        "companyNames": [
+          "GOLDEN TRIANGLE FINANCIAL SERVICES",
+          "Golden Triangle Financial Services."
+        ],
+        "phoneNumbers": [
+          "4128248888",
+          "1371502",
+          "4128244299"
+        ],
+        "emailAddresses": [
+          "JJM@THINKPWM.COM",
+          "jjm@thinkpwm.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Investment Advisory Services offered through: Prosperity Wealth Management.Golden Triangle Financial Services & Prosperity Wealth Management are separate entities. Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.goldentrianglefinancialservices.com",
+        "companyNames": [
+          "GOLDEN TRIANGLE FINANCIAL SERVICES"
+        ],
+        "phoneNumbers": [
+          "1371502",
+          "4128248888",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "jjm@thinkpwm.com",
+          "JJM@THINKPWM.COM"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Investment Advisory Services offered through: Prosperity Wealth Management.Golden Triangle Financial Services & Prosperity Wealth Management are separate entities."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(412) 824-8888, 1371502, (412) 824-4299",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

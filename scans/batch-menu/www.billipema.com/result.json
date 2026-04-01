@@ -1,0 +1,363 @@
+{
+  "site": {
+    "original": "www.billipema.com",
+    "migrated": "https://billipema-31030805.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.billipema.com",
+    "migratedDomain": "https://billipema-31030805.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:40:35.389Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.2.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.3.htm"
+          },
+          {
+            "title": "Documents and Links",
+            "href": "/Documents-and-Links.5.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.billipema.com/index.cfm",
+        "path": "/index.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Firm",
+        "href": "https://www.billipema.com/Our-Firm.1.htm",
+        "path": "/Our-Firm.1.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Location",
+        "href": "https://www.billipema.com/location.cfm",
+        "path": "/location.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Services",
+        "href": "https://www.billipema.com/Our-Services.2.htm",
+        "path": "/Our-Services.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Qualifications",
+        "href": "https://www.billipema.com/Our-Qualifications.3.htm",
+        "path": "/Our-Qualifications.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Documents and Links",
+        "href": "https://www.billipema.com/Documents-and-Links.5.htm",
+        "path": "/Documents-and-Links.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.billipema.com/resources.cfm",
+        "path": "/resources.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://billipema-31030805.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://billipema-31030805.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://billipema-31030805.brprodaccount.com/our-firm1",
+        "path": "/our-firm1",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://billipema-31030805.brprodaccount.com/our-firm1",
+            "path": "/our-firm1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://billipema-31030805.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://billipema-31030805.brprodaccount.com/our-services2",
+            "path": "/our-services2"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://billipema-31030805.brprodaccount.com/our-qualifications3",
+            "path": "/our-qualifications3"
+          },
+          {
+            "text": "Documents and Links",
+            "href": "https://billipema-31030805.brprodaccount.com/documents-and-links5",
+            "path": "/documents-and-links5"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://billipema-31030805.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://billipema-31030805.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://billipema-31030805.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://billipema-31030805.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Documents and Links",
+            "brHref": "/Documents-and-Links.5.htm",
+            "migratedText": "Documents and Links",
+            "migratedHref": "https://billipema-31030805.brprodaccount.com/documents-and-links5",
+            "migratedPath": "/documents-and-links5"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 7,
+      "totalMigratedItems": 8,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 6,
+      "totalBrItems": 7
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/index.cfm",
+        "migratedText": "Home",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Firm",
+        "brHref": "/Our-Firm.1.htm",
+        "migratedText": "Our Firm",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "note": "\"Our Firm\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Location",
+        "brHref": "/location.cfm",
+        "migratedText": "Our Location",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Our Location\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.2.htm",
+        "migratedText": "Our Services",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/our-services2",
+        "migratedPath": "/our-services2",
+        "note": "\"Our Services\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Qualifications",
+        "brHref": "/Our-Qualifications.3.htm",
+        "migratedText": "Our Qualifications",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/our-qualifications3",
+        "migratedPath": "/our-qualifications3",
+        "note": "\"Our Qualifications\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Documents and Links",
+        "brHref": "/Documents-and-Links.5.htm",
+        "migratedText": "Documents and Links",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/documents-and-links5",
+        "migratedPath": "/documents-and-links5",
+        "note": "\"Documents and Links\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/resources.cfm",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Us",
+        "migratedHref": "https://billipema-31030805.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 7,
+      "totalMigratedItems": 8,
+      "missing": 1,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 5,
+      "ok": 1
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Bill Ipema, www.billipema.com",
+        "companyNames": [
+          "Bill Ipema, www.billipema.com"
+        ],
+        "phoneNumbers": [
+          "9724896792",
+          "9723389655",
+          "5124581719",
+          "5124581769"
+        ],
+        "emailAddresses": [
+          "bill@billipema.com"
+        ],
+        "physicalAddresses": [
+          "446 Houston St. Coppell, TX 75019",
+          "5900 Down Valley Ct, Suite "
+        ],
+        "personNames": [],
+        "footerText": "5900 Down Valley Ct, Suite #100 | Austin, TX 78731O: 512.458.1719 | C: 972.489.6792 | F: 512.458.1769bill@billipema.com Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.billipema.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "9724896792",
+          "9723800097",
+          "5124581719",
+          "5124581769"
+        ],
+        "emailAddresses": [
+          "bill@billipema.com"
+        ],
+        "physicalAddresses": [
+          "5900 Down Valley Ct, Suite "
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "5900 Down Valley Ct, Suite #100 | Austin, TX 78731O: 512.458.1719 | C: 972.489.6792 | F: 512.458.1769bill@billipema.com"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(972) 489-6792, (972) 338-9655, (512) 458-1719, (512) 458-1769",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

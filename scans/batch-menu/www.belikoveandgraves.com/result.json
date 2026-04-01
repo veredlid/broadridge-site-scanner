@@ -1,0 +1,334 @@
+{
+  "site": {
+    "original": "www.belikoveandgraves.com",
+    "migrated": "https://belikoveandgraves-31030806.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.belikoveandgraves.com",
+    "migratedDomain": "https://belikoveandgraves-31030806.brprodaccount.com/",
+    "capturedAt": "2026-04-01T07:59:03.648Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.1.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/agents.cfm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.cfm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.2.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://belikoveandgraves-31030806.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://belikoveandgraves-31030806.brprodaccount.com/our-firm1",
+        "path": "/our-firm1",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/our-firm1",
+            "path": "/our-firm1"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/our-services2",
+            "path": "/our-services2"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://belikoveandgraves-31030806.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://belikoveandgraves-31030806.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://belikoveandgraves-31030806.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/agents.cfm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.cfm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 14,
+      "totalMigratedItems": 14,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 12,
+      "totalBrItems": 14
+    },
+    "liveIssues": [],
+    "liveSummary": {
+      "totalSourceItems": 0,
+      "totalMigratedItems": 14,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
+    },
+    "originalCrawlFailed": true,
+    "originalCrawlError": "Playwright: page.goto: net::ERR_NETWORK_CHANGED at http://www.belikoveandgraves.com/\nCall log:\n  - navigating to | Fetch: fetch failed",
+    "contentCheck": {
+      "originalIdentity": null,
+      "migratedIdentity": {
+        "pageTitle": "Home | www.belikoveandgraves.com",
+        "companyNames": [
+          "Belikove & Graves Insurance and Financial Services"
+        ],
+        "phoneNumbers": [
+          "2403872182",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "jim@belikoveandgraves.com"
+        ],
+        "physicalAddresses": [
+          "4811 Cumberland Ave\n\n\n\n\nChevy Chase\n\n"
+        ],
+        "personNames": [],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(original not available)",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

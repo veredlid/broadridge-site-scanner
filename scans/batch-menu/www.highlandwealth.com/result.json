@@ -1,0 +1,696 @@
+{
+  "site": {
+    "original": "www.highlandwealth.com",
+    "migrated": "https://highlandwealth-31030801.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.highlandwealth.com",
+    "migratedDomain": "https://highlandwealth-31030801.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:12:00.000Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "About Highland",
+            "href": "/About-Highland.1.htm"
+          },
+          {
+            "title": "Services Offered",
+            "href": "/Services-Offered.2.htm"
+          },
+          {
+            "title": "Financial Planning",
+            "href": "/Financial-Planning.3.htm"
+          },
+          {
+            "title": "Asset Management",
+            "href": "/Asset-Management.8.htm"
+          },
+          {
+            "title": "Solutions for Businesses",
+            "href": "/Solutions-for-Businesses.11.htm"
+          },
+          {
+            "title": "Business Exit Planning",
+            "href": "/Business-Exit-Planning.6.htm"
+          },
+          {
+            "title": "Employee Benefits",
+            "href": "/http://www.highlandeb.com/Employee_Benefits.html"
+          },
+          {
+            "title": "Client Profiles",
+            "href": "/Client-Profiles.5.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.highlandwealth.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.highlandwealth.com/about_us/",
+        "path": "/about_us",
+        "subItems": [
+          {
+            "text": "About Highland",
+            "href": "https://www.highlandwealth.com/About-Highland.1.htm",
+            "path": "/About-Highland.1.htm"
+          },
+          {
+            "text": "Services Offered",
+            "href": "https://www.highlandwealth.com/Services-Offered.2.htm",
+            "path": "/Services-Offered.2.htm"
+          },
+          {
+            "text": "Financial Planning",
+            "href": "https://www.highlandwealth.com/Financial-Planning.3.htm",
+            "path": "/Financial-Planning.3.htm"
+          },
+          {
+            "text": "Asset Management",
+            "href": "https://www.highlandwealth.com/Asset-Management.8.htm",
+            "path": "/Asset-Management.8.htm"
+          },
+          {
+            "text": "Solutions for Businesses",
+            "href": "https://www.highlandwealth.com/Solutions-for-Businesses.11.htm",
+            "path": "/Solutions-for-Businesses.11.htm"
+          },
+          {
+            "text": "Business Exit Planning",
+            "href": "https://www.highlandwealth.com/Business-Exit-Planning.6.htm",
+            "path": "/Business-Exit-Planning.6.htm"
+          },
+          {
+            "text": "Employee Benefits",
+            "href": "https://www.highlandwealth.com/Employee-Benefits.14.htm",
+            "path": "/Employee-Benefits.14.htm"
+          },
+          {
+            "text": "Client Profiles",
+            "href": "https://www.highlandwealth.com/Client-Profiles.5.htm",
+            "path": "/Client-Profiles.5.htm"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://www.highlandwealth.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Location",
+            "href": "https://www.highlandwealth.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=17173",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.highlandwealth.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.highlandwealth.com/learning_center/",
+        "path": "/learning_center",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.highlandwealth.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.highlandwealth.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.highlandwealth.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.highlandwealth.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.highlandwealth.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.highlandwealth.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.highlandwealth.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.highlandwealth.com/request_quote/",
+        "path": "/request_quote",
+        "subItems": [
+          {
+            "text": "Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=17173&SN=1910202584",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.highlandwealth.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://highlandwealth-31030801.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://highlandwealth-31030801.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://highlandwealth-31030801.brprodaccount.com/custom-section-11",
+        "path": "/custom-section-11",
+        "subItems": [
+          {
+            "text": "About Highland",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/custom-section-11",
+            "path": "/custom-section-11"
+          },
+          {
+            "text": "Services Offered",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/custom-section-22",
+            "path": "/custom-section-22"
+          },
+          {
+            "text": "Financial Planning",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/custom-section-33",
+            "path": "/custom-section-33"
+          },
+          {
+            "text": "Asset Management",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/custom-section-88",
+            "path": "/custom-section-88"
+          },
+          {
+            "text": "Solutions for Businesses",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/custom-section-1111",
+            "path": "/custom-section-1111"
+          },
+          {
+            "text": "Business Exit Planning",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/custom-section-66",
+            "path": "/custom-section-66"
+          },
+          {
+            "text": "Employee Benefits",
+            "href": "http://www.highlandeb.com/Employee_Benefits.html",
+            "path": "/Employee_Benefits.html"
+          },
+          {
+            "text": "Client Profiles",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/custom-section-55",
+            "path": "/custom-section-55"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Location",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://highlandwealth-31030801.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-11",
+        "migratedPath": "/custom-section-11",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /custom-section-11",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "About Highland",
+            "brHref": "/About-Highland.1.htm",
+            "migratedText": "About Highland",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-11",
+            "migratedPath": "/custom-section-11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services Offered",
+            "brHref": "/Services-Offered.2.htm",
+            "migratedText": "Services Offered",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-22",
+            "migratedPath": "/custom-section-22"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Financial Planning",
+            "brHref": "/Financial-Planning.3.htm",
+            "migratedText": "Financial Planning",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-33",
+            "migratedPath": "/custom-section-33"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Asset Management",
+            "brHref": "/Asset-Management.8.htm",
+            "migratedText": "Asset Management",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-88",
+            "migratedPath": "/custom-section-88"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Solutions for Businesses",
+            "brHref": "/Solutions-for-Businesses.11.htm",
+            "migratedText": "Solutions for Businesses",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-1111",
+            "migratedPath": "/custom-section-1111"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Business Exit Planning",
+            "brHref": "/Business-Exit-Planning.6.htm",
+            "migratedText": "Business Exit Planning",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Employee Benefits",
+            "brHref": "/http://www.highlandeb.com/Employee_Benefits.html",
+            "migratedText": "Employee Benefits",
+            "migratedHref": "http://www.highlandeb.com/Employee_Benefits.html",
+            "migratedPath": "/Employee_Benefits.html"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Client Profiles",
+            "brHref": "/Client-Profiles.5.htm",
+            "migratedText": "Client Profiles",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-55",
+            "migratedPath": "/custom-section-55"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Location",
+            "brHref": "/location.htm",
+            "migratedText": "Location",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Employee Benefits",
+        "migratedHref": "http://www.highlandeb.com/Employee_Benefits.html",
+        "migratedPath": "/Employee_Benefits.html",
+        "httpStatus": 404,
+        "note": "\"Employee Benefits\" → HTTP 404 (http://www.highlandeb.com/Employee_Benefits.html)"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 13,
+      "totalMigratedItems": 14,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 1,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 12,
+      "totalBrItems": 13
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/about_us",
+        "migratedText": "About Us",
+        "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-11",
+        "migratedPath": "/custom-section-11",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "About Highland",
+            "brHref": "/About-Highland.1.htm",
+            "migratedText": "About Highland",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-11",
+            "migratedPath": "/custom-section-11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services Offered",
+            "brHref": "/Services-Offered.2.htm",
+            "migratedText": "Services Offered",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-22",
+            "migratedPath": "/custom-section-22"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Financial Planning",
+            "brHref": "/Financial-Planning.3.htm",
+            "migratedText": "Financial Planning",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-33",
+            "migratedPath": "/custom-section-33"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Asset Management",
+            "brHref": "/Asset-Management.8.htm",
+            "migratedText": "Asset Management",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-88",
+            "migratedPath": "/custom-section-88"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Solutions for Businesses",
+            "brHref": "/Solutions-for-Businesses.11.htm",
+            "migratedText": "Solutions for Businesses",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-1111",
+            "migratedPath": "/custom-section-1111"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Business Exit Planning",
+            "brHref": "/Business-Exit-Planning.6.htm",
+            "migratedText": "Business Exit Planning",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Employee Benefits",
+            "brHref": "/Employee-Benefits.14.htm",
+            "migratedText": "Employee Benefits",
+            "migratedHref": "http://www.highlandeb.com/Employee_Benefits.html",
+            "migratedPath": "/Employee_Benefits.html"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Client Profiles",
+            "brHref": "/Client-Profiles.5.htm",
+            "migratedText": "Client Profiles",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/custom-section-55",
+            "migratedPath": "/custom-section-55"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Location",
+            "brHref": "/location.htm",
+            "migratedText": "Location",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://highlandwealth-31030801.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/learning_center",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/request_quote",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Employee Benefits",
+        "migratedHref": "http://www.highlandeb.com/Employee_Benefits.html",
+        "migratedPath": "/Employee_Benefits.html",
+        "httpStatus": 404,
+        "note": "\"Employee Benefits\" → HTTP 404 (http://www.highlandeb.com/Employee_Benefits.html)"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 14,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 1,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 13
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Financial Planning, Asset Management & Business Services | Chandler, AZ",
+        "companyNames": [
+          "Financial Planning, Asset Management & Business Services",
+          "Chandler, AZ"
+        ],
+        "phoneNumbers": [
+          "(480) 827-8445",
+          "(877) 495-9288",
+          "(480) 827-8515"
+        ],
+        "emailAddresses": [
+          "info@highlandwealth.com"
+        ],
+        "physicalAddresses": [
+          "1490 South Price Road #308\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tChandler, AZ 85286"
+        ],
+        "personNames": [
+          "South Price",
+          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n      \n    \n  \n\n    \n      \n        \n          \n            \n\t\n\t \n\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHome",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        About",
+          "Highland\n      \n    \n      \n        Services",
+          "Offered\n      \n    \n      \n        Financial",
+          "Planning\n      \n    \n      \n        Asset",
+          "Management\n      \n    \n      \n        Solutions",
+          "Businesses\n      \n    \n      \n        Business",
+          "Exit Planning",
+          "Employee Benefits",
+          "Client Profiles",
+          "Our Team",
+          "Location\n      \n    \n      \n        Tell",
+          "Friend\n      \n    \n      \n        Featured",
+          "Links\n      \n    \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tResources",
+          "Articles\n          \n        \n          \n            Calculators",
+          "Flipbooks\n          \n        \n          \n            Newsletters",
+          "Glossary\n          \n        \n          \n            Tax",
+          "Library\n          \n        \n          \n            Videos",
+          "Request A Quote",
+          "Information Request",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\tHighland",
+          "Advisory Group",
+          "Financial Planning",
+          "Asset Management",
+          "Business Solutions",
+          "Guide Your",
+          "Financial Future",
+          "Warren Buffet",
+          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tMega",
+          "Backdoor Roth",
+          "Friendly Retirement",
+          "Serious Savers",
+          "Have You",
+          "Retirement Savings",
+          "Look Out",
+          "Observation Care",
+          "Individual Bonds",
+          "Bond Funds",
+          "More Newsletters",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Life",
+          "Insurance\n          \n        \n        How",
+          "Life Expectancy",
+          "College Funding",
+          "Term Care",
+          "Self Insurance",
+          "More Calculators",
+          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tAbout",
+          "Links\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\n\t\t\n\t\n        \n          \n            Learning",
+          "Center\n          \n          \n            \n              \n                Articles",
+          "Newsletters\n                Timely",
+          "Flipbooks\n                \n                  These",
+          "Glossary\n                  \n                  Financial",
+          "Tax Library",
+          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n  \n\n      \n      \n  \n    \n\n      \n  \t\t\tInvestment",
+          "Advisory Services",
+          "Investment Advisory",
+          "Site Map"
+        ],
+        "footerText": "Investment Advisory Services offered through McCauley Investment Advisory, LLC\n      \n        \n          \n            \n              \n                  Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.highlandwealth.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "4808278445",
+          "8774959288",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "info@highlandwealth.com"
+        ],
+        "physicalAddresses": [
+          "4500 Westgrove Suite 356\nAddison, TX 75001"
+        ],
+        "personNames": [],
+        "footerText": "Investment Advisory Services offered through McCauley Investment Advisory, LLC"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(480) 827-8445, (877) 495-9288, (480) 827-8515",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "1490 South Price Road #308\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tChandler, AZ 85286",
+          "migratedValue": "4500 Westgrove Suite 356\nAddison, TX 75001",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

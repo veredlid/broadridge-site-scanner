@@ -1,0 +1,754 @@
+{
+  "site": {
+    "original": "www.capitalmgmtinc.com",
+    "migrated": "https://capitalmgmtinc-31030804.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.capitalmgmtinc.com",
+    "migratedDomain": "https://capitalmgmtinc-31030804.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:00:42.142Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Wealth Management",
+            "href": "/Wealth-Management.6.htm"
+          },
+          {
+            "title": "A Proactive Approach",
+            "href": "/A-Proactive-Approach.5.htm"
+          },
+          {
+            "title": "Financial Solutions",
+            "href": "/Financial-Solutions.2.htm"
+          },
+          {
+            "title": "Building Relationships",
+            "href": "/Building-Relationships.1.htm"
+          },
+          {
+            "title": "Educational Programs",
+            "href": "/Educational-Programs.4.htm"
+          },
+          {
+            "title": "Office",
+            "href": "/location.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Form CRS",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Updated Form CRS",
+            "href": "/files/736/Updated FormCRS 08282021 Capital Management LLC.docx"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.capitalmgmtinc.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.capitalmgmtinc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Wealth Management",
+            "href": "https://www.capitalmgmtinc.com/Wealth-Management.6.htm",
+            "path": "/Wealth-Management.6.htm"
+          },
+          {
+            "text": "A Proactive Approach",
+            "href": "https://www.capitalmgmtinc.com/A-Proactive-Approach.5.htm",
+            "path": "/A-Proactive-Approach.5.htm"
+          },
+          {
+            "text": "Financial Solutions",
+            "href": "https://www.capitalmgmtinc.com/Financial-Solutions.2.htm",
+            "path": "/Financial-Solutions.2.htm"
+          },
+          {
+            "text": "Building Relationships",
+            "href": "https://www.capitalmgmtinc.com/Building-Relationships.1.htm",
+            "path": "/Building-Relationships.1.htm"
+          },
+          {
+            "text": "Educational Programs",
+            "href": "https://www.capitalmgmtinc.com/Educational-Programs.4.htm",
+            "path": "/Educational-Programs.4.htm"
+          },
+          {
+            "text": "Office",
+            "href": "https://www.capitalmgmtinc.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.capitalmgmtinc.com/tellafriend.cfm?SSLID=736",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.capitalmgmtinc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Glossary",
+            "href": "https://www.capitalmgmtinc.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.capitalmgmtinc.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.capitalmgmtinc.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.capitalmgmtinc.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Form CRS",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Updated Form CRS",
+            "href": "https://www.capitalmgmtinc.com/files/736/Updated%20FormCRS%2008282021%20Capital%20Management%20LLC.docx",
+            "path": "/files/736/Updated%20FormCRS%2008282021%20Capital%20Management%20LLC.docx"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://capitalmgmtinc-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://capitalmgmtinc-31030804.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Team",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Location",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "HR360",
+            "href": "https://www.hr360.com/login/",
+            "path": "/login"
+          },
+          {
+            "text": "Apply for Individual Health Insurance",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Affiliated Office",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://capitalmgmtinc-31030804.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "FAQ",
+            "href": "https://capitalmgmtinc-31030804.brprodaccount.com/faq",
+            "path": "/faq"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Location",
+        "href": "https://capitalmgmtinc-31030804.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Wealth Management",
+            "brHref": "/Wealth-Management.6.htm",
+            "note": "Sub-item \"Wealth Management\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "A Proactive Approach",
+            "brHref": "/A-Proactive-Approach.5.htm",
+            "note": "Sub-item \"A Proactive Approach\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Financial Solutions",
+            "brHref": "/Financial-Solutions.2.htm",
+            "note": "Sub-item \"Financial Solutions\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Building Relationships",
+            "brHref": "/Building-Relationships.1.htm",
+            "note": "Sub-item \"Building Relationships\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Educational Programs",
+            "brHref": "/Educational-Programs.4.htm",
+            "note": "Sub-item \"Educational Programs\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Office",
+            "brHref": "/location.htm",
+            "migratedText": "Affiliated Office",
+            "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/affiliated-office",
+            "migratedPath": "/affiliated-office"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Form CRS",
+        "brHref": "/javascript:void(0);",
+        "note": "\"Form CRS\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Team",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Articles",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Articles\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Calculators",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/calculators",
+        "migratedPath": "/calculators",
+        "note": "\"Calculators\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Newsletters",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "note": "\"Newsletters\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" appears in the migrated menu but is not in the BR navigation JSON"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 15,
+      "totalMigratedItems": 17,
+      "missing": 7,
+      "extra": 10,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 5,
+      "totalBrItems": 15
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Wealth Management",
+            "brHref": "/Wealth-Management.6.htm",
+            "note": "Sub-item \"Wealth Management\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "A Proactive Approach",
+            "brHref": "/A-Proactive-Approach.5.htm",
+            "note": "Sub-item \"A Proactive Approach\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Financial Solutions",
+            "brHref": "/Financial-Solutions.2.htm",
+            "note": "Sub-item \"Financial Solutions\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Building Relationships",
+            "brHref": "/Building-Relationships.1.htm",
+            "note": "Sub-item \"Building Relationships\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Educational Programs",
+            "brHref": "/Educational-Programs.4.htm",
+            "note": "Sub-item \"Educational Programs\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Office",
+            "brHref": "/location.htm",
+            "migratedText": "Affiliated Office",
+            "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/affiliated-office",
+            "migratedPath": "/affiliated-office"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Form CRS",
+        "brHref": "void(0);",
+        "note": "\"Form CRS\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Team",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Articles",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Articles\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Calculators",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/calculators",
+        "migratedPath": "/calculators",
+        "note": "\"Calculators\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Newsletters",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "note": "\"Newsletters\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://capitalmgmtinc-31030804.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 16,
+      "totalMigratedItems": 17,
+      "missing": 8,
+      "extra": 10,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 7
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Capital Management, LLC",
+        "companyNames": [
+          "Capital Management, LLC"
+        ],
+        "phoneNumbers": [
+          "3368562911",
+          "3368569199"
+        ],
+        "emailAddresses": [
+          "ljacobus@capitalmgmtinc.com"
+        ],
+        "physicalAddresses": [
+          "628 Green Valley Road, Suite "
+        ],
+        "personNames": [],
+        "footerText": "Capital Management, LLC is a Registered Investment Advisor with the Securities & Exchange Commission. Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.capitalmgmtinc.com",
+        "companyNames": [
+          "Creative Financial\nProfessionals"
+        ],
+        "phoneNumbers": [
+          "9723800063",
+          "8005295740",
+          "9723800097",
+          "8003447437",
+          "7475987"
+        ],
+        "emailAddresses": [
+          "resnik_neil@nlgroupmail.com"
+        ],
+        "physicalAddresses": [
+          "4500 Westgrove Suite 356\nAddison, TX 75001"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Securities and investment advisory services are offered solely through Registered Representatives and Investment Adviser Representatives of Equity Services, Inc. Member FINRA/SIPC, One National Life Drive, Montpelier, Vermont 05604, 1-800-344-7437. Creative Financial Professionals and all other entities referenced are not affiliated with Equity Services, Inc., unless otherwise noted. Neil Resnik is a Registered Representative and Investment Adviser Representative of Equity Services, Inc. and offers securities in Texas. Neil is also licensed to offer life insurance and annuities in Texas. This site is not a solicitation of interest in any of these products in any other state. TC7475987(1224)3Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(336) 856-2911, (336) 856-9199",
+          "migratedValue": "(972) 380-0063",
+          "severity": "critical",
+          "note": "Phone \"(972) 380-0063\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(336) 856-2911, (336) 856-9199",
+          "migratedValue": "(800) 529-5740",
+          "severity": "critical",
+          "note": "Phone \"(800) 529-5740\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(336) 856-2911, (336) 856-9199",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(336) 856-2911, (336) 856-9199",
+          "migratedValue": "(800) 344-7437",
+          "severity": "critical",
+          "note": "Phone \"(800) 344-7437\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(336) 856-2911, (336) 856-9199",
+          "migratedValue": "7475987",
+          "severity": "critical",
+          "note": "Phone \"7475987\" on migrated site not found on original"
+        },
+        {
+          "field": "email",
+          "originalValue": "ljacobus@capitalmgmtinc.com",
+          "migratedValue": "resnik_neil@nlgroupmail.com",
+          "severity": "critical",
+          "note": "Email \"resnik_neil@nlgroupmail.com\" on migrated site not found on original"
+        },
+        {
+          "field": "company-name",
+          "originalValue": "Capital Management, LLC",
+          "migratedValue": "Creative Financial\nProfessionals",
+          "severity": "warning",
+          "note": "Company name \"Creative Financial\nProfessionals\" on migrated site may not match original"
+        },
+        {
+          "field": "address",
+          "originalValue": "628 Green Valley Road, Suite ",
+          "migratedValue": "4500 Westgrove Suite 356\nAddison, TX 75001",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

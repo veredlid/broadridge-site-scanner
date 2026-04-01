@@ -1,0 +1,776 @@
+{
+  "site": {
+    "original": "www.gardinerpwm.com",
+    "migrated": "https://gardinerpwm-31030802.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.gardinerpwm.com",
+    "migratedDomain": "https://gardinerpwm-31030802.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:06:50.270Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.gardinerpwm.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.gardinerpwm.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.gardinerpwm.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.gardinerpwm.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.gardinerpwm.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.gardinerpwm.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.gardinerpwm.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=42325",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.gardinerpwm.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.gardinerpwm.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.gardinerpwm.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.gardinerpwm.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.gardinerpwm.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.gardinerpwm.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.gardinerpwm.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.gardinerpwm.com/form.cfm?ID=64&SSLID=42325",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.gardinerpwm.com/form.cfm?ID=65&SSLID=42325",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.gardinerpwm.com/form.cfm?ID=67&SSLID=42325",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.gardinerpwm.com/form.cfm?ID=68&SSLID=42325",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.gardinerpwm.com/form.cfm?ID=69&SSLID=42325",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.gardinerpwm.com/form.cfm?ID=70&SSLID=42325",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.gardinerpwm.com/form.cfm?ID=72&SSLID=42325",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.gardinerpwm.com/form.cfm?ID=73&SSLID=42325",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.gardinerpwm.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://gardinerpwm-31030802.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://gardinerpwm-31030802.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://gardinerpwm-31030802.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://gardinerpwm-31030802.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://gardinerpwm-31030802.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 16,
+      "totalMigratedItems": 16,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 14,
+      "totalBrItems": 16
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/#",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 27,
+      "totalMigratedItems": 16,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 14
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Gardiner Private Wealth Management",
+        "companyNames": [
+          "Gardiner Private Wealth Management"
+        ],
+        "phoneNumbers": [
+          "(410) 857-9438",
+          "(410) 857-9474",
+          "(631) 845-5100"
+        ],
+        "emailAddresses": [
+          "brian@gardinerpwm.com"
+        ],
+        "physicalAddresses": [
+          "6 East Green Street\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tWestminster,\n\t\t\t\t\n\t\t\t\t\tMD \n\t\t\t\t\t21157",
+          "125 Froehlich Farm Blvd, Woodbury, NY 11797"
+        ],
+        "personNames": [
+          "Gardiner Private",
+          "Wealth Management",
+          "Brian E Gardiner",
+          "Licensed Tax",
+          "Preparer\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact",
+          "East Green",
+          "Home\n          \n          About",
+          "Us\n           \n            Our",
+          "Mission Statement",
+          "Our Associates",
+          "Our Location",
+          "Our Firm",
+          "Our Services",
+          "Our Qualifications",
+          "Tell A Friend",
+          "Resources\n           \n            Articles",
+          "Calculators\n            Flipbooks",
+          "Newsletters\n            Glossary",
+          "Tax Library",
+          "Videos\n           \n          \n          Request",
+          "Quote\n           \n            Annuity",
+          "Term Care",
+          "Insurance  \n            Group",
+          "Health \n            Life",
+          "Insurance  \n            Individual",
+          "Health \n            Disability",
+          "Income Insurance",
+          "Information Request",
+          "Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive",
+          "Preparer\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tBrian",
+          "Preparer\n\t\t \n\t\t\t\t\t\t\nYour",
+          "Your Way",
+          "At Gardiner",
+          "Private Wealth",
+          "Brian Gardiner",
+          "Certified Financial",
+          "No More",
+          "Groundhog Day",
+          "Your Finances",
+          "Financial Wellness",
+          "Checkup \n\t\t\t\t\n\t\t\t\tFinancial",
+          "Retirement Time",
+          "Navigating Medicare",
+          "Open Enrollment",
+          "The Medicare",
+          "Original Medicare",
+          "Medicare Advantage",
+          "Medicare Prescription",
+          "Sector Funds",
+          "More Newsletters",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Tax",
+          "Deferred Savings",
+          "Disability Income",
+          "Insurance\n          \n        \n        How",
+          "Life Insurance",
+          "Mortgage Acceleration",
+          "More Calculators",
+          "Vanderbilt Financial",
+          "Vanderbilt Securities",
+          "Fidelity Clearing",
+          "Custody Solutions",
+          "Advisory Services",
+          "Vanderbilt Advisory",
+          "Consolidated Portfolio",
+          "Charles Schwab",
+          "Vanderbilt Insurance",
+          "Supervising Office",
+          "Froehlich Farm",
+          "Site Map"
+        ],
+        "footerText": "Vanderbilt Financial Group is the marketing name for Vanderbilt Securities, LLC and its affiliates.\nSecurities offered through Vanderbilt Securities, LLC. Member FINRA, SIPC. Registered with MSRB. Clearing agent: Fidelity Clearing & Custody Solutions Advisory Services offered through Vanderbilt Advisory Services & Consolidated Portfolio Review. Clearing agents: Fidelity Clearing & Custody Solutions, Charles Schwab offered through Vanderbilt Insurance and other agencies Supervising Office: 125 Fr"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.gardinerpwm.com",
+        "companyNames": [
+          "Gardiner Private Wealth Management"
+        ],
+        "phoneNumbers": [
+          "4108579438",
+          "9723800097",
+          "6318455100"
+        ],
+        "emailAddresses": [
+          "brian@gardinerpwm.com"
+        ],
+        "physicalAddresses": [
+          "6 East Green Street\n\n\n\n\nWestminster\n\n",
+          "125 Froehlich Farm Blvd, Woodbury, NY 11797"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Vanderbilt Financial Group is the marketing name for Vanderbilt Securities, LLC and its affiliates. Securities offered through Vanderbilt Securities, LLC. Member FINRA, SIPC. Registered with MSRB. Clearing agent: Fidelity Clearing & Custody Solutions Advisory Services offered through Vanderbilt Advisory Services & Consolidated Portfolio Review. Clearing agents: Fidelity Clearing & Custody Solutions, Charles Schwab offered through Vanderbilt Insurance and other agencies Supervising Office: 125 Froehlich Farm Blvd, Woodbury, NY 11797 • 631-845-5100 For additional information on services, disclosures, fees, and conflicts of interest, please visit https://www.joinvanderbilt.com/disclosures/"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(410) 857-9438, (410) 857-9474, (631) 845-5100",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Gardiner Private, Wealth Management, Brian E Gardiner, Licensed Tax, Preparer\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, East Green, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Associates, Our Location, Our Firm, Our Services, Our Qualifications, Tell A Friend, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Request, Quote\n           \n            Annuity, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive, Preparer\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tBrian, Preparer\n\t\t \n\t\t\t\t\t\t\nYour, Your Way, At Gardiner, Private Wealth, Brian Gardiner, Certified Financial, No More, Groundhog Day, Your Finances, Financial Wellness, Checkup \n\t\t\t\t\n\t\t\t\tFinancial, Retirement Time, Navigating Medicare, Open Enrollment, The Medicare, Original Medicare, Medicare Advantage, Medicare Prescription, Sector Funds, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Tax, Deferred Savings, Disability Income, Insurance\n          \n        \n        How, Life Insurance, Mortgage Acceleration, More Calculators, Vanderbilt Financial, Vanderbilt Securities, Fidelity Clearing, Custody Solutions, Advisory Services, Vanderbilt Advisory, Consolidated Portfolio, Charles Schwab, Vanderbilt Insurance, Supervising Office, Froehlich Farm, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        },
+        {
+          "field": "address",
+          "originalValue": "6 East Green Street\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tWestminster,\n\t\t\t\t\n\t\t\t\t\tMD \n\t\t\t\t\t21157",
+          "migratedValue": "6 East Green Street\n\n\n\n\nWestminster\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

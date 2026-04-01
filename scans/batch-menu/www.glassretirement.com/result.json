@@ -1,0 +1,732 @@
+{
+  "site": {
+    "original": "www.glassretirement.com",
+    "migrated": "https://glassretirement-31030802.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.glassretirement.com",
+    "migratedDomain": "https://glassretirement-31030802.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:08:51.783Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "The GRS Approach",
+            "href": "/The-GRS-Approach.2.htm"
+          },
+          {
+            "title": "Our Process",
+            "href": "/Our-Process.3.htm"
+          },
+          {
+            "title": "Plan Options",
+            "href": "/Plan-Options.1.htm"
+          },
+          {
+            "title": "Our Credentials",
+            "href": "/Our-Credentials.4.htm"
+          },
+          {
+            "title": "Our Staff",
+            "href": "/Our-Staff.5.htm"
+          },
+          {
+            "title": "Special Services",
+            "href": "/Special-Services.6.htm"
+          },
+          {
+            "title": "Information Links",
+            "href": "/Information-Links.9.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          },
+          {
+            "title": "ERISA Bonds and Fiduciary E&O Insurance",
+            "href": "/http://www.glassretirement.com"
+          },
+          {
+            "title": "Brightscope Pension Advisor Profiles and Ratings",
+            "href": "/http://www.brightscope.com/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU/"
+          },
+          {
+            "title": "Membership Links",
+            "href": "/Membership-Links.12.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.glassretirement.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.glassretirement.com/about_us/",
+        "path": "/about_us",
+        "subItems": [
+          {
+            "text": "The GRS Approach",
+            "href": "https://www.glassretirement.com/The-GRS-Approach.2.htm",
+            "path": "/The-GRS-Approach.2.htm"
+          },
+          {
+            "text": "Our Process",
+            "href": "https://www.glassretirement.com/Our-Process.3.htm",
+            "path": "/Our-Process.3.htm"
+          },
+          {
+            "text": "Plan Options",
+            "href": "https://www.glassretirement.com/Plan-Options.1.htm",
+            "path": "/Plan-Options.1.htm"
+          },
+          {
+            "text": "Our Credentials",
+            "href": "https://www.glassretirement.com/Our-Credentials.4.htm",
+            "path": "/Our-Credentials.4.htm"
+          },
+          {
+            "text": "Our Staff",
+            "href": "https://www.glassretirement.com/Our-Staff.5.htm",
+            "path": "/Our-Staff.5.htm"
+          },
+          {
+            "text": "Special Services",
+            "href": "https://www.glassretirement.com/Special-Services.6.htm",
+            "path": "/Special-Services.6.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=52212",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Information Links",
+            "href": "https://www.glassretirement.com/Information-Links.9.htm",
+            "path": "/Information-Links.9.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.glassretirement.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "ERISA Bonds and Fiduciary E&O Insurance",
+            "href": "https://www.glassretirement.com/ERISA-Bonds-and-Fiduciary-EandO-Insurance.10.htm",
+            "path": "/ERISA-Bonds-and-Fiduciary-EandO-Insurance.10.htm"
+          },
+          {
+            "text": "Brightscope Pension Advisor Profiles and Ratings",
+            "href": "https://www.glassretirement.com/Brightscope-Pension-Advisor-Profiles-and-Ratings.11.htm",
+            "path": "/Brightscope-Pension-Advisor-Profiles-and-Ratings.11.htm"
+          },
+          {
+            "text": "Membership Links",
+            "href": "https://www.glassretirement.com/Membership-Links.12.htm",
+            "path": "/Membership-Links.12.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.glassretirement.com/learning_center/",
+        "path": "/learning_center",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.glassretirement.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.glassretirement.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.glassretirement.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.glassretirement.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.glassretirement.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.glassretirement.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.glassretirement.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.glassretirement.com/request_quote/",
+        "path": "/request_quote",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=52212&SN=2647861807",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=52212&SN=2647861807",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=52212&SN=2647861807",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=52212&SN=2647861807",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=52212&SN=2647861807",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=52212&SN=2647861807",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.glassretirement.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://glassretirement-31030802.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://glassretirement-31030802.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://glassretirement-31030802.brprodaccount.com/the-grs-approach2",
+        "path": "/the-grs-approach2",
+        "subItems": [
+          {
+            "text": "The GRS Approach",
+            "href": "https://glassretirement-31030802.brprodaccount.com/the-grs-approach2",
+            "path": "/the-grs-approach2"
+          },
+          {
+            "text": "Our Process",
+            "href": "https://glassretirement-31030802.brprodaccount.com/our-process3",
+            "path": "/our-process3"
+          },
+          {
+            "text": "Plan Options",
+            "href": "https://glassretirement-31030802.brprodaccount.com/plan-options1",
+            "path": "/plan-options1"
+          },
+          {
+            "text": "Our Credentials",
+            "href": "https://glassretirement-31030802.brprodaccount.com/our-credentials4",
+            "path": "/our-credentials4"
+          },
+          {
+            "text": "Our Staff",
+            "href": "https://glassretirement-31030802.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Special Services",
+            "href": "https://glassretirement-31030802.brprodaccount.com/special-services6",
+            "path": "/special-services6"
+          },
+          {
+            "text": "Information Links",
+            "href": "https://glassretirement-31030802.brprodaccount.com/information-links9",
+            "path": "/information-links9"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://glassretirement-31030802.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "ERISA Bonds and Fiduciary E&O Insurance",
+            "href": "http://www.glassretirement.com/",
+            "path": "/"
+          },
+          {
+            "text": "Brightscope Pension Advisor Profiles and Ratings",
+            "href": "http://www.brightscope.com/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU/",
+            "path": "/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU"
+          },
+          {
+            "text": "Membership Links",
+            "href": "https://glassretirement-31030802.brprodaccount.com/membership-links12",
+            "path": "/membership-links12"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://glassretirement-31030802.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://glassretirement-31030802.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://glassretirement-31030802.brprodaccount.com/the-grs-approach2",
+        "migratedPath": "/the-grs-approach2",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /the-grs-approach2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "The GRS Approach",
+            "brHref": "/The-GRS-Approach.2.htm",
+            "migratedText": "The GRS Approach",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/the-grs-approach2",
+            "migratedPath": "/the-grs-approach2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Process",
+            "brHref": "/Our-Process.3.htm",
+            "migratedText": "Our Process",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/our-process3",
+            "migratedPath": "/our-process3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Plan Options",
+            "brHref": "/Plan-Options.1.htm",
+            "migratedText": "Plan Options",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/plan-options1",
+            "migratedPath": "/plan-options1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Credentials",
+            "brHref": "/Our-Credentials.4.htm",
+            "migratedText": "Our Credentials",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/our-credentials4",
+            "migratedPath": "/our-credentials4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Staff",
+            "brHref": "/Our-Staff.5.htm",
+            "migratedText": "Our Staff",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Special Services",
+            "brHref": "/Special-Services.6.htm",
+            "migratedText": "Special Services",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/special-services6",
+            "migratedPath": "/special-services6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Information Links",
+            "brHref": "/Information-Links.9.htm",
+            "migratedText": "Information Links",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/information-links9",
+            "migratedPath": "/information-links9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "ERISA Bonds and Fiduciary E&O Insurance",
+            "brHref": "/http://www.glassretirement.com",
+            "migratedText": "ERISA Bonds and Fiduciary E&O Insurance",
+            "migratedHref": "http://www.glassretirement.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Brightscope Pension Advisor Profiles and Ratings",
+            "brHref": "/http://www.brightscope.com/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU/",
+            "migratedText": "Brightscope Pension Advisor Profiles and Ratings",
+            "migratedHref": "http://www.brightscope.com/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU/",
+            "migratedPath": "/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Membership Links",
+            "brHref": "/Membership-Links.12.htm",
+            "migratedText": "Membership Links",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/membership-links12",
+            "migratedPath": "/membership-links12"
+          }
+        ]
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Brightscope Pension Advisor Profiles and Ratings",
+        "migratedHref": "http://www.brightscope.com/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU/",
+        "migratedPath": "/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU",
+        "httpStatus": 404,
+        "note": "\"Brightscope Pension Advisor Profiles and Ratings\" → HTTP 404 (http://www.brightscope.com/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU/)"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 13,
+      "totalMigratedItems": 14,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 1,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 12,
+      "totalBrItems": 13
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://glassretirement-31030802.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://glassretirement-31030802.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/about_us",
+        "migratedText": "About Us",
+        "migratedHref": "https://glassretirement-31030802.brprodaccount.com/the-grs-approach2",
+        "migratedPath": "/the-grs-approach2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "The GRS Approach",
+            "brHref": "/The-GRS-Approach.2.htm",
+            "migratedText": "The GRS Approach",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/the-grs-approach2",
+            "migratedPath": "/the-grs-approach2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Process",
+            "brHref": "/Our-Process.3.htm",
+            "migratedText": "Our Process",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/our-process3",
+            "migratedPath": "/our-process3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Plan Options",
+            "brHref": "/Plan-Options.1.htm",
+            "migratedText": "Plan Options",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/plan-options1",
+            "migratedPath": "/plan-options1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Credentials",
+            "brHref": "/Our-Credentials.4.htm",
+            "migratedText": "Our Credentials",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/our-credentials4",
+            "migratedPath": "/our-credentials4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Staff",
+            "brHref": "/Our-Staff.5.htm",
+            "migratedText": "Our Staff",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Special Services",
+            "brHref": "/Special-Services.6.htm",
+            "migratedText": "Special Services",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/special-services6",
+            "migratedPath": "/special-services6"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Information Links",
+            "brHref": "/Information-Links.9.htm",
+            "migratedText": "Information Links",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/information-links9",
+            "migratedPath": "/information-links9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "ERISA Bonds and Fiduciary E&O Insurance",
+            "brHref": "/ERISA-Bonds-and-Fiduciary-EandO-Insurance.10.htm",
+            "migratedText": "ERISA Bonds and Fiduciary E&O Insurance",
+            "migratedHref": "http://www.glassretirement.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Brightscope Pension Advisor Profiles and Ratings",
+            "brHref": "/Brightscope-Pension-Advisor-Profiles-and-Ratings.11.htm",
+            "migratedText": "Brightscope Pension Advisor Profiles and Ratings",
+            "migratedHref": "http://www.brightscope.com/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU/",
+            "migratedPath": "/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Membership Links",
+            "brHref": "/Membership-Links.12.htm",
+            "migratedText": "Membership Links",
+            "migratedHref": "https://glassretirement-31030802.brprodaccount.com/membership-links12",
+            "migratedPath": "/membership-links12"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/learning_center",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/request_quote",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Brightscope Pension Advisor Profiles and Ratings",
+        "migratedHref": "http://www.brightscope.com/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU/",
+        "migratedPath": "/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU",
+        "httpStatus": 404,
+        "note": "\"Brightscope Pension Advisor Profiles and Ratings\" → HTTP 404 (http://www.brightscope.com/financial-planning/advisor/255136/Herbie-Glass-MBA-CPC-CFP-ChFC-CFG-CLU/)"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 30,
+      "totalMigratedItems": 14,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 1,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 13
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "401(k) Fiduciary Compliance Guidance Glass Retirement Strategies, Inc.",
+        "companyNames": [
+          "Glass Retirement Strategies, Inc.",
+          "401(k) Fiduciary Compliance Guidance Glass Retirement Strategies, Inc."
+        ],
+        "phoneNumbers": [
+          "(248) 647-2822",
+          "(248) 647-8543"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [
+          "30400 Telegraph Rd. Suite 445\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tBingham Farms, MI 48025"
+        ],
+        "personNames": [
+          "Glass Retirement",
+          "Us\n\t\t\t\t\n\t\t\t\t\t Glass",
+          "Retirement Strategies",
+          "Bingham Farms",
+          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n      \n    \n  \n\n    \n      \n        \n          \n            \n\t\n\t \n\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHome",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        The",
+          "Approach\n      \n    \n      \n        Our",
+          "Process\n      \n    \n      \n        Plan",
+          "Options\n      \n    \n      \n        Our",
+          "Credentials\n      \n    \n      \n        Our",
+          "Staff\n      \n    \n      \n        Special",
+          "Services\n      \n    \n      \n        Tell",
+          "Friend\n      \n    \n      \n        Information",
+          "Links\n      \n    \n      \n        Featured",
+          "Insurance\n      \n    \n      \n        Brightscope",
+          "Pension Advisor",
+          "Ratings\n      \n    \n      \n        Membership",
+          "Links\n      \n    \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tResources",
+          "Articles\n          \n        \n          \n            Calculators",
+          "Flipbooks\n          \n        \n          \n            Newsletters",
+          "Glossary\n          \n        \n          \n            Tax",
+          "Library\n          \n        \n          \n            Videos",
+          "Request A Quote",
+          "Annuity \n            \n          \n            \n              Long",
+          "Term Care",
+          "Insurance  \n            \n          \n            \n              Life",
+          "Insurance  \n            \n          \n            \n              Disability",
+          "Income Insurance",
+          "Information Request",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\t\t\t  Glass",
+          "Retirement Security",
+          "Pension Plan",
+          "Expense Benchmarking",
+          "Courier New",
+          "Times New",
+          "Metro Detroit",
+          "Employee Retirement",
+          "Income Security",
+          "Internal Revenue",
+          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Life",
+          "Expectancy\n          \n        \n        Knowing",
+          "Retirement Portfolio",
+          "Lifespan\n          \n        \n        How",
+          "Long Will",
+          "Your Funds",
+          "Estate Taxes",
+          "More Calculators",
+          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tThe",
+          "Links\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\n\t\t\n\t\n        \n          \n            Learning",
+          "Center\n          \n          \n            \n              \n                Articles",
+          "Newsletters\n                Timely",
+          "Flipbooks\n                \n                  These",
+          "Glossary\n                  \n                  Financial",
+          "Tax Library",
+          "We Make",
+          "Your Retirement",
+          "Life Easier",
+          "Tax Deductible",
+          "Savings Deposits",
+          "Tax Free",
+          "Tax Favored",
+          "Annual Updating",
+          "Site Map"
+        ],
+        "footerText": "We Make Your Retirement Life Easier - Tax Deductible Savings Deposits, Tax Free Gowth, Tax Favored Withdrawals   NOTICE: The SEC normally requires RIAs to file an Annual Updating Amendment to their Form ADV by March 31st of each year. However because of the Coronavirus the SEC has issued an order extendindg the normal deadline and because GRS is unable to meet such deadline of March 31, 2020, we will be relying on the SEC's order extending such deadline to May 14, 2020.\n      \n        \n         "
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.glassretirement.com",
+        "companyNames": [
+          "Glass Retirement Strategies, Inc."
+        ],
+        "phoneNumbers": [
+          "0254541",
+          "2486472822",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "Info@GlassRetirement.com"
+        ],
+        "physicalAddresses": [
+          "30400 Telegraph Rd. Suite "
+        ],
+        "personNames": [],
+        "footerText": "We Make Your Retirement Life Easier - Tax Deductible Savings Deposits, Tax Free Gowth, Tax Favored Withdrawals NOTICE: The SEC normally requires RIAs to file an Annual Updating Amendment to their Form ADV by March 31st of each year. However because of the Coronavirus the SEC has issued an order extendindg the normal deadline and because GRS is unable to meet such deadline of March 31, 2020, we will be relying on the SEC's order extending such deadline to May 14, 2020."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(248) 647-2822, (248) 647-8543",
+          "migratedValue": "0254541",
+          "severity": "critical",
+          "note": "Phone \"0254541\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(248) 647-2822, (248) 647-8543",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "30400 Telegraph Rd. Suite 445\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tBingham Farms, MI 48025",
+          "migratedValue": "30400 Telegraph Rd. Suite ",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

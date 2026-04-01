@@ -1,0 +1,917 @@
+{
+  "site": {
+    "original": "www.armourtrust.com",
+    "migrated": "https://armourtrust-31030806.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.armourtrust.com",
+    "migratedDomain": "https://armourtrust-31030806.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:35:02.702Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.9.htm"
+          },
+          {
+            "title": "Insurance Carriers We Represent",
+            "href": "/Insurance-Carriers-We-Represent.6.htm"
+          },
+          {
+            "title": "Accessibility Statement",
+            "href": "/Accessibility-Statement.7.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Newsletter Sign-up",
+            "href": "/https://www.broadridgeadvisor.com/WebResourcesView/ContactAdd.aspx?wcKey=452F7E16A88049B262649BEBF64E986CD5D2D897D14C08A561B710FEFD946E9F9AA379D7DC4FC4F1D8CC0E1385967F47"
+          }
+        ]
+      },
+      {
+        "title": "Insurance",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Vehicles",
+            "href": "/Vehicles.1.htm"
+          },
+          {
+            "title": "Property",
+            "href": "/Property.3.htm"
+          },
+          {
+            "title": "Business",
+            "href": "/Business.2.htm"
+          },
+          {
+            "title": "Life Insurance",
+            "href": "/Life-Insurance.10.htm"
+          },
+          {
+            "title": "Health",
+            "href": "/Health.4.htm"
+          },
+          {
+            "title": "Other",
+            "href": "/Other.5.htm"
+          }
+        ]
+      },
+      {
+        "title": "Investments",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Financial Services",
+            "href": "/Financial-Services.8.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us/Contactenos",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.armourtrust.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.armourtrust.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.armourtrust.com/Our-Firm.9.htm",
+            "path": "/Our-Firm.9.htm"
+          },
+          {
+            "text": "Insurance Carriers We Represent",
+            "href": "https://www.armourtrust.com/Insurance-Carriers-We-Represent.6.htm",
+            "path": "/Insurance-Carriers-We-Represent.6.htm"
+          },
+          {
+            "text": "Accessibility Statement",
+            "href": "https://www.armourtrust.com/Accessibility-Statement.7.htm",
+            "path": "/Accessibility-Statement.7.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.armourtrust.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.armourtrust.com/tellafriend.cfm?SSLID=113285",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Newsletter Sign-up",
+            "href": "https://www.broadridgeadvisor.com/WebResourcesView/ContactAdd.aspx?wcKey=452F7E16A88049B262649BEBF64E986CD5D2D897D14C08A561B710FEFD946E9F9AA379D7DC4FC4F1D8CC0E1385967F47",
+            "path": "/WebResourcesView/ContactAdd.aspx"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Insurance",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Vehicles",
+            "href": "https://www.armourtrust.com/Vehicles.1.htm",
+            "path": "/Vehicles.1.htm"
+          },
+          {
+            "text": "Property",
+            "href": "https://www.armourtrust.com/Property.3.htm",
+            "path": "/Property.3.htm"
+          },
+          {
+            "text": "Business",
+            "href": "https://www.armourtrust.com/Business.2.htm",
+            "path": "/Business.2.htm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.armourtrust.com/Life-Insurance.10.htm",
+            "path": "/Life-Insurance.10.htm"
+          },
+          {
+            "text": "Health",
+            "href": "https://www.armourtrust.com/Health.4.htm",
+            "path": "/Health.4.htm"
+          },
+          {
+            "text": "Other",
+            "href": "https://www.armourtrust.com/Other.5.htm",
+            "path": "/Other.5.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Investments",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Financial Services",
+            "href": "https://www.armourtrust.com/Financial-Services.8.htm",
+            "path": "/Financial-Services.8.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.armourtrust.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.armourtrust.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.armourtrust.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.armourtrust.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.armourtrust.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.armourtrust.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.armourtrust.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.armourtrust.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.armourtrust.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.armourtrust.com/form.cfm?ID=64&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.armourtrust.com/form.cfm?ID=65&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.armourtrust.com/form.cfm?ID=67&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.armourtrust.com/form.cfm?ID=68&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.armourtrust.com/form.cfm?ID=69&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.armourtrust.com/form.cfm?ID=70&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.armourtrust.com/form.cfm?ID=72&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.armourtrust.com/form.cfm?ID=73&SSLID=*",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us/Contactenos",
+        "href": "https://www.armourtrust.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://armourtrust-31030806.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://armourtrust-31030806.brprodaccount.com/our-firm9",
+        "path": "/our-firm9",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://armourtrust-31030806.brprodaccount.com/our-firm9",
+            "path": "/our-firm9"
+          },
+          {
+            "text": "Insurance Carriers We Represent",
+            "href": "https://armourtrust-31030806.brprodaccount.com/insurance-carriers-we-represent6",
+            "path": "/insurance-carriers-we-represent6"
+          },
+          {
+            "text": "Accessibility Statement",
+            "href": "https://armourtrust-31030806.brprodaccount.com/accessibility-statement7",
+            "path": "/accessibility-statement7"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://armourtrust-31030806.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Insurance",
+        "href": "https://armourtrust-31030806.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Vehicles",
+            "href": "https://armourtrust-31030806.brprodaccount.com/vehicles1",
+            "path": "/vehicles1"
+          },
+          {
+            "text": "Property",
+            "href": "https://armourtrust-31030806.brprodaccount.com/property3",
+            "path": "/property3"
+          },
+          {
+            "text": "Business",
+            "href": "https://armourtrust-31030806.brprodaccount.com/business2",
+            "path": "/business2"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://armourtrust-31030806.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Health",
+            "href": "https://armourtrust-31030806.brprodaccount.com/health4",
+            "path": "/health4"
+          },
+          {
+            "text": "Other",
+            "href": "https://armourtrust-31030806.brprodaccount.com/other5",
+            "path": "/other5"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Investments",
+        "href": "https://armourtrust-31030806.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Financial Services",
+            "href": "https://armourtrust-31030806.brprodaccount.com/financial-services8",
+            "path": "/financial-services8"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://armourtrust-31030806.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://armourtrust-31030806.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://armourtrust-31030806.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://armourtrust-31030806.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://armourtrust-31030806.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://armourtrust-31030806.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://armourtrust-31030806.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us/Contactenos",
+        "href": "https://armourtrust-31030806.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/our-firm9",
+        "migratedPath": "/our-firm9",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm9",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.9.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/our-firm9",
+            "migratedPath": "/our-firm9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Insurance Carriers We Represent",
+            "brHref": "/Insurance-Carriers-We-Represent.6.htm",
+            "migratedText": "Insurance Carriers We Represent",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/insurance-carriers-we-represent6",
+            "migratedPath": "/insurance-carriers-we-represent6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Accessibility Statement",
+            "brHref": "/Accessibility-Statement.7.htm",
+            "migratedText": "Accessibility Statement",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/accessibility-statement7",
+            "migratedPath": "/accessibility-statement7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Newsletter Sign-up",
+            "brHref": "/https://www.broadridgeadvisor.com/WebResourcesView/ContactAdd.aspx?wcKey=452F7E16A88049B262649BEBF64E986CD5D2D897D14C08A561B710FEFD946E9F9AA379D7DC4FC4F1D8CC0E1385967F47",
+            "note": "Sub-item \"Newsletter Sign-up\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Insurance",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Insurance",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Vehicles",
+            "brHref": "/Vehicles.1.htm",
+            "migratedText": "Vehicles",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/vehicles1",
+            "migratedPath": "/vehicles1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Property",
+            "brHref": "/Property.3.htm",
+            "migratedText": "Property",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/property3",
+            "migratedPath": "/property3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Business",
+            "brHref": "/Business.2.htm",
+            "migratedText": "Business",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/business2",
+            "migratedPath": "/business2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance",
+            "brHref": "/Life-Insurance.10.htm",
+            "migratedText": "Life Insurance",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Health",
+            "brHref": "/Health.4.htm",
+            "migratedText": "Health",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/health4",
+            "migratedPath": "/health4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Other",
+            "brHref": "/Other.5.htm",
+            "migratedText": "Other",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/other5",
+            "migratedPath": "/other5"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Investments",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Investments",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Financial Services",
+            "brHref": "/Financial-Services.8.htm",
+            "migratedText": "Financial Services",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/financial-services8",
+            "migratedPath": "/financial-services8"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us/Contactenos",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us/Contactenos",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 24,
+      "totalMigratedItems": 23,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 21,
+      "totalBrItems": 24
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/our-firm9",
+        "migratedPath": "/our-firm9",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.9.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/our-firm9",
+            "migratedPath": "/our-firm9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Insurance Carriers We Represent",
+            "brHref": "/Insurance-Carriers-We-Represent.6.htm",
+            "migratedText": "Insurance Carriers We Represent",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/insurance-carriers-we-represent6",
+            "migratedPath": "/insurance-carriers-we-represent6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Accessibility Statement",
+            "brHref": "/Accessibility-Statement.7.htm",
+            "migratedText": "Accessibility Statement",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/accessibility-statement7",
+            "migratedPath": "/accessibility-statement7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Newsletter Sign-up",
+            "brHref": "/WebResourcesView/ContactAdd.aspx",
+            "note": "Sub-item \"Newsletter Sign-up\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Insurance",
+        "brHref": "void(0);",
+        "migratedText": "Insurance",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Vehicles",
+            "brHref": "/Vehicles.1.htm",
+            "migratedText": "Vehicles",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/vehicles1",
+            "migratedPath": "/vehicles1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Property",
+            "brHref": "/Property.3.htm",
+            "migratedText": "Property",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/property3",
+            "migratedPath": "/property3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Business",
+            "brHref": "/Business.2.htm",
+            "migratedText": "Business",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/business2",
+            "migratedPath": "/business2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance",
+            "brHref": "/Life-Insurance.10.htm",
+            "migratedText": "Life Insurance",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Health",
+            "brHref": "/Health.4.htm",
+            "migratedText": "Health",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/health4",
+            "migratedPath": "/health4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Other",
+            "brHref": "/Other.5.htm",
+            "migratedText": "Other",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/other5",
+            "migratedPath": "/other5"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Investments",
+        "brHref": "void(0);",
+        "migratedText": "Investments",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Financial Services",
+            "brHref": "/Financial-Services.8.htm",
+            "migratedText": "Financial Services",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/financial-services8",
+            "migratedPath": "/financial-services8"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://armourtrust-31030806.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us/Contactenos",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us/Contactenos",
+        "migratedHref": "https://armourtrust-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 35,
+      "totalMigratedItems": 23,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 23
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Armour Trust Financial - Jose A. Lopez - Tampa, FL",
+        "companyNames": [
+          "Armour Trust Financial - Jose A. Lopez - Tampa, FL"
+        ],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Jose Lopez is registered with and securities are offered through Brokers International Financial Services, LLC. Member SIPC. Brokers International Financial Services, LLC is not an affiliated company. This site is published for residents of the United States only. Representatives may only conduct business with residents of the states and jurisdictions in which they are properly registered. Therefore, a response to a request for information may be delayed until appropriate registration is obtained or exemption from registration is determined. Not all of services referenced on this site are available in every state and through every advisor listed. Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.armourtrust.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Jose Lopez is registered with and securities are offered through Brokers International Financial Services, LLC. Member SIPC. Brokers International Financial Services, LLC is not an affiliated company. This site is published for residents of the United States only. Representatives may only conduct business with residents of the states and jurisdictions in which they are properly registered. Therefore, a response to a request for information may be delayed until appropriate registration is obtained or exemption from registration is determined. Not all of services referenced on this site are available in every state and through every advisor listed."
+      },
+      "mismatches": []
+    }
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "site": {
+    "original": "www.donaldcash.com",
+    "migrated": "https://donaldcash-31030803.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.donaldcash.com",
+    "migratedDomain": "https://donaldcash-31030803.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:04:55.191Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "About Don",
+            "href": "/About-Don.4.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Podcast",
+        "href": "/https://yourmoneyyourlife.podbean.com/",
+        "children": []
+      }
+    ],
+    "originalItems": [],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://donaldcash-31030803.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://donaldcash-31030803.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://donaldcash-31030803.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://donaldcash-31030803.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://donaldcash-31030803.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://donaldcash-31030803.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "About Don",
+            "href": "https://donaldcash-31030803.brprodaccount.com/about-donald-w-cash4",
+            "path": "/about-donald-w-cash4"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://donaldcash-31030803.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://donaldcash-31030803.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://donaldcash-31030803.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://donaldcash-31030803.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://donaldcash-31030803.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://donaldcash-31030803.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://donaldcash-31030803.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://donaldcash-31030803.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Podcast",
+        "href": "https://donaldcash-31030803.brprodaccount.com/videos",
+        "path": "/videos",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Don",
+            "brHref": "/About-Don.4.htm",
+            "migratedText": "About Don",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/about-donald-w-cash4",
+            "migratedPath": "/about-donald-w-cash4"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://donaldcash-31030803.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Podcast",
+        "brHref": "/https://yourmoneyyourlife.podbean.com/",
+        "migratedText": "Podcast",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/videos",
+        "migratedPath": "/videos"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 16,
+      "totalMigratedItems": 16,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 14,
+      "totalBrItems": 16
+    },
+    "liveIssues": [
+      {
+        "kind": "extra",
+        "migratedText": "Home",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Us",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Mission Statement",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"Our Mission Statement\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Location",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Our Location\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Firm",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/our-firm2",
+        "migratedPath": "/our-firm2",
+        "note": "\"Our Firm\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Services",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/our-services3",
+        "migratedPath": "/our-services3",
+        "note": "\"Our Services\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Don",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/about-donald-w-cash4",
+        "migratedPath": "/about-donald-w-cash4",
+        "note": "\"About Don\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Resources",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Articles",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Articles\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Calculators",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/calculators",
+        "migratedPath": "/calculators",
+        "note": "\"Calculators\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Newsletters",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "note": "\"Newsletters\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Glossary",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/glossary",
+        "migratedPath": "/glossary",
+        "note": "\"Glossary\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Tax Library",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/tax-library",
+        "migratedPath": "/tax-library",
+        "note": "\"Tax Library\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Contact Us\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Podcast",
+        "migratedHref": "https://donaldcash-31030803.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Podcast\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 0,
+      "totalMigratedItems": 16,
+      "missing": 0,
+      "extra": 16,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Donald W. Cash - CPA, CFP®",
+        "companyNames": [
+          "Donald W. Cash - CPA, CFP®"
+        ],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Donald W. Cash",
+          "New Jersey",
+          "Insurance Services",
+          "Insurance Advisors",
+          "Enter Site"
+        ],
+        "footerText": ""
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.donaldcash.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "person-name",
+          "originalValue": "Donald W. Cash, New Jersey, Insurance Services, Insurance Advisors, Enter Site",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

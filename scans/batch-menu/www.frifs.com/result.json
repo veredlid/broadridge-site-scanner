@@ -1,0 +1,730 @@
+{
+  "site": {
+    "original": "www.frifs.com",
+    "migrated": "https://frifs-31030808.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.frifs.com",
+    "migratedDomain": "https://frifs-31030808.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:35:56.724Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Tax Deferral Consultant",
+            "href": "/Tax-Deferral-Consultant.16.htm"
+          },
+          {
+            "title": "Annuities",
+            "href": "/Annuities.14.htm"
+          },
+          {
+            "title": "Business Solutions",
+            "href": "/Business-Solutions.7.htm"
+          },
+          {
+            "title": "Disability Income Insurance",
+            "href": "/Disability-Income-Insurance.12.htm"
+          },
+          {
+            "title": "Investments",
+            "href": "/Investments.13.htm"
+          },
+          {
+            "title": "Life Insurance",
+            "href": "/Life-Insurance.2.htm"
+          },
+          {
+            "title": "Long-Term Care Insurance",
+            "href": "/Long-Term-Care-Insurance.10.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Life Insurance - Premium Financing",
+            "href": "/Life-Insurance---Premium-Financing.15.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.frifs.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.frifs.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Tax Deferral Consultant",
+            "href": "https://www.frifs.com/Tax-Deferral-Consultant.16.htm",
+            "path": "/Tax-Deferral-Consultant.16.htm"
+          },
+          {
+            "text": "Annuities",
+            "href": "https://www.frifs.com/Annuities.14.htm",
+            "path": "/Annuities.14.htm"
+          },
+          {
+            "text": "Business Solutions",
+            "href": "https://www.frifs.com/Business-Solutions.7.htm",
+            "path": "/Business-Solutions.7.htm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.frifs.com/Disability-Income-Insurance.12.htm",
+            "path": "/Disability-Income-Insurance.12.htm"
+          },
+          {
+            "text": "Investments",
+            "href": "https://www.frifs.com/Investments.13.htm",
+            "path": "/Investments.13.htm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.frifs.com/Life-Insurance.2.htm",
+            "path": "/Life-Insurance.2.htm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.frifs.com/Long-Term-Care-Insurance.10.htm",
+            "path": "/Long-Term-Care-Insurance.10.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.frifs.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Life Insurance - Premium Financing",
+            "href": "https://www.frifs.com/Life-Insurance---Premium-Financing.15.htm",
+            "path": "/Life-Insurance---Premium-Financing.15.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.frifs.com/tellafriend.cfm?SSLID=43725",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.frifs.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.frifs.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.frifs.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.frifs.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.frifs.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.frifs.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.frifs.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.frifs.com/form.cfm?ID=65&SSLID=43725",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.frifs.com/form.cfm?ID=67&SSLID=43725",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.frifs.com/form.cfm?ID=68&SSLID=43725",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.frifs.com/form.cfm?ID=69&SSLID=43725",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.frifs.com/form.cfm?ID=70&SSLID=43725",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Mortgage Qualification",
+            "href": "https://www.frifs.com/form.cfm?ID=71&SSLID=43725",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.frifs.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://frifs-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://frifs-31030808.brprodaccount.com/tax-deferral-consultant16",
+        "path": "/tax-deferral-consultant16",
+        "subItems": [
+          {
+            "text": "Tax Deferral Consultant",
+            "href": "https://frifs-31030808.brprodaccount.com/tax-deferral-consultant16",
+            "path": "/tax-deferral-consultant16"
+          },
+          {
+            "text": "Annuities",
+            "href": "https://frifs-31030808.brprodaccount.com/annuities14",
+            "path": "/annuities14"
+          },
+          {
+            "text": "Business Solutions",
+            "href": "https://frifs-31030808.brprodaccount.com/business-solutions7",
+            "path": "/business-solutions7"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://frifs-31030808.brprodaccount.com/disability-income-insurance12",
+            "path": "/disability-income-insurance12"
+          },
+          {
+            "text": "Investments",
+            "href": "https://frifs-31030808.brprodaccount.com/investments13",
+            "path": "/investments13"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://frifs-31030808.brprodaccount.com/life-insurance2",
+            "path": "/life-insurance2"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://frifs-31030808.brprodaccount.com/longterm-care-insurance10",
+            "path": "/longterm-care-insurance10"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://frifs-31030808.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Life Insurance - Premium Financing",
+            "href": "https://frifs-31030808.brprodaccount.com/life-insurance-premium-financing15",
+            "path": "/life-insurance-premium-financing15"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://frifs-31030808.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://frifs-31030808.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://frifs-31030808.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://frifs-31030808.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://frifs-31030808.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://frifs-31030808.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://frifs-31030808.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://frifs-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://frifs-31030808.brprodaccount.com/tax-deferral-consultant16",
+        "migratedPath": "/tax-deferral-consultant16",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /tax-deferral-consultant16",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Tax Deferral Consultant",
+            "brHref": "/Tax-Deferral-Consultant.16.htm",
+            "migratedText": "Tax Deferral Consultant",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/tax-deferral-consultant16",
+            "migratedPath": "/tax-deferral-consultant16"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Annuities",
+            "brHref": "/Annuities.14.htm",
+            "migratedText": "Annuities",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/annuities14",
+            "migratedPath": "/annuities14"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Business Solutions",
+            "brHref": "/Business-Solutions.7.htm",
+            "migratedText": "Business Solutions",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/business-solutions7",
+            "migratedPath": "/business-solutions7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Disability Income Insurance",
+            "brHref": "/Disability-Income-Insurance.12.htm",
+            "migratedText": "Disability Income Insurance",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/disability-income-insurance12",
+            "migratedPath": "/disability-income-insurance12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investments",
+            "brHref": "/Investments.13.htm",
+            "migratedText": "Investments",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/investments13",
+            "migratedPath": "/investments13"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance",
+            "brHref": "/Life-Insurance.2.htm",
+            "migratedText": "Life Insurance",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/life-insurance2",
+            "migratedPath": "/life-insurance2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Long-Term Care Insurance",
+            "brHref": "/Long-Term-Care-Insurance.10.htm",
+            "migratedText": "Long-Term Care Insurance",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/longterm-care-insurance10",
+            "migratedPath": "/longterm-care-insurance10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance - Premium Financing",
+            "brHref": "/Life-Insurance---Premium-Financing.15.htm",
+            "migratedText": "Life Insurance - Premium Financing",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/life-insurance-premium-financing15",
+            "migratedPath": "/life-insurance-premium-financing15"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://frifs-31030808.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://frifs-31030808.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 18,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 16,
+      "totalBrItems": 18
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://frifs-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://frifs-31030808.brprodaccount.com/tax-deferral-consultant16",
+        "migratedPath": "/tax-deferral-consultant16",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Tax Deferral Consultant",
+            "brHref": "/Tax-Deferral-Consultant.16.htm",
+            "migratedText": "Tax Deferral Consultant",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/tax-deferral-consultant16",
+            "migratedPath": "/tax-deferral-consultant16"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Annuities",
+            "brHref": "/Annuities.14.htm",
+            "migratedText": "Annuities",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/annuities14",
+            "migratedPath": "/annuities14"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Business Solutions",
+            "brHref": "/Business-Solutions.7.htm",
+            "migratedText": "Business Solutions",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/business-solutions7",
+            "migratedPath": "/business-solutions7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Disability Income Insurance",
+            "brHref": "/Disability-Income-Insurance.12.htm",
+            "migratedText": "Disability Income Insurance",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/disability-income-insurance12",
+            "migratedPath": "/disability-income-insurance12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investments",
+            "brHref": "/Investments.13.htm",
+            "migratedText": "Investments",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/investments13",
+            "migratedPath": "/investments13"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance",
+            "brHref": "/Life-Insurance.2.htm",
+            "migratedText": "Life Insurance",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/life-insurance2",
+            "migratedPath": "/life-insurance2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Long-Term Care Insurance",
+            "brHref": "/Long-Term-Care-Insurance.10.htm",
+            "migratedText": "Long-Term Care Insurance",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/longterm-care-insurance10",
+            "migratedPath": "/longterm-care-insurance10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance - Premium Financing",
+            "brHref": "/Life-Insurance---Premium-Financing.15.htm",
+            "migratedText": "Life Insurance - Premium Financing",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/life-insurance-premium-financing15",
+            "migratedPath": "/life-insurance-premium-financing15"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://frifs-31030808.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://frifs-31030808.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://frifs-31030808.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 26,
+      "totalMigratedItems": 18,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 18
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Tax Deferral Consultant & Life Insurance Sacramento, CA | Call 916-358-5799 for More Information",
+        "companyNames": [
+          "Tax Deferral Consultant & Life Insurance Sacramento, CA",
+          "Call 916-358-5799 for More Information"
+        ],
+        "phoneNumbers": [
+          "9163585799"
+        ],
+        "emailAddresses": [
+          "dave@frifs.com"
+        ],
+        "physicalAddresses": [
+          "1104 Bevinger Drive\nEl Dorado Hills, CA 95762"
+        ],
+        "personNames": [],
+        "footerText": "David A. Williamson is licensed to sell insurance through various independent insurance companies in California (CA Ins. Lic. 0G56679), IL, MI, NV, NJ, TX, VA & WA.Equity Advisors is a registered investment adviser. The information presented is for educational purposes only and does not intend to make an offer or solicitation for the sale or purchase of any specific securities, investments, or investment strategies. Investments involve risk and, unless otherwise stated, are not guaranteed. Be sure to first consult with a qualified financial adviser and/or tax professional before implementing any strategy discussed herein. Past performance is not indicative of future performance.Market Watch information is provided for informational purposes and is not considered an offering of securities. Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.frifs.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "9163585799",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "dave@frifs.com"
+        ],
+        "physicalAddresses": [
+          "1104 Bevinger Drive\n\n\n\n\nEl Dorado Hills\n\n"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "David A. Williamson is licensed to sell insurance through various independent insurance companies in California (CA Ins. Lic. 0G56679), IL, MI, NV, NJ, TX, VA & WA.Equity Advisors is a registered investment adviser. The information presented is for educational purposes only and does not intend to make an offer or solicitation for the sale or purchase of any specific securities, investments, or investment strategies. Investments involve risk and, unless otherwise stated, are not guaranteed. Be sure to first consult with a qualified financial adviser and/or tax professional before implementing any strategy discussed herein. Past performance is not indicative of future performance.Market Watch information is provided for informational purposes and is not considered an offering of securities."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(916) 358-5799",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "1104 Bevinger Drive\nEl Dorado Hills, CA 95762",
+          "migratedValue": "1104 Bevinger Drive\n\n\n\n\nEl Dorado Hills\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

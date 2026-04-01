@@ -1,0 +1,578 @@
+{
+  "site": {
+    "original": "www.vinnybarone.com",
+    "migrated": "https://vinnybarone-31030807.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.vinnybarone.com",
+    "migratedDomain": "https://vinnybarone-31030807.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:39:02.214Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Meet Vincent M. Barone",
+            "href": "/Vincent-M--Barone.e90109.htm"
+          },
+          {
+            "title": "Services",
+            "href": "/Services.1.htm"
+          },
+          {
+            "title": "Qualifications",
+            "href": "/Qualifications.2.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.vinnybarone.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.vinnybarone.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Meet Vincent M. Barone",
+            "href": "https://www.vinnybarone.com/Vincent-M--Barone.e90109.htm",
+            "path": "/Vincent-M--Barone.e90109.htm"
+          },
+          {
+            "text": "Services",
+            "href": "https://www.vinnybarone.com/Services.1.htm",
+            "path": "/Services.1.htm"
+          },
+          {
+            "text": "Qualifications",
+            "href": "https://www.vinnybarone.com/Qualifications.2.htm",
+            "path": "/Qualifications.2.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.vinnybarone.com/tellafriend.cfm?SSLID=17163",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.vinnybarone.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.vinnybarone.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.vinnybarone.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.vinnybarone.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.vinnybarone.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.vinnybarone.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.vinnybarone.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.vinnybarone.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.vinnybarone.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.vinnybarone.com/form.cfm?ID=64&SSLID=17163",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.vinnybarone.com/form.cfm?ID=65&SSLID=17163",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.vinnybarone.com/form.cfm?ID=68&SSLID=17163",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.vinnybarone.com/form.cfm?ID=69&SSLID=17163",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.vinnybarone.com/form.cfm?ID=70&SSLID=17163",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.vinnybarone.com/form.cfm?ID=73&SSLID=17163",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.vinnybarone.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://vinnybarone-31030807.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://vinnybarone-31030807.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Meet Vincent M. Barone",
+            "href": "https://vinnybarone-31030807.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Services",
+            "href": "https://vinnybarone-31030807.brprodaccount.com/services1",
+            "path": "/services1"
+          },
+          {
+            "text": "Qualifications",
+            "href": "https://vinnybarone-31030807.brprodaccount.com/qualifications2",
+            "path": "/qualifications2"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://vinnybarone-31030807.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://vinnybarone-31030807.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://vinnybarone-31030807.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://vinnybarone-31030807.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://vinnybarone-31030807.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://vinnybarone-31030807.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://vinnybarone-31030807.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://vinnybarone-31030807.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Meet Vincent M. Barone",
+            "brHref": "/Vincent-M--Barone.e90109.htm",
+            "migratedText": "Meet Vincent M. Barone",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services",
+            "brHref": "/Services.1.htm",
+            "migratedText": "Services",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/services1",
+            "migratedPath": "/services1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Qualifications",
+            "brHref": "/Qualifications.2.htm",
+            "migratedText": "Qualifications",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/qualifications2",
+            "migratedPath": "/qualifications2"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 13,
+      "totalMigratedItems": 13,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 12,
+      "totalBrItems": 13
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Meet Vincent M. Barone",
+            "brHref": "/Vincent-M--Barone.e90109.htm",
+            "migratedText": "Meet Vincent M. Barone",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services",
+            "brHref": "/Services.1.htm",
+            "migratedText": "Services",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/services1",
+            "migratedPath": "/services1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Qualifications",
+            "brHref": "/Qualifications.2.htm",
+            "migratedText": "Qualifications",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/qualifications2",
+            "migratedPath": "/qualifications2"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 22,
+      "totalMigratedItems": 13,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 13
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Vinny Barone",
+        "companyNames": [
+          "Vinny Barone"
+        ],
+        "phoneNumbers": [
+          "9177474339"
+        ],
+        "emailAddresses": [
+          "vinnybarone@outlook.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.vinnybarone.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "9177474339",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "vinnybarone@outlook.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(917) 747-4339",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "site": {
+    "original": "www.americanbrokeragegroup.com",
+    "migrated": "https://americanbrokeragegroup-31030807.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.americanbrokeragegroup.com",
+    "migratedDomain": "https://americanbrokeragegroup-31030807.brprodaccount.com/",
+    "capturedAt": "2026-04-01T07:57:58.710Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.americanbrokeragegroup.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.americanbrokeragegroup.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.americanbrokeragegroup.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.americanbrokeragegroup.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.americanbrokeragegroup.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.americanbrokeragegroup.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=34616",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.americanbrokeragegroup.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.americanbrokeragegroup.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.americanbrokeragegroup.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.americanbrokeragegroup.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.americanbrokeragegroup.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.americanbrokeragegroup.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.americanbrokeragegroup.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.americanbrokeragegroup.com/form.cfm?ID=64&SSLID=34616",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.americanbrokeragegroup.com/form.cfm?ID=67&SSLID=34616",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.americanbrokeragegroup.com/form.cfm?ID=68&SSLID=34616",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.americanbrokeragegroup.com/form.cfm?ID=70&SSLID=34616",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Mortgage Qualification",
+            "href": "https://www.americanbrokeragegroup.com/form.cfm?ID=71&SSLID=34616",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.americanbrokeragegroup.com/form.cfm?ID=72&SSLID=34616",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.americanbrokeragegroup.com/form.cfm?ID=73&SSLID=34616",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.americanbrokeragegroup.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://americanbrokeragegroup-31030807.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 15,
+      "totalMigratedItems": 15,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 13,
+      "totalBrItems": 15
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/#",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://americanbrokeragegroup-31030807.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 15,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 13
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "American Brokerage Group",
+        "companyNames": [
+          "AMERICAN BROKERAGE GROUP",
+          "American Brokerage Group"
+        ],
+        "phoneNumbers": [
+          "(404) 349-8888",
+          "(404) 349-8559"
+        ],
+        "emailAddresses": [
+          "kenpayne@americanbrokeragegroup.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Home\n          \n          About",
+          "Us\n           \n            Our",
+          "Mission Statement",
+          "Our Location",
+          "Our Firm",
+          "Our Services",
+          "Our Qualifications",
+          "Tell A Friend",
+          "Resources\n           \n            Articles",
+          "Calculators\n            Flipbooks",
+          "Newsletters\n            Glossary",
+          "Tax Library",
+          "Videos\n           \n          \n          Request",
+          "Quote\n           \n            Annuity",
+          "Group Health",
+          "Life Insurance",
+          "Disability Income",
+          "Insurance\n            Mortgage",
+          "Information Request",
+          "West Paces",
+          "Ferry Road",
+          "View Calculators",
+          "View Videos",
+          "Financial Services",
+          "Potential Benefits",
+          "Cost Averaging",
+          "More Videos",
+          "Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters",
+          "New Tax",
+          "One Big",
+          "Beautiful Bill",
+          "Two \n\t\t\t\t\n\t\t\t\tSurvivorship",
+          "The Premium",
+          "Parents Pay",
+          "Top Schools",
+          "Buffett Takes",
+          "Iconic Investor",
+          "Warren Buffett",
+          "Berkshire Hathaway",
+          "More Newsletters",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Lifetime",
+          "Earnings\n          \n        \n        This",
+          "Waiting\n          \n        \n        Estimate",
+          "Insurance\n          \n        \n        How",
+          "Life Expectancy",
+          "More Calculators",
+          "Site Map",
+          "To Top"
+        ],
+        "footerText": "Site Map\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBack To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.americanbrokeragegroup.com",
+        "companyNames": [
+          "AMERICAN BROKERAGE GROUP"
+        ],
+        "phoneNumbers": [
+          "4043498888",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "kenpayne@americanbrokeragegroup.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(404) 349-8888, (404) 349-8559",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Location, Our Firm, Our Services, Our Qualifications, Tell A Friend, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Request, Quote\n           \n            Annuity, Group Health, Life Insurance, Disability Income, Insurance\n            Mortgage, Information Request, West Paces, Ferry Road, View Calculators, View Videos, Financial Services, Potential Benefits, Cost Averaging, More Videos, Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters, New Tax, One Big, Beautiful Bill, Two \n\t\t\t\t\n\t\t\t\tSurvivorship, The Premium, Parents Pay, Top Schools, Buffett Takes, Iconic Investor, Warren Buffett, Berkshire Hathaway, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Lifetime, Earnings\n          \n        \n        This, Waiting\n          \n        \n        Estimate, Insurance\n          \n        \n        How, Life Expectancy, More Calculators, Site Map, To Top",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

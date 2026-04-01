@@ -1,0 +1,959 @@
+{
+  "site": {
+    "original": "www.pbfsi.com",
+    "migrated": "https://pbfsi-31030756.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.pbfsi.com",
+    "migratedDomain": "https://pbfsi-31030756.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:42:02.656Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "OUR FIRMS",
+            "href": "/OUR-FIRMS.1.htm"
+          },
+          {
+            "title": "What We Do - Life Insurance vs. Annuities",
+            "href": "/LIFE-INSURANCE-VERSES-ANNUITIES.8.htm"
+          },
+          {
+            "title": "Contact Us",
+            "href": "/javascript:void(0);"
+          }
+        ]
+      },
+      {
+        "title": "Video Resources",
+        "href": "/Video Resources",
+        "children": [
+          {
+            "title": "Who is PBG",
+            "href": "/Video-Resources.11.htm"
+          },
+          {
+            "title": "457 Enrollment",
+            "href": "/457-Enrollment.12.htm"
+          },
+          {
+            "title": "Survivors Benefits Through Insurance",
+            "href": "/Surviviors-Benefits-Through-Insurance-Draft-1.16.htm"
+          },
+          {
+            "title": "LIFE INSURANCE \"A LEGACY OF LOVE\" - GREAT VIDEO FOR YOU!",
+            "href": "/http://www.youtube.com/watch?v=ZKHftmGWoEM"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "&lt;Center&gt;&lt;B&gt;FAQ - 457&lpar;b&rpar;&lt;Center&gt;&lt;B&gt;",
+        "href": "/FAQ-457b.3.htm",
+        "children": []
+      },
+      {
+        "title": "Our Services",
+        "href": "/OUR-SERVICES.2.htm",
+        "children": []
+      },
+      {
+        "title": "SERVICE REQUEST",
+        "href": "/SERVICE-REQUEST.4.htm",
+        "children": []
+      },
+      {
+        "title": "&lt;B&gt;&lt;Center&gt;IMPORTANT LINKS&lt;B&gt;&lt;Center&gt;",
+        "href": "/IMPORTANT-LINKS.6.htm",
+        "children": []
+      },
+      {
+        "title": "&lt;B&gt;&lt;Center&gt;PLANNING WORKSHEETS&lt;Center&gt;&lt;B&gt;",
+        "href": "/PLANNING-WORKSHEETS.7.htm",
+        "children": []
+      },
+      {
+        "title": "LIFE INSURANCE VERSES ANNUITIES",
+        "href": "/What-We-Do---Life-Insurance-vs--Annuities.8.htm",
+        "children": []
+      },
+      {
+        "title": "WHAT TO DO WITH TDROP?",
+        "href": "/WHAT-TO-DO-WITH-TDROP.9.htm",
+        "children": []
+      },
+      {
+        "title": "FUTURE RETIREMENT PROJECTIONS",
+        "href": "/FUTURE-RETIREMENT-PROJECTIONS---ESTIMATED.13.htm",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.pbfsi.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.pbfsi.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "OUR FIRMS",
+            "href": "https://www.pbfsi.com/#",
+            "path": "/"
+          },
+          {
+            "text": "OUR FIRMS",
+            "href": "https://www.pbfsi.com/OUR-FIRMS.1.htm",
+            "path": "/OUR-FIRMS.1.htm"
+          },
+          {
+            "text": "OUR ASSOCIATES",
+            "href": "https://www.pbfsi.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "OUR LOCATION",
+            "href": "https://www.pbfsi.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "AFFILIATED OFFICES",
+            "href": "https://www.pbfsi.com/affiliated-offices.htm",
+            "path": "/affiliated-offices.htm"
+          },
+          {
+            "text": "What We Do - Life Insurance vs. Annuities",
+            "href": "https://www.pbfsi.com/#",
+            "path": "/"
+          },
+          {
+            "text": "What We Do - Life Insurance vs. Annuities",
+            "href": "https://www.pbfsi.com/LIFE-INSURANCE-VERSES-ANNUITIES.8.htm",
+            "path": "/LIFE-INSURANCE-VERSES-ANNUITIES.8.htm"
+          },
+          {
+            "text": "OUR SERVICES",
+            "href": "https://www.pbfsi.com/OUR-SERVICES.2.htm",
+            "path": "/OUR-SERVICES.2.htm"
+          },
+          {
+            "text": "FAQ-457(b)",
+            "href": "https://www.pbfsi.com/FAQ-457b.3.htm",
+            "path": "/FAQ-457b.3.htm"
+          },
+          {
+            "text": "WHAT TO DO WITH TDROP?",
+            "href": "https://www.pbfsi.com/WHAT-TO-DO-WITH-TDROP.9.htm",
+            "path": "/WHAT-TO-DO-WITH-TDROP.9.htm"
+          },
+          {
+            "text": "FUTURE RETIREMENT PROJECTIONS - ESTIMATED",
+            "href": "https://www.pbfsi.com/FUTURE-RETIREMENT-PROJECTIONS---ESTIMATED.13.htm",
+            "path": "/FUTURE-RETIREMENT-PROJECTIONS---ESTIMATED.13.htm"
+          },
+          {
+            "text": "IMPORTANT LINKS",
+            "href": "https://www.pbfsi.com/IMPORTANT-LINKS.6.htm",
+            "path": "/IMPORTANT-LINKS.6.htm"
+          },
+          {
+            "text": "PLANNING WORKSHEETS",
+            "href": "https://www.pbfsi.com/PLANNING-WORKSHEETS.7.htm",
+            "path": "/PLANNING-WORKSHEETS.7.htm"
+          },
+          {
+            "text": "Contact Us",
+            "href": "javascript:void(0);",
+            "path": "void(0);"
+          },
+          {
+            "text": "SERVICE REQUEST",
+            "href": "https://www.pbfsi.com/SERVICE-REQUEST.4.htm",
+            "path": "/SERVICE-REQUEST.4.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.pbfsi.com/tellafriend.cfm?SSLID=5658",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Video Resources",
+        "href": "https://www.pbfsi.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Video Resources",
+            "href": "https://www.pbfsi.com/Video%20Resources",
+            "path": "/Video%20Resources"
+          },
+          {
+            "text": "Who is PBG",
+            "href": "https://www.pbfsi.com/Video-Resources.11.htm",
+            "path": "/Video-Resources.11.htm"
+          },
+          {
+            "text": "457 Enrollment",
+            "href": "https://www.pbfsi.com/457-Enrollment.12.htm",
+            "path": "/457-Enrollment.12.htm"
+          },
+          {
+            "text": "Survivors Benefits Through Insurance",
+            "href": "https://www.pbfsi.com/Surviviors-Benefits-Through-Insurance-Draft-1.16.htm",
+            "path": "/Surviviors-Benefits-Through-Insurance-Draft-1.16.htm"
+          },
+          {
+            "text": "LIFE INSURANCE \"A LEGACY OF LOVE\" - GREAT VIDEO FOR YOU!",
+            "href": "https://www.pbfsi.com/LIFE-INSURANCE-A-LEGACY-OF-LOVE---GREAT-VIDEO-FOR-YOU!.14.htm",
+            "path": "/LIFE-INSURANCE-A-LEGACY-OF-LOVE---GREAT-VIDEO-FOR-YOU!.14.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.pbfsi.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.pbfsi.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.pbfsi.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.pbfsi.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.pbfsi.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.pbfsi.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.pbfsi.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.pbfsi.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.pbfsi.com/form.cfm?ID=64&SSLID=5658",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.pbfsi.com/form.cfm?ID=65&SSLID=5658",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.pbfsi.com/form.cfm?ID=68&SSLID=5658",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.pbfsi.com/form.cfm?ID=72&SSLID=5658",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.pbfsi.com/form.cfm?ID=73&SSLID=5658",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://www.pbfsi.com/contact_us/",
+            "path": "/contact_us"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://pbfsi-31030756.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://pbfsi-31030756.brprodaccount.com/bcenterour-firmscenterb1",
+        "path": "/bcenterour-firmscenterb1",
+        "subItems": [
+          {
+            "text": "OUR FIRMS",
+            "href": "https://pbfsi-31030756.brprodaccount.com/bcenterour-firmscenterb1",
+            "path": "/bcenterour-firmscenterb1"
+          },
+          {
+            "text": "What We Do - Life Insurance vs. Annuities",
+            "href": "https://pbfsi-31030756.brprodaccount.com/bcenterlife-insurance-verses-annuitiescenterb8",
+            "path": "/bcenterlife-insurance-verses-annuitiescenterb8"
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://pbfsi-31030756.brprodaccount.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Video Resources",
+        "href": "https://pbfsi-31030756.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Who is PBG",
+            "href": "https://pbfsi-31030756.brprodaccount.com/who-is-pbg11",
+            "path": "/who-is-pbg11"
+          },
+          {
+            "text": "457 Enrollment",
+            "href": "https://pbfsi-31030756.brprodaccount.com/457-enrollment12",
+            "path": "/457-enrollment12"
+          },
+          {
+            "text": "Survivors Benefits Through Insurance",
+            "href": "https://pbfsi-31030756.brprodaccount.com/survivors-benefits-through-insurance16",
+            "path": "/survivors-benefits-through-insurance16"
+          },
+          {
+            "text": "LIFE INSURANCE \"A LEGACY OF LOVE\" - GREAT VIDEO FOR YOU!",
+            "href": "http://www.youtube.com/watch?v=ZKHftmGWoEM",
+            "path": "/watch"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://pbfsi-31030756.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://pbfsi-31030756.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://pbfsi-31030756.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://pbfsi-31030756.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://pbfsi-31030756.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://pbfsi-31030756.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://pbfsi-31030756.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://pbfsi-31030756.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://pbfsi-31030756.brprodaccount.com/bcenterour-firmscenterb1",
+        "migratedPath": "/bcenterour-firmscenterb1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /bcenterour-firmscenterb1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "OUR FIRMS",
+            "brHref": "/OUR-FIRMS.1.htm",
+            "migratedText": "OUR FIRMS",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/bcenterour-firmscenterb1",
+            "migratedPath": "/bcenterour-firmscenterb1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "What We Do - Life Insurance vs. Annuities",
+            "brHref": "/LIFE-INSURANCE-VERSES-ANNUITIES.8.htm",
+            "migratedText": "What We Do - Life Insurance vs. Annuities",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/bcenterlife-insurance-verses-annuitiescenterb8",
+            "migratedPath": "/bcenterlife-insurance-verses-annuitiescenterb8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Contact Us",
+            "brHref": "/javascript:void(0);",
+            "migratedText": "Contact Us",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Video Resources",
+        "brHref": "/Video Resources",
+        "migratedText": "Video Resources",
+        "migratedHref": "https://pbfsi-31030756.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Who is PBG",
+            "brHref": "/Video-Resources.11.htm",
+            "migratedText": "Who is PBG",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/who-is-pbg11",
+            "migratedPath": "/who-is-pbg11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "457 Enrollment",
+            "brHref": "/457-Enrollment.12.htm",
+            "migratedText": "457 Enrollment",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/457-enrollment12",
+            "migratedPath": "/457-enrollment12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Survivors Benefits Through Insurance",
+            "brHref": "/Surviviors-Benefits-Through-Insurance-Draft-1.16.htm",
+            "migratedText": "Survivors Benefits Through Insurance",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/survivors-benefits-through-insurance16",
+            "migratedPath": "/survivors-benefits-through-insurance16"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "LIFE INSURANCE \"A LEGACY OF LOVE\" - GREAT VIDEO FOR YOU!",
+            "brHref": "/http://www.youtube.com/watch?v=ZKHftmGWoEM",
+            "migratedText": "LIFE INSURANCE \"A LEGACY OF LOVE\" - GREAT VIDEO FOR YOU!",
+            "migratedHref": "http://www.youtube.com/watch?v=ZKHftmGWoEM",
+            "migratedPath": "/watch"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://pbfsi-31030756.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "&lt;Center&gt;&lt;B&gt;FAQ - 457&lpar;b&rpar;&lt;Center&gt;&lt;B&gt;",
+        "brHref": "/FAQ-457b.3.htm",
+        "note": "\"&lt;Center&gt;&lt;B&gt;FAQ - 457&lpar;b&rpar;&lt;Center&gt;&lt;B&gt;\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Services",
+        "brHref": "/OUR-SERVICES.2.htm",
+        "note": "\"Our Services\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "SERVICE REQUEST",
+        "brHref": "/SERVICE-REQUEST.4.htm",
+        "note": "\"SERVICE REQUEST\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "&lt;B&gt;&lt;Center&gt;IMPORTANT LINKS&lt;B&gt;&lt;Center&gt;",
+        "brHref": "/IMPORTANT-LINKS.6.htm",
+        "note": "\"&lt;B&gt;&lt;Center&gt;IMPORTANT LINKS&lt;B&gt;&lt;Center&gt;\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "&lt;B&gt;&lt;Center&gt;PLANNING WORKSHEETS&lt;Center&gt;&lt;B&gt;",
+        "brHref": "/PLANNING-WORKSHEETS.7.htm",
+        "note": "\"&lt;B&gt;&lt;Center&gt;PLANNING WORKSHEETS&lt;Center&gt;&lt;B&gt;\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "LIFE INSURANCE VERSES ANNUITIES",
+        "brHref": "/What-We-Do---Life-Insurance-vs--Annuities.8.htm",
+        "note": "\"LIFE INSURANCE VERSES ANNUITIES\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "WHAT TO DO WITH TDROP?",
+        "brHref": "/WHAT-TO-DO-WITH-TDROP.9.htm",
+        "note": "\"WHAT TO DO WITH TDROP?\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "FUTURE RETIREMENT PROJECTIONS",
+        "brHref": "/FUTURE-RETIREMENT-PROJECTIONS---ESTIMATED.13.htm",
+        "note": "\"FUTURE RETIREMENT PROJECTIONS\" is in the BR navigation JSON but not found in the migrated site menu"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 17,
+      "missing": 8,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 15,
+      "totalBrItems": 25
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://pbfsi-31030756.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://pbfsi-31030756.brprodaccount.com/bcenterour-firmscenterb1",
+        "migratedPath": "/bcenterour-firmscenterb1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "OUR FIRMS",
+            "brHref": "/",
+            "migratedText": "OUR FIRMS",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/bcenterour-firmscenterb1",
+            "migratedPath": "/bcenterour-firmscenterb1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "OUR FIRMS",
+            "brHref": "/OUR-FIRMS.1.htm",
+            "migratedText": "OUR FIRMS",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/bcenterour-firmscenterb1",
+            "migratedPath": "/bcenterour-firmscenterb1"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "OUR ASSOCIATES",
+            "brHref": "/team.htm",
+            "note": "Sub-item \"OUR ASSOCIATES\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "OUR LOCATION",
+            "brHref": "/location.htm",
+            "note": "Sub-item \"OUR LOCATION\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "AFFILIATED OFFICES",
+            "brHref": "/affiliated-offices.htm",
+            "note": "Sub-item \"AFFILIATED OFFICES\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "What We Do - Life Insurance vs. Annuities",
+            "brHref": "/",
+            "migratedText": "What We Do - Life Insurance vs. Annuities",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/bcenterlife-insurance-verses-annuitiescenterb8",
+            "migratedPath": "/bcenterlife-insurance-verses-annuitiescenterb8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "What We Do - Life Insurance vs. Annuities",
+            "brHref": "/LIFE-INSURANCE-VERSES-ANNUITIES.8.htm",
+            "migratedText": "What We Do - Life Insurance vs. Annuities",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/bcenterlife-insurance-verses-annuitiescenterb8",
+            "migratedPath": "/bcenterlife-insurance-verses-annuitiescenterb8"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "OUR SERVICES",
+            "brHref": "/OUR-SERVICES.2.htm",
+            "note": "Sub-item \"OUR SERVICES\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "FAQ-457(b)",
+            "brHref": "/FAQ-457b.3.htm",
+            "note": "Sub-item \"FAQ-457(b)\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "WHAT TO DO WITH TDROP?",
+            "brHref": "/WHAT-TO-DO-WITH-TDROP.9.htm",
+            "note": "Sub-item \"WHAT TO DO WITH TDROP?\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "FUTURE RETIREMENT PROJECTIONS - ESTIMATED",
+            "brHref": "/FUTURE-RETIREMENT-PROJECTIONS---ESTIMATED.13.htm",
+            "note": "Sub-item \"FUTURE RETIREMENT PROJECTIONS - ESTIMATED\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "IMPORTANT LINKS",
+            "brHref": "/IMPORTANT-LINKS.6.htm",
+            "note": "Sub-item \"IMPORTANT LINKS\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "PLANNING WORKSHEETS",
+            "brHref": "/PLANNING-WORKSHEETS.7.htm",
+            "note": "Sub-item \"PLANNING WORKSHEETS\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Contact Us",
+            "brHref": "void(0);",
+            "migratedText": "Contact Us",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "SERVICE REQUEST",
+            "brHref": "/SERVICE-REQUEST.4.htm",
+            "note": "Sub-item \"SERVICE REQUEST\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Video Resources",
+        "brHref": "/",
+        "migratedText": "Video Resources",
+        "migratedHref": "https://pbfsi-31030756.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Video Resources",
+            "brHref": "/Video%20Resources",
+            "migratedText": "Video Resources",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Video Resources\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Who is PBG",
+            "brHref": "/Video-Resources.11.htm",
+            "migratedText": "Who is PBG",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/who-is-pbg11",
+            "migratedPath": "/who-is-pbg11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "457 Enrollment",
+            "brHref": "/457-Enrollment.12.htm",
+            "migratedText": "457 Enrollment",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/457-enrollment12",
+            "migratedPath": "/457-enrollment12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Survivors Benefits Through Insurance",
+            "brHref": "/Surviviors-Benefits-Through-Insurance-Draft-1.16.htm",
+            "migratedText": "Survivors Benefits Through Insurance",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/survivors-benefits-through-insurance16",
+            "migratedPath": "/survivors-benefits-through-insurance16"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "LIFE INSURANCE \"A LEGACY OF LOVE\" - GREAT VIDEO FOR YOU!",
+            "brHref": "/LIFE-INSURANCE-A-LEGACY-OF-LOVE---GREAT-VIDEO-FOR-YOU!.14.htm",
+            "migratedText": "LIFE INSURANCE \"A LEGACY OF LOVE\" - GREAT VIDEO FOR YOU!",
+            "migratedHref": "http://www.youtube.com/watch?v=ZKHftmGWoEM",
+            "migratedPath": "/watch"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://pbfsi-31030756.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://pbfsi-31030756.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://pbfsi-31030756.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 38,
+      "totalMigratedItems": 17,
+      "missing": 13,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 1,
+      "ok": 18
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Pro Benefits Group,Inc.",
+        "companyNames": [
+          "PRO BENEFITS GROUP",
+          "Pro Benefits Group,Inc."
+        ],
+        "phoneNumbers": [
+          "5013210457",
+          "8776443662",
+          "10011240",
+          "8002641569"
+        ],
+        "emailAddresses": [
+          "support@probenefitsgroup.net"
+        ],
+        "physicalAddresses": [
+          "245 Hobson Avenue\nHot Springs, AR 71913",
+          "245 Hobson Avenue, Hot Springs, Arkansas "
+        ],
+        "personNames": [],
+        "footerText": "Pro Benefits Group, Inc. is an Arkansas based Corporation. Our address is 245 Hobson Avenue, Hot Springs, Arkansas 71913 (800) 264-1569 and on the web at www.pbfsi.com . Representing American National - Life of the Southwest/National Life Group, as well as other fine companies. American National is currently listed on Forbes 100 Most Trustworthy Companies in America All Associates/Affiliates are Independant Contractors, contracted under Gary Kandlbinder. Arkansas Insurance License #912453 and/or Pro Benefits Group Inc, Arkansas Insurance License # 100112401. Privacy Policy Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.pbfsi.com",
+        "companyNames": [
+          "PRO BENEFITS GROUP"
+        ],
+        "phoneNumbers": [
+          "5013210457",
+          "9723800097",
+          "10011240",
+          "8002641569"
+        ],
+        "emailAddresses": [
+          "support@probenefitsgroup.net"
+        ],
+        "physicalAddresses": [
+          "245 Hobson Avenue\n\n\n\n\nHot Springs\n\n",
+          "245 Hobson Avenue, Hot Springs, Arkansas "
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Pro Benefits Group, Inc. is an Arkansas based Corporation. Our address is 245 Hobson Avenue, Hot Springs, Arkansas 71913 (800) 264-1569 and on the web at www.pbfsi.com . Representing American National - Life of the Southwest/National Life Group, as well as other fine companies. American National is currently listed on Forbes 100 Most Trustworthy Companies in America All Associates/Affiliates are Independant Contractors, contracted under Gary Kandlbinder. Arkansas Insurance License #912453 and/or Pro Benefits Group Inc, Arkansas Insurance License # 100112401. Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(501) 321-0457, (877) 644-3662, 10011240, (800) 264-1569",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "245 Hobson Avenue\nHot Springs, AR 71913",
+          "migratedValue": "245 Hobson Avenue\n\n\n\n\nHot Springs\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

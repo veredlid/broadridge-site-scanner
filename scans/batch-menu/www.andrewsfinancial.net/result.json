@@ -1,0 +1,734 @@
+{
+  "site": {
+    "original": "www.andrewsfinancial.net",
+    "migrated": "https://andrewsfinancial-31030806.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.andrewsfinancial.net",
+    "migratedDomain": "https://andrewsfinancial-31030806.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:40:10.863Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Mission Statement",
+            "href": "/Mission-Statement.1.htm"
+          },
+          {
+            "title": "About Our Firm",
+            "href": "/About-Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Affiliated Offices",
+            "href": "/affiliated-offices.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "Retirement Girls",
+            "href": "/Retirement-Girls.6.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.andrewsfinancial.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Home",
+            "href": "https://www.andrewsfinancial.net/",
+            "path": "/"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.andrewsfinancial.net/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.andrewsfinancial.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Mission Statement",
+            "href": "https://www.andrewsfinancial.net/Mission-Statement.1.htm",
+            "path": "/Mission-Statement.1.htm"
+          },
+          {
+            "text": "About Our Firm",
+            "href": "https://www.andrewsfinancial.net/About-Our-Firm.2.htm",
+            "path": "/About-Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.andrewsfinancial.net/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.andrewsfinancial.net/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Affiliated Offices",
+            "href": "https://www.andrewsfinancial.net/affiliated-offices.htm",
+            "path": "/affiliated-offices.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.andrewsfinancial.net/tellafriend.cfm?SSLID=45603",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.andrewsfinancial.net/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Retirement Girls",
+            "href": "https://www.andrewsfinancial.net/Retirement-Girls.6.htm",
+            "path": "/Retirement-Girls.6.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.andrewsfinancial.net/featured_links.htm",
+            "path": "/featured_links.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.andrewsfinancial.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.andrewsfinancial.net/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.andrewsfinancial.net/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.andrewsfinancial.net/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.andrewsfinancial.net/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.andrewsfinancial.net/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.andrewsfinancial.net/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.andrewsfinancial.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.andrewsfinancial.net/form.cfm?ID=65&SSLID=45603",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.andrewsfinancial.net/form.cfm?ID=68&SSLID=45603",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.andrewsfinancial.net/form.cfm?ID=70&SSLID=45603",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.andrewsfinancial.net/form.cfm?ID=72&SSLID=45603",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.andrewsfinancial.net/form.cfm?ID=73&SSLID=45603",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.andrewsfinancial.net/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://andrewsfinancial-31030806.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://andrewsfinancial-31030806.brprodaccount.com/mission-statement1",
+        "path": "/mission-statement1",
+        "subItems": [
+          {
+            "text": "Mission Statement",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/mission-statement1",
+            "path": "/mission-statement1"
+          },
+          {
+            "text": "About Our Firm",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/about-debbie-andrews2",
+            "path": "/about-debbie-andrews2"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Affiliated Offices",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          },
+          {
+            "text": "Retirement Girls",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/retirement-girls6",
+            "path": "/retirement-girls6"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://andrewsfinancial-31030806.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://andrewsfinancial-31030806.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://andrewsfinancial-31030806.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/mission-statement1",
+        "migratedPath": "/mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Mission Statement",
+            "brHref": "/Mission-Statement.1.htm",
+            "migratedText": "Mission Statement",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/mission-statement1",
+            "migratedPath": "/mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Our Firm",
+            "brHref": "/About-Our-Firm.2.htm",
+            "migratedText": "About Our Firm",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/about-debbie-andrews2",
+            "migratedPath": "/about-debbie-andrews2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Affiliated Offices",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Affiliated Offices",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/affiliated-office",
+            "migratedPath": "/affiliated-office"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Girls",
+            "brHref": "/Retirement-Girls.6.htm",
+            "migratedText": "Retirement Girls",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/retirement-girls6",
+            "migratedPath": "/retirement-girls6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 17,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 15,
+      "totalBrItems": 17
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Home",
+            "brHref": "/",
+            "migratedText": "Home",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Home\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Home\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/mission-statement1",
+        "migratedPath": "/mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Mission Statement",
+            "brHref": "/Mission-Statement.1.htm",
+            "migratedText": "Mission Statement",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/mission-statement1",
+            "migratedPath": "/mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Our Firm",
+            "brHref": "/About-Our-Firm.2.htm",
+            "migratedText": "About Our Firm",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/about-debbie-andrews2",
+            "migratedPath": "/about-debbie-andrews2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Affiliated Offices",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Affiliated Offices",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/affiliated-office",
+            "migratedPath": "/affiliated-office"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Girls",
+            "brHref": "/Retirement-Girls.6.htm",
+            "migratedText": "Retirement Girls",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/retirement-girls6",
+            "migratedPath": "/retirement-girls6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://andrewsfinancial-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 27,
+      "totalMigratedItems": 17,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 1,
+      "ok": 17
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Andrews Financial Services",
+        "companyNames": [
+          "Andrews Financial Services"
+        ],
+        "phoneNumbers": [
+          "2815503330",
+          "8775503332",
+          "2815507862"
+        ],
+        "emailAddresses": [
+          "debbie@andrewsfinancial.net"
+        ],
+        "physicalAddresses": [
+          "2002 Timberloch Place Suite 200\nThe Woodlands, TX 77380"
+        ],
+        "personNames": [],
+        "footerText": "Advisory services are offered through Custom Wealth Solutions, an investment advisor in the State of Texas. Insurance products and services are offered through Andrews Financial Services, an affiliated company. Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.andrewsfinancial.net",
+        "companyNames": [],
+        "phoneNumbers": [
+          "2815503330",
+          "8775503332",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "debbie@andrewsfinancial.net"
+        ],
+        "physicalAddresses": [
+          "2002 Timberloch Place Suite 200\n\n\n\n\nThe Woodlands\n\n"
+        ],
+        "personNames": [],
+        "footerText": "Advisory services are offered through Custom Wealth Solutions, an investment advisor in the State of Texas. Insurance products and services are offered through Andrews Financial Services, an affiliated company."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(281) 550-3330, (877) 550-3332, (281) 550-7862",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "2002 Timberloch Place Suite 200\nThe Woodlands, TX 77380",
+          "migratedValue": "2002 Timberloch Place Suite 200\n\n\n\n\nThe Woodlands\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

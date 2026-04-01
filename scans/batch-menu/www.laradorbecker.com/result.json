@@ -1,0 +1,675 @@
+{
+  "site": {
+    "original": "www.laradorbecker.com",
+    "migrated": "https://laradorbecker-31030759.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.laradorbecker.com",
+    "migratedDomain": "https://laradorbecker-31030759.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:41:00.648Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "NetXInvestor",
+        "href": "/https://www.netxinvestor.com/nxi/login",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Contact Us",
+            "href": "/location.cfm"
+          }
+        ]
+      },
+      {
+        "title": "Brochures &amp; Documentation",
+        "href": "/Brochures-and--Account-Documentation.8.htm",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.laradorbecker.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "NetXInvestor",
+        "href": "https://www.netxinvestor.com/nxi/login",
+        "path": "/nxi/login",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.laradorbecker.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Contact Us",
+            "href": "https://www.laradorbecker.com/location.cfm",
+            "path": "/location.cfm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.laradorbecker.com/tellafriend.cfm?SSLID=12146",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Brochures & Documentation",
+        "href": "https://www.laradorbecker.com/Brochures-and--Account-Documentation.8.htm",
+        "path": "/Brochures-and--Account-Documentation.8.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.laradorbecker.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.laradorbecker.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.laradorbecker.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.laradorbecker.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.laradorbecker.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.laradorbecker.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.laradorbecker.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.laradorbecker.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.laradorbecker.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.laradorbecker.com/form.cfm?ID=64&SSLID=12146",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.laradorbecker.com/form.cfm?ID=68&SSLID=12146",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.laradorbecker.com/form.cfm?ID=70&SSLID=12146",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.laradorbecker.com/form.cfm?ID=72&SSLID=12146",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.laradorbecker.com/form.cfm?ID=73&SSLID=12146",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://laradorbecker-31030759.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://laradorbecker-31030759.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Team",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Location",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "HR360",
+            "href": "https://www.hr360.com/login/",
+            "path": "/login"
+          },
+          {
+            "text": "Apply for Individual Health Insurance",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Affiliated Office",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://laradorbecker-31030759.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "FAQ",
+            "href": "https://laradorbecker-31030759.brprodaccount.com/faq",
+            "path": "/faq"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Location",
+        "href": "https://laradorbecker-31030759.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "NetXInvestor",
+        "brHref": "/https://www.netxinvestor.com/nxi/login",
+        "note": "\"NetXInvestor\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Contact Us",
+            "brHref": "/location.cfm",
+            "note": "Sub-item \"Contact Us\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Brochures &amp; Documentation",
+        "brHref": "/Brochures-and--Account-Documentation.8.htm",
+        "note": "\"Brochures &amp; Documentation\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Team",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" appears in the migrated menu but is not in the BR navigation JSON"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 12,
+      "totalMigratedItems": 17,
+      "missing": 3,
+      "extra": 8,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 7,
+      "totalBrItems": 12
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "NetXInvestor",
+        "brHref": "/nxi/login",
+        "note": "\"NetXInvestor\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Contact Us",
+            "brHref": "/location.cfm",
+            "note": "Sub-item \"Contact Us\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Brochures & Documentation",
+        "brHref": "/Brochures-and--Account-Documentation.8.htm",
+        "note": "\"Brochures & Documentation\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Team",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://laradorbecker-31030759.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 20,
+      "totalMigratedItems": 17,
+      "missing": 6,
+      "extra": 8,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 9
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "LaraDorbecker Securities Corporation",
+        "companyNames": [
+          "LaraDorbecker Securities Corporation"
+        ],
+        "phoneNumbers": [
+          "2812982423",
+          "5541625925",
+          "2812982623"
+        ],
+        "emailAddresses": [
+          "clientservices@laradorbecker.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "This has been prepared solely for informational purposes. It is not an offer, recommendation or solicitation to buy or sell, nor is it an official confirmation of terms. It is based on information generally available to the public from sources believed to be reliable. No representation is made that it is accurate or complete or that any returns indicated will be achieved. Changes to assumptions may have a material impact on any returns detailed. Past performance is not indicative of future returns. Price and availability are subject to change without notice. Additional information is available upon request. Privacy Policy Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.laradorbecker.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "2812982423",
+          "5541625925",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "clientservices@laradorbecker.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "This has been prepared solely for informational purposes. It is not an offer, recommendation or solicitation to buy or sell, nor is it an official confirmation of terms. It is based on information generally available to the public from sources believed to be reliable. No representation is made that it is accurate or complete or that any returns indicated will be achieved. Changes to assumptions may have a material impact on any returns detailed. Past performance is not indicative of future returns. Price and availability are subject to change without notice. Additional information is available upon request. Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(281) 298-2423, (554) 162-5925, (281) 298-2623",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

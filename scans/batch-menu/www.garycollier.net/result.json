@@ -1,0 +1,672 @@
+{
+  "site": {
+    "original": "www.garycollier.net",
+    "migrated": "https://garycollier-31030802.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.garycollier.net",
+    "migratedDomain": "https://garycollier-31030802.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:41:58.862Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "The Lombard Difference",
+            "href": "/The-Lombard-Difference.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications and Experience",
+            "href": "/Our-Qualifications-and-Experience.4.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Lombard Securities Incorporated Headquarters",
+            "href": "/affiliated-offices.htm"
+          },
+          {
+            "title": "Informational Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Client Account Online Access",
+            "href": "/https--auth-fccaccessonline-com.5.htm"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/location.htm",
+        "children": []
+      },
+      {
+        "title": "Lombard Securities Client Online Access",
+        "href": "/Client-Account-Online-Access.5.htm",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.garycollier.net/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.garycollier.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "The Lombard Difference",
+            "href": "https://www.garycollier.net/The-Lombard-Difference.2.htm",
+            "path": "/The-Lombard-Difference.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.garycollier.net/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications and Experience",
+            "href": "https://www.garycollier.net/Our-Qualifications-and-Experience.4.htm",
+            "path": "/Our-Qualifications-and-Experience.4.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.garycollier.net/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Lombard Securities Incorporated Headquarters",
+            "href": "https://www.garycollier.net/affiliated-offices.htm",
+            "path": "/affiliated-offices.htm"
+          },
+          {
+            "text": "Informational Links",
+            "href": "https://www.garycollier.net/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.garycollier.net/tellafriend.cfm?SSLID=75185",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.garycollier.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Client Account Online Access",
+            "href": "https://www.garycollier.net/https--auth-fccaccessonline-com.5.htm",
+            "path": "/https--auth-fccaccessonline-com.5.htm"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.garycollier.net/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.garycollier.net/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.garycollier.net/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.garycollier.net/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.garycollier.net/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.garycollier.net/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.garycollier.net/location.htm",
+        "path": "/location.htm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://garycollier-31030802.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://garycollier-31030802.brprodaccount.com/the-lombard-difference2",
+        "path": "/the-lombard-difference2",
+        "subItems": [
+          {
+            "text": "The Lombard Difference",
+            "href": "https://garycollier-31030802.brprodaccount.com/the-lombard-difference2",
+            "path": "/the-lombard-difference2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://garycollier-31030802.brprodaccount.com/our-advisory-services-investments3",
+            "path": "/our-advisory-services-investments3"
+          },
+          {
+            "text": "Our Qualifications and Experience",
+            "href": "https://garycollier-31030802.brprodaccount.com/our-qualifications-and-experience4",
+            "path": "/our-qualifications-and-experience4"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://garycollier-31030802.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Lombard Securities Incorporated Headquarters",
+            "href": "https://garycollier-31030802.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Informational Links",
+            "href": "https://garycollier-31030802.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://garycollier-31030802.brprodaccount.com/lombard-securities-client-online-access5",
+        "path": "/lombard-securities-client-online-access5",
+        "subItems": [
+          {
+            "text": "Client Account Online Access",
+            "href": "https://garycollier-31030802.brprodaccount.com/lombard-securities-client-online-access5",
+            "path": "/lombard-securities-client-online-access5"
+          },
+          {
+            "text": "Articles",
+            "href": "https://garycollier-31030802.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://garycollier-31030802.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://garycollier-31030802.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://garycollier-31030802.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://garycollier-31030802.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://garycollier-31030802.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://garycollier-31030802.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://garycollier-31030802.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://garycollier-31030802.brprodaccount.com/the-lombard-difference2",
+        "migratedPath": "/the-lombard-difference2",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /the-lombard-difference2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "The Lombard Difference",
+            "brHref": "/The-Lombard-Difference.2.htm",
+            "migratedText": "The Lombard Difference",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/the-lombard-difference2",
+            "migratedPath": "/the-lombard-difference2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/our-advisory-services-investments3",
+            "migratedPath": "/our-advisory-services-investments3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications and Experience",
+            "brHref": "/Our-Qualifications-and-Experience.4.htm",
+            "migratedText": "Our Qualifications and Experience",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/our-qualifications-and-experience4",
+            "migratedPath": "/our-qualifications-and-experience4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Lombard Securities Incorporated Headquarters",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Lombard Securities Incorporated Headquarters",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Informational Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Informational Links",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://garycollier-31030802.brprodaccount.com/lombard-securities-client-online-access5",
+        "migratedPath": "/lombard-securities-client-online-access5",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /lombard-securities-client-online-access5",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Client Account Online Access",
+            "brHref": "/https--auth-fccaccessonline-com.5.htm",
+            "migratedText": "Client Account Online Access",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/lombard-securities-client-online-access5",
+            "migratedPath": "/lombard-securities-client-online-access5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/location.htm",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://garycollier-31030802.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Lombard Securities Client Online Access",
+        "brHref": "/Client-Account-Online-Access.5.htm",
+        "note": "\"Lombard Securities Client Online Access\" is in the BR navigation JSON but not found in the migrated site menu"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 17,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 15,
+      "totalBrItems": 18
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://garycollier-31030802.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://garycollier-31030802.brprodaccount.com/the-lombard-difference2",
+        "migratedPath": "/the-lombard-difference2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "The Lombard Difference",
+            "brHref": "/The-Lombard-Difference.2.htm",
+            "migratedText": "The Lombard Difference",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/the-lombard-difference2",
+            "migratedPath": "/the-lombard-difference2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/our-advisory-services-investments3",
+            "migratedPath": "/our-advisory-services-investments3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications and Experience",
+            "brHref": "/Our-Qualifications-and-Experience.4.htm",
+            "migratedText": "Our Qualifications and Experience",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/our-qualifications-and-experience4",
+            "migratedPath": "/our-qualifications-and-experience4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Lombard Securities Incorporated Headquarters",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Lombard Securities Incorporated Headquarters",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Informational Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Informational Links",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://garycollier-31030802.brprodaccount.com/lombard-securities-client-online-access5",
+        "migratedPath": "/lombard-securities-client-online-access5",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Client Account Online Access",
+            "brHref": "/https--auth-fccaccessonline-com.5.htm",
+            "migratedText": "Client Account Online Access",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/lombard-securities-client-online-access5",
+            "migratedPath": "/lombard-securities-client-online-access5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://garycollier-31030802.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/location.htm",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://garycollier-31030802.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 17,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 17
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Lombard Securities",
+        "companyNames": [
+          "Gary Collier & Associates, LLC",
+          "Lombard Securities"
+        ],
+        "phoneNumbers": [
+          "5406393201",
+          "5407313029",
+          "8007552144"
+        ],
+        "emailAddresses": [
+          "gcollier@golombard.com"
+        ],
+        "physicalAddresses": [
+          "106 Wadsworth Street\nRadford, VA 24141"
+        ],
+        "personNames": [],
+        "footerText": "Important DisclosuresPlease be advised that this web site is operated by a registered representative associated with Lombard Securities, Inc., member FINRA/SIPC, headquartered at 1820 Lancaster St., Baltimore, MD 21231 (800-755-2144). Securities offered through Lombard Securities, Inc. The web site owner is authorized to discuss with or offer investment & financial services & products only to residents of the states within which the owner is licensed. Securities related services may not be provided to individuals residing in any other state. The information offered is for informative and educational purposes only. None of this information is to be construed as an offer to buy or sell securities referred to within or otherwise. Neither the owner of this web site nor Lombard Securities makes any guarantee as to the accuracy or completeness of this information. Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.garycollier.net",
+        "companyNames": [
+          "Gary Collier & Associates, LLC"
+        ],
+        "phoneNumbers": [
+          "5406393201",
+          "9723800097",
+          "8007552144"
+        ],
+        "emailAddresses": [
+          "gcollier@golombard.com"
+        ],
+        "physicalAddresses": [
+          "106 Wadsworth Street\n\n\n\n\nRadford\n\n"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Important Disclosures Please be advised that this web site is operated by a registered representative associated with Lombard Securities, Inc., member FINRA/SIPC, headquartered at 1820 Lancaster St., Baltimore, MD 21231 (800-755-2144). Securities offered through Lombard Securities, Inc. The web site owner is authorized to discuss with or offer investment & financial services & products only to residents of the states within which the owner is licensed. Securities related services may not be provided to individuals residing in any other state. The information offered is for informative and educational purposes only. None of this information is to be construed as an offer to buy or sell securities referred to within or otherwise. Neither the owner of this web site nor Lombard Securities makes any guarantee as to the accuracy or completeness of this information."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(540) 639-3201, (540) 731-3029, (800) 755-2144",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "106 Wadsworth Street\nRadford, VA 24141",
+          "migratedValue": "106 Wadsworth Street\n\n\n\n\nRadford\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

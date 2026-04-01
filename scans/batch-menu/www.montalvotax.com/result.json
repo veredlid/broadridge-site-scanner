@@ -1,0 +1,808 @@
+{
+  "site": {
+    "original": "www.montalvotax.com",
+    "migrated": "https://montalvotax-31030758.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.montalvotax.com",
+    "migratedDomain": "https://montalvotax-31030758.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:53:06.728Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Mission Statement",
+            "href": "/Mission-Statement.6.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.7.htm"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Products &amp; Services",
+            "href": "/Products-and-Services.1.htm"
+          },
+          {
+            "title": "Financial Planning",
+            "href": "/Financial-Planning.3.htm"
+          },
+          {
+            "title": "Tax Planning",
+            "href": "/Tax-Preparation.4.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Tax Planning Strategies ",
+        "href": "/Tax-Planning.4.htm",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.montalvotax.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Mission Statement",
+            "href": "https://www.montalvotax.com/Mission-Statement.6.htm",
+            "path": "/Mission-Statement.6.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.montalvotax.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.montalvotax.com/Our-Qualifications.7.htm",
+            "path": "/Our-Qualifications.7.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Services",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Products & Services",
+            "href": "https://www.montalvotax.com/Products-and-Services.1.htm",
+            "path": "/Products-and-Services.1.htm"
+          },
+          {
+            "text": "Financial Planning",
+            "href": "https://www.montalvotax.com/Financial-Planning.3.htm",
+            "path": "/Financial-Planning.3.htm"
+          },
+          {
+            "text": "Tax Planning",
+            "href": "https://www.montalvotax.com/Tax-Preparation.4.htm",
+            "path": "/Tax-Preparation.4.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.montalvotax.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.montalvotax.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.montalvotax.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.montalvotax.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.montalvotax.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.montalvotax.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.montalvotax.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.montalvotax.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Market Watch",
+            "href": "https://www.montalvotax.com/market_watch",
+            "path": "/market_watch"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.montalvotax.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.montalvotax.com/form.cfm?ID=64&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.montalvotax.com/form.cfm?ID=65&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.montalvotax.com/form.cfm?ID=68&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.montalvotax.com/form.cfm?ID=70&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.montalvotax.com/form.cfm?ID=72&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.montalvotax.com/form.cfm?ID=73&SSLID=*",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.montalvotax.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://montalvotax-31030758.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://montalvotax-31030758.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Team",
+            "href": "https://montalvotax-31030758.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Location",
+            "href": "https://montalvotax-31030758.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "HR360",
+            "href": "https://www.hr360.com/login/",
+            "path": "/login"
+          },
+          {
+            "text": "Apply for Individual Health Insurance",
+            "href": "https://montalvotax-31030758.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://montalvotax-31030758.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Affiliated Office",
+            "href": "https://montalvotax-31030758.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://montalvotax-31030758.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://montalvotax-31030758.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://montalvotax-31030758.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://montalvotax-31030758.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://montalvotax-31030758.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://montalvotax-31030758.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://montalvotax-31030758.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "FAQ",
+            "href": "https://montalvotax-31030758.brprodaccount.com/faq",
+            "path": "/faq"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Location",
+        "href": "https://montalvotax-31030758.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "About",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Mission Statement",
+            "brHref": "/Mission-Statement.6.htm",
+            "note": "Sub-item \"Mission Statement\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "note": "Sub-item \"Our Firm\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.7.htm",
+            "note": "Sub-item \"Our Qualifications\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Services",
+        "brHref": "/javascript:void(0);",
+        "note": "\"Services\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Tax Planning Strategies ",
+        "brHref": "/Tax-Planning.4.htm",
+        "note": "\"Tax Planning Strategies \" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Team",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" appears in the migrated menu but is not in the BR navigation JSON"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 17,
+      "missing": 6,
+      "extra": 8,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 8,
+      "totalBrItems": 18
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "void(0);",
+        "migratedText": "About",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Mission Statement",
+            "brHref": "/Mission-Statement.6.htm",
+            "note": "Sub-item \"Mission Statement\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "note": "Sub-item \"Our Firm\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.7.htm",
+            "note": "Sub-item \"Our Qualifications\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Services",
+        "brHref": "void(0);",
+        "note": "\"Services\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://montalvotax-31030758.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Market Watch",
+            "brHref": "/market_watch",
+            "note": "Sub-item \"Market Watch\" under \"Resources\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Team",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://montalvotax-31030758.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 26,
+      "totalMigratedItems": 17,
+      "missing": 8,
+      "extra": 8,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 9
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Montalvo Tax",
+        "companyNames": [
+          "Montalvo Tax"
+        ],
+        "phoneNumbers": [
+          "5165903540",
+          "5165903543"
+        ],
+        "emailAddresses": [
+          "peter@montalvotax.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Securities and advisory services offered through Ameriprise Financial, a Registered Investment Advisor, Member FINRA/SIPC. Montalvo Tax and Ameriprise Financial are separate entities. Ameriprise Financial does not offer any legal or tax advice. The Ameriprise Financial Registered Representatives associated with this site may only discuss and/or transact securities business with residents of the following states: AR, AZ, CA, CT, FL, GA, MA, NC, NJ, NY, OH, PA, SC, TX & VT Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.montalvotax.com",
+        "companyNames": [
+          "Creative Financial\nProfessionals"
+        ],
+        "phoneNumbers": [
+          "9723800063",
+          "8005295740",
+          "9723800097",
+          "8003447437",
+          "7475987"
+        ],
+        "emailAddresses": [
+          "resnik_neil@nlgroupmail.com"
+        ],
+        "physicalAddresses": [
+          "4500 Westgrove Suite 356\nAddison, TX 75001"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Securities and investment advisory services are offered solely through Registered Representatives and Investment Adviser Representatives of Equity Services, Inc. Member FINRA/SIPC, One National Life Drive, Montpelier, Vermont 05604, 1-800-344-7437. Creative Financial Professionals and all other entities referenced are not affiliated with Equity Services, Inc., unless otherwise noted. Neil Resnik is a Registered Representative and Investment Adviser Representative of Equity Services, Inc. and offers securities in Texas. Neil is also licensed to offer life insurance and annuities in Texas. This site is not a solicitation of interest in any of these products in any other state. TC7475987(1224)3Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(516) 590-3540, (516) 590-3543",
+          "migratedValue": "(972) 380-0063",
+          "severity": "critical",
+          "note": "Phone \"(972) 380-0063\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(516) 590-3540, (516) 590-3543",
+          "migratedValue": "(800) 529-5740",
+          "severity": "critical",
+          "note": "Phone \"(800) 529-5740\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(516) 590-3540, (516) 590-3543",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(516) 590-3540, (516) 590-3543",
+          "migratedValue": "(800) 344-7437",
+          "severity": "critical",
+          "note": "Phone \"(800) 344-7437\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(516) 590-3540, (516) 590-3543",
+          "migratedValue": "7475987",
+          "severity": "critical",
+          "note": "Phone \"7475987\" on migrated site not found on original"
+        },
+        {
+          "field": "email",
+          "originalValue": "peter@montalvotax.com",
+          "migratedValue": "resnik_neil@nlgroupmail.com",
+          "severity": "critical",
+          "note": "Email \"resnik_neil@nlgroupmail.com\" on migrated site not found on original"
+        },
+        {
+          "field": "company-name",
+          "originalValue": "Montalvo Tax",
+          "migratedValue": "Creative Financial\nProfessionals",
+          "severity": "warning",
+          "note": "Company name \"Creative Financial\nProfessionals\" on migrated site may not match original"
+        }
+      ]
+    }
+  }
+}

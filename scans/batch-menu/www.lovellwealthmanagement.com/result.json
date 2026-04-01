@@ -1,0 +1,699 @@
+{
+  "site": {
+    "original": "www.lovellwealthmanagement.com",
+    "migrated": "https://lovellwealthmanagement-31030759.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.lovellwealthmanagement.com",
+    "migratedDomain": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:43:32.397Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "Who We Are",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Your Financial Advisor",
+            "href": "/Stephen-F--Lovell.4.htm"
+          },
+          {
+            "title": "About Lovell Wealth Management",
+            "href": "/Our-Company.2.htm"
+          }
+        ]
+      },
+      {
+        "title": "What We Do",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Tax &amp; Estate Planning",
+            "href": "/Tax-and-Estate-Planning.6.htm"
+          },
+          {
+            "title": "Retirement Planning",
+            "href": "/Retirement-Planning.5.htm"
+          },
+          {
+            "title": "Wealth Management",
+            "href": "/Wealth-Management.7.htm"
+          }
+        ]
+      },
+      {
+        "title": "What to Expect",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Keeping Things Simple",
+            "href": "/Keeping-Things-Simple.10.htm"
+          },
+          {
+            "title": "The Good Life Made Better",
+            "href": "/The-Good-Life-Made-Better.8.htm"
+          }
+        ]
+      },
+      {
+        "title": "Blog",
+        "href": "/https://siliconvalleytax.com/blog/",
+        "children": []
+      },
+      {
+        "title": "Learning Center",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.lovellwealthmanagement.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Who We Are",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Your Financial Advisor",
+            "href": "https://www.lovellwealthmanagement.com/Stephen-F--Lovell.4.htm",
+            "path": "/Stephen-F--Lovell.4.htm"
+          },
+          {
+            "text": "About Lovell Wealth Management",
+            "href": "https://www.lovellwealthmanagement.com/Our-Company.2.htm",
+            "path": "/Our-Company.2.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "What We Do",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Tax & Estate Planning",
+            "href": "https://www.lovellwealthmanagement.com/Tax-and-Estate-Planning.6.htm",
+            "path": "/Tax-and-Estate-Planning.6.htm"
+          },
+          {
+            "text": "Retirement Planning",
+            "href": "https://www.lovellwealthmanagement.com/Retirement-Planning.5.htm",
+            "path": "/Retirement-Planning.5.htm"
+          },
+          {
+            "text": "Wealth Management",
+            "href": "https://www.lovellwealthmanagement.com/Wealth-Management.7.htm",
+            "path": "/Wealth-Management.7.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Events",
+        "href": "https://www.lovellwealthmanagement.com/events.htm",
+        "path": "/events.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "What to Expect",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Keeping Things Simple",
+            "href": "https://www.lovellwealthmanagement.com/Keeping-Things-Simple.10.htm",
+            "path": "/Keeping-Things-Simple.10.htm"
+          },
+          {
+            "text": "The Good Life Made Better",
+            "href": "https://www.lovellwealthmanagement.com/The-Good-Life-Made-Better.8.htm",
+            "path": "/The-Good-Life-Made-Better.8.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Blog",
+        "href": "https://siliconvalleytax.com/blog/",
+        "path": "/blog",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Learning Center",
+        "href": "https://www.lovellwealthmanagement.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Newsletters",
+            "href": "https://www.lovellwealthmanagement.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.lovellwealthmanagement.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.lovellwealthmanagement.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.lovellwealthmanagement.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.lovellwealthmanagement.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.lovellwealthmanagement.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Who We Are",
+        "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Your Financial Advisor",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/your-financial-advisor4",
+            "path": "/your-financial-advisor4"
+          },
+          {
+            "text": "About Lovell Wealth Management",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/about-lovell-wealth-management2",
+            "path": "/about-lovell-wealth-management2"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "What We Do",
+        "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Tax & Estate Planning",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/tax-estate-planning6",
+            "path": "/tax-estate-planning6"
+          },
+          {
+            "text": "Retirement Planning",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/retirement-planning5",
+            "path": "/retirement-planning5"
+          },
+          {
+            "text": "Wealth Management",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/wealth-management7",
+            "path": "/wealth-management7"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "What to Expect",
+        "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Keeping Things Simple",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/keeping-things-simple10",
+            "path": "/keeping-things-simple10"
+          },
+          {
+            "text": "The Good Life Made Better",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/the-good-life-made-better8",
+            "path": "/the-good-life-made-better8"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Blog",
+        "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Learning Center",
+        "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/newsletters",
+        "path": "/newsletters",
+        "subItems": [
+          {
+            "text": "Newsletters",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Videos",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "Articles",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/calculators",
+            "path": "/calculators"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://lovellwealthmanagement-31030759.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Who We Are",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Who We Are",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Your Financial Advisor",
+            "brHref": "/Stephen-F--Lovell.4.htm",
+            "migratedText": "Your Financial Advisor",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/your-financial-advisor4",
+            "migratedPath": "/your-financial-advisor4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Lovell Wealth Management",
+            "brHref": "/Our-Company.2.htm",
+            "migratedText": "About Lovell Wealth Management",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/about-lovell-wealth-management2",
+            "migratedPath": "/about-lovell-wealth-management2"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "What We Do",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "What We Do",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Tax &amp; Estate Planning",
+            "brHref": "/Tax-and-Estate-Planning.6.htm",
+            "migratedText": "Tax & Estate Planning",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/tax-estate-planning6",
+            "migratedPath": "/tax-estate-planning6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Planning",
+            "brHref": "/Retirement-Planning.5.htm",
+            "migratedText": "Retirement Planning",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/retirement-planning5",
+            "migratedPath": "/retirement-planning5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Wealth Management",
+            "brHref": "/Wealth-Management.7.htm",
+            "migratedText": "Wealth Management",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/wealth-management7",
+            "migratedPath": "/wealth-management7"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "What to Expect",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "What to Expect",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Keeping Things Simple",
+            "brHref": "/Keeping-Things-Simple.10.htm",
+            "migratedText": "Keeping Things Simple",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/keeping-things-simple10",
+            "migratedPath": "/keeping-things-simple10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "The Good Life Made Better",
+            "brHref": "/The-Good-Life-Made-Better.8.htm",
+            "migratedText": "The Good Life Made Better",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/the-good-life-made-better8",
+            "migratedPath": "/the-good-life-made-better8"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Blog",
+        "brHref": "/https://siliconvalleytax.com/blog/",
+        "migratedText": "Blog",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/articles",
+        "migratedPath": "/articles"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Learning Center",
+        "brHref": "/#",
+        "migratedText": "Learning Center",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "note": "\"Learning Center\" should be a dropdown (/#) but migrated links to /newsletters",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 18,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 17,
+      "totalBrItems": 18
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Who We Are",
+        "brHref": "void(0);",
+        "migratedText": "Who We Are",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Your Financial Advisor",
+            "brHref": "/Stephen-F--Lovell.4.htm",
+            "migratedText": "Your Financial Advisor",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/your-financial-advisor4",
+            "migratedPath": "/your-financial-advisor4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Lovell Wealth Management",
+            "brHref": "/Our-Company.2.htm",
+            "migratedText": "About Lovell Wealth Management",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/about-lovell-wealth-management2",
+            "migratedPath": "/about-lovell-wealth-management2"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "What We Do",
+        "brHref": "void(0);",
+        "migratedText": "What We Do",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Tax & Estate Planning",
+            "brHref": "/Tax-and-Estate-Planning.6.htm",
+            "migratedText": "Tax & Estate Planning",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/tax-estate-planning6",
+            "migratedPath": "/tax-estate-planning6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Planning",
+            "brHref": "/Retirement-Planning.5.htm",
+            "migratedText": "Retirement Planning",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/retirement-planning5",
+            "migratedPath": "/retirement-planning5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Wealth Management",
+            "brHref": "/Wealth-Management.7.htm",
+            "migratedText": "Wealth Management",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/wealth-management7",
+            "migratedPath": "/wealth-management7"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Events",
+        "brHref": "/events.htm",
+        "note": "\"Events\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "What to Expect",
+        "brHref": "void(0);",
+        "migratedText": "What to Expect",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Keeping Things Simple",
+            "brHref": "/Keeping-Things-Simple.10.htm",
+            "migratedText": "Keeping Things Simple",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/keeping-things-simple10",
+            "migratedPath": "/keeping-things-simple10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "The Good Life Made Better",
+            "brHref": "/The-Good-Life-Made-Better.8.htm",
+            "migratedText": "The Good Life Made Better",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/the-good-life-made-better8",
+            "migratedPath": "/the-good-life-made-better8"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Blog",
+        "brHref": "/blog",
+        "migratedText": "Blog",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/articles",
+        "migratedPath": "/articles"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Learning Center",
+        "brHref": "/",
+        "migratedText": "Learning Center",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Learning Center\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://lovellwealthmanagement-31030759.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 20,
+      "totalMigratedItems": 18,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 18
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Lovell Wealth Management",
+        "companyNames": [
+          "smarter   simpler   more personal",
+          "Lovell Wealth Management"
+        ],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Stephen F Lovell is a Registered Representative of Realta Equities, Inc. and an Investment Advisory Representative of Realta Investment Advisors, Inc. Neither Realta Equities, Inc. nor Realta Investment Advisors, Inc. is affiliated with Lovell Wealth Management. Investment Advisory Services are offered through Realta Investment Advisors, Inc., a US SEC Registered Investment Advisor, and securities are offered through Realta Equities, Inc., Member FINRA/SIPC, 1201 N. Orange St., Suite 729, Wilmington, DE 19801.Form CRSRealta Wealth is the trade name for the Realta Wealth Companies. The Realta Wealth Companies are Realta Equities, Inc., Realta Investment Advisors, Inc., and Realta Insurance Services, which consist of several affiliated insurance agencies. Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.lovellwealthmanagement.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Stephen F Lovell is a Registered Representative of Realta Equities, Inc. and an Investment Advisory Representative of Realta Investment Advisors, Inc. Neither Realta Equities, Inc. nor Realta Investment Advisors, Inc. is affiliated with Lovell Wealth Management. Investment Advisory Services are offered through Realta Investment Advisors, Inc., a US SEC Registered Investment Advisor, and securities are offered through Realta Equities, Inc., Member FINRA/SIPC, 1201 N. Orange St., Suite 729, Wilmington, DE 19801.Form CRSRealta Wealth is the trade name for the Realta Wealth Companies. The Realta Wealth Companies are Realta Equities, Inc., Realta Investment Advisors, Inc., and Realta Insurance Services, which consist of several affiliated insurance agencies."
+      },
+      "mismatches": []
+    }
+  }
+}

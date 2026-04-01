@@ -1,0 +1,674 @@
+{
+  "site": {
+    "original": "www.svgfinancial.com",
+    "migrated": "https://svgfinancial-31030753.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.svgfinancial.com",
+    "migratedDomain": "https://svgfinancial-31030753.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:23:34.769Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "Private Wealth Group",
+        "href": "/Private-Wealth-Group.3.htm",
+        "children": [
+          {
+            "title": "Estate Planning",
+            "href": "/Estate-Planning.4.htm"
+          },
+          {
+            "title": "Associates",
+            "href": "/Associates.9.htm"
+          }
+        ]
+      },
+      {
+        "title": "1031 Exchanges / DST",
+        "href": "/1031-Exchanges---DSTs.13.htm",
+        "children": []
+      },
+      {
+        "title": "Bitcoin/Crypto",
+        "href": "/Bitcoin-Crypto.16.htm",
+        "children": [
+          {
+            "title": "Bitcoin",
+            "href": "/Bitcoin.17.htm"
+          },
+          {
+            "title": "Ethereum",
+            "href": "/Ethereum.18.htm"
+          },
+          {
+            "title": "XRP / Ripple",
+            "href": "/XRP---Ripple.19.htm"
+          }
+        ]
+      },
+      {
+        "title": "Life Insurance/Annuites",
+        "href": "/Life-Insurance.7.htm",
+        "children": [
+          {
+            "title": "Annuites",
+            "href": "/Annuites.20.htm"
+          },
+          {
+            "title": "7702 tax strategies",
+            "href": "/7702-tax-strategies.15.htm"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": [
+          {
+            "title": "Business Continuity Plan",
+            "href": "/Business-Continuity-Plan.14.htm"
+          },
+          {
+            "title": "",
+            "href": "/"
+          }
+        ]
+      },
+      {
+        "title": "Custom Section 7",
+        "href": "/Life-Insurance-Annuites.7.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 13",
+        "href": "/1031-Exchanges---DST.13.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 15",
+        "href": "/7702-Tax-Strategies.15.htm",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.svgfinancial.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Private Wealth Group",
+        "href": "https://www.svgfinancial.com/Private-Wealth-Group.3.htm",
+        "path": "/Private-Wealth-Group.3.htm",
+        "subItems": [
+          {
+            "text": "Estate Planning",
+            "href": "https://www.svgfinancial.com/Estate-Planning.4.htm",
+            "path": "/Estate-Planning.4.htm"
+          },
+          {
+            "text": "Associates",
+            "href": "https://www.svgfinancial.com/Associates.9.htm",
+            "path": "/Associates.9.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "1031 Exchanges / DST",
+        "href": "https://www.svgfinancial.com/1031-Exchanges---DSTs.13.htm",
+        "path": "/1031-Exchanges---DSTs.13.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Bitcoin/Crypto",
+        "href": "https://www.svgfinancial.com/Bitcoin-Crypto.16.htm",
+        "path": "/Bitcoin-Crypto.16.htm",
+        "subItems": [
+          {
+            "text": "Bitcoin",
+            "href": "https://www.svgfinancial.com/Bitcoin.17.htm",
+            "path": "/Bitcoin.17.htm"
+          },
+          {
+            "text": "Ethereum",
+            "href": "https://www.svgfinancial.com/Ethereum.18.htm",
+            "path": "/Ethereum.18.htm"
+          },
+          {
+            "text": "XRP / Ripple",
+            "href": "https://www.svgfinancial.com/XRP---Ripple.19.htm",
+            "path": "/XRP---Ripple.19.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Life Insurance/Annuites",
+        "href": "https://www.svgfinancial.com/Life-Insurance.7.htm",
+        "path": "/Life-Insurance.7.htm",
+        "subItems": [
+          {
+            "text": "Annuites",
+            "href": "https://www.svgfinancial.com/Annuites.20.htm",
+            "path": "/Annuites.20.htm"
+          },
+          {
+            "text": "7702 tax strategies",
+            "href": "https://www.svgfinancial.com/7702-tax-strategies.15.htm",
+            "path": "/7702-tax-strategies.15.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.svgfinancial.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [
+          {
+            "text": "Business Continuity Plan",
+            "href": "https://www.svgfinancial.com/Business-Continuity-Plan.14.htm",
+            "path": "/Business-Continuity-Plan.14.htm"
+          },
+          {
+            "text": "",
+            "href": "",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://svgfinancial-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Private Wealth Group",
+        "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-33",
+        "path": "/custom-section-33",
+        "subItems": [
+          {
+            "text": "Estate Planning",
+            "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-44",
+            "path": "/custom-section-44"
+          },
+          {
+            "text": "Associates",
+            "href": "https://svgfinancial-31030753.brprodaccount.com/our-team",
+            "path": "/our-team"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "1031 Exchanges / DST",
+        "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1313",
+        "path": "/custom-section-1313",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Bitcoin/Crypto",
+        "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1616",
+        "path": "/custom-section-1616",
+        "subItems": [
+          {
+            "text": "Bitcoin",
+            "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1717",
+            "path": "/custom-section-1717"
+          },
+          {
+            "text": "Ethereum",
+            "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1818",
+            "path": "/custom-section-1818"
+          },
+          {
+            "text": "XRP / Ripple",
+            "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1919",
+            "path": "/custom-section-1919"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Life Insurance/Annuites",
+        "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-77",
+        "path": "/custom-section-77",
+        "subItems": [
+          {
+            "text": "Annuites",
+            "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-2020",
+            "path": "/custom-section-2020"
+          },
+          {
+            "text": "7702 tax strategies",
+            "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1515",
+            "path": "/custom-section-1515"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://svgfinancial-31030753.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [
+          {
+            "text": "Business Continuity Plan",
+            "href": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1414",
+            "path": "/custom-section-1414"
+          },
+          {
+            "text": "",
+            "href": "https://svgfinancial-31030753.brprodaccount.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Private Wealth Group",
+        "brHref": "/Private-Wealth-Group.3.htm",
+        "migratedText": "Private Wealth Group",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Estate Planning",
+            "brHref": "/Estate-Planning.4.htm",
+            "migratedText": "Estate Planning",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-44",
+            "migratedPath": "/custom-section-44"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Associates",
+            "brHref": "/Associates.9.htm",
+            "migratedText": "Associates",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "1031 Exchanges / DST",
+        "brHref": "/1031-Exchanges---DSTs.13.htm",
+        "migratedText": "1031 Exchanges / DST",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1313",
+        "migratedPath": "/custom-section-1313"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Bitcoin/Crypto",
+        "brHref": "/Bitcoin-Crypto.16.htm",
+        "migratedText": "Bitcoin/Crypto",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1616",
+        "migratedPath": "/custom-section-1616",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Bitcoin",
+            "brHref": "/Bitcoin.17.htm",
+            "migratedText": "Bitcoin",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1717",
+            "migratedPath": "/custom-section-1717"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Ethereum",
+            "brHref": "/Ethereum.18.htm",
+            "migratedText": "Ethereum",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1818",
+            "migratedPath": "/custom-section-1818"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "XRP / Ripple",
+            "brHref": "/XRP---Ripple.19.htm",
+            "migratedText": "XRP / Ripple",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1919",
+            "migratedPath": "/custom-section-1919"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Life Insurance/Annuites",
+        "brHref": "/Life-Insurance.7.htm",
+        "migratedText": "Life Insurance/Annuites",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-77",
+        "migratedPath": "/custom-section-77",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Annuites",
+            "brHref": "/Annuites.20.htm",
+            "migratedText": "Annuites",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-2020",
+            "migratedPath": "/custom-section-2020"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "7702 tax strategies",
+            "brHref": "/7702-tax-strategies.15.htm",
+            "migratedText": "7702 tax strategies",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1515",
+            "migratedPath": "/custom-section-1515"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Business Continuity Plan",
+            "brHref": "/Business-Continuity-Plan.14.htm",
+            "migratedText": "Business Continuity Plan",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1414",
+            "migratedPath": "/custom-section-1414"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "",
+            "brHref": "/",
+            "migratedText": "",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Custom Section 7",
+        "brHref": "/Life-Insurance-Annuites.7.htm",
+        "migratedText": "Life Insurance/Annuites",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-77",
+        "migratedPath": "/custom-section-77",
+        "note": "\"Custom Section 7\" has no sub-items in the BR navigation JSON but has 2 sub-items in migrated"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Custom Section 13",
+        "brHref": "/1031-Exchanges---DST.13.htm",
+        "migratedText": "1031 Exchanges / DST",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1313",
+        "migratedPath": "/custom-section-1313"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Custom Section 15",
+        "brHref": "/7702-Tax-Strategies.15.htm",
+        "migratedText": "7702 tax strategies",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1515",
+        "migratedPath": "/custom-section-1515",
+        "note": "\"Custom Section 15\" is top-level in the BR navigation JSON but nested under \"Life Insurance/Annuites\" in migrated"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 15,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 2,
+      "ok": 16,
+      "totalBrItems": 18
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Private Wealth Group",
+        "brHref": "/Private-Wealth-Group.3.htm",
+        "migratedText": "Private Wealth Group",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Estate Planning",
+            "brHref": "/Estate-Planning.4.htm",
+            "migratedText": "Estate Planning",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-44",
+            "migratedPath": "/custom-section-44"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Associates",
+            "brHref": "/Associates.9.htm",
+            "migratedText": "Associates",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "1031 Exchanges / DST",
+        "brHref": "/1031-Exchanges---DSTs.13.htm",
+        "migratedText": "1031 Exchanges / DST",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1313",
+        "migratedPath": "/custom-section-1313"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Bitcoin/Crypto",
+        "brHref": "/Bitcoin-Crypto.16.htm",
+        "migratedText": "Bitcoin/Crypto",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1616",
+        "migratedPath": "/custom-section-1616",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Bitcoin",
+            "brHref": "/Bitcoin.17.htm",
+            "migratedText": "Bitcoin",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1717",
+            "migratedPath": "/custom-section-1717"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Ethereum",
+            "brHref": "/Ethereum.18.htm",
+            "migratedText": "Ethereum",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1818",
+            "migratedPath": "/custom-section-1818"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "XRP / Ripple",
+            "brHref": "/XRP---Ripple.19.htm",
+            "migratedText": "XRP / Ripple",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1919",
+            "migratedPath": "/custom-section-1919"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Life Insurance/Annuites",
+        "brHref": "/Life-Insurance.7.htm",
+        "migratedText": "Life Insurance/Annuites",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-77",
+        "migratedPath": "/custom-section-77",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Annuites",
+            "brHref": "/Annuites.20.htm",
+            "migratedText": "Annuites",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-2020",
+            "migratedPath": "/custom-section-2020"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "7702 tax strategies",
+            "brHref": "/7702-tax-strategies.15.htm",
+            "migratedText": "7702 tax strategies",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1515",
+            "migratedPath": "/custom-section-1515"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Business Continuity Plan",
+            "brHref": "/Business-Continuity-Plan.14.htm",
+            "migratedText": "Business Continuity Plan",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/custom-section-1414",
+            "migratedPath": "/custom-section-1414"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "",
+            "brHref": "/",
+            "migratedText": "",
+            "migratedHref": "https://svgfinancial-31030753.brprodaccount.com/",
+            "migratedPath": "/"
+          }
+        ]
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 15,
+      "totalMigratedItems": 15,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 15
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "SVG Financial, since 2007",
+        "companyNames": [
+          "SVG Financial, since 2007"
+        ],
+        "phoneNumbers": [
+          "(843) 815-6636",
+          "(843) 815-4140",
+          "(315) 652-4426"
+        ],
+        "emailAddresses": [
+          "rob@svgfinancial.com"
+        ],
+        "physicalAddresses": [
+          "404 Old Liverpool Rd. Liverpool, NY 13088"
+        ],
+        "personNames": [
+          "Home\n          \n          Private",
+          "Us\n          Business",
+          "Continuity Plan",
+          "Plantation Park",
+          "Drive Suite",
+          "Robert Star",
+          "Financial Advisor",
+          "View Flipbooks",
+          "View Videos",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Retirement",
+          "Plan Early",
+          "Distribution\n          \n        \n        Estimate",
+          "Mortgage Acceleration",
+          "Taxable Equivalent",
+          "Yield\n          \n        \n        Calculate",
+          "Inflation\n          \n        \n        Estimate",
+          "More Calculators",
+          "Regitered Investment",
+          "Financial Services",
+          "Old Liverpool",
+          "Star Financial",
+          "Broker Check",
+          "Site Map",
+          "To Top"
+        ],
+        "footerText": "Securities and Regitered Investment Advisory are offered through IBN Financial Services, Inc.  404 Old Liverpool Rd. Liverpool, NY 13088, (315) 652-4426. Member FINRA/SIPC.  IBN Financial Services, Inc. is not affiliated with Star Financial Group.  \n\nBroker Check\n \n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSite Map\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBack To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.svgfinancial.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "8438156636",
+          "9723800097",
+          "3156524426"
+        ],
+        "emailAddresses": [
+          "rob@svgfinancial.com"
+        ],
+        "physicalAddresses": [
+          "29 Plantation Park Drive Suite #804\n\n\n\n\nBluffton\n\n",
+          "404 Old Liverpool Rd. Liverpool, NY 13088"
+        ],
+        "personNames": [],
+        "footerText": "Securities and Regitered Investment Advisory are offered through IBN Financial Services, Inc. 404 Old Liverpool Rd. Liverpool, NY 13088, (315) 652-4426. Member FINRA/SIPC. IBN Financial Services, Inc. is not affiliated with Star Financial Group. Broker Check"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(843) 815-6636, (843) 815-4140, (315) 652-4426",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "404 Old Liverpool Rd. Liverpool, NY 13088",
+          "migratedValue": "29 Plantation Park Drive Suite #804\n\n\n\n\nBluffton\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

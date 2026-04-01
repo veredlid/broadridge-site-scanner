@@ -1,0 +1,429 @@
+{
+  "site": {
+    "original": "www.diballc.com",
+    "migrated": "https://diballc-31030808.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.diballc.com",
+    "migratedDomain": "https://diballc-31030808.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:04:07.359Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "DIBA, LLC",
+            "href": "/DIBA,-LLC.2.htm"
+          },
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Core Carriers",
+            "href": "/Core-Carriers.3.htm"
+          },
+          {
+            "title": "Sweet Spot",
+            "href": "/Sweet-Spot.5.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/Our-Team.4.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Affiliated Offices",
+            "href": "/affiliated-offices.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.diballc.com/index.cfm",
+        "path": "/index.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "DIBA, LLC",
+        "href": "https://www.diballc.com/DIBA,-LLC.2.htm",
+        "path": "/DIBA,-LLC.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Mission Statement",
+        "href": "https://www.diballc.com/Our-Mission-Statement.1.htm",
+        "path": "/Our-Mission-Statement.1.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Core Carriers",
+        "href": "https://www.diballc.com/Core-Carriers.3.htm",
+        "path": "/Core-Carriers.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Sweet Spot",
+        "href": "https://www.diballc.com/Sweet-Spot.5.htm",
+        "path": "/Sweet-Spot.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Team",
+        "href": "https://www.diballc.com/Our-Team.4.htm",
+        "path": "/Our-Team.4.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Location",
+        "href": "https://www.diballc.com/location.cfm",
+        "path": "/location.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.diballc.com/resources.cfm",
+        "path": "/resources.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://diballc-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://diballc-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://diballc-31030808.brprodaccount.com/diba-llc2",
+        "path": "/diba-llc2",
+        "subItems": [
+          {
+            "text": "DIBA, LLC",
+            "href": "https://diballc-31030808.brprodaccount.com/diba-llc2",
+            "path": "/diba-llc2"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://diballc-31030808.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Core Carriers",
+            "href": "https://diballc-31030808.brprodaccount.com/custom-section-33",
+            "path": "/custom-section-33"
+          },
+          {
+            "text": "Sweet Spot",
+            "href": "https://diballc-31030808.brprodaccount.com/sweet-spot5",
+            "path": "/sweet-spot5"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://diballc-31030808.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://diballc-31030808.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Affiliated Offices",
+            "href": "https://diballc-31030808.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/diba-llc2",
+        "migratedPath": "/diba-llc2",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /diba-llc2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "DIBA, LLC",
+            "brHref": "/DIBA,-LLC.2.htm",
+            "migratedText": "DIBA, LLC",
+            "migratedHref": "https://diballc-31030808.brprodaccount.com/diba-llc2",
+            "migratedPath": "/diba-llc2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://diballc-31030808.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Core Carriers",
+            "brHref": "/Core-Carriers.3.htm",
+            "migratedText": "Core Carriers",
+            "migratedHref": "https://diballc-31030808.brprodaccount.com/custom-section-33",
+            "migratedPath": "/custom-section-33"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Sweet Spot",
+            "brHref": "/Sweet-Spot.5.htm",
+            "migratedText": "Sweet Spot",
+            "migratedHref": "https://diballc-31030808.brprodaccount.com/sweet-spot5",
+            "migratedPath": "/sweet-spot5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/Our-Team.4.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://diballc-31030808.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://diballc-31030808.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Affiliated Offices",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Affiliated Offices",
+            "migratedHref": "https://diballc-31030808.brprodaccount.com/affiliated-office",
+            "migratedPath": "/affiliated-office"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 9,
+      "totalMigratedItems": 10,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 8,
+      "totalBrItems": 9
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/index.cfm",
+        "migratedText": "Home",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "DIBA, LLC",
+        "brHref": "/DIBA,-LLC.2.htm",
+        "migratedText": "DIBA, LLC",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/diba-llc2",
+        "migratedPath": "/diba-llc2",
+        "note": "\"DIBA, LLC\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Mission Statement",
+        "brHref": "/Our-Mission-Statement.1.htm",
+        "migratedText": "Our Mission Statement",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"Our Mission Statement\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Core Carriers",
+        "brHref": "/Core-Carriers.3.htm",
+        "migratedText": "Core Carriers",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33",
+        "note": "\"Core Carriers\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Sweet Spot",
+        "brHref": "/Sweet-Spot.5.htm",
+        "migratedText": "Sweet Spot",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/sweet-spot5",
+        "migratedPath": "/sweet-spot5",
+        "note": "\"Sweet Spot\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Team",
+        "brHref": "/Our-Team.4.htm",
+        "migratedText": "Our Team",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Location",
+        "brHref": "/location.cfm",
+        "migratedText": "Our Location",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Our Location\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/resources.cfm",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Us",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/diba-llc2",
+        "migratedPath": "/diba-llc2",
+        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Offices",
+        "migratedHref": "https://diballc-31030808.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Offices\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 8,
+      "totalMigratedItems": 10,
+      "missing": 1,
+      "extra": 2,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 6,
+      "ok": 1
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "",
+        "companyNames": [],
+        "phoneNumbers": [
+          "(763) 971-9230",
+          "(763) 971-8040"
+        ],
+        "emailAddresses": [
+          "nmanning@srbis.com"
+        ],
+        "physicalAddresses": [
+          "11300 86th Avenue NorthMaple Grove,  MN 55369"
+        ],
+        "personNames": [
+          "Diversified Insurance",
+          "Brokerage Alliance",
+          "Contact Info",
+          "Our Mission",
+          "Statement\n              \n                Core",
+          "Carriers\n              \n                Sweet",
+          "Spot\n              \n                Our",
+          "Team\n              \n                  Our",
+          "Location\n                \n              \n            Resources",
+          "Site Map"
+        ],
+        "footerText": "Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.diballc.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "7639719230",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "nmanning@srbis.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(763) 971-9230, (763) 971-8040",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Diversified Insurance, Brokerage Alliance, Contact Info, Our Mission, Statement\n              \n                Core, Carriers\n              \n                Sweet, Spot\n              \n                Our, Team\n              \n                  Our, Location\n                \n              \n            Resources, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

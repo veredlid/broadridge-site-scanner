@@ -1,0 +1,700 @@
+{
+  "site": {
+    "original": "www.kanterassociates.com",
+    "migrated": "https://kanterassociates-31030800.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.kanterassociates.com",
+    "migratedDomain": "https://kanterassociates-31030800.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:46:11.274Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.1.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Affiliated Offices",
+            "href": "/affiliated-offices.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.2.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.3.htm"
+          },
+          {
+            "title": "Our Calendar",
+            "href": "/Our-Calendar.4.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.kanterassociates.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.kanterassociates.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.kanterassociates.com/Our-Firm.1.htm",
+            "path": "/Our-Firm.1.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.kanterassociates.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Affiliated Offices",
+            "href": "https://www.kanterassociates.com/affiliated-offices.htm",
+            "path": "/affiliated-offices.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.kanterassociates.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.kanterassociates.com/Our-Services.2.htm",
+            "path": "/Our-Services.2.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.kanterassociates.com/Our-Qualifications.3.htm",
+            "path": "/Our-Qualifications.3.htm"
+          },
+          {
+            "text": "Our Calendar",
+            "href": "https://www.kanterassociates.com/Our-Calendar.4.htm",
+            "path": "/Our-Calendar.4.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=3060",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.kanterassociates.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.kanterassociates.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.kanterassociates.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.kanterassociates.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.kanterassociates.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.kanterassociates.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.kanterassociates.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.kanterassociates.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.kanterassociates.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.kanterassociates.com/form.cfm?ID=64&SSLID=3060",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.kanterassociates.com/form.cfm?ID=65&SSLID=3060",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.kanterassociates.com/form.cfm?ID=68&SSLID=3060",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.kanterassociates.com/form.cfm?ID=70&SSLID=3060",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.kanterassociates.com/form.cfm?ID=73&SSLID=3060",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.kanterassociates.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://kanterassociates-31030800.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://kanterassociates-31030800.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Affiliated Offices",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/our-services2",
+            "path": "/our-services2"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/our-qualifications3",
+            "path": "/our-qualifications3"
+          },
+          {
+            "text": "Our Calendar",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/our-calendar4",
+            "path": "/our-calendar4"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://kanterassociates-31030800.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://kanterassociates-31030800.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://kanterassociates-31030800.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Affiliated Offices",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Affiliated Offices",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/affiliated-office",
+            "migratedPath": "/affiliated-office"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Calendar",
+            "brHref": "/Our-Calendar.4.htm",
+            "migratedText": "Our Calendar",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/our-calendar4",
+            "migratedPath": "/our-calendar4"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 17,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 16,
+      "totalBrItems": 17
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Affiliated Offices",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Affiliated Offices",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/affiliated-office",
+            "migratedPath": "/affiliated-office"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Calendar",
+            "brHref": "/Our-Calendar.4.htm",
+            "migratedText": "Our Calendar",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/our-calendar4",
+            "migratedPath": "/our-calendar4"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://kanterassociates-31030800.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 17,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 17
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Kanter Associates",
+        "companyNames": [
+          "Kanter Associatessince 1925",
+          "Kanter Associates"
+        ],
+        "phoneNumbers": [
+          "19253015",
+          "2482636712",
+          "2486451222"
+        ],
+        "emailAddresses": [
+          "kanter_daniel@nlgroupmail.com"
+        ],
+        "physicalAddresses": [
+          "30150 Telegraph Road, Suite "
+        ],
+        "personNames": [],
+        "footerText": "Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.kanterassociates.com",
+        "companyNames": [
+          "Kanter Associatessince 1925"
+        ],
+        "phoneNumbers": [
+          "2482636712",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "kanter_daniel@nlgroupmail.com"
+        ],
+        "physicalAddresses": [
+          "30150 Telegraph Road, Suite "
+        ],
+        "personNames": [],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "19253015, (248) 263-6712, (248) 645-1222",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

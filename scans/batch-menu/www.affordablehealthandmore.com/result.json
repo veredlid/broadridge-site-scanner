@@ -1,0 +1,284 @@
+{
+  "site": {
+    "original": "www.affordablehealthandmore.com",
+    "migrated": "https://affordablehealthandmore-31030807.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.affordablehealthandmore.com",
+    "migratedDomain": "https://affordablehealthandmore-31030807.brprodaccount.com/",
+    "capturedAt": "2026-04-01T07:56:11.323Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Life and Disability Insurance",
+            "href": "/Life-and-Disability-Insurance.12.htm"
+          },
+          {
+            "title": "Dental Insurance ",
+            "href": "/https://www.deltadentalcoversme.com/?agency=1781605498"
+          },
+          {
+            "title": "Temporary Health Insurance Quotes",
+            "href": "/https://www.ihcmarketplace.com/Agent/0053870?productType=STM&bundleGID=2"
+          },
+          {
+            "title": "International Insurance Plans",
+            "href": "/http://producer.imglobal.com/international-insurance-plans.aspx?imgac=18581"
+          },
+          {
+            "title": "Real Wealth® Monthly Podcasts",
+            "href": "/Real-Wealth-Monthly-Podcasts.6.htm"
+          },
+          {
+            "title": "About Me",
+            "href": "/About-Me.2.htm"
+          },
+          {
+            "title": "My Continuing Education Coursework",
+            "href": "/My-Continuing-Education-Coursework.5.htm"
+          },
+          {
+            "title": "My Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://affordablehealthandmore-31030807.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://affordablehealthandmore-31030807.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://affordablehealthandmore-31030807.brprodaccount.com/life-and-disability-insurance12",
+        "path": "/life-and-disability-insurance12",
+        "subItems": [
+          {
+            "text": "Life and Disability Insurance",
+            "href": "https://affordablehealthandmore-31030807.brprodaccount.com/life-and-disability-insurance12",
+            "path": "/life-and-disability-insurance12"
+          },
+          {
+            "text": "Dental Insurance",
+            "href": "https://www.deltadentalcoversme.com/?agency=1781605498",
+            "path": "/"
+          },
+          {
+            "text": "Temporary Health Insurance Quotes",
+            "href": "https://www.ihcmarketplace.com/Agent/0053870?productType=STM&bundleGID=2",
+            "path": "/Agent/0053870"
+          },
+          {
+            "text": "International Insurance Plans",
+            "href": "http://producer.imglobal.com/international-insurance-plans.aspx?imgac=18581",
+            "path": "/international-insurance-plans.aspx"
+          },
+          {
+            "text": "Real Wealth® Monthly Podcasts",
+            "href": "https://affordablehealthandmore-31030807.brprodaccount.com/custom-section-66",
+            "path": "/custom-section-66"
+          },
+          {
+            "text": "About Me",
+            "href": "https://affordablehealthandmore-31030807.brprodaccount.com/liz-pollock-bio2",
+            "path": "/liz-pollock-bio2"
+          },
+          {
+            "text": "My Continuing Education Coursework",
+            "href": "https://affordablehealthandmore-31030807.brprodaccount.com/my-continuing-education-coursework5",
+            "path": "/my-continuing-education-coursework5"
+          },
+          {
+            "text": "My Location",
+            "href": "https://affordablehealthandmore-31030807.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://affordablehealthandmore-31030807.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/life-and-disability-insurance12",
+        "migratedPath": "/life-and-disability-insurance12",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /life-and-disability-insurance12",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Life and Disability Insurance",
+            "brHref": "/Life-and-Disability-Insurance.12.htm",
+            "migratedText": "Life and Disability Insurance",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/life-and-disability-insurance12",
+            "migratedPath": "/life-and-disability-insurance12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Dental Insurance ",
+            "brHref": "/https://www.deltadentalcoversme.com/?agency=1781605498",
+            "migratedText": "Dental Insurance",
+            "migratedHref": "https://www.deltadentalcoversme.com/?agency=1781605498",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Temporary Health Insurance Quotes",
+            "brHref": "/https://www.ihcmarketplace.com/Agent/0053870?productType=STM&bundleGID=2",
+            "migratedText": "Temporary Health Insurance Quotes",
+            "migratedHref": "https://www.ihcmarketplace.com/Agent/0053870?productType=STM&bundleGID=2",
+            "migratedPath": "/Agent/0053870"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "International Insurance Plans",
+            "brHref": "/http://producer.imglobal.com/international-insurance-plans.aspx?imgac=18581",
+            "migratedText": "International Insurance Plans",
+            "migratedHref": "http://producer.imglobal.com/international-insurance-plans.aspx?imgac=18581",
+            "migratedPath": "/international-insurance-plans.aspx"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Real Wealth® Monthly Podcasts",
+            "brHref": "/Real-Wealth-Monthly-Podcasts.6.htm",
+            "migratedText": "Real Wealth® Monthly Podcasts",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Me",
+            "brHref": "/About-Me.2.htm",
+            "migratedText": "About Me",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/liz-pollock-bio2",
+            "migratedPath": "/liz-pollock-bio2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "My Continuing Education Coursework",
+            "brHref": "/My-Continuing-Education-Coursework.5.htm",
+            "migratedText": "My Continuing Education Coursework",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/my-continuing-education-coursework5",
+            "migratedPath": "/my-continuing-education-coursework5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "My Location",
+            "brHref": "/location.htm",
+            "migratedText": "My Location",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://affordablehealthandmore-31030807.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 11,
+      "totalMigratedItems": 12,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 10,
+      "totalBrItems": 11
+    },
+    "liveIssues": [],
+    "liveSummary": {
+      "totalSourceItems": 0,
+      "totalMigratedItems": 12,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
+    },
+    "originalCrawlFailed": true,
+    "originalCrawlError": "Playwright: page.goto: net::ERR_ADDRESS_INVALID at http://www.affordablehealthandmore.com/\nCall log:\n  - navigat | Fetch: fetch failed",
+    "contentCheck": {
+      "originalIdentity": null,
+      "migratedIdentity": {
+        "pageTitle": "Home | www.affordablehealthandmore.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "2624399867",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "Liz@AffordableHealthandMore.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(original not available)",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

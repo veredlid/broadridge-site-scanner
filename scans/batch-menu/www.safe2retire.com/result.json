@@ -1,0 +1,306 @@
+{
+  "site": {
+    "original": "www.safe2retire.com",
+    "migrated": "https://safe2retire-31030755.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.safe2retire.com",
+    "migratedDomain": "https://safe2retire-31030755.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:50:40.414Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Carolina Investment Solutions",
+            "href": "/Carolina-Investment-Solutions.2.htm"
+          },
+          {
+            "title": "About Angela Edwards",
+            "href": "/About-Angela-Edwards.4.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.safe2retire.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.safe2retire.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Carolina Investment Solutions",
+            "href": "https://www.safe2retire.com/Carolina-Investment-Solutions.2.htm",
+            "path": "/Carolina-Investment-Solutions.2.htm"
+          },
+          {
+            "text": "About Angela Edwards",
+            "href": "https://www.safe2retire.com/About-Angela-Edwards.4.htm",
+            "path": "/About-Angela-Edwards.4.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.safe2retire.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.safe2retire.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.safe2retire.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://www.safe2retire.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.safe2retire.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.safe2retire.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.safe2retire.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.safe2retire.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.safe2retire.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.safe2retire.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.safe2retire.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.safe2retire.com/form.cfm?ID=64&SSLID=67598",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.safe2retire.com/form.cfm?ID=65&SSLID=67598",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.safe2retire.com/form.cfm?ID=68&SSLID=67598",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.safe2retire.com/form.cfm?ID=72&SSLID=67598",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.safe2retire.com/form.cfm?ID=73&SSLID=67598",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.safe2retire.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [],
+    "issues": [
+      {
+        "kind": "missing",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 14,
+      "totalMigratedItems": 0,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0,
+      "totalBrItems": 14
+    },
+    "liveIssues": [
+      {
+        "kind": "missing",
+        "brTitle": "Home",
+        "brHref": "/",
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 21,
+      "totalMigratedItems": 0,
+      "missing": 5,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Carolina Investment Solutions - Angela Edwards - Tax Planning, Retirement Planning, Investments, Estate Planning, Life Insurance and Annuities in N. Myrtle Beach, SC.",
+        "companyNames": [
+          "Angela Edwards - Carolina Investment Solutions"
+        ],
+        "phoneNumbers": [
+          "8432729800",
+          "8439625339"
+        ],
+        "emailAddresses": [
+          "edwardsa@atmc.net"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": ""
+      },
+      "mismatches": []
+    }
+  }
+}

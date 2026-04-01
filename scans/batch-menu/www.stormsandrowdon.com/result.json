@@ -1,0 +1,770 @@
+{
+  "site": {
+    "original": "www.stormsandrowdon.com",
+    "migrated": "https://stormsandrowdon-31030753.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.stormsandrowdon.com",
+    "migratedDomain": "https://stormsandrowdon-31030753.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:48:04.114Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Who We Are",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.14.htm"
+          },
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Process",
+            "href": "/Investment-Process.6.htm"
+          }
+        ]
+      },
+      {
+        "title": "News Stream",
+        "href": "/Latest-News.15.htm",
+        "children": []
+      },
+      {
+        "title": "Blog",
+        "href": "/blog.htm",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          }
+        ]
+      },
+      {
+        "title": "Client Access",
+        "href": "/https://clientaccess.rjf.com/",
+        "children": []
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Custom Section 6",
+        "href": "/Our-Process.6.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 9",
+        "href": "/Cultivating.9.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 10",
+        "href": "/Sowing.10.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 11",
+        "href": "/Tending-and-Growing.11.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 12",
+        "href": "/Harvesting.12.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 15",
+        "href": "/News-Stream.15.htm",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.stormsandrowdon.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.stormsandrowdon.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Who We Are",
+            "href": "https://www.stormsandrowdon.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.stormsandrowdon.com/Our-Services.14.htm",
+            "path": "/Our-Services.14.htm"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.stormsandrowdon.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Process",
+            "href": "https://www.stormsandrowdon.com/#",
+            "path": "/"
+          },
+          {
+            "text": "Our Process",
+            "href": "https://www.stormsandrowdon.com/Investment-Process.6.htm",
+            "path": "/Investment-Process.6.htm"
+          },
+          {
+            "text": "Sowing",
+            "href": "https://www.stormsandrowdon.com/Sowing.10.htm",
+            "path": "/Sowing.10.htm"
+          },
+          {
+            "text": "Cultivating",
+            "href": "https://www.stormsandrowdon.com/Cultivating.9.htm",
+            "path": "/Cultivating.9.htm"
+          },
+          {
+            "text": "Tending & Growing",
+            "href": "https://www.stormsandrowdon.com/Tending-and-Growing.11.htm",
+            "path": "/Tending-and-Growing.11.htm"
+          },
+          {
+            "text": "Harvesting",
+            "href": "https://www.stormsandrowdon.com/Harvesting.12.htm",
+            "path": "/Harvesting.12.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "News Stream",
+        "href": "https://www.stormsandrowdon.com/Latest-News.15.htm",
+        "path": "/Latest-News.15.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.stormsandrowdon.com/blog.htm",
+        "path": "/blog.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.stormsandrowdon.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://www.stormsandrowdon.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.stormsandrowdon.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.stormsandrowdon.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.stormsandrowdon.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.stormsandrowdon.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.stormsandrowdon.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.stormsandrowdon.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Client Access",
+        "href": "https://clientaccess.rjf.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.stormsandrowdon.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://stormsandrowdon-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://stormsandrowdon-31030753.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Who We Are",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/our-services14",
+            "path": "/our-services14"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Process",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/custom-section-66",
+            "path": "/custom-section-66"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "News Stream",
+        "href": "https://stormsandrowdon-31030753.brprodaccount.com/custom-section-1515",
+        "path": "/custom-section-1515",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Blog",
+        "href": "https://stormsandrowdon-31030753.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://stormsandrowdon-31030753.brprodaccount.com/videos",
+        "path": "/videos",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "Articles",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://stormsandrowdon-31030753.brprodaccount.com/glossary",
+            "path": "/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Client Access",
+        "href": "https://clientaccess.rjf.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://stormsandrowdon-31030753.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Who We Are",
+            "brHref": "/team.htm",
+            "migratedText": "Who We Are",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.14.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/our-services14",
+            "migratedPath": "/our-services14"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Process",
+            "brHref": "/Investment-Process.6.htm",
+            "migratedText": "Our Process",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "News Stream",
+        "brHref": "/Latest-News.15.htm",
+        "migratedText": "News Stream",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/custom-section-1515",
+        "migratedPath": "/custom-section-1515"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Blog",
+        "brHref": "/blog.htm",
+        "migratedText": "Blog",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/articles",
+        "migratedPath": "/articles"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /videos",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Client Access",
+        "brHref": "/https://clientaccess.rjf.com/",
+        "migratedText": "Client Access",
+        "migratedHref": "https://clientaccess.rjf.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Custom Section 6",
+        "brHref": "/Our-Process.6.htm",
+        "migratedText": "Our Process",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/custom-section-66",
+        "migratedPath": "/custom-section-66",
+        "note": "\"Custom Section 6\" is top-level in the BR navigation JSON but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Custom Section 9",
+        "brHref": "/Cultivating.9.htm",
+        "note": "\"Custom Section 9\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Custom Section 10",
+        "brHref": "/Sowing.10.htm",
+        "note": "\"Custom Section 10\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Custom Section 11",
+        "brHref": "/Tending-and-Growing.11.htm",
+        "note": "\"Custom Section 11\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Custom Section 12",
+        "brHref": "/Harvesting.12.htm",
+        "note": "\"Custom Section 12\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Custom Section 15",
+        "brHref": "/News-Stream.15.htm",
+        "migratedText": "News Stream",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/custom-section-1515",
+        "migratedPath": "/custom-section-1515"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 23,
+      "totalMigratedItems": 17,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 1,
+      "ok": 16,
+      "totalBrItems": 23
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Who We Are",
+            "brHref": "/team.htm",
+            "migratedText": "Who We Are",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.14.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/our-services14",
+            "migratedPath": "/our-services14"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Process",
+            "brHref": "/",
+            "migratedText": "Our Process",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Process",
+            "brHref": "/Investment-Process.6.htm",
+            "migratedText": "Our Process",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Sowing",
+            "brHref": "/Sowing.10.htm",
+            "note": "Sub-item \"Sowing\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Cultivating",
+            "brHref": "/Cultivating.9.htm",
+            "note": "Sub-item \"Cultivating\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tending & Growing",
+            "brHref": "/Tending-and-Growing.11.htm",
+            "note": "Sub-item \"Tending & Growing\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Harvesting",
+            "brHref": "/Harvesting.12.htm",
+            "note": "Sub-item \"Harvesting\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "News Stream",
+        "brHref": "/Latest-News.15.htm",
+        "migratedText": "News Stream",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/custom-section-1515",
+        "migratedPath": "/custom-section-1515"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Blog",
+        "brHref": "/blog.htm",
+        "migratedText": "Blog",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/articles",
+        "migratedPath": "/articles"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Client Access",
+        "brHref": "/",
+        "migratedText": "Client Access",
+        "migratedHref": "https://clientaccess.rjf.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://stormsandrowdon-31030753.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 23,
+      "totalMigratedItems": 17,
+      "missing": 5,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 18
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Storms & Rowdon Financial Services",
+        "companyNames": [
+          "Storms & Rowdon Financial Services"
+        ],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Storms & Rowdon Financial Services, Inc. (\"SRFS\") is a Registered Investment Advisor (\"RIA\"), located in the State of Florida. SRFS provides investment advisory and related services for clients nationally. SRFS will maintain all applicable registration and licenses as required by the various states in which SRFS conducts business, as applicable. SRFS renders individualized responses to persons in a particular state only after complying with all regulatory requirements, or pursuant to an applicable state exemption or exclusion. The information in this website is not investment or securities advice and does not constitute an offer. All content under the Learning Center (i.e. Newsletters, Articles) is written and prepared by Emerald. © 2018 Emerald Connect, Inc. Form CRS Disclaimers Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.stormsandrowdon.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Storms & Rowdon Financial Services, Inc. (\"SRFS\") is a Registered Investment Advisor (\"RIA\"), located in the State of Florida. SRFS provides investment advisory and related services for clients nationally. SRFS will maintain all applicable registration and licenses as required by the various states in which SRFS conducts business, as applicable. SRFS renders individualized responses to persons in a particular state only after complying with all regulatory requirements, or pursuant to an applicable state exemption or exclusion. The information in this website is not investment or securities advice and does not constitute an offer. All content under the Learning Center (i.e. Newsletters, Articles) is written and prepared by Emerald. © 2018 Emerald Connect, Inc. Form CRS Disclaimers"
+      },
+      "mismatches": []
+    }
+  }
+}

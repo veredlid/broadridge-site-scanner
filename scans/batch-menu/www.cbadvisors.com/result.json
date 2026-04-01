@@ -1,0 +1,445 @@
+{
+  "site": {
+    "original": "www.cbadvisors.com",
+    "migrated": "https://cbadvisors-31030804.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.cbadvisors.com",
+    "migratedDomain": "https://cbadvisors-31030804.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:02:31.832Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "About Us",
+            "href": "/About-Us.2.htm"
+          },
+          {
+            "title": "Client Access",
+            "href": "/Client-Access.5.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Suggested Reading",
+            "href": "/Suggested-Reading.6.htm"
+          },
+          {
+            "title": "Pension & 401(k)",
+            "href": "/Pension-and-401k.8.htm"
+          },
+          {
+            "title": "Cash Balance Plans",
+            "href": "/Cash-Balance-Plans.9.htm"
+          },
+          {
+            "title": "Group Medical",
+            "href": "/Group-Medical.7.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.cbadvisors.com/index.cfm",
+        "path": "/index.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.cbadvisors.com/About-Us.2.htm",
+        "path": "/About-Us.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Client Access",
+        "href": "https://www.cbadvisors.com/Client-Access.5.htm",
+        "path": "/Client-Access.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Suggested Reading",
+        "href": "https://www.cbadvisors.com/Suggested-Reading.6.htm",
+        "path": "/Suggested-Reading.6.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Pension & 401(k)",
+        "href": "https://www.cbadvisors.com/Pension-and-401k.8.htm",
+        "path": "/Pension-and-401k.8.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Cash Balance Plans",
+        "href": "https://www.cbadvisors.com/Cash-Balance-Plans.9.htm",
+        "path": "/Cash-Balance-Plans.9.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Group Medical",
+        "href": "https://www.cbadvisors.com/Group-Medical.7.htm",
+        "path": "/Group-Medical.7.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.cbadvisors.com/resources.cfm",
+        "path": "/resources.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://cbadvisors-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://cbadvisors-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://cbadvisors-31030804.brprodaccount.com/about-us2",
+        "path": "/about-us2",
+        "subItems": [
+          {
+            "text": "About Us",
+            "href": "https://cbadvisors-31030804.brprodaccount.com/about-us2",
+            "path": "/about-us2"
+          },
+          {
+            "text": "Client Access",
+            "href": "https://cbadvisors-31030804.brprodaccount.com/client-access5",
+            "path": "/client-access5"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://cbadvisors-31030804.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Suggested Reading",
+            "href": "https://cbadvisors-31030804.brprodaccount.com/suggested-reading6",
+            "path": "/suggested-reading6"
+          },
+          {
+            "text": "Pension & 401(k)",
+            "href": "https://cbadvisors-31030804.brprodaccount.com/pension-401k8",
+            "path": "/pension-401k8"
+          },
+          {
+            "text": "Cash Balance Plans",
+            "href": "https://cbadvisors-31030804.brprodaccount.com/cash-balance-plans9",
+            "path": "/cash-balance-plans9"
+          },
+          {
+            "text": "Group Medical",
+            "href": "https://cbadvisors-31030804.brprodaccount.com/group-medical7",
+            "path": "/group-medical7"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://cbadvisors-31030804.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/about-us2",
+        "migratedPath": "/about-us2",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /about-us2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "About Us",
+            "brHref": "/About-Us.2.htm",
+            "migratedText": "About Us",
+            "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/about-us2",
+            "migratedPath": "/about-us2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Client Access",
+            "brHref": "/Client-Access.5.htm",
+            "migratedText": "Client Access",
+            "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/client-access5",
+            "migratedPath": "/client-access5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Suggested Reading",
+            "brHref": "/Suggested-Reading.6.htm",
+            "migratedText": "Suggested Reading",
+            "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/suggested-reading6",
+            "migratedPath": "/suggested-reading6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Pension & 401(k)",
+            "brHref": "/Pension-and-401k.8.htm",
+            "migratedText": "Pension & 401(k)",
+            "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/pension-401k8",
+            "migratedPath": "/pension-401k8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Cash Balance Plans",
+            "brHref": "/Cash-Balance-Plans.9.htm",
+            "migratedText": "Cash Balance Plans",
+            "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/cash-balance-plans9",
+            "migratedPath": "/cash-balance-plans9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Group Medical",
+            "brHref": "/Group-Medical.7.htm",
+            "migratedText": "Group Medical",
+            "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/group-medical7",
+            "migratedPath": "/group-medical7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 10,
+      "totalMigratedItems": 11,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 9,
+      "totalBrItems": 10
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/index.cfm",
+        "migratedText": "Home",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "About Us",
+        "brHref": "/About-Us.2.htm",
+        "migratedText": "About Us",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/about-us2",
+        "migratedPath": "/about-us2",
+        "note": "\"About Us\" has no sub-items in the original live site but has 8 sub-items in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Client Access",
+        "brHref": "/Client-Access.5.htm",
+        "migratedText": "Client Access",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/client-access5",
+        "migratedPath": "/client-access5",
+        "note": "\"Client Access\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Suggested Reading",
+        "brHref": "/Suggested-Reading.6.htm",
+        "migratedText": "Suggested Reading",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/suggested-reading6",
+        "migratedPath": "/suggested-reading6",
+        "note": "\"Suggested Reading\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Pension & 401(k)",
+        "brHref": "/Pension-and-401k.8.htm",
+        "migratedText": "Pension & 401(k)",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/pension-401k8",
+        "migratedPath": "/pension-401k8",
+        "note": "\"Pension & 401(k)\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Cash Balance Plans",
+        "brHref": "/Cash-Balance-Plans.9.htm",
+        "migratedText": "Cash Balance Plans",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/cash-balance-plans9",
+        "migratedPath": "/cash-balance-plans9",
+        "note": "\"Cash Balance Plans\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Group Medical",
+        "brHref": "/Group-Medical.7.htm",
+        "migratedText": "Group Medical",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/group-medical7",
+        "migratedPath": "/group-medical7",
+        "note": "\"Group Medical\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/resources.cfm",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Associates",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Associates\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Location",
+        "migratedHref": "https://cbadvisors-31030804.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Our Location\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 8,
+      "totalMigratedItems": 11,
+      "missing": 1,
+      "extra": 2,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 6,
+      "ok": 1
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Columbia Benefits, LLC",
+        "companyNames": [
+          "Columbia Benefits, LLC"
+        ],
+        "phoneNumbers": [
+          "(303) 759-1100",
+          "(303) 759-1104"
+        ],
+        "emailAddresses": [
+          "info@cbadvisors.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Contact Info",
+          "Columbia Benefits",
+          "Home\n          \n                About",
+          "Us\n              \n                Client",
+          "Access\n              \n                Suggested",
+          "Reading\n              \n                Pension",
+          "Cash Balance",
+          "Plans\n              \n                Group",
+          "Medical\n              \n              \n            Resources",
+          "Gary Davis",
+          "State Mutual",
+          "The Denver",
+          "Click Here",
+          "Suggested Reading",
+          "Additional Pages",
+          "Our Location",
+          "Privacy Policy",
+          "Site Map"
+        ],
+        "footerText": "1720 S. Bellaire St., Suite 410, Denver, CO 80222 | info@cbadvisors.com\n      \n        \n          \n            \n              \n                Privacy Policy\n              \n            \n              \n                  Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.cbadvisors.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "3037591100",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "info@cbadvisors.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "1720 S. Bellaire St., Suite 410, Denver, CO 80222 | info@cbadvisors.comPrivacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(303) 759-1100, (303) 759-1104",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

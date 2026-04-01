@@ -1,0 +1,1008 @@
+{
+  "site": {
+    "original": "www.rappaportwealth.com",
+    "migrated": "https://rappaportwealth-31030756.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.rappaportwealth.com",
+    "migratedDomain": "https://rappaportwealth-31030756.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:35:13.359Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Location",
+            "href": "/location.cfm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.2.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.3.htm"
+          },
+          {
+            "title": "Where are Assets Held?",
+            "href": "/Where-are-Assets-Held.6.htm"
+          },
+          {
+            "title": "Legal and Privacy",
+            "href": "/Legal-and-Privacy.9.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Access Your Account",
+        "href": "/https://www.investor-connect.com/WMConnect/ConnectWeb/signin/Signin.invoke?vlType=noyHbWEbxehrprG",
+        "children": []
+      },
+      {
+        "title": "Rappaport Retirement Index",
+        "href": "/:void(0);",
+        "children": [
+          {
+            "title": "Rappaport Retirement Index 2026",
+            "href": "/Rappaport-Retirement-Index-2026.20.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2025",
+            "href": "/Rappaport-Retirement-Index-2025.19.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2024",
+            "href": "/Rappaport-Retirement-Index-2024.17.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2023",
+            "href": "/Rappaport-Retirement-Index-2023.16.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2022",
+            "href": "/Rappaport-Retirement-Index-2022.15.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2021",
+            "href": "/Rappaport-Retirement-Index-2021.1.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2020",
+            "href": "/Rappaport-Retirement-Index-2020.14.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2019",
+            "href": "/RRI-2019.13.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2018",
+            "href": "/Rappaport-Retirement-Index-2018.12.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2017",
+            "href": "/Rappaport-Retirement-Index-2017.11.htm"
+          },
+          {
+            "title": "Rappaport Retirement Index 2016 and Previous",
+            "href": "/Rappaport-Retirement-Index-2016-and-Previous.10.htm"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.rappaportwealth.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.rappaportwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Location",
+            "href": "https://www.rappaportwealth.com/location.cfm",
+            "path": "/location.cfm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.rappaportwealth.com/Our-Services.2.htm",
+            "path": "/Our-Services.2.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.rappaportwealth.com/Our-Qualifications.3.htm",
+            "path": "/Our-Qualifications.3.htm"
+          },
+          {
+            "text": "Where are Assets Held?",
+            "href": "https://www.rappaportwealth.com/Where-are-Assets-Held.6.htm",
+            "path": "/Where-are-Assets-Held.6.htm"
+          },
+          {
+            "text": "Legal and Privacy",
+            "href": "https://www.rappaportwealth.com/Legal-and-Privacy.9.htm",
+            "path": "/Legal-and-Privacy.9.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.rappaportwealth.com/tellafriend.cfm?SSLID=41570",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.rappaportwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.rappaportwealth.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.rappaportwealth.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.rappaportwealth.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.rappaportwealth.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.rappaportwealth.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.rappaportwealth.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Access Your Account",
+        "href": "https://www.rappaportwealth.com/Access-Your-Account.5.htm",
+        "path": "/Access-Your-Account.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Rappaport Retirement Index",
+        "href": "https://www.rappaportwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Rappaport Retirement Index",
+            "href": "https://www.rappaportwealth.com/:void(0);",
+            "path": "/:void(0);"
+          },
+          {
+            "text": "Rappaport Retirement Index 2026",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2026.20.htm",
+            "path": "/Rappaport-Retirement-Index-2026.20.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2025",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2025.19.htm",
+            "path": "/Rappaport-Retirement-Index-2025.19.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2024",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2024.17.htm",
+            "path": "/Rappaport-Retirement-Index-2024.17.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2023",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2023.16.htm",
+            "path": "/Rappaport-Retirement-Index-2023.16.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2022",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2022.15.htm",
+            "path": "/Rappaport-Retirement-Index-2022.15.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2021",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2021.1.htm",
+            "path": "/Rappaport-Retirement-Index-2021.1.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2020",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2020.14.htm",
+            "path": "/Rappaport-Retirement-Index-2020.14.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2019",
+            "href": "https://www.rappaportwealth.com/RRI-2019.13.htm",
+            "path": "/RRI-2019.13.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2018",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2018.12.htm",
+            "path": "/Rappaport-Retirement-Index-2018.12.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2017",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2017.11.htm",
+            "path": "/Rappaport-Retirement-Index-2017.11.htm"
+          },
+          {
+            "text": "Rappaport Retirement Index 2016 and Previous",
+            "href": "https://www.rappaportwealth.com/Rappaport-Retirement-Index-2016-and-Previous.10.htm",
+            "path": "/Rappaport-Retirement-Index-2016-and-Previous.10.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.rappaportwealth.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://rappaportwealth-31030756.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://rappaportwealth-31030756.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [
+          {
+            "text": "Our Location",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/our-products-and-services2",
+            "path": "/our-products-and-services2"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/our-qualifications3",
+            "path": "/our-qualifications3"
+          },
+          {
+            "text": "Where are Assets Held?",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/where-are-assets-held6",
+            "path": "/where-are-assets-held6"
+          },
+          {
+            "text": "Legal and Privacy",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/legal-and-privacy9",
+            "path": "/legal-and-privacy9"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://rappaportwealth-31030756.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Access Your Account",
+        "href": "https://www.investor-connect.com/WMConnect/ConnectWeb/signin/Signin.invoke?vlType=noyHbWEbxehrprG",
+        "path": "/WMConnect/ConnectWeb/signin/Signin.invoke",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Rappaport Retirement Index",
+        "href": "https://rappaportwealth-31030756.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Rappaport Retirement Index 2025",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202519",
+            "path": "/rappaport-retirement-index-202519"
+          },
+          {
+            "text": "Rappaport Retirement Index 2024",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202417",
+            "path": "/rappaport-retirement-index-202417"
+          },
+          {
+            "text": "Rappaport Retirement Index 2023",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202316",
+            "path": "/rappaport-retirement-index-202316"
+          },
+          {
+            "text": "Rappaport Retirement Index 2022",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202215",
+            "path": "/rappaport-retirement-index-202215"
+          },
+          {
+            "text": "Rappaport Retirement Index 2021",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-20211",
+            "path": "/rappaport-retirement-index-20211"
+          },
+          {
+            "text": "Rappaport Retirement Index 2020",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202014",
+            "path": "/rappaport-retirement-index-202014"
+          },
+          {
+            "text": "Rappaport Retirement Index 2019",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-201913",
+            "path": "/rappaport-retirement-index-201913"
+          },
+          {
+            "text": "Rappaport Retirement Index 2018",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-201812",
+            "path": "/rappaport-retirement-index-201812"
+          },
+          {
+            "text": "Rappaport Retirement Index 2017",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-201711",
+            "path": "/rappaport-retirement-index-201711"
+          },
+          {
+            "text": "Rappaport Retirement Index 2016 and Previous",
+            "href": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-2016-and-previous10",
+            "path": "/rappaport-retirement-index-2016-and-previous10"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://rappaportwealth-31030756.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /location",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.cfm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/our-products-and-services2",
+            "migratedPath": "/our-products-and-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Where are Assets Held?",
+            "brHref": "/Where-are-Assets-Held.6.htm",
+            "migratedText": "Where are Assets Held?",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/where-are-assets-held6",
+            "migratedPath": "/where-are-assets-held6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Legal and Privacy",
+            "brHref": "/Legal-and-Privacy.9.htm",
+            "migratedText": "Legal and Privacy",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/legal-and-privacy9",
+            "migratedPath": "/legal-and-privacy9"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Access Your Account",
+        "brHref": "/https://www.investor-connect.com/WMConnect/ConnectWeb/signin/Signin.invoke?vlType=noyHbWEbxehrprG",
+        "migratedText": "Access Your Account",
+        "migratedHref": "https://www.investor-connect.com/WMConnect/ConnectWeb/signin/Signin.invoke?vlType=noyHbWEbxehrprG",
+        "migratedPath": "/WMConnect/ConnectWeb/signin/Signin.invoke"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Rappaport Retirement Index",
+        "brHref": "/:void(0);",
+        "migratedText": "Rappaport Retirement Index",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Rappaport Retirement Index 2026",
+            "brHref": "/Rappaport-Retirement-Index-2026.20.htm",
+            "migratedText": "Rappaport Retirement Index",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Rappaport Retirement Index 2026\" is a sub-item in the BR navigation JSON but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2025",
+            "brHref": "/Rappaport-Retirement-Index-2025.19.htm",
+            "migratedText": "Rappaport Retirement Index 2025",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202519",
+            "migratedPath": "/rappaport-retirement-index-202519"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2024",
+            "brHref": "/Rappaport-Retirement-Index-2024.17.htm",
+            "migratedText": "Rappaport Retirement Index 2024",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202417",
+            "migratedPath": "/rappaport-retirement-index-202417"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2023",
+            "brHref": "/Rappaport-Retirement-Index-2023.16.htm",
+            "migratedText": "Rappaport Retirement Index 2023",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202316",
+            "migratedPath": "/rappaport-retirement-index-202316"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2022",
+            "brHref": "/Rappaport-Retirement-Index-2022.15.htm",
+            "migratedText": "Rappaport Retirement Index 2022",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202215",
+            "migratedPath": "/rappaport-retirement-index-202215"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2021",
+            "brHref": "/Rappaport-Retirement-Index-2021.1.htm",
+            "migratedText": "Rappaport Retirement Index 2021",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-20211",
+            "migratedPath": "/rappaport-retirement-index-20211"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2020",
+            "brHref": "/Rappaport-Retirement-Index-2020.14.htm",
+            "migratedText": "Rappaport Retirement Index 2020",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202014",
+            "migratedPath": "/rappaport-retirement-index-202014"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2019",
+            "brHref": "/RRI-2019.13.htm",
+            "migratedText": "Rappaport Retirement Index 2019",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-201913",
+            "migratedPath": "/rappaport-retirement-index-201913"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2018",
+            "brHref": "/Rappaport-Retirement-Index-2018.12.htm",
+            "migratedText": "Rappaport Retirement Index 2018",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-201812",
+            "migratedPath": "/rappaport-retirement-index-201812"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2017",
+            "brHref": "/Rappaport-Retirement-Index-2017.11.htm",
+            "migratedText": "Rappaport Retirement Index 2017",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-201711",
+            "migratedPath": "/rappaport-retirement-index-201711"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2016 and Previous",
+            "brHref": "/Rappaport-Retirement-Index-2016-and-Previous.10.htm",
+            "migratedText": "Rappaport Retirement Index 2016 and Previous",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-2016-and-previous10",
+            "migratedPath": "/rappaport-retirement-index-2016-and-previous10"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 28,
+      "totalMigratedItems": 27,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 1,
+      "ok": 25,
+      "totalBrItems": 28
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.cfm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/our-products-and-services2",
+            "migratedPath": "/our-products-and-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Where are Assets Held?",
+            "brHref": "/Where-are-Assets-Held.6.htm",
+            "migratedText": "Where are Assets Held?",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/where-are-assets-held6",
+            "migratedPath": "/where-are-assets-held6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Legal and Privacy",
+            "brHref": "/Legal-and-Privacy.9.htm",
+            "migratedText": "Legal and Privacy",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/legal-and-privacy9",
+            "migratedPath": "/legal-and-privacy9"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Access Your Account",
+        "brHref": "/Access-Your-Account.5.htm",
+        "migratedText": "Access Your Account",
+        "migratedHref": "https://www.investor-connect.com/WMConnect/ConnectWeb/signin/Signin.invoke?vlType=noyHbWEbxehrprG",
+        "migratedPath": "/WMConnect/ConnectWeb/signin/Signin.invoke"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Rappaport Retirement Index",
+        "brHref": "/",
+        "migratedText": "Rappaport Retirement Index",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Rappaport Retirement Index",
+            "brHref": "/:void(0);",
+            "migratedText": "Rappaport Retirement Index",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Rappaport Retirement Index\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "structure-change",
+            "brTitle": "Rappaport Retirement Index 2026",
+            "brHref": "/Rappaport-Retirement-Index-2026.20.htm",
+            "migratedText": "Rappaport Retirement Index",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Rappaport Retirement Index 2026\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2025",
+            "brHref": "/Rappaport-Retirement-Index-2025.19.htm",
+            "migratedText": "Rappaport Retirement Index 2025",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202519",
+            "migratedPath": "/rappaport-retirement-index-202519"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2024",
+            "brHref": "/Rappaport-Retirement-Index-2024.17.htm",
+            "migratedText": "Rappaport Retirement Index 2024",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202417",
+            "migratedPath": "/rappaport-retirement-index-202417"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2023",
+            "brHref": "/Rappaport-Retirement-Index-2023.16.htm",
+            "migratedText": "Rappaport Retirement Index 2023",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202316",
+            "migratedPath": "/rappaport-retirement-index-202316"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2022",
+            "brHref": "/Rappaport-Retirement-Index-2022.15.htm",
+            "migratedText": "Rappaport Retirement Index 2022",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202215",
+            "migratedPath": "/rappaport-retirement-index-202215"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2021",
+            "brHref": "/Rappaport-Retirement-Index-2021.1.htm",
+            "migratedText": "Rappaport Retirement Index 2021",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-20211",
+            "migratedPath": "/rappaport-retirement-index-20211"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2020",
+            "brHref": "/Rappaport-Retirement-Index-2020.14.htm",
+            "migratedText": "Rappaport Retirement Index 2020",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-202014",
+            "migratedPath": "/rappaport-retirement-index-202014"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2019",
+            "brHref": "/RRI-2019.13.htm",
+            "migratedText": "Rappaport Retirement Index 2019",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-201913",
+            "migratedPath": "/rappaport-retirement-index-201913"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2018",
+            "brHref": "/Rappaport-Retirement-Index-2018.12.htm",
+            "migratedText": "Rappaport Retirement Index 2018",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-201812",
+            "migratedPath": "/rappaport-retirement-index-201812"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2017",
+            "brHref": "/Rappaport-Retirement-Index-2017.11.htm",
+            "migratedText": "Rappaport Retirement Index 2017",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-201711",
+            "migratedPath": "/rappaport-retirement-index-201711"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Rappaport Retirement Index 2016 and Previous",
+            "brHref": "/Rappaport-Retirement-Index-2016-and-Previous.10.htm",
+            "migratedText": "Rappaport Retirement Index 2016 and Previous",
+            "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/rappaport-retirement-index-2016-and-previous10",
+            "migratedPath": "/rappaport-retirement-index-2016-and-previous10"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://rappaportwealth-31030756.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 30,
+      "totalMigratedItems": 27,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 2,
+      "ok": 27
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Retirement Investment and Income Planning, Craig Rappaport",
+        "companyNames": [
+          "Rappaport Wealth Management",
+          "Retirement Investment and Income Planning, Craig Rappaport"
+        ],
+        "phoneNumbers": [
+          "6102938005",
+          "6109770043"
+        ],
+        "emailAddresses": [
+          "Craig@rappaportwealth.com"
+        ],
+        "physicalAddresses": [
+          "150 Radnor Chester Road Suite "
+        ],
+        "personNames": [],
+        "footerText": "SFooter Disclaimer Securities offered through KingswoodUS– Member FINRA/SIPC. Advisory services offered through KingswoodUS–SEC Registered Investment Advisor. Rappaport Wealth Management is unaffiliated with KingswoodUS Rappaport Wealth Management may only conduct business with residents of the states for which they are properly registered, therefore, a response to a request for information may be delayed. Please note that not all of the investments and services mentioned are available in every state. Investors outside of the United States are subject to securities and tax regulations within their applicable jurisdictions that are not addressed on this site. This site and the content herein are subject to certain Legal Notices. https://brokercheck.finra.org/ Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.rappaportwealth.com",
+        "companyNames": [
+          "Rappaport Wealth Management"
+        ],
+        "phoneNumbers": [
+          "6102938005",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "Craig@rappaportwealth.com"
+        ],
+        "physicalAddresses": [
+          "150 Radnor Chester Road Suite "
+        ],
+        "personNames": [],
+        "footerText": "SFooter Disclaimer Securities offered through KingswoodUS– Member FINRA/SIPC. Advisory services offered through KingswoodUS–SEC Registered Investment Advisor. Rappaport Wealth Management is unaffiliated with KingswoodUS Rappaport Wealth Management may only conduct business with residents of the states for which they are properly registered, therefore, a response to a request for information may be delayed. Please note that not all of the investments and services mentioned are available in every state. Investors outside of the United States are subject to securities and tax regulations within their applicable jurisdictions that are not addressed on this site. This site and the content herein are subject to certain Legal Notices. https://brokercheck.finra.org/"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(610) 293-8005, (610) 977-0043",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

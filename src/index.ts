@@ -10,6 +10,10 @@ import { generateHtmlReport } from './reporters/html-reporter.js';
 import { generateCsvReport } from './reporters/csv-reporter.js';
 import { closeBrowser } from './utils/playwright-helpers.js';
 import { ensureDir } from './utils/fs-helpers.js';
+import { checkMenu } from './menu/menu-checker.js';
+import { generateMenuHtmlReport } from './menu/menu-report.js';
+import { runBatch, loadResultsFromDisk } from './menu/batch-runner.js';
+import { generateIndexReport } from './menu/index-report.js';
 import type { ViewportName } from './types/index.js';
 
 const program = new Command();
@@ -113,6 +117,7 @@ program
   .option('--auth <token>', 'Authorization token for BR Source API')
   .option('-o, --output <dir>', 'Output directory', './scans')
   .option('--csv', 'Also export CSV', false)
+  .option('--skip-original-crawl', 'Build original snapshot from BR API only (skip Playwright crawl — use when original site is Cloudflare-blocked)', false)
   .action(async (opts) => {
     try {
       const viewports = opts.viewports.split(',') as ViewportName[];
@@ -129,6 +134,7 @@ program
         auth: opts.auth,
         output: outputDir,
         csv: opts.csv,
+        skipOriginalCrawl: opts.skipOriginalCrawl,
       });
 
       console.log(chalk.green(`\nDone! Reports at: ${outputDir}/comparison/`));
@@ -137,6 +143,93 @@ program
       process.exitCode = 1;
     } finally {
       await closeBrowser();
+    }
+  });
+
+// ═══════════════════════════════════════
+//  menu-check — menu structure + link QA
+// ═══════════════════════════════════════
+
+program
+  .command('menu-check')
+  .description('Check menu structure and links: BR JSON nav vs migrated Wix site')
+  .requiredOption('--original <domain>', 'Original BR domain (e.g. www.example.com)')
+  .requiredOption('--migrated <url>', 'Migrated Wix site URL')
+  .option('--auth <token>', 'Authorization token for BR Source API')
+  .option('-t, --timeout <ms>', 'Request timeout in ms', '30000')
+  .option('-o, --output <dir>', 'Output directory for report', './scans/menu')
+  .action(async (opts) => {
+    try {
+      await ensureDir(opts.output);
+      const result = await checkMenu({
+        original: opts.original,
+        migrated: opts.migrated,
+        auth: opts.auth,
+        timeout: parseInt(opts.timeout),
+      });
+
+      const reportPath = `${opts.output}/menu-report.html`;
+      generateMenuHtmlReport(result, reportPath);
+      const jsonPath = `${opts.output}/result.json`;
+      const { writeFileSync } = await import('fs');
+      writeFileSync(jsonPath, JSON.stringify({ site: { original: opts.original, migrated: opts.migrated }, result }, null, 2), 'utf-8');
+      console.log(chalk.green(`\nReport: ${reportPath}`));
+    } catch (err) {
+      console.error(chalk.red(`\nError: ${(err as Error).message}`));
+      process.exitCode = 1;
+    } finally {
+      await closeBrowser();
+    }
+  });
+
+// ═══════════════════════════════════════
+//  batch-menu-check — run all 154 sites
+// ═══════════════════════════════════════
+
+program
+  .command('batch-menu-check')
+  .description('Run menu-check on all sites from a CSV and generate an index report')
+  .requiredOption('--csv <path>', 'Path to CSV file with Name,URL columns')
+  .option('--auth <token>', 'Authorization token for BR Source API')
+  .option('-t, --timeout <ms>', 'Per-site timeout in ms', '30000')
+  .option('-c, --concurrency <n>', 'Number of sites to process in parallel', '2')
+  .option('-o, --output <dir>', 'Output directory for all reports', './scans/batch-menu')
+  .action(async (opts) => {
+    try {
+      const results = await runBatch({
+        csvPath: opts.csv,
+        outputDir: opts.output,
+        auth: opts.auth,
+        timeout: parseInt(opts.timeout),
+        concurrency: parseInt(opts.concurrency),
+      });
+
+      const indexPath = generateIndexReport(results, opts.output);
+      console.log(chalk.green(`\nIndex report: ${indexPath}`));
+    } catch (err) {
+      console.error(chalk.red(`\nError: ${(err as Error).message}`));
+      process.exitCode = 1;
+    } finally {
+      await closeBrowser();
+    }
+  });
+
+// ═══════════════════════════════════════
+//  regen-index — rebuild index from saved JSON results
+// ═══════════════════════════════════════
+
+program
+  .command('regen-index')
+  .description('Regenerate the index.html from previously saved result.json files')
+  .option('-o, --output <dir>', 'Output directory containing site subdirs', './scans/batch-menu')
+  .action((opts) => {
+    try {
+      const results = loadResultsFromDisk(opts.output);
+      const indexPath = generateIndexReport(results, opts.output);
+      console.log(chalk.green(`\nIndex report: ${indexPath}`));
+    } catch (err) {
+      console.error(chalk.red(`\nError: ${(err as Error).message}`));
+      process.exitCode = 1;
     }
   });
 

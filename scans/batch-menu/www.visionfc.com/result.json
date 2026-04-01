@@ -1,0 +1,703 @@
+{
+  "site": {
+    "original": "www.visionfc.com",
+    "migrated": "https://visionfc-31030752.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.visionfc.com",
+    "migratedDomain": "https://visionfc-31030752.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:27:09.513Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm And Services",
+            "href": "/Our-Firm-And-Services.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.2.htm"
+          },
+          {
+            "title": "Careers",
+            "href": "/Careers.3.htm"
+          },
+          {
+            "title": "How To View Your Accounts",
+            "href": "/How-To-View-Your-Accounts.6.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Blog",
+            "href": "/Blog.9.htm"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.visionfc.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.visionfc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm And Services",
+            "href": "https://www.visionfc.com/Our-Firm-And-Services.1.htm",
+            "path": "/Our-Firm-And-Services.1.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.visionfc.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.visionfc.com/Our-Qualifications.2.htm",
+            "path": "/Our-Qualifications.2.htm"
+          },
+          {
+            "text": "Careers",
+            "href": "https://www.visionfc.com/Careers.3.htm",
+            "path": "/Careers.3.htm"
+          },
+          {
+            "text": "How To View Your Accounts",
+            "href": "https://www.visionfc.com/How-To-View-Your-Accounts.6.htm",
+            "path": "/How-To-View-Your-Accounts.6.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.visionfc.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.visionfc.com/tellafriend.cfm?SSLID=22061",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.visionfc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Blog",
+            "href": "https://www.visionfc.com/Blog.9.htm",
+            "path": "/Blog.9.htm"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.visionfc.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.visionfc.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.visionfc.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.visionfc.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.visionfc.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.visionfc.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.visionfc.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.visionfc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.visionfc.com/form.cfm?ID=64&SSLID=22061",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.visionfc.com/form.cfm?ID=65&SSLID=22061",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.visionfc.com/form.cfm?ID=68&SSLID=22061",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.visionfc.com/form.cfm?ID=70&SSLID=22061",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.visionfc.com/form.cfm?ID=73&SSLID=22061",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.visionfc.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://visionfc-31030752.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://visionfc-31030752.brprodaccount.com/our-firm-and-services1",
+        "path": "/our-firm-and-services1",
+        "subItems": [
+          {
+            "text": "Our Firm And Services",
+            "href": "https://visionfc-31030752.brprodaccount.com/our-firm-and-services1",
+            "path": "/our-firm-and-services1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://visionfc-31030752.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://visionfc-31030752.brprodaccount.com/our-qualifications2",
+            "path": "/our-qualifications2"
+          },
+          {
+            "text": "Careers",
+            "href": "https://visionfc-31030752.brprodaccount.com/careers3",
+            "path": "/careers3"
+          },
+          {
+            "text": "How To View Your Accounts",
+            "href": "https://visionfc-31030752.brprodaccount.com/how-to-view-your-accounts6",
+            "path": "/how-to-view-your-accounts6"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://visionfc-31030752.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://visionfc-31030752.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Blog",
+            "href": "https://visionfc-31030752.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://visionfc-31030752.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://visionfc-31030752.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://visionfc-31030752.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://visionfc-31030752.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://visionfc-31030752.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://visionfc-31030752.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://visionfc-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://visionfc-31030752.brprodaccount.com/our-firm-and-services1",
+        "migratedPath": "/our-firm-and-services1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm-and-services1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm And Services",
+            "brHref": "/Our-Firm-And-Services.1.htm",
+            "migratedText": "Our Firm And Services",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/our-firm-and-services1",
+            "migratedPath": "/our-firm-and-services1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.2.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/our-qualifications2",
+            "migratedPath": "/our-qualifications2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Careers",
+            "brHref": "/Careers.3.htm",
+            "migratedText": "Careers",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/careers3",
+            "migratedPath": "/careers3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "How To View Your Accounts",
+            "brHref": "/How-To-View-Your-Accounts.6.htm",
+            "migratedText": "How To View Your Accounts",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/how-to-view-your-accounts6",
+            "migratedPath": "/how-to-view-your-accounts6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://visionfc-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Blog",
+            "brHref": "/Blog.9.htm",
+            "migratedText": "Blog",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "note": "Sub-item \"Articles\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://visionfc-31030752.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 16,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 14,
+      "totalBrItems": 17
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://visionfc-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://visionfc-31030752.brprodaccount.com/our-firm-and-services1",
+        "migratedPath": "/our-firm-and-services1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm And Services",
+            "brHref": "/Our-Firm-And-Services.1.htm",
+            "migratedText": "Our Firm And Services",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/our-firm-and-services1",
+            "migratedPath": "/our-firm-and-services1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.2.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/our-qualifications2",
+            "migratedPath": "/our-qualifications2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Careers",
+            "brHref": "/Careers.3.htm",
+            "migratedText": "Careers",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/careers3",
+            "migratedPath": "/careers3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "How To View Your Accounts",
+            "brHref": "/How-To-View-Your-Accounts.6.htm",
+            "migratedText": "How To View Your Accounts",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/how-to-view-your-accounts6",
+            "migratedPath": "/how-to-view-your-accounts6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://visionfc-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Blog",
+            "brHref": "/Blog.9.htm",
+            "migratedText": "Blog",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "note": "Sub-item \"Articles\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://visionfc-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://visionfc-31030752.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 16,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 16
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Planning: Financial, Retirement, Investment, IRA Rollover | Athens, GA",
+        "companyNames": [
+          "Vision Financial Concepts",
+          "Planning: Financial, Retirement, Investment, IRA Rollover",
+          "Athens, GA"
+        ],
+        "phoneNumbers": [
+          "7066132474"
+        ],
+        "emailAddresses": [
+          "jmallard@visionfc.net"
+        ],
+        "physicalAddresses": [
+          "855 Sunset Drive, Suite "
+        ],
+        "personNames": [
+          "Judson D. Mallard"
+        ],
+        "footerText": "Judson Mallard is the president of Vision Financial Concepts. Investment Advisory Services and tax serices offered through Vision Financial Concepts, a registered investment advisor. Certain insurance products offered through Judson D. Mallard as a licensed independent agent.This communication is strictly intended for individuals residing in the state of Georgia. No offers may be made or accepted from any resident outside the specific state(s) referenced. Privacy Policy Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.visionfc.com",
+        "companyNames": [
+          "Vision Financial Concepts"
+        ],
+        "phoneNumbers": [
+          "7066132474",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "jmallard@visionfc.net"
+        ],
+        "physicalAddresses": [
+          "855 Sunset Drive, Suite "
+        ],
+        "personNames": [
+          "Judson D. Mallard",
+          "Neil H. Resnik"
+        ],
+        "footerText": "Judson Mallard is the president of Vision Financial Concepts. Investment Advisory Services and tax serices offered through Vision Financial Concepts, a registered investment advisor. Certain insurance products offered through Judson D. Mallard as a licensed independent agent.This communication is strictly intended for individuals residing in the state of Georgia. No offers may be made or accepted from any resident outside the specific state(s) referenced.Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(706) 613-2474",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Judson D. Mallard",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

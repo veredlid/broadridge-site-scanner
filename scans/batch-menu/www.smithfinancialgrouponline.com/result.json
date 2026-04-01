@@ -1,0 +1,659 @@
+{
+  "site": {
+    "original": "www.smithfinancialgrouponline.com",
+    "migrated": "https://smithfinancialgrouponline-31030754.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.smithfinancialgrouponline.com",
+    "migratedDomain": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:55:05.813Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/Our-Team.4.htm"
+          },
+          {
+            "title": "E-Mail Us!",
+            "href": "/E-Mail-Us!.7.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Archive",
+            "href": "/Archive.8.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.smithfinancialgrouponline.com/index.cfm",
+        "path": "/index.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Firm",
+        "href": "https://www.smithfinancialgrouponline.com/Our-Firm.2.htm",
+        "path": "/Our-Firm.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Mission Statement",
+        "href": "https://www.smithfinancialgrouponline.com/Our-Mission-Statement.1.htm",
+        "path": "/Our-Mission-Statement.1.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Services",
+        "href": "https://www.smithfinancialgrouponline.com/Our-Services.3.htm",
+        "path": "/Our-Services.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Team",
+        "href": "https://www.smithfinancialgrouponline.com/Our-Team.4.htm",
+        "path": "/Our-Team.4.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "E-Mail Us!",
+        "href": "https://www.smithfinancialgrouponline.com/E-Mail-Us!.7.htm",
+        "path": "/E-Mail-Us!.7.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Location",
+        "href": "https://www.smithfinancialgrouponline.com/location.cfm",
+        "path": "/location.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.smithfinancialgrouponline.com/resources.cfm",
+        "path": "/resources.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Team",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Location",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "HR360",
+            "href": "https://www.hr360.com/login/",
+            "path": "/login"
+          },
+          {
+            "text": "Apply for Individual Health Insurance",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Affiliated Office",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "FAQ",
+            "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/faq",
+            "path": "/faq"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Location",
+        "href": "https://smithfinancialgrouponline-31030754.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "note": "Sub-item \"Our Firm\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "note": "Sub-item \"Our Mission Statement\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "note": "Sub-item \"Our Services\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/Our-Team.4.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "E-Mail Us!",
+            "brHref": "/E-Mail-Us!.7.htm",
+            "note": "Sub-item \"E-Mail Us!\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Location",
+            "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Archive",
+            "brHref": "/Archive.8.htm",
+            "note": "Sub-item \"Archive\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Resources",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Articles",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Articles\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Calculators",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/calculators",
+        "migratedPath": "/calculators",
+        "note": "\"Calculators\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Newsletters",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "note": "\"Newsletters\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Glossary",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/glossary",
+        "migratedPath": "/glossary",
+        "note": "\"Glossary\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Tax Library",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/tax-library",
+        "migratedPath": "/tax-library",
+        "note": "\"Tax Library\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 9,
+      "totalMigratedItems": 17,
+      "missing": 5,
+      "extra": 12,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 3,
+      "totalBrItems": 9
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/index.cfm",
+        "migratedText": "Home",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Firm",
+        "brHref": "/Our-Firm.2.htm",
+        "note": "\"Our Firm\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Mission Statement",
+        "brHref": "/Our-Mission-Statement.1.htm",
+        "note": "\"Our Mission Statement\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "note": "\"Our Services\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Team",
+        "brHref": "/Our-Team.4.htm",
+        "migratedText": "Our Team",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" is top-level in the original live site but nested under \"About\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "E-Mail Us!",
+        "brHref": "/E-Mail-Us!.7.htm",
+        "note": "\"E-Mail Us!\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Location",
+        "brHref": "/location.cfm",
+        "migratedText": "Location",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Resources",
+        "brHref": "/resources.cfm",
+        "migratedText": "Resources",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" has no sub-items in the original live site but has 7 sub-items in migrated"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Articles",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Articles\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Calculators",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/calculators",
+        "migratedPath": "/calculators",
+        "note": "\"Calculators\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Newsletters",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "note": "\"Newsletters\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Glossary",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/glossary",
+        "migratedPath": "/glossary",
+        "note": "\"Glossary\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Tax Library",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/tax-library",
+        "migratedPath": "/tax-library",
+        "note": "\"Tax Library\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://smithfinancialgrouponline-31030754.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 8,
+      "totalMigratedItems": 17,
+      "missing": 4,
+      "extra": 12,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 2,
+      "ok": 2
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Smith Financial Group",
+        "companyNames": [
+          "Smith Financial Group"
+        ],
+        "phoneNumbers": [
+          "(512) 554-6086",
+          "(512) 308-6942"
+        ],
+        "emailAddresses": [
+          "mikes@smithfinancialgrouponline.com"
+        ],
+        "physicalAddresses": [
+          "11824 Jollyville Road, Suite 500Austin,  TX 78659"
+        ],
+        "personNames": [
+          "Contact Info",
+          "Jollyville Road",
+          "Home\n          \n                Our",
+          "Firm\n              \n                Our",
+          "Mission Statement",
+          "Our Services",
+          "Our Team",
+          "Our Location",
+          "Resources\n          \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n    \n       \n      \n      Today",
+          "At Smith",
+          "Financial Group",
+          "Smith Financial",
+          "Cedar Park",
+          "Financial Advice",
+          "Acquisition International",
+          "Worldwide Finance",
+          "Best Alternative",
+          "Financial Planning",
+          "Additional Pages",
+          "Archive\n                  \n            \n          \n        \n      \n        \n      \n      \n  \n\n  \n    \n\n      \n  \t\t\tFinancial",
+          "Real World",
+          "Infinity Financial",
+          "Services Advisory",
+          "Site Map"
+        ],
+        "footerText": "Financial Planning for the Real World Securities offered through Infinity Financial Services member FINRA/SIPC\nInvestment advisory services offered through Infinity Financial Services Advisory, an SEC registered RIA\n      \n        \n          \n            \n              \n                  Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.smithfinancialgrouponline.com",
+        "companyNames": [
+          "Creative Financial\nProfessionals"
+        ],
+        "phoneNumbers": [
+          "9723800063",
+          "8005295740",
+          "9723800097",
+          "8003447437",
+          "7475987"
+        ],
+        "emailAddresses": [
+          "resnik_neil@nlgroupmail.com"
+        ],
+        "physicalAddresses": [
+          "4500 Westgrove Suite 356\nAddison, TX 75001"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Securities and investment advisory services are offered solely through Registered Representatives and Investment Adviser Representatives of Equity Services, Inc. Member FINRA/SIPC, One National Life Drive, Montpelier, Vermont 05604, 1-800-344-7437. Creative Financial Professionals and all other entities referenced are not affiliated with Equity Services, Inc., unless otherwise noted. Neil Resnik is a Registered Representative and Investment Adviser Representative of Equity Services, Inc. and offers securities in Texas. Neil is also licensed to offer life insurance and annuities in Texas. This site is not a solicitation of interest in any of these products in any other state. TC7475987(1224)3Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(512) 554-6086, (512) 308-6942",
+          "migratedValue": "(972) 380-0063",
+          "severity": "critical",
+          "note": "Phone \"(972) 380-0063\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(512) 554-6086, (512) 308-6942",
+          "migratedValue": "(800) 529-5740",
+          "severity": "critical",
+          "note": "Phone \"(800) 529-5740\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(512) 554-6086, (512) 308-6942",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(512) 554-6086, (512) 308-6942",
+          "migratedValue": "(800) 344-7437",
+          "severity": "critical",
+          "note": "Phone \"(800) 344-7437\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(512) 554-6086, (512) 308-6942",
+          "migratedValue": "7475987",
+          "severity": "critical",
+          "note": "Phone \"7475987\" on migrated site not found on original"
+        },
+        {
+          "field": "email",
+          "originalValue": "mikes@smithfinancialgrouponline.com",
+          "migratedValue": "resnik_neil@nlgroupmail.com",
+          "severity": "critical",
+          "note": "Email \"resnik_neil@nlgroupmail.com\" on migrated site not found on original"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Contact Info, Jollyville Road, Home\n          \n                Our, Firm\n              \n                Our, Mission Statement, Our Services, Our Team, Our Location, Resources\n          \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n    \n       \n      \n      Today, At Smith, Financial Group, Smith Financial, Cedar Park, Financial Advice, Acquisition International, Worldwide Finance, Best Alternative, Financial Planning, Additional Pages, Archive\n                  \n            \n          \n        \n      \n        \n      \n      \n  \n\n  \n    \n\n      \n  \t\t\tFinancial, Real World, Infinity Financial, Services Advisory, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        },
+        {
+          "field": "company-name",
+          "originalValue": "Smith Financial Group",
+          "migratedValue": "Creative Financial\nProfessionals",
+          "severity": "warning",
+          "note": "Company name \"Creative Financial\nProfessionals\" on migrated site may not match original"
+        },
+        {
+          "field": "address",
+          "originalValue": "11824 Jollyville Road, Suite 500Austin,  TX 78659",
+          "migratedValue": "4500 Westgrove Suite 356\nAddison, TX 75001",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

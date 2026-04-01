@@ -1,0 +1,700 @@
+{
+  "site": {
+    "original": "www.virjiinvestments.com",
+    "migrated": "https://virjiinvestments-31030752.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.virjiinvestments.com",
+    "migratedDomain": "https://virjiinvestments-31030752.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:28:17.546Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Why Invest?",
+            "href": "/Why-Invest.1.htm"
+          },
+          {
+            "title": "Why Virji Investments?",
+            "href": "/Why-Virji-Investments.2.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/Our-Team.3.htm"
+          },
+          {
+            "title": "Client Log-in",
+            "href": "/Client-Log-in.6.htm"
+          },
+          {
+            "title": "Sign up for our Newsletter",
+            "href": "/Sign-up-for-our-Newsletter.7.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.virjiinvestments.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Why Invest?",
+            "href": "https://www.virjiinvestments.com/Why-Invest.1.htm",
+            "path": "/Why-Invest.1.htm"
+          },
+          {
+            "text": "Why Virji Investments?",
+            "href": "https://www.virjiinvestments.com/Why-Virji-Investments.2.htm",
+            "path": "/Why-Virji-Investments.2.htm"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://www.virjiinvestments.com/Our-Team.3.htm",
+            "path": "/Our-Team.3.htm"
+          },
+          {
+            "text": "Client Log-in",
+            "href": "https://www.virjiinvestments.com/Client-Log-in.6.htm",
+            "path": "/Client-Log-in.6.htm"
+          },
+          {
+            "text": "Sign up for our Newsletter",
+            "href": "https://www.virjiinvestments.com/Sign-up-for-our-Newsletter.7.htm",
+            "path": "/Sign-up-for-our-Newsletter.7.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.virjiinvestments.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=73001",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.virjiinvestments.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.virjiinvestments.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.virjiinvestments.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.virjiinvestments.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.virjiinvestments.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.virjiinvestments.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.virjiinvestments.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.virjiinvestments.com/form.cfm?ID=72&SSLID=73001",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.virjiinvestments.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://virjiinvestments-31030752.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://virjiinvestments-31030752.brprodaccount.com/why-invest1",
+        "path": "/why-invest1",
+        "subItems": [
+          {
+            "text": "Why Invest?",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/why-invest1",
+            "path": "/why-invest1"
+          },
+          {
+            "text": "Why Virji Investments?",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/why-virji-investments2",
+            "path": "/why-virji-investments2"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Client Log-in",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/client-login6",
+            "path": "/client-login6"
+          },
+          {
+            "text": "Sign up for our Newsletter",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/sign-up-for-our-newsletter7",
+            "path": "/sign-up-for-our-newsletter7"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://virjiinvestments-31030752.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://virjiinvestments-31030752.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://virjiinvestments-31030752.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/why-invest1",
+        "migratedPath": "/why-invest1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /why-invest1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Why Invest?",
+            "brHref": "/Why-Invest.1.htm",
+            "migratedText": "Why Invest?",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/why-invest1",
+            "migratedPath": "/why-invest1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Why Virji Investments?",
+            "brHref": "/Why-Virji-Investments.2.htm",
+            "migratedText": "Why Virji Investments?",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/why-virji-investments2",
+            "migratedPath": "/why-virji-investments2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/Our-Team.3.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Client Log-in",
+            "brHref": "/Client-Log-in.6.htm",
+            "migratedText": "Client Log-in",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/client-login6",
+            "migratedPath": "/client-login6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Sign up for our Newsletter",
+            "brHref": "/Sign-up-for-our-Newsletter.7.htm",
+            "migratedText": "Sign up for our Newsletter",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/sign-up-for-our-newsletter7",
+            "migratedPath": "/sign-up-for-our-newsletter7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 16,
+      "totalMigratedItems": 16,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 14,
+      "totalBrItems": 16
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/why-invest1",
+        "migratedPath": "/why-invest1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /why-invest1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Why Invest?",
+            "brHref": "/Why-Invest.1.htm",
+            "migratedText": "Why Invest?",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/why-invest1",
+            "migratedPath": "/why-invest1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Why Virji Investments?",
+            "brHref": "/Why-Virji-Investments.2.htm",
+            "migratedText": "Why Virji Investments?",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/why-virji-investments2",
+            "migratedPath": "/why-virji-investments2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/Our-Team.3.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Client Log-in",
+            "brHref": "/Client-Log-in.6.htm",
+            "migratedText": "Client Log-in",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/client-login6",
+            "migratedPath": "/client-login6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Sign up for our Newsletter",
+            "brHref": "/Sign-up-for-our-Newsletter.7.htm",
+            "migratedText": "Sign up for our Newsletter",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/sign-up-for-our-newsletter7",
+            "migratedPath": "/sign-up-for-our-newsletter7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/#",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 20,
+      "totalMigratedItems": 16,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 14
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Virji Investments",
+        "companyNames": [
+          "Welcome to Virji Investments, Inc",
+          "Virji Investments"
+        ],
+        "phoneNumbers": [
+          "(321) 275-5050",
+          "(321) 275-5126"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Virji Investments",
+          "Inc\n      Securing",
+          "The Future",
+          "Earned\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact",
+          "International Pkwy",
+          "Lake Mary",
+          "Home\n          \n          About",
+          "Us\n           \n            Why",
+          "Why Virji",
+          "Our Team",
+          "Client Log",
+          "Newsletter\n            Our",
+          "Location\n            Tell",
+          "Friend\n            \n           \n          \n          Resources",
+          "Articles\n            Calculators",
+          "Flipbooks\n            Newsletters",
+          "Glossary\n            Tax",
+          "Library\n            Videos",
+          "Request A Quote",
+          "Information Request",
+          "Retirement Confidence",
+          "Securing The",
+          "Future You",
+          "Earned\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tSecuring",
+          "At Virji",
+          "Independent Advice",
+          "Investment Strategies",
+          "Personalized Service",
+          "Tariffs Drive",
+          "Market Volatility",
+          "The Premium",
+          "Parents Pay",
+          "Top Schools",
+          "More Comfortable",
+          "Retirement \n\t\t\t\t\n\t\t\t\tOnly",
+          "Concerned About",
+          "The Threat",
+          "Is Real",
+          "More Newsletters",
+          "Eligibility\n          \n        \n        Use",
+          "Savings Goals",
+          "Conversion\n          \n        \n        This",
+          "Retirement\n          \n        \n        Use",
+          "More Calculators",
+          "Disclosure Brochure",
+          "Site Map"
+        ],
+        "footerText": "Virji Investments, Inc. is registered as an investment advisor with the State of Florida, California, Illinois, Texas and Indiana.  All information contained herein is for informational purposes only and does not constitute a solicitation or offer to sell securities or investment advisory services.  Such an offer can only be made in States where Virji Investments, Inc. is registered or where an exception form such registration is available, and no new account will be accepted unless and until al"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.virjiinvestments.com",
+        "companyNames": [
+          "Welcome to Virji Investments, Inc"
+        ],
+        "phoneNumbers": [
+          "3212755050",
+          "9723800097"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Virji Investments, Inc. is registered as an investment advisor with the State of Florida, California, Illinois, Texas and Indiana. All information contained herein is for informational purposes only and does not constitute a solicitation or offer to sell securities or investment advisory services. Such an offer can only be made in States where Virji Investments, Inc. is registered or where an exception form such registration is available, and no new account will be accepted unless and until all local regulations have been satisfied. If you are a resident of the State of Florida, California, Illinois, Texas or Indiana and are interested in our services, please e-mail us or call and request our Disclosure Brochure (Part II of the Form ADV); which provides detailed information about Virji Investments, Inc. and any inherent risks that may be associated with our services."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(321) 275-5050, (321) 275-5126",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Virji Investments, Inc\n      Securing, The Future, Earned\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, International Pkwy, Lake Mary, Home\n          \n          About, Us\n           \n            Why, Why Virji, Our Team, Client Log, Newsletter\n            Our, Location\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Information Request, Retirement Confidence, Securing The, Future You, Earned\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tSecuring, At Virji, Independent Advice, Investment Strategies, Personalized Service, Tariffs Drive, Market Volatility, The Premium, Parents Pay, Top Schools, More Comfortable, Retirement \n\t\t\t\t\n\t\t\t\tOnly, Concerned About, The Threat, Is Real, More Newsletters, Eligibility\n          \n        \n        Use, Savings Goals, Conversion\n          \n        \n        This, Retirement\n          \n        \n        Use, More Calculators, Disclosure Brochure, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

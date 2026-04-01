@@ -1,0 +1,820 @@
+{
+  "site": {
+    "original": "www.smhci.com",
+    "migrated": "https://smhci-31030754.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.smhci.com",
+    "migratedDomain": "https://smhci-31030754.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:49:13.393Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/Associate.10.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Affiliated Offices",
+            "href": "/affiliated-offices.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "View Your Account",
+            "href": "/https://cummermoyers.fccaccessonline.com/"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Disclosure",
+        "href": "/Disclosure.9.htm",
+        "children": []
+      },
+      {
+        "title": "Relationship Summary",
+        "href": "/http://www.smhci.com/relationshipsummary.11.htm",
+        "children": []
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.smhci.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.smhci.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.smhci.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.smhci.com/Associate.10.htm",
+            "path": "/Associate.10.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.smhci.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Affiliated Offices",
+            "href": "https://www.smhci.com/affiliated-offices.htm",
+            "path": "/affiliated-offices.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.smhci.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.smhci.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.smhci.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "View Your Account",
+            "href": "https://www.smhci.com/View-Your-Account.5.htm",
+            "path": "/View-Your-Account.5.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.smhci.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.smhci.com/tellafriend.cfm?SSLID=45697",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.smhci.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.smhci.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.smhci.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.smhci.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.smhci.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.smhci.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.smhci.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.smhci.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.smhci.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.smhci.com/form.cfm?ID=65&SSLID=45697",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.smhci.com/form.cfm?ID=68&SSLID=45697",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.smhci.com/form.cfm?ID=72&SSLID=45697",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.smhci.com/form.cfm?ID=73&SSLID=45697",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Disclosure",
+        "href": "https://www.smhci.com/Disclosure.9.htm",
+        "path": "/Disclosure.9.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Relationship Summary",
+        "href": "https://www.smhci.com/relationshipsummary.11.htm",
+        "path": "/relationshipsummary.11.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.smhci.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://smhci-31030754.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://smhci-31030754.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://smhci-31030754.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://smhci-31030754.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://smhci-31030754.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Affiliated Offices",
+            "href": "https://smhci-31030754.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://smhci-31030754.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://smhci-31030754.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://smhci-31030754.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          },
+          {
+            "text": "View Your Account",
+            "href": "https://cummermoyers.fccaccessonline.com/",
+            "path": "/"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://smhci-31030754.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://smhci-31030754.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://smhci-31030754.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://smhci-31030754.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://smhci-31030754.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://smhci-31030754.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://smhci-31030754.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://smhci-31030754.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Disclosure",
+        "href": "https://smhci-31030754.brprodaccount.com/disclosure9",
+        "path": "/disclosure9",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Relationship Summary",
+        "href": "http://www.smhci.com/relationshipsummary.11.htm",
+        "path": "/relationshipsummary.11.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://smhci-31030754.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/Associate.10.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Affiliated Offices",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Affiliated Offices",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/affiliated-office",
+            "migratedPath": "/affiliated-office"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "View Your Account",
+            "brHref": "/https://cummermoyers.fccaccessonline.com/",
+            "migratedText": "View Your Account",
+            "migratedHref": "https://cummermoyers.fccaccessonline.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Disclosure",
+        "brHref": "/Disclosure.9.htm",
+        "migratedText": "Disclosure",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/disclosure9",
+        "migratedPath": "/disclosure9"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Relationship Summary",
+        "brHref": "/http://www.smhci.com/relationshipsummary.11.htm",
+        "migratedText": "Relationship Summary",
+        "migratedHref": "http://www.smhci.com/relationshipsummary.11.htm",
+        "migratedPath": "/relationshipsummary.11.htm"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 21,
+      "totalMigratedItems": 21,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 19,
+      "totalBrItems": 21
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/Associate.10.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Affiliated Offices",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Affiliated Offices",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/affiliated-office",
+            "migratedPath": "/affiliated-office"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "View Your Account",
+            "brHref": "/View-Your-Account.5.htm",
+            "migratedText": "View Your Account",
+            "migratedHref": "https://cummermoyers.fccaccessonline.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://smhci-31030754.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Disclosure",
+        "brHref": "/Disclosure.9.htm",
+        "migratedText": "Disclosure",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/disclosure9",
+        "migratedPath": "/disclosure9"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Relationship Summary",
+        "brHref": "/relationshipsummary.11.htm",
+        "migratedText": "Relationship Summary",
+        "migratedHref": "http://www.smhci.com/relationshipsummary.11.htm",
+        "migratedPath": "/relationshipsummary.11.htm"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://smhci-31030754.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 28,
+      "totalMigratedItems": 21,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 21
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "SMH Capital Investments, 401K Rollovers",
+        "companyNames": [
+          "SMH Capital Investments, 401K Rollovers"
+        ],
+        "phoneNumbers": [
+          "8175697000",
+          "8175960205",
+          "8178875812"
+        ],
+        "emailAddresses": [
+          "lhaley@smhca.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "An affiliated broker-dealer of SMHCA, LLC | Member FINRA/SIPC | Our Privacy Policy Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.smhci.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "8175697000",
+          "8175960205",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "lhaley@smhca.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "An affiliated broker-dealer of SMHCA, LLC | Member FINRA/SIPC | Our Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(817) 569-7000, (817) 596-0205, (817) 887-5812",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

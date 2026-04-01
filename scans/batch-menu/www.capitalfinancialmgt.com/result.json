@@ -1,0 +1,537 @@
+{
+  "site": {
+    "original": "www.capitalfinancialmgt.com",
+    "migrated": "https://capitalfinancialmgt-31030804.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.capitalfinancialmgt.com",
+    "migratedDomain": "https://capitalfinancialmgt-31030804.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:01:11.855Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Company Matters",
+            "href": "/Company-Matters.2.htm"
+          },
+          {
+            "title": "Teamwork Matters",
+            "href": "/Teamwork-Matters.5.htm"
+          },
+          {
+            "title": "Service Matters",
+            "href": "/Service-Matters.3.htm"
+          },
+          {
+            "title": "Family Matters",
+            "href": "/Family-Matters.8.htm"
+          },
+          {
+            "title": "Fun Matters",
+            "href": "/Fun-Matters.6.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Privacy Matters",
+            "href": "/Privacy-Matters.7.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          },
+          {
+            "title": "Schwab Alliance Client Log-in",
+            "href": "/https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?&kc=y&sim=y"
+          },
+          {
+            "title": "Business Continuity Plan Disclosure",
+            "href": "/Business-Continuity-Plan-Disclosure.13.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.capitalfinancialmgt.com/index.cfm",
+        "path": "/index.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Company Matters",
+        "href": "https://www.capitalfinancialmgt.com/Company-Matters.2.htm",
+        "path": "/Company-Matters.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Teamwork Matters",
+        "href": "https://www.capitalfinancialmgt.com/Teamwork-Matters.5.htm",
+        "path": "/Teamwork-Matters.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Service Matters",
+        "href": "https://www.capitalfinancialmgt.com/Service-Matters.3.htm",
+        "path": "/Service-Matters.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Family Matters",
+        "href": "https://www.capitalfinancialmgt.com/Family-Matters.8.htm",
+        "path": "/Family-Matters.8.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Fun Matters",
+        "href": "https://www.capitalfinancialmgt.com/Fun-Matters.6.htm",
+        "path": "/Fun-Matters.6.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Location",
+        "href": "https://www.capitalfinancialmgt.com/location.cfm",
+        "path": "/location.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.capitalfinancialmgt.com/resources.cfm",
+        "path": "/resources.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-22",
+        "path": "/custom-section-22",
+        "subItems": [
+          {
+            "text": "Company Matters",
+            "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-22",
+            "path": "/custom-section-22"
+          },
+          {
+            "text": "Teamwork Matters",
+            "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Service Matters",
+            "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-33",
+            "path": "/custom-section-33"
+          },
+          {
+            "text": "Family Matters",
+            "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-88",
+            "path": "/custom-section-88"
+          },
+          {
+            "text": "Fun Matters",
+            "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-66",
+            "path": "/custom-section-66"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Privacy Matters",
+            "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-77",
+            "path": "/custom-section-77"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Schwab Alliance Client Log-in",
+            "href": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?&kc=y&sim=y",
+            "path": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "text": "Business Continuity Plan Disclosure",
+            "href": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-1313",
+            "path": "/custom-section-1313"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-22",
+        "migratedPath": "/custom-section-22",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /custom-section-22",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Company Matters",
+            "brHref": "/Company-Matters.2.htm",
+            "migratedText": "Company Matters",
+            "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-22",
+            "migratedPath": "/custom-section-22"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Teamwork Matters",
+            "brHref": "/Teamwork-Matters.5.htm",
+            "migratedText": "Teamwork Matters",
+            "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Service Matters",
+            "brHref": "/Service-Matters.3.htm",
+            "migratedText": "Service Matters",
+            "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-33",
+            "migratedPath": "/custom-section-33"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Family Matters",
+            "brHref": "/Family-Matters.8.htm",
+            "migratedText": "Family Matters",
+            "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-88",
+            "migratedPath": "/custom-section-88"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Fun Matters",
+            "brHref": "/Fun-Matters.6.htm",
+            "migratedText": "Fun Matters",
+            "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Privacy Matters",
+            "brHref": "/Privacy-Matters.7.htm",
+            "migratedText": "Privacy Matters",
+            "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-77",
+            "migratedPath": "/custom-section-77"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Schwab Alliance Client Log-in",
+            "brHref": "/https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?&kc=y&sim=y",
+            "migratedText": "Schwab Alliance Client Log-in",
+            "migratedHref": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?&kc=y&sim=y",
+            "migratedPath": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Business Continuity Plan Disclosure",
+            "brHref": "/Business-Continuity-Plan-Disclosure.13.htm",
+            "migratedText": "Business Continuity Plan Disclosure",
+            "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-1313",
+            "migratedPath": "/custom-section-1313"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 12,
+      "totalMigratedItems": 13,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 11,
+      "totalBrItems": 12
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/index.cfm",
+        "migratedText": "Home",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Company Matters",
+        "brHref": "/Company-Matters.2.htm",
+        "migratedText": "Company Matters",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-22",
+        "migratedPath": "/custom-section-22",
+        "note": "\"Company Matters\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Teamwork Matters",
+        "brHref": "/Teamwork-Matters.5.htm",
+        "migratedText": "Teamwork Matters",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Teamwork Matters\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Service Matters",
+        "brHref": "/Service-Matters.3.htm",
+        "migratedText": "Service Matters",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33",
+        "note": "\"Service Matters\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Family Matters",
+        "brHref": "/Family-Matters.8.htm",
+        "migratedText": "Family Matters",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-88",
+        "migratedPath": "/custom-section-88",
+        "note": "\"Family Matters\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Fun Matters",
+        "brHref": "/Fun-Matters.6.htm",
+        "migratedText": "Fun Matters",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-66",
+        "migratedPath": "/custom-section-66",
+        "note": "\"Fun Matters\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Location",
+        "brHref": "/location.cfm",
+        "migratedText": "Our Location",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Our Location\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/resources.cfm",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Us",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-22",
+        "migratedPath": "/custom-section-22",
+        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Privacy Matters",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-77",
+        "migratedPath": "/custom-section-77",
+        "note": "\"Privacy Matters\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Schwab Alliance Client Log-in",
+        "migratedHref": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?&kc=y&sim=y",
+        "migratedPath": "/Login/SignOn/CustomerCenterLogin.aspx",
+        "note": "\"Schwab Alliance Client Log-in\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Business Continuity Plan Disclosure",
+        "migratedHref": "https://capitalfinancialmgt-31030804.brprodaccount.com/custom-section-1313",
+        "migratedPath": "/custom-section-1313",
+        "note": "\"Business Continuity Plan Disclosure\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 8,
+      "totalMigratedItems": 13,
+      "missing": 1,
+      "extra": 5,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 6,
+      "ok": 1
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Capital Financial Management",
+        "companyNames": [
+          "CAPITAL FINANCIAL MANAGEMENT",
+          "Capital Financial Management"
+        ],
+        "phoneNumbers": [
+          "(619) 295-4883",
+          "(619) 299-9344"
+        ],
+        "emailAddresses": [
+          "info@capitalfinancialmgt.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Registered Investment",
+          "Advisor\n    \n    \n  \n\n\t\t\t\n\t\t\t\tContact",
+          "Camino Del",
+          "Rio South",
+          "Home\n          \n                Company",
+          "Matters\n              \n                Teamwork",
+          "Matters\n              \n                Service",
+          "Matters\n              \n                Family",
+          "Matters\n              \n                Fun",
+          "Matters\n              \n                  Our",
+          "Location\n                \n              \n            Resources",
+          "Mission Valley",
+          "San Diego",
+          "Kirk R. Sheldon",
+          "Capital Financial",
+          "Your Financial",
+          "Is Our",
+          "Core Business",
+          "Contact Info",
+          "Additional Pages",
+          "Privacy Matters",
+          "Schwab Alliance",
+          "Client Log",
+          "Business Continuity",
+          "Plan Disclosure",
+          "Site Map"
+        ],
+        "footerText": "Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.capitalfinancialmgt.com",
+        "companyNames": [
+          "CAPITAL FINANCIAL MANAGEMENT"
+        ],
+        "phoneNumbers": [
+          "9723800063",
+          "8005295740",
+          "9723800097",
+          "6192954883"
+        ],
+        "emailAddresses": [
+          "info@capitalfinancialmgt.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik",
+          "Kirk R. Sheldon"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(619) 295-4883, (619) 299-9344",
+          "migratedValue": "(972) 380-0063",
+          "severity": "critical",
+          "note": "Phone \"(972) 380-0063\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(619) 295-4883, (619) 299-9344",
+          "migratedValue": "(800) 529-5740",
+          "severity": "critical",
+          "note": "Phone \"(800) 529-5740\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(619) 295-4883, (619) 299-9344",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Registered Investment, Advisor\n    \n    \n  \n\n\t\t\t\n\t\t\t\tContact, Camino Del, Rio South, Home\n          \n                Company, Matters\n              \n                Teamwork, Matters\n              \n                Service, Matters\n              \n                Family, Matters\n              \n                Fun, Matters\n              \n                  Our, Location\n                \n              \n            Resources, Mission Valley, San Diego, Kirk R. Sheldon, Capital Financial, Your Financial, Is Our, Core Business, Contact Info, Additional Pages, Privacy Matters, Schwab Alliance, Client Log, Business Continuity, Plan Disclosure, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

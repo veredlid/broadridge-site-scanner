@@ -1,0 +1,424 @@
+{
+  "site": {
+    "original": "www.theplan.net",
+    "migrated": "https://theplan-31030753.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.theplan.net",
+    "migratedDomain": "https://theplan-31030753.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:25:41.220Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "MULVIHILL IN THE NEWS - RESOURCES",
+            "href": "/MULVIHILL-IN-THE-NEWS---RESOURCES.4.htm"
+          },
+          {
+            "title": "Five Star Award IMPORTANT COMPLIANCE DISCLOSURES",
+            "href": "/Five-Star-Award-IMPORTANT-COMPLIANCE-DISCLOSURES.9.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.theplan.net/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.theplan.net/about_us/",
+        "path": "/about_us",
+        "subItems": [
+          {
+            "text": "Our Associates",
+            "href": "https://www.theplan.net/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.theplan.net/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "MULVIHILL IN THE NEWS - RESOURCES",
+            "href": "https://www.theplan.net/MULVIHILL-IN-THE-NEWS---RESOURCES.4.htm",
+            "path": "/MULVIHILL-IN-THE-NEWS---RESOURCES.4.htm"
+          },
+          {
+            "text": "Five Star Award IMPORTANT COMPLIANCE DISCLOSURES",
+            "href": "https://www.theplan.net/Five-Star-Award-IMPORTANT-COMPLIANCE-DISCLOSURES.9.htm",
+            "path": "/Five-Star-Award-IMPORTANT-COMPLIANCE-DISCLOSURES.9.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=23006",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.theplan.net/learning_center/",
+        "path": "/learning_center",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.theplan.net/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.theplan.net/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.theplan.net/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.theplan.net/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.theplan.net/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.theplan.net/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.theplan.net/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.theplan.net/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://theplan-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://theplan-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://theplan-31030753.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Associates",
+            "href": "https://theplan-31030753.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://theplan-31030753.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "MULVIHILL IN THE NEWS - RESOURCES",
+            "href": "https://theplan-31030753.brprodaccount.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://theplan-31030753.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://theplan-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://theplan-31030753.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://theplan-31030753.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://theplan-31030753.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "MULVIHILL IN THE NEWS - RESOURCES",
+            "brHref": "/MULVIHILL-IN-THE-NEWS---RESOURCES.4.htm",
+            "migratedText": "MULVIHILL IN THE NEWS - RESOURCES",
+            "migratedHref": "https://theplan-31030753.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Five Star Award IMPORTANT COMPLIANCE DISCLOSURES",
+            "brHref": "/Five-Star-Award-IMPORTANT-COMPLIANCE-DISCLOSURES.9.htm",
+            "note": "Sub-item \"Five Star Award IMPORTANT COMPLIANCE DISCLOSURES\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 6,
+      "totalMigratedItems": 6,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 4,
+      "totalBrItems": 6
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://theplan-31030753.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://theplan-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/about_us",
+        "migratedText": "About Us",
+        "migratedHref": "https://theplan-31030753.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://theplan-31030753.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://theplan-31030753.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "MULVIHILL IN THE NEWS - RESOURCES",
+            "brHref": "/MULVIHILL-IN-THE-NEWS---RESOURCES.4.htm",
+            "migratedText": "MULVIHILL IN THE NEWS - RESOURCES",
+            "migratedHref": "https://theplan-31030753.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Five Star Award IMPORTANT COMPLIANCE DISCLOSURES",
+            "brHref": "/Five-Star-Award-IMPORTANT-COMPLIANCE-DISCLOSURES.9.htm",
+            "note": "Sub-item \"Five Star Award IMPORTANT COMPLIANCE DISCLOSURES\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Resources",
+        "brHref": "/learning_center",
+        "migratedText": "MULVIHILL IN THE NEWS - RESOURCES",
+        "migratedHref": "https://theplan-31030753.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Resources\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 16,
+      "totalMigratedItems": 6,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 1,
+      "ok": 5
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Mulvihill Asset Management",
+        "companyNames": [
+          "MULVIHILL ASSET MANAGEMENT, LLC®",
+          "Mulvihill Asset Management"
+        ],
+        "phoneNumbers": [
+          "(972) 267-1244",
+          "(972) 267-1243"
+        ],
+        "emailAddresses": [
+          "hmulvihill@theplan.net"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n      \n    \n  \n\n    \n      \n        \n          \n            \n\t\n\t \n\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHome",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Our",
+          "Associates\n      \n    \n      \n        Our",
+          "Five Star",
+          "Tell A Friend",
+          "Resources\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n          \n            Articles",
+          "Calculators\n          \n        \n          \n            Flipbooks",
+          "Newsletters\n          \n        \n          \n            Glossary",
+          "Tax Library",
+          "Videos\n          \n        \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tContact",
+          "Asset Management",
+          "Wealth Manager",
+          "Click Here",
+          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tLife",
+          "Retirement \n\t\t\t\t\n\t\t\t\tLife",
+          "Retirement Time",
+          "Navigating Medicare",
+          "Open Enrollment",
+          "The Medicare",
+          "Original Medicare",
+          "Medicare Advantage",
+          "Medicare Prescription",
+          "Important Tax",
+          "Through Businesses",
+          "More Newsletters",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cash",
+          "Flow Analysis",
+          "This Cash",
+          "Life Expectancy",
+          "Taxable Equivalent",
+          "Yield\n          \n        \n        Calculate",
+          "Estate Taxes",
+          "More Calculators",
+          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tOur",
+          "Learning Center",
+          "Articles\n                Educate",
+          "Newsletters\n                Timely",
+          "Flipbooks\n                \n                  These",
+          "Glossary\n                  \n                  Financial",
+          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n  \n\n      \n      \n  \n    \n\n      \n        \n          \n            \n              \n                  Site"
+        ],
+        "footerText": "Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.theplan.net",
+        "companyNames": [
+          "MULVIHILL ASSET MANAGEMENT, LLC®"
+        ],
+        "phoneNumbers": [
+          "2547853",
+          "9722671244",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "hmulvihill@theplan.net"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(972) 267-1244, (972) 267-1243",
+          "migratedValue": "2547853",
+          "severity": "critical",
+          "note": "Phone \"2547853\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(972) 267-1244, (972) 267-1243",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "site": {
+    "original": "www.kanakfinancial.com",
+    "migrated": "https://kanakfinancial-31030808.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.kanakfinancial.com",
+    "migratedDomain": "https://kanakfinancial-31030808.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:13:43.734Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.kanakfinancial.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.kanakfinancial.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://kanakfinancial-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://kanakfinancial-31030808.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://kanakfinancial-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://kanakfinancial-31030808.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 2,
+      "totalMigratedItems": 2,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 2,
+      "totalBrItems": 2
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://kanakfinancial-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://kanakfinancial-31030808.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 2,
+      "totalMigratedItems": 2,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 2
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Kanakadhara Financial",
+        "companyNames": [
+          "Kanakadhara Financial"
+        ],
+        "phoneNumbers": [
+          "(412) 953-1141"
+        ],
+        "emailAddresses": [
+          "kanak@kanakfinancial.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Us\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\n\t\t\t\tKanak",
+          "Home\n          \n          Contact",
+          "Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFuture",
+          "Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity",
+          "Kanak Iyer",
+          "National Institutes",
+          "In Sanskrit",
+          "Kanakadhara Financial",
+          "Fidelity Brokerage",
+          "Site Map"
+        ],
+        "footerText": "Securities offered through Fidelity Brokerage services LLC, Member NYSE/SIPC                . Fidelity and Kanakadhara Financial are not affiliated.\n      \n        \n          \n            \n              \n                  Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.kanakfinancial.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "4129531141",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "kanak@kanakfinancial.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Securities offered through Fidelity Brokerage services LLC, Member NYSE/SIPC . Fidelity and Kanakadhara Financial are not affiliated."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(412) 953-1141",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

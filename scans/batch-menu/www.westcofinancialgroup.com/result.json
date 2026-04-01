@@ -1,0 +1,846 @@
+{
+  "site": {
+    "original": "www.westcofinancialgroup.com",
+    "migrated": "https://westcofinancialgroup-31030752.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.westcofinancialgroup.com",
+    "migratedDomain": "https://westcofinancialgroup-31030752.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:50:26.956Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Team",
+            "href": "/Our-Team.1.htm"
+          },
+          {
+            "title": "Our Affiliated Advisors and Strategic Alliances",
+            "href": "/Our-Affiliated-Advisors-and-Strategic-Alliances.2.htm"
+          },
+          {
+            "title": "Our Offices",
+            "href": "/Our-Offices.7.htm"
+          },
+          {
+            "title": "Comprehensive Wealth Management",
+            "href": "/Comprehensive-Wealth-Management.6.htm"
+          },
+          {
+            "title": "Financial Planning",
+            "href": "/Financial-Planning.8.htm"
+          },
+          {
+            "title": "Portfolio Management and Investment Brokerage",
+            "href": "/Portfolio-Management-and-Investment-Brokerage.3.htm"
+          },
+          {
+            "title": "Life, Health, Long Term Care &amp; Disability Insurance",
+            "href": "/Life,-Health,-Long-Term-Care-and-Disability-Insurance.4.htm"
+          },
+          {
+            "title": "Tax Preparation and Tax Planning",
+            "href": "/Tax-Preparation-and-Tax-Planning.5.htm"
+          },
+          {
+            "title": "Westco Financial Group Contact Info",
+            "href": "/location.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Retirement Analysis",
+            "href": "/Risk-Analysis.10.htm"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Articles",
+        "href": "/Articles.11.htm",
+        "children": []
+      },
+      {
+        "title": "Ocean Financial FCU",
+        "href": "/https://www.oceanfinancial.org/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.westcofinancialgroup.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.westcofinancialgroup.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Team",
+            "href": "https://www.westcofinancialgroup.com/Our-Team.1.htm",
+            "path": "/Our-Team.1.htm"
+          },
+          {
+            "text": "Our Affiliated Advisors and Strategic Alliances",
+            "href": "https://www.westcofinancialgroup.com/Our-Affiliated-Advisors-and-Strategic-Alliances.2.htm",
+            "path": "/Our-Affiliated-Advisors-and-Strategic-Alliances.2.htm"
+          },
+          {
+            "text": "Our Offices",
+            "href": "https://www.westcofinancialgroup.com/Our-Offices.7.htm",
+            "path": "/Our-Offices.7.htm"
+          },
+          {
+            "text": "Comprehensive Wealth Management",
+            "href": "https://www.westcofinancialgroup.com/Comprehensive-Wealth-Management.6.htm",
+            "path": "/Comprehensive-Wealth-Management.6.htm"
+          },
+          {
+            "text": "Financial Planning",
+            "href": "https://www.westcofinancialgroup.com/Financial-Planning.8.htm",
+            "path": "/Financial-Planning.8.htm"
+          },
+          {
+            "text": "Portfolio Management and Investment Brokerage",
+            "href": "https://www.westcofinancialgroup.com/Portfolio-Management-and-Investment-Brokerage.3.htm",
+            "path": "/Portfolio-Management-and-Investment-Brokerage.3.htm"
+          },
+          {
+            "text": "Life, Health, Long Term Care & Disability Insurance",
+            "href": "https://www.westcofinancialgroup.com/Life,-Health,-Long-Term-Care-and-Disability-Insurance.4.htm",
+            "path": "/Life,-Health,-Long-Term-Care-and-Disability-Insurance.4.htm"
+          },
+          {
+            "text": "Tax Preparation and Tax Planning",
+            "href": "https://www.westcofinancialgroup.com/Tax-Preparation-and-Tax-Planning.5.htm",
+            "path": "/Tax-Preparation-and-Tax-Planning.5.htm"
+          },
+          {
+            "text": "Westco Financial Group Contact Info",
+            "href": "https://www.westcofinancialgroup.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.westcofinancialgroup.com/tellafriend.cfm?SSLID=36688",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.westcofinancialgroup.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.westcofinancialgroup.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.westcofinancialgroup.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.westcofinancialgroup.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.westcofinancialgroup.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.westcofinancialgroup.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.westcofinancialgroup.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Retirement Analysis",
+            "href": "https://www.westcofinancialgroup.com/Risk-Analysis.10.htm",
+            "path": "/Risk-Analysis.10.htm"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.westcofinancialgroup.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.westcofinancialgroup.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Information Request",
+            "href": "https://www.westcofinancialgroup.com/form.cfm?ID=73&SSLID=36688",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.westcofinancialgroup.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Articles",
+        "href": "https://www.westcofinancialgroup.com/Articles.11.htm",
+        "path": "/Articles.11.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Ocean Financial FCU",
+        "href": "https://www.oceanfinancial.org/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://westcofinancialgroup-31030752.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://westcofinancialgroup-31030752.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Team",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Affiliated Advisors and Strategic Alliances",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/our-affiliated-advisors-and-strategic-alliances2",
+            "path": "/our-affiliated-advisors-and-strategic-alliances2"
+          },
+          {
+            "text": "Our Offices",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/our-offices7",
+            "path": "/our-offices7"
+          },
+          {
+            "text": "Comprehensive Wealth Management",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/comprehensive-wealth-management6",
+            "path": "/comprehensive-wealth-management6"
+          },
+          {
+            "text": "Financial Planning",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/financial-planning8",
+            "path": "/financial-planning8"
+          },
+          {
+            "text": "Portfolio Management and Investment Brokerage",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/portfolio-management-and-investment-brokerage3",
+            "path": "/portfolio-management-and-investment-brokerage3"
+          },
+          {
+            "text": "Life, Health, Long Term Care & Disability Insurance",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/life-health-long-term-care-disability-insurance4",
+            "path": "/life-health-long-term-care-disability-insurance4"
+          },
+          {
+            "text": "Tax Preparation and Tax Planning",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/tax-preparation-and-tax-planning5",
+            "path": "/tax-preparation-and-tax-planning5"
+          },
+          {
+            "text": "Westco Financial Group Contact Info",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://westcofinancialgroup-31030752.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Retirement Analysis",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/retirement-analysis10",
+            "path": "/retirement-analysis10"
+          },
+          {
+            "text": "Videos",
+            "href": "https://westcofinancialgroup-31030752.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://westcofinancialgroup-31030752.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Articles",
+        "href": "https://westcofinancialgroup-31030752.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Ocean Financial FCU",
+        "href": "https://www.oceanfinancial.org/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/Our-Team.1.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Affiliated Advisors and Strategic Alliances",
+            "brHref": "/Our-Affiliated-Advisors-and-Strategic-Alliances.2.htm",
+            "migratedText": "Our Affiliated Advisors and Strategic Alliances",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/our-affiliated-advisors-and-strategic-alliances2",
+            "migratedPath": "/our-affiliated-advisors-and-strategic-alliances2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Offices",
+            "brHref": "/Our-Offices.7.htm",
+            "migratedText": "Our Offices",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/our-offices7",
+            "migratedPath": "/our-offices7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Comprehensive Wealth Management",
+            "brHref": "/Comprehensive-Wealth-Management.6.htm",
+            "migratedText": "Comprehensive Wealth Management",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/comprehensive-wealth-management6",
+            "migratedPath": "/comprehensive-wealth-management6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Financial Planning",
+            "brHref": "/Financial-Planning.8.htm",
+            "migratedText": "Financial Planning",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/financial-planning8",
+            "migratedPath": "/financial-planning8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Portfolio Management and Investment Brokerage",
+            "brHref": "/Portfolio-Management-and-Investment-Brokerage.3.htm",
+            "migratedText": "Portfolio Management and Investment Brokerage",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/portfolio-management-and-investment-brokerage3",
+            "migratedPath": "/portfolio-management-and-investment-brokerage3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life, Health, Long Term Care &amp; Disability Insurance",
+            "brHref": "/Life,-Health,-Long-Term-Care-and-Disability-Insurance.4.htm",
+            "migratedText": "Life, Health, Long Term Care & Disability Insurance",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/life-health-long-term-care-disability-insurance4",
+            "migratedPath": "/life-health-long-term-care-disability-insurance4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Preparation and Tax Planning",
+            "brHref": "/Tax-Preparation-and-Tax-Planning.5.htm",
+            "migratedText": "Tax Preparation and Tax Planning",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/tax-preparation-and-tax-planning5",
+            "migratedPath": "/tax-preparation-and-tax-planning5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Westco Financial Group Contact Info",
+            "brHref": "/location.htm",
+            "migratedText": "Westco Financial Group Contact Info",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Analysis",
+            "brHref": "/Risk-Analysis.10.htm",
+            "migratedText": "Retirement Analysis",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/retirement-analysis10",
+            "migratedPath": "/retirement-analysis10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Articles",
+        "brHref": "/Articles.11.htm",
+        "migratedText": "Articles",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Ocean Financial FCU",
+        "brHref": "/https://www.oceanfinancial.org/",
+        "migratedText": "Ocean Financial FCU",
+        "migratedHref": "https://www.oceanfinancial.org/",
+        "migratedPath": "/"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 22,
+      "totalMigratedItems": 22,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 20,
+      "totalBrItems": 22
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/Our-Team.1.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Affiliated Advisors and Strategic Alliances",
+            "brHref": "/Our-Affiliated-Advisors-and-Strategic-Alliances.2.htm",
+            "migratedText": "Our Affiliated Advisors and Strategic Alliances",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/our-affiliated-advisors-and-strategic-alliances2",
+            "migratedPath": "/our-affiliated-advisors-and-strategic-alliances2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Offices",
+            "brHref": "/Our-Offices.7.htm",
+            "migratedText": "Our Offices",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/our-offices7",
+            "migratedPath": "/our-offices7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Comprehensive Wealth Management",
+            "brHref": "/Comprehensive-Wealth-Management.6.htm",
+            "migratedText": "Comprehensive Wealth Management",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/comprehensive-wealth-management6",
+            "migratedPath": "/comprehensive-wealth-management6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Financial Planning",
+            "brHref": "/Financial-Planning.8.htm",
+            "migratedText": "Financial Planning",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/financial-planning8",
+            "migratedPath": "/financial-planning8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Portfolio Management and Investment Brokerage",
+            "brHref": "/Portfolio-Management-and-Investment-Brokerage.3.htm",
+            "migratedText": "Portfolio Management and Investment Brokerage",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/portfolio-management-and-investment-brokerage3",
+            "migratedPath": "/portfolio-management-and-investment-brokerage3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life, Health, Long Term Care & Disability Insurance",
+            "brHref": "/Life,-Health,-Long-Term-Care-and-Disability-Insurance.4.htm",
+            "migratedText": "Life, Health, Long Term Care & Disability Insurance",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/life-health-long-term-care-disability-insurance4",
+            "migratedPath": "/life-health-long-term-care-disability-insurance4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Preparation and Tax Planning",
+            "brHref": "/Tax-Preparation-and-Tax-Planning.5.htm",
+            "migratedText": "Tax Preparation and Tax Planning",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/tax-preparation-and-tax-planning5",
+            "migratedPath": "/tax-preparation-and-tax-planning5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Westco Financial Group Contact Info",
+            "brHref": "/location.htm",
+            "migratedText": "Westco Financial Group Contact Info",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Analysis",
+            "brHref": "/Risk-Analysis.10.htm",
+            "migratedText": "Retirement Analysis",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/retirement-analysis10",
+            "migratedPath": "/retirement-analysis10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Articles",
+        "brHref": "/Articles.11.htm",
+        "migratedText": "Articles",
+        "migratedHref": "https://westcofinancialgroup-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Ocean Financial FCU",
+        "brHref": "/",
+        "migratedText": "Ocean Financial FCU",
+        "migratedHref": "https://www.oceanfinancial.org/",
+        "migratedPath": "/"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 26,
+      "totalMigratedItems": 22,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 22
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Westco Financial Group",
+        "companyNames": [
+          "Westco Financial Group"
+        ],
+        "phoneNumbers": [
+          "5165935070",
+          "5165938152"
+        ],
+        "emailAddresses": [
+          "clientsvc@westcofinancialgroup.com"
+        ],
+        "physicalAddresses": [
+          "77 Hempstead Ave\nLynbrook, NY 11563"
+        ],
+        "personNames": [],
+        "footerText": "Securities offered through:Westco Advisory Services, Inc. - An SEC Registered Investment AdvisorWestco Investment Corp. - A Registered Broker/Dealer, Member FINRA, SIPC , MSRB Privacy Policy Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.westcofinancialgroup.com",
+        "companyNames": [
+          "Westco Financial Group"
+        ],
+        "phoneNumbers": [
+          "5165935070",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "clientsvc@westcofinancialgroup.com"
+        ],
+        "physicalAddresses": [
+          "77 Hempstead Ave\n\n\n\n\nLynbrook\n\n"
+        ],
+        "personNames": [],
+        "footerText": "Securities offered through:Westco Advisory Services, Inc. - An SEC Registered Investment AdvisorWestco Investment Corp. - A Registered Broker/Dealer, Member FINRA, SIPC , MSRB Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(516) 593-5070, (516) 593-8152",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "77 Hempstead Ave\nLynbrook, NY 11563",
+          "migratedValue": "77 Hempstead Ave\n\n\n\n\nLynbrook\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

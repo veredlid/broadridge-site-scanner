@@ -1,0 +1,680 @@
+{
+  "site": {
+    "original": "www.thempmgroupllc.com",
+    "migrated": "https://thempmgroupllc-31030753.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.thempmgroupllc.com",
+    "migratedDomain": "https://thempmgroupllc-31030753.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:37:12.086Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Company",
+            "href": "/Our-Company.1.htm"
+          },
+          {
+            "title": "Products and Services",
+            "href": "/Products-and-Services.2.htm"
+          }
+        ]
+      },
+      {
+        "title": "Associates Login",
+        "href": "/Associates-Login.5.htm",
+        "children": []
+      },
+      {
+        "title": "UK Employees",
+        "href": "/#",
+        "children": [
+          {
+            "title": "UK Employee Voluntary Benefits",
+            "href": "/UK-Employee-Voluntary-Benefits.10.htm"
+          }
+        ]
+      },
+      {
+        "title": "Insurance Quotes",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Long-term Disability Insurance Quotes",
+            "href": "/Long-term-Disability-Insurance-Quotes.17.htm"
+          },
+          {
+            "title": "Long-term Care Insurance Quotes",
+            "href": "/Long-term-Care-Insurance-Quotes.18.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.thempmgroupllc.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.thempmgroupllc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Company",
+            "href": "https://www.thempmgroupllc.com/Our-Company.1.htm",
+            "path": "/Our-Company.1.htm"
+          },
+          {
+            "text": "Products and Services",
+            "href": "https://www.thempmgroupllc.com/Products-and-Services.2.htm",
+            "path": "/Products-and-Services.2.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Associates Login",
+        "href": "https://www.thempmgroupllc.com/Associates-Login.5.htm",
+        "path": "/Associates-Login.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "UK Employees",
+        "href": "https://www.thempmgroupllc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "UK Employee Voluntary Benefits",
+            "href": "https://www.thempmgroupllc.com/UK-Employee-Voluntary-Benefits.10.htm",
+            "path": "/UK-Employee-Voluntary-Benefits.10.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Insurance Quotes",
+        "href": "https://www.thempmgroupllc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Long-term Disability Insurance Quotes",
+            "href": "https://www.thempmgroupllc.com/Long-term-Disability-Insurance-Quotes.17.htm",
+            "path": "/Long-term-Disability-Insurance-Quotes.17.htm"
+          },
+          {
+            "text": "Long-term Care Insurance Quotes",
+            "href": "https://www.thempmgroupllc.com/Long-term-Care-Insurance-Quotes.18.htm",
+            "path": "/Long-term-Care-Insurance-Quotes.18.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.thempmgroupllc.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://www.thempmgroupllc.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.thempmgroupllc.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.thempmgroupllc.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.thempmgroupllc.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.thempmgroupllc.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.thempmgroupllc.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.thempmgroupllc.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://thempmgroupllc-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://thempmgroupllc-31030753.brprodaccount.com/our-company1",
+        "path": "/our-company1",
+        "subItems": [
+          {
+            "text": "Our Company",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/our-company1",
+            "path": "/our-company1"
+          },
+          {
+            "text": "Products and Services",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/products-and-services2",
+            "path": "/products-and-services2"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Associates Login",
+        "href": "https://thempmgroupllc-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "UK Employees",
+        "href": "https://thempmgroupllc-31030753.brprodaccount.com/uk-employee-voluntary-benefits10",
+        "path": "/uk-employee-voluntary-benefits10",
+        "subItems": [
+          {
+            "text": "UK Employee Voluntary Benefits",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/uk-employee-voluntary-benefits10",
+            "path": "/uk-employee-voluntary-benefits10"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Insurance Quotes",
+        "href": "https://thempmgroupllc-31030753.brprodaccount.com/longterm-disability-insurance-quotes17",
+        "path": "/longterm-disability-insurance-quotes17",
+        "subItems": [
+          {
+            "text": "Long-term Disability Insurance Quotes",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/longterm-disability-insurance-quotes17",
+            "path": "/longterm-disability-insurance-quotes17"
+          },
+          {
+            "text": "Long-term Care Insurance Quotes",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/longterm-care-insurance-quotes18",
+            "path": "/longterm-care-insurance-quotes18"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://thempmgroupllc-31030753.brprodaccount.com/videos",
+        "path": "/videos",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Articles",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://thempmgroupllc-31030753.brprodaccount.com/glossary",
+            "path": "/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://thempmgroupllc-31030753.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/our-company1",
+        "migratedPath": "/our-company1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-company1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Company",
+            "brHref": "/Our-Company.1.htm",
+            "migratedText": "Our Company",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/our-company1",
+            "migratedPath": "/our-company1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Products and Services",
+            "brHref": "/Products-and-Services.2.htm",
+            "migratedText": "Products and Services",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/products-and-services2",
+            "migratedPath": "/products-and-services2"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Associates Login",
+        "brHref": "/Associates-Login.5.htm",
+        "migratedText": "Associates Login",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "UK Employees",
+        "brHref": "/#",
+        "migratedText": "UK Employees",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/uk-employee-voluntary-benefits10",
+        "migratedPath": "/uk-employee-voluntary-benefits10",
+        "note": "\"UK Employees\" should be a dropdown (/#) but migrated links to /uk-employee-voluntary-benefits10",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "UK Employee Voluntary Benefits",
+            "brHref": "/UK-Employee-Voluntary-Benefits.10.htm",
+            "migratedText": "UK Employee Voluntary Benefits",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/uk-employee-voluntary-benefits10",
+            "migratedPath": "/uk-employee-voluntary-benefits10"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Insurance Quotes",
+        "brHref": "/#",
+        "migratedText": "Insurance Quotes",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/longterm-disability-insurance-quotes17",
+        "migratedPath": "/longterm-disability-insurance-quotes17",
+        "note": "\"Insurance Quotes\" should be a dropdown (/#) but migrated links to /longterm-disability-insurance-quotes17",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Long-term Disability Insurance Quotes",
+            "brHref": "/Long-term-Disability-Insurance-Quotes.17.htm",
+            "migratedText": "Long-term Disability Insurance Quotes",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/longterm-disability-insurance-quotes17",
+            "migratedPath": "/longterm-disability-insurance-quotes17"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Long-term Care Insurance Quotes",
+            "brHref": "/Long-term-Care-Insurance-Quotes.18.htm",
+            "migratedText": "Long-term Care Insurance Quotes",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/longterm-care-insurance-quotes18",
+            "migratedPath": "/longterm-care-insurance-quotes18"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /videos",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 17,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 4,
+      "structureChanges": 0,
+      "ok": 13,
+      "totalBrItems": 17
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/our-company1",
+        "migratedPath": "/our-company1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Company",
+            "brHref": "/Our-Company.1.htm",
+            "migratedText": "Our Company",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/our-company1",
+            "migratedPath": "/our-company1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Products and Services",
+            "brHref": "/Products-and-Services.2.htm",
+            "migratedText": "Products and Services",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/products-and-services2",
+            "migratedPath": "/products-and-services2"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Associates Login",
+        "brHref": "/Associates-Login.5.htm",
+        "migratedText": "Associates Login",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "UK Employees",
+        "brHref": "/",
+        "migratedText": "UK Employees",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/uk-employee-voluntary-benefits10",
+        "migratedPath": "/uk-employee-voluntary-benefits10",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "UK Employee Voluntary Benefits",
+            "brHref": "/UK-Employee-Voluntary-Benefits.10.htm",
+            "migratedText": "UK Employee Voluntary Benefits",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/uk-employee-voluntary-benefits10",
+            "migratedPath": "/uk-employee-voluntary-benefits10"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Insurance Quotes",
+        "brHref": "/",
+        "migratedText": "Insurance Quotes",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/longterm-disability-insurance-quotes17",
+        "migratedPath": "/longterm-disability-insurance-quotes17",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Long-term Disability Insurance Quotes",
+            "brHref": "/Long-term-Disability-Insurance-Quotes.17.htm",
+            "migratedText": "Long-term Disability Insurance Quotes",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/longterm-disability-insurance-quotes17",
+            "migratedPath": "/longterm-disability-insurance-quotes17"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Long-term Care Insurance Quotes",
+            "brHref": "/Long-term-Care-Insurance-Quotes.18.htm",
+            "migratedText": "Long-term Care Insurance Quotes",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/longterm-care-insurance-quotes18",
+            "migratedPath": "/longterm-care-insurance-quotes18"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://thempmgroupllc-31030753.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 17,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 17
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "The MPM Group, LLC",
+        "companyNames": [
+          "The MPM Group, LLC"
+        ],
+        "phoneNumbers": [
+          "8592234973",
+          "8592241288"
+        ],
+        "emailAddresses": [
+          "info@thempmgroupllc.com"
+        ],
+        "physicalAddresses": [
+          "1010 Monarch Street, Suite "
+        ],
+        "personNames": [],
+        "footerText": "(function(){ window.Saber={ apiKey: \"3077df79d736d174bf75\", com:[],do:function(){this.com.push(arguments)} }; var e = document.createElement(\"script\"); e.setAttribute(\"type\", \"text/javascript\"); e.setAttribute(\"src\", \"https://widget.saberfeedback.com/v2/widget.js\"); document.getElementsByTagName(\"head\")[0].appendChild(e); })(); Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.thempmgroupllc.com",
+        "companyNames": [
+          "The MPM Group, LLC"
+        ],
+        "phoneNumbers": [
+          "8592234973",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "info@thempmgroupllc.com"
+        ],
+        "physicalAddresses": [
+          "1010 Monarch Street, Suite "
+        ],
+        "personNames": [],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(859) 223-4973, (859) 224-1288",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

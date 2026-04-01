@@ -1,0 +1,668 @@
+{
+  "site": {
+    "original": "www.bensonfinancialservices.com",
+    "migrated": "https://bensonfinancialservices-31030805.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.bensonfinancialservices.com",
+    "migratedDomain": "https://bensonfinancialservices-31030805.brprodaccount.com/",
+    "capturedAt": "2026-04-01T07:59:04.789Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Locations",
+            "href": "/affiliated-offices.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Contact Us",
+            "href": "/location.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.bensonfinancialservices.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Our Locations",
+            "href": "https://www.bensonfinancialservices.com/affiliated-offices.htm",
+            "path": "/affiliated-offices.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.bensonfinancialservices.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.bensonfinancialservices.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=49300",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://www.bensonfinancialservices.com/location.htm",
+            "path": "/location.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.bensonfinancialservices.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.bensonfinancialservices.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.bensonfinancialservices.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.bensonfinancialservices.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.bensonfinancialservices.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.bensonfinancialservices.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.bensonfinancialservices.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.bensonfinancialservices.com/form.cfm?ID=64&SSLID=49300",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.bensonfinancialservices.com/form.cfm?ID=65&SSLID=49300",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.bensonfinancialservices.com/form.cfm?ID=67&SSLID=49300",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.bensonfinancialservices.com/form.cfm?ID=68&SSLID=49300",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.bensonfinancialservices.com/form.cfm?ID=69&SSLID=49300",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.bensonfinancialservices.com/form.cfm?ID=70&SSLID=49300",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.bensonfinancialservices.com/form.cfm?ID=72&SSLID=49300",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.bensonfinancialservices.com/form.cfm?ID=73&SSLID=49300",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.bensonfinancialservices.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://bensonfinancialservices-31030805.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [
+          {
+            "text": "Our Locations",
+            "href": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://bensonfinancialservices-31030805.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://bensonfinancialservices-31030805.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://bensonfinancialservices-31030805.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://bensonfinancialservices-31030805.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://bensonfinancialservices-31030805.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://bensonfinancialservices-31030805.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://bensonfinancialservices-31030805.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://bensonfinancialservices-31030805.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://bensonfinancialservices-31030805.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /location",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Locations",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Our Locations",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "structure-change",
+            "brTitle": "Contact Us",
+            "brHref": "/location.htm",
+            "migratedText": "Contact Us",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+            "migratedPath": "/location",
+            "note": "\"Contact Us\" is a sub-item in the BR navigation JSON but top-level in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 14,
+      "totalMigratedItems": 13,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 1,
+      "ok": 11,
+      "totalBrItems": 14
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /location",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Locations",
+            "brHref": "/affiliated-offices.htm",
+            "migratedText": "Our Locations",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "structure-change",
+            "brTitle": "Contact Us",
+            "brHref": "/location.htm",
+            "migratedText": "Contact Us",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+            "migratedPath": "/location",
+            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/#",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 13,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 1,
+      "ok": 11
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Benson Financial Services, Consultants in Tax, Estate and Accounting Services.",
+        "companyNames": [
+          "Benson Financial Services",
+          "Benson Financial Services, Consultants in Tax, Estate and Accounting Services."
+        ],
+        "phoneNumbers": [
+          "(607) 432-3775"
+        ],
+        "emailAddresses": [
+          "don@donaldbensoncpa.com"
+        ],
+        "physicalAddresses": [
+          "28 Oneida Street\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tOneonta,\n\t\t\t\t\n\t\t\t\t\tNY \n\t\t\t\t\t13820"
+        ],
+        "personNames": [
+          "Home\n          \n          About",
+          "Us\n           \n            Our",
+          "Locations\n            Our",
+          "Associates\n            Our",
+          "Mission Statement",
+          "Tell A Friend",
+          "Us\n            \n           \n          \n          Resources",
+          "Articles\n            Calculators",
+          "Flipbooks\n            Newsletters",
+          "Glossary\n            Tax",
+          "Library\n            Videos",
+          "Request A Quote",
+          "Annuity \n            Long",
+          "Term Care",
+          "Insurance  \n            Group",
+          "Health \n            Life",
+          "Insurance  \n            Individual",
+          "Health \n            Disability",
+          "Income Insurance",
+          "Information Request",
+          "Benson Financial",
+          "Oneida Street",
+          "View Calculators",
+          "View Videos",
+          "Accounting Services",
+          "Socially Conscious",
+          "College Funding",
+          "Savvy Social",
+          "Security Planning",
+          "Wealth Accumulation",
+          "Highest Level",
+          "Customer Care",
+          "You Pay",
+          "Medicare Surcharge",
+          "Are Closing",
+          "Mutual Funds",
+          "Home Appliance",
+          "Economics \n\t\t\t\t\n\t\t\t\tThe",
+          "More Comfortable",
+          "Retirement \n\t\t\t\t\n\t\t\t\tOnly",
+          "More Newsletters",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Car",
+          "Affordability\n          \n        \n        How",
+          "Conversion\n          \n        \n        This",
+          "Loan Payoff",
+          "Retirement\n          \n        \n        Use",
+          "More Calculators",
+          "Investment Advisory",
+          "Asset Management",
+          "Site Map",
+          "To Top"
+        ],
+        "footerText": "Investment Advisory Services offered through PVG Asset Management Corporation. PVG Asset Management Corporation is separately owned and other entities and marketing names, products or services are independent of PVG Asset Management Corporation. PVG Asset Management Corporation and Benson Financial Services are not affiliated.\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSite Map\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBack To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.bensonfinancialservices.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Investment Advisory Services offered through PVG Asset Management Corporation. PVG Asset Management Corporation is separately owned and other entities and marketing names, products or services are independent of PVG Asset Management Corporation. PVG Asset Management Corporation and Benson Financial Services are not affiliated."
+      },
+      "mismatches": [
+        {
+          "field": "person-name",
+          "originalValue": "Home\n          \n          About, Us\n           \n            Our, Locations\n            Our, Associates\n            Our, Mission Statement, Tell A Friend, Us\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Benson Financial, Oneida Street, View Calculators, View Videos, Accounting Services, Socially Conscious, College Funding, Savvy Social, Security Planning, Wealth Accumulation, Highest Level, Customer Care, You Pay, Medicare Surcharge, Are Closing, Mutual Funds, Home Appliance, Economics \n\t\t\t\t\n\t\t\t\tThe, More Comfortable, Retirement \n\t\t\t\t\n\t\t\t\tOnly, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Car, Affordability\n          \n        \n        How, Conversion\n          \n        \n        This, Loan Payoff, Retirement\n          \n        \n        Use, More Calculators, Investment Advisory, Asset Management, Site Map, To Top",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

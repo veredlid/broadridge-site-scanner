@@ -1,0 +1,624 @@
+{
+  "site": {
+    "original": "www.prairiefs.com",
+    "migrated": "https://prairiefs-31030808.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.prairiefs.com",
+    "migratedDomain": "https://prairiefs-31030808.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:35:56.515Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Message from the President ",
+            "href": "/Message-from-the-President.1.htm"
+          },
+          {
+            "title": "What Is Prairie?",
+            "href": "/What-Is-Prairie.2.htm"
+          },
+          {
+            "title": "When Do You Need Us?",
+            "href": "/When-Do-You-Need-Us.3.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/Our-Team.9.htm"
+          },
+          {
+            "title": "Prairie's Services",
+            "href": "/Prairies-Services.5.htm"
+          },
+          {
+            "title": "Prairie’s Investment Approach",
+            "href": "/Prairies-Investment-Approach.15.htm"
+          },
+          {
+            "title": "How To Choose A Financial Advisor",
+            "href": "/How-To-Choose-A-Financial-Advisor.12.htm"
+          },
+          {
+            "title": "Check My Account",
+            "href": "/Check-My-Account.7.htm"
+          },
+          {
+            "title": "Where Is Prairie?",
+            "href": "/location.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.prairiefs.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Message from the President",
+        "href": "https://www.prairiefs.com/Message-from-the-President.1.htm",
+        "path": "/Message-from-the-President.1.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "What Is Prairie?",
+        "href": "https://www.prairiefs.com/What-Is-Prairie.2.htm",
+        "path": "/What-Is-Prairie.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "When Do You Need Us?",
+        "href": "https://www.prairiefs.com/When-Do-You-Need-Us.3.htm",
+        "path": "/When-Do-You-Need-Us.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Team",
+        "href": "https://www.prairiefs.com/Our-Team.9.htm",
+        "path": "/Our-Team.9.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Prairie's Services",
+        "href": "https://www.prairiefs.com/Prairies-Services.5.htm",
+        "path": "/Prairies-Services.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Prairie’s Investment Approach",
+        "href": "https://www.prairiefs.com/Prairies-Investment-Approach.15.htm",
+        "path": "/Prairies-Investment-Approach.15.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "How To Choose A Financial Advisor",
+        "href": "https://www.prairiefs.com/How-To-Choose-A-Financial-Advisor.12.htm",
+        "path": "/How-To-Choose-A-Financial-Advisor.12.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Check My Account",
+        "href": "https://www.prairiefs.com/Check-My-Account.7.htm",
+        "path": "/Check-My-Account.7.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Where Is Prairie?",
+        "href": "https://www.prairiefs.com/location.htm",
+        "path": "/location.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "New Client Profile",
+        "href": "https://www.emeraldsecure.com/form.cfm?SSLID=7904&Form_ID=100",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Tell A Friend",
+        "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=7904",
+        "path": "/tellafriend.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Learning Center",
+        "href": "https://www.prairiefs.com/learning_center.cfm",
+        "path": "/learning_center.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Articles",
+        "href": "https://www.prairiefs.com/research.cfm",
+        "path": "/research.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Calculators",
+        "href": "https://www.prairiefs.com/calculators.cfm",
+        "path": "/calculators.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Newsletters",
+        "href": "https://www.prairiefs.com/newsletters.cfm",
+        "path": "/newsletters.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Glossary",
+        "href": "https://www.prairiefs.com/glossary.cfm",
+        "path": "/glossary.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Tax Library",
+        "href": "https://www.prairiefs.com/tax_library.cfm",
+        "path": "/tax_library.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Videos",
+        "href": "https://www.prairiefs.com/videos.cfm",
+        "path": "/videos.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Flipbooks",
+        "href": "https://www.prairiefs.com/flipbooks.cfm",
+        "path": "/flipbooks.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.prairiefs.com/location.cfm",
+        "path": "/location.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://prairiefs-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://prairiefs-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://prairiefs-31030808.brprodaccount.com/message-from-the-president1",
+        "path": "/message-from-the-president1",
+        "subItems": [
+          {
+            "text": "Message from the President",
+            "href": "https://prairiefs-31030808.brprodaccount.com/message-from-the-president1",
+            "path": "/message-from-the-president1"
+          },
+          {
+            "text": "What Is Prairie?",
+            "href": "https://prairiefs-31030808.brprodaccount.com/what-is-prairie2",
+            "path": "/what-is-prairie2"
+          },
+          {
+            "text": "When Do You Need Us?",
+            "href": "https://prairiefs-31030808.brprodaccount.com/when-do-you-need-us3",
+            "path": "/when-do-you-need-us3"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://prairiefs-31030808.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Prairie's Services",
+            "href": "https://prairiefs-31030808.brprodaccount.com/prairies-services5",
+            "path": "/prairies-services5"
+          },
+          {
+            "text": "Prairie’s Investment Approach",
+            "href": "https://prairiefs-31030808.brprodaccount.com/prairies-investment-approach15",
+            "path": "/prairies-investment-approach15"
+          },
+          {
+            "text": "How To Choose A Financial Advisor",
+            "href": "https://prairiefs-31030808.brprodaccount.com/how-to-choose-a-financial-advisor12",
+            "path": "/how-to-choose-a-financial-advisor12"
+          },
+          {
+            "text": "Check My Account",
+            "href": "https://prairiefs-31030808.brprodaccount.com/check-my-account7",
+            "path": "/check-my-account7"
+          },
+          {
+            "text": "Where Is Prairie?",
+            "href": "https://prairiefs-31030808.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/message-from-the-president1",
+        "migratedPath": "/message-from-the-president1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /message-from-the-president1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Message from the President ",
+            "brHref": "/Message-from-the-President.1.htm",
+            "migratedText": "Message from the President",
+            "migratedHref": "https://prairiefs-31030808.brprodaccount.com/message-from-the-president1",
+            "migratedPath": "/message-from-the-president1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "What Is Prairie?",
+            "brHref": "/What-Is-Prairie.2.htm",
+            "migratedText": "What Is Prairie?",
+            "migratedHref": "https://prairiefs-31030808.brprodaccount.com/what-is-prairie2",
+            "migratedPath": "/what-is-prairie2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "When Do You Need Us?",
+            "brHref": "/When-Do-You-Need-Us.3.htm",
+            "migratedText": "When Do You Need Us?",
+            "migratedHref": "https://prairiefs-31030808.brprodaccount.com/when-do-you-need-us3",
+            "migratedPath": "/when-do-you-need-us3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/Our-Team.9.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://prairiefs-31030808.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Prairie's Services",
+            "brHref": "/Prairies-Services.5.htm",
+            "migratedText": "Prairie's Services",
+            "migratedHref": "https://prairiefs-31030808.brprodaccount.com/prairies-services5",
+            "migratedPath": "/prairies-services5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Prairie’s Investment Approach",
+            "brHref": "/Prairies-Investment-Approach.15.htm",
+            "migratedText": "Prairie’s Investment Approach",
+            "migratedHref": "https://prairiefs-31030808.brprodaccount.com/prairies-investment-approach15",
+            "migratedPath": "/prairies-investment-approach15"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "How To Choose A Financial Advisor",
+            "brHref": "/How-To-Choose-A-Financial-Advisor.12.htm",
+            "migratedText": "How To Choose A Financial Advisor",
+            "migratedHref": "https://prairiefs-31030808.brprodaccount.com/how-to-choose-a-financial-advisor12",
+            "migratedPath": "/how-to-choose-a-financial-advisor12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Check My Account",
+            "brHref": "/Check-My-Account.7.htm",
+            "migratedText": "Check My Account",
+            "migratedHref": "https://prairiefs-31030808.brprodaccount.com/check-my-account7",
+            "migratedPath": "/check-my-account7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Where Is Prairie?",
+            "brHref": "/location.htm",
+            "migratedText": "Where Is Prairie?",
+            "migratedHref": "https://prairiefs-31030808.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 11,
+      "totalMigratedItems": 12,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 10,
+      "totalBrItems": 11
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Message from the President",
+        "brHref": "/Message-from-the-President.1.htm",
+        "migratedText": "Message from the President",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/message-from-the-president1",
+        "migratedPath": "/message-from-the-president1",
+        "note": "\"Message from the President\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "What Is Prairie?",
+        "brHref": "/What-Is-Prairie.2.htm",
+        "migratedText": "What Is Prairie?",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/what-is-prairie2",
+        "migratedPath": "/what-is-prairie2",
+        "note": "\"What Is Prairie?\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "When Do You Need Us?",
+        "brHref": "/When-Do-You-Need-Us.3.htm",
+        "migratedText": "When Do You Need Us?",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/when-do-you-need-us3",
+        "migratedPath": "/when-do-you-need-us3",
+        "note": "\"When Do You Need Us?\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Team",
+        "brHref": "/Our-Team.9.htm",
+        "migratedText": "Our Team",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Prairie's Services",
+        "brHref": "/Prairies-Services.5.htm",
+        "migratedText": "Prairie's Services",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/prairies-services5",
+        "migratedPath": "/prairies-services5",
+        "note": "\"Prairie's Services\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Prairie’s Investment Approach",
+        "brHref": "/Prairies-Investment-Approach.15.htm",
+        "migratedText": "Prairie’s Investment Approach",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/prairies-investment-approach15",
+        "migratedPath": "/prairies-investment-approach15",
+        "note": "\"Prairie’s Investment Approach\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "How To Choose A Financial Advisor",
+        "brHref": "/How-To-Choose-A-Financial-Advisor.12.htm",
+        "migratedText": "How To Choose A Financial Advisor",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/how-to-choose-a-financial-advisor12",
+        "migratedPath": "/how-to-choose-a-financial-advisor12",
+        "note": "\"How To Choose A Financial Advisor\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Check My Account",
+        "brHref": "/Check-My-Account.7.htm",
+        "migratedText": "Check My Account",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/check-my-account7",
+        "migratedPath": "/check-my-account7",
+        "note": "\"Check My Account\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Where Is Prairie?",
+        "brHref": "/location.htm",
+        "migratedText": "Where Is Prairie?",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Where Is Prairie?\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "New Client Profile",
+        "brHref": "/form.cfm",
+        "note": "\"New Client Profile\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Tell A Friend",
+        "brHref": "/tellafriend.cfm",
+        "note": "\"Tell A Friend\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Learning Center",
+        "brHref": "/learning_center.cfm",
+        "note": "\"Learning Center\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Articles",
+        "brHref": "/research.cfm",
+        "note": "\"Articles\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Calculators",
+        "brHref": "/calculators.cfm",
+        "note": "\"Calculators\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Newsletters",
+        "brHref": "/newsletters.cfm",
+        "note": "\"Newsletters\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Glossary",
+        "brHref": "/glossary.cfm",
+        "note": "\"Glossary\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Tax Library",
+        "brHref": "/tax_library.cfm",
+        "note": "\"Tax Library\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Videos",
+        "brHref": "/videos.cfm",
+        "note": "\"Videos\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Flipbooks",
+        "brHref": "/flipbooks.cfm",
+        "note": "\"Flipbooks\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/location.cfm",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Us",
+        "migratedHref": "https://prairiefs-31030808.brprodaccount.com/message-from-the-president1",
+        "migratedPath": "/message-from-the-president1",
+        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 21,
+      "totalMigratedItems": 12,
+      "missing": 11,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 9,
+      "ok": 1
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Prairie Investment Advisors LLC",
+        "companyNames": [
+          "Prairie Investment Advisors LLC"
+        ],
+        "phoneNumbers": [
+          "6307788785",
+          "6307789854"
+        ],
+        "emailAddresses": [
+          "info@prairiefs.com"
+        ],
+        "physicalAddresses": [
+          "1813 North Mill Street, Suite "
+        ],
+        "personNames": [
+          "Sharon A. Adelmann",
+          "Prairie Investment Advisors"
+        ],
+        "footerText": "Financial Planning and Advisory Servicesoffered throughPrairie Investment Advisors LLC - A Registered Investment AdvisorFee-only Financial Planning and Investment Advice Privacy Policy"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.prairiefs.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "6307788785",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "info@prairiefs.com"
+        ],
+        "physicalAddresses": [
+          "1813 North Mill Street, Suite "
+        ],
+        "personNames": [
+          "Sharon A. Adelmann",
+          "Prairie Investment Advisors"
+        ],
+        "footerText": "Financial Planning and Advisory Servicesoffered throughPrairie Investment Advisors LLC - A Registered Investment AdvisorFee-only Financial Planning and Investment AdvicePrivacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(630) 778-8785, (630) 778-9854",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

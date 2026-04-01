@@ -1,0 +1,434 @@
+{
+  "site": {
+    "original": "www.tiffanyfking.com",
+    "migrated": "https://tiffanyfking-31030753.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.tiffanyfking.com",
+    "migratedDomain": "https://tiffanyfking-31030753.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:52:29.412Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Symphony Financial Team",
+            "href": "/http://www.symphonyfinancialteam.com/"
+          },
+          {
+            "title": "When Someone Dies",
+            "href": "/https://www.consumerreports.org/cro/magazine/2012/10/what-to-do-when-a-loved-one-dies/index.htm"
+          },
+          {
+            "title": "Florida Treasure Hunt - Found $",
+            "href": "/https://www.fltreasurehunt.gov/"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "AVMA LIFE",
+            "href": "/AVMA-LIFE.2.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.tiffanyfking.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.tiffanyfking.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Symphony Financial Team",
+            "href": "https://www.tiffanyfking.com/Symphony-Financial-Team.7.htm",
+            "path": "/Symphony-Financial-Team.7.htm"
+          },
+          {
+            "text": "When Someone Dies",
+            "href": "https://www.tiffanyfking.com/When-Someone-Dies.5.htm",
+            "path": "/When-Someone-Dies.5.htm"
+          },
+          {
+            "text": "Florida Treasure Hunt - Found $",
+            "href": "https://www.tiffanyfking.com/Florida-Treasure-Hunt---Found-.3.htm",
+            "path": "/Florida-Treasure-Hunt---Found-.3.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.tiffanyfking.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.tiffanyfking.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "AVMA LIFE",
+            "href": "https://www.tiffanyfking.com/AVMA-LIFE.2.htm",
+            "path": "/AVMA-LIFE.2.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=47951",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.tiffanyfking.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.tiffanyfking.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.tiffanyfking.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.tiffanyfking.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.tiffanyfking.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.tiffanyfking.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.tiffanyfking.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.tiffanyfking.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.tiffanyfking.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://tiffanyfking-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://tiffanyfking-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://tiffanyfking-31030753.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Symphony Financial Team",
+            "href": "https://tiffanyfking-31030753.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "When Someone Dies",
+            "href": "https://www.consumerreports.org/cro/magazine/2012/10/what-to-do-when-a-loved-one-dies/index.htm",
+            "path": "/cro/magazine/2012/10/what-to-do-when-a-loved-one-dies/index.htm"
+          },
+          {
+            "text": "Florida Treasure Hunt - Found $",
+            "href": "https://www.fltreasurehunt.gov/",
+            "path": "/"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://tiffanyfking-31030753.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "AVMA LIFE",
+            "href": "https://tiffanyfking-31030753.brprodaccount.com/avma-life2",
+            "path": "/avma-life2"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Symphony Financial Team",
+            "brHref": "/http://www.symphonyfinancialteam.com/",
+            "migratedText": "Symphony Financial Team",
+            "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "When Someone Dies",
+            "brHref": "/https://www.consumerreports.org/cro/magazine/2012/10/what-to-do-when-a-loved-one-dies/index.htm",
+            "migratedText": "When Someone Dies",
+            "migratedHref": "https://www.consumerreports.org/cro/magazine/2012/10/what-to-do-when-a-loved-one-dies/index.htm",
+            "migratedPath": "/cro/magazine/2012/10/what-to-do-when-a-loved-one-dies/index.htm"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Florida Treasure Hunt - Found $",
+            "brHref": "/https://www.fltreasurehunt.gov/",
+            "migratedText": "Florida Treasure Hunt - Found $",
+            "migratedHref": "https://www.fltreasurehunt.gov/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "note": "Sub-item \"Our Associates\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "AVMA LIFE",
+            "brHref": "/AVMA-LIFE.2.htm",
+            "migratedText": "AVMA LIFE",
+            "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/avma-life2",
+            "migratedPath": "/avma-life2"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 8,
+      "totalMigratedItems": 8,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 6,
+      "totalBrItems": 8
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Symphony Financial Team",
+            "brHref": "/Symphony-Financial-Team.7.htm",
+            "migratedText": "Symphony Financial Team",
+            "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "When Someone Dies",
+            "brHref": "/When-Someone-Dies.5.htm",
+            "migratedText": "When Someone Dies",
+            "migratedHref": "https://www.consumerreports.org/cro/magazine/2012/10/what-to-do-when-a-loved-one-dies/index.htm",
+            "migratedPath": "/cro/magazine/2012/10/what-to-do-when-a-loved-one-dies/index.htm"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Florida Treasure Hunt - Found $",
+            "brHref": "/Florida-Treasure-Hunt---Found-.3.htm",
+            "migratedText": "Florida Treasure Hunt - Found $",
+            "migratedHref": "https://www.fltreasurehunt.gov/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "note": "Sub-item \"Our Associates\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "AVMA LIFE",
+            "brHref": "/AVMA-LIFE.2.htm",
+            "migratedText": "AVMA LIFE",
+            "migratedHref": "https://tiffanyfking-31030753.brprodaccount.com/avma-life2",
+            "migratedPath": "/avma-life2"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 8,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 7
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "King & Associates | Insurance & Investments",
+        "companyNames": [
+          "King & Associates",
+          "Insurance & Investments"
+        ],
+        "phoneNumbers": [
+          "4077925576",
+          "4075952288",
+          "4073863013"
+        ],
+        "emailAddresses": [
+          "tk@kinginsinv.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Links are being provided for information purposes only. King & Associates | Insurance & Investments does not endorse, authorize or sponsor any of the listed websites. nor are we responsible for the content of any website or the collection or use of information regarding any website's users and/or members. King & Associates |Insurance & Investments and Symphony Financial Team are independent entities. Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.tiffanyfking.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "4077925576",
+          "4075952288",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "tk@kinginsinv.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Links are being provided for information purposes only. King & Associates | Insurance & Investments does not endorse, authorize or sponsor any of the listed websites. nor are we responsible for the content of any website or the collection or use of information regarding any website's users and/or members. King & Associates |Insurance & Investments and Symphony Financial Team are independent entities."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(407) 792-5576, (407) 595-2288, (407) 386-3013",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

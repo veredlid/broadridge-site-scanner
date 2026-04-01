@@ -1,0 +1,705 @@
+{
+  "site": {
+    "original": "www.foundationfinancialconcepts.com",
+    "migrated": "https://foundationfinancialconcepts-31030802.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.foundationfinancialconcepts.com",
+    "migratedDomain": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:38:29.352Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": [
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Alternative Investments",
+        "href": "/Alternative-Investments.6.htm",
+        "children": []
+      },
+      {
+        "title": "1031 Exchange",
+        "href": "/1031-Exchange.9.htm",
+        "children": []
+      },
+      {
+        "title": "Qualified Opportunity Zones",
+        "href": "/Qualified-Opportunity-Zones.11.htm",
+        "children": []
+      },
+      {
+        "title": "Radio Show",
+        "href": "/:void(0);",
+        "children": [
+          {
+            "title": "Radio Shows – WTAD 930 AM",
+            "href": "/Radio-Shows--WTAD-930-AM.10.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.foundationfinancialconcepts.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Home",
+            "href": "https://www.foundationfinancialconcepts.com/",
+            "path": "/"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.foundationfinancialconcepts.com/team.htm",
+            "path": "/team.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.foundationfinancialconcepts.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Contact Us",
+            "href": "https://www.foundationfinancialconcepts.com/contact_us/",
+            "path": "/contact_us"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.foundationfinancialconcepts.com/tellafriend.cfm?SSLID=106395",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Alternative Investments",
+        "href": "https://www.foundationfinancialconcepts.com/Alternative-Investments.6.htm",
+        "path": "/Alternative-Investments.6.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "1031 Exchange",
+        "href": "https://www.foundationfinancialconcepts.com/1031-Exchange.9.htm",
+        "path": "/1031-Exchange.9.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Qualified Opportunity Zones",
+        "href": "https://www.foundationfinancialconcepts.com/Qualified-Opportunity-Zones.11.htm",
+        "path": "/Qualified-Opportunity-Zones.11.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Radio Show",
+        "href": "https://www.foundationfinancialconcepts.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Radio Show",
+            "href": "https://www.foundationfinancialconcepts.com/:void(0);",
+            "path": "/:void(0);"
+          },
+          {
+            "text": "Radio Shows – WTAD 930 AM",
+            "href": "https://www.foundationfinancialconcepts.com/Radio-Shows--WTAD-930-AM.10.htm",
+            "path": "/Radio-Shows--WTAD-930-AM.10.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.foundationfinancialconcepts.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.foundationfinancialconcepts.com/form.cfm?ID=64&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.foundationfinancialconcepts.com/form.cfm?ID=65&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.foundationfinancialconcepts.com/form.cfm?ID=68&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.foundationfinancialconcepts.com/form.cfm?ID=70&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.foundationfinancialconcepts.com/form.cfm?ID=72&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.foundationfinancialconcepts.com/form.cfm?ID=73&SSLID=*",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.foundationfinancialconcepts.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.foundationfinancialconcepts.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.foundationfinancialconcepts.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.foundationfinancialconcepts.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.foundationfinancialconcepts.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.foundationfinancialconcepts.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.foundationfinancialconcepts.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.foundationfinancialconcepts.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Associates",
+            "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/our-team",
+            "path": "/our-team"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Alternative Investments",
+        "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "1031 Exchange",
+        "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/1031-exchange9",
+        "path": "/1031-exchange9",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Qualified Opportunity Zones",
+        "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/qualified-opportunity-zones11",
+        "path": "/qualified-opportunity-zones11",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Radio Show",
+        "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Radio Shows – WTAD 930 AM",
+            "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/radio-show-wtad-930-am10",
+            "path": "/radio-show-wtad-930-am10"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://foundationfinancialconcepts-31030802.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Alternative Investments",
+        "brHref": "/Alternative-Investments.6.htm",
+        "migratedText": "Alternative Investments",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "1031 Exchange",
+        "brHref": "/1031-Exchange.9.htm",
+        "migratedText": "1031 Exchange",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/1031-exchange9",
+        "migratedPath": "/1031-exchange9"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Qualified Opportunity Zones",
+        "brHref": "/Qualified-Opportunity-Zones.11.htm",
+        "migratedText": "Qualified Opportunity Zones",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/qualified-opportunity-zones11",
+        "migratedPath": "/qualified-opportunity-zones11"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Radio Show",
+        "brHref": "/:void(0);",
+        "migratedText": "Radio Show",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Radio Shows – WTAD 930 AM",
+            "brHref": "/Radio-Shows--WTAD-930-AM.10.htm",
+            "migratedText": "Radio Shows – WTAD 930 AM",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/radio-show-wtad-930-am10",
+            "migratedPath": "/radio-show-wtad-930-am10"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 15,
+      "totalMigratedItems": 15,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 14,
+      "totalBrItems": 15
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Home",
+            "brHref": "/",
+            "migratedText": "Home",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Home\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Contact Us",
+            "brHref": "/contact_us",
+            "migratedText": "Contact Us",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/location",
+            "migratedPath": "/location",
+            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"Contact Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Alternative Investments",
+        "brHref": "/Alternative-Investments.6.htm",
+        "migratedText": "Alternative Investments",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "1031 Exchange",
+        "brHref": "/1031-Exchange.9.htm",
+        "migratedText": "1031 Exchange",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/1031-exchange9",
+        "migratedPath": "/1031-exchange9"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Qualified Opportunity Zones",
+        "brHref": "/Qualified-Opportunity-Zones.11.htm",
+        "migratedText": "Qualified Opportunity Zones",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/qualified-opportunity-zones11",
+        "migratedPath": "/qualified-opportunity-zones11"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Radio Show",
+        "brHref": "/",
+        "migratedText": "Radio Show",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Radio Show",
+            "brHref": "/:void(0);",
+            "migratedText": "Radio Show",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Radio Show\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Radio Shows – WTAD 930 AM",
+            "brHref": "/Radio-Shows--WTAD-930-AM.10.htm",
+            "migratedText": "Radio Shows – WTAD 930 AM",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/radio-show-wtad-930-am10",
+            "migratedPath": "/radio-show-wtad-930-am10"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://foundationfinancialconcepts-31030802.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 27,
+      "totalMigratedItems": 15,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 3,
+      "ok": 15
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Foundation Financial Concepts, LLC",
+        "companyNames": [
+          "Investment Advice You Can Build On",
+          "Foundation Financial Concepts, LLC"
+        ],
+        "phoneNumbers": [
+          "2172149000",
+          "2709848322"
+        ],
+        "emailAddresses": [
+          "info@foundationfinancialconcepts.com",
+          "ofcmgr@foundationfinancialconcepts.com"
+        ],
+        "physicalAddresses": [
+          "2240 Broadway Street                                      The Press Business "
+        ],
+        "personNames": [],
+        "footerText": "Quincy Office Hopkinsville Office info@foundationfinancialconcepts.com 2240 Broadway Street The Press Business Center Quincy , IL 62301 1618 East 9th Steet, Suite 202 Hopkinsville , KY 44240 Phone: 217-214-9000 Phone: 270-984-8322 Map and Directions Map and Directions This site is for informational purposes only and does not constitute individual investment advice. Securities are offered through Great Point Capital, LLC (GPC), member FINRA/SIPC. Advisory services are offered through Great Point Advisors, LLC (GPA), an SEC-registered investment adviser. Insurance products are offered through Foundation Financial Concepts. Foundation Financial Concepts is independent of Great Point Capital, LLC (GPC) and Great Point Advisors, LLC (GPA), all of whom are unaffiliated with third-party sites, cannot verify the accuracy of, nor assume responsibility for any content of linked third-party sites. Information available on third-party sites is for informational purposes only. Material shared on th"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.foundationfinancialconcepts.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "2172149000",
+          "2709848322"
+        ],
+        "emailAddresses": [
+          "info@foundationfinancialconcepts.com",
+          "ofcmgr@foundationfinancialconcepts.com"
+        ],
+        "physicalAddresses": [
+          "2240 Broadway Street                                      The Press Business "
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Quincy Office Hopkinsville Office info@foundationfinancialconcepts.com 2240 Broadway Street The Press Business Center Quincy , IL 62301 1618 East 9th Steet, Suite 202 Hopkinsville , KY 44240 Phone: 217-214-9000 Phone: 270-984-8322 Map and Directions Map and Directions This site is for informational purposes only and does not constitute individual investment advice. Securities are offered through Great Point Capital, LLC (GPC), member FINRA/SIPC. Advisory services are offered through Great Point Advisors, LLC (GPA), an SEC-registered investment adviser. Insurance products are offered through Foundation Financial Concepts. Foundation Financial Concepts is independent of Great Point Capital, LLC (GPC) and Great Point Advisors, LLC (GPA), all of whom are unaffiliated with third-party sites, cannot verify the accuracy of, nor assume responsibility for any content of linked third-party sites. Information available on third-party sites is for informational purposes only. Material shared on th"
+      },
+      "mismatches": []
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "site": {
+    "original": "www.ruddwisdomfinancial.com",
+    "migrated": "https://ruddwisdomfinancial-31030755.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.ruddwisdomfinancial.com",
+    "migratedDomain": "https://ruddwisdomfinancial-31030755.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:50:13.767Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/https://www.ruddwisdom.com"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Professional Staff",
+            "href": "/Professional-Staff.6.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Client Login",
+            "href": "/https://ruddwisdom.sharefile.com"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.ruddwisdomfinancial.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.ruddwisdomfinancial.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.ruddwisdomfinancial.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.ruddwisdomfinancial.com/Our-Firm.9.htm",
+            "path": "/Our-Firm.9.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.ruddwisdomfinancial.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Professional Staff",
+            "href": "https://www.ruddwisdomfinancial.com/Professional-Staff.6.htm",
+            "path": "/Professional-Staff.6.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.ruddwisdomfinancial.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Client Login",
+            "href": "https://www.ruddwisdomfinancial.com/Client-Login.10.htm",
+            "path": "/Client-Login.10.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.ruddwisdomfinancial.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.ruddwisdomfinancial.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.ruddwisdomfinancial.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.ruddwisdomfinancial.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.ruddwisdomfinancial.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.ruddwisdomfinancial.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.ruddwisdomfinancial.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.ruddwisdomfinancial.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.ruddwisdomfinancial.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://ruddwisdomfinancial-31030755.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://ruddwisdomfinancial-31030755.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://ruddwisdomfinancial-31030755.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://ruddwisdomfinancial-31030755.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.ruddwisdom.com/",
+            "path": "/"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://ruddwisdomfinancial-31030755.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Professional Staff",
+            "href": "https://ruddwisdomfinancial-31030755.brprodaccount.com/custom-section-66",
+            "path": "/custom-section-66"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://ruddwisdomfinancial-31030755.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Client Login",
+            "href": "https://ruddwisdom.sharefile.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/https://www.ruddwisdom.com",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://www.ruddwisdom.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Professional Staff",
+            "brHref": "/Professional-Staff.6.htm",
+            "migratedText": "Professional Staff",
+            "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Client Login",
+            "brHref": "/https://ruddwisdom.sharefile.com",
+            "migratedText": "Client Login",
+            "migratedHref": "https://ruddwisdom.sharefile.com/",
+            "migratedPath": "/"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 8,
+      "totalMigratedItems": 9,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 7,
+      "totalBrItems": 8
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.9.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://www.ruddwisdom.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Professional Staff",
+            "brHref": "/Professional-Staff.6.htm",
+            "migratedText": "Professional Staff",
+            "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://ruddwisdomfinancial-31030755.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Client Login",
+            "brHref": "/Client-Login.10.htm",
+            "migratedText": "Client Login",
+            "migratedHref": "https://ruddwisdom.sharefile.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 9,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 8
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Rudd and Wisdom, Inc. | Financial Services",
+        "companyNames": [
+          "Rudd and Wisdom, Inc.",
+          "Financial Services"
+        ],
+        "phoneNumbers": [
+          "5123461590",
+          "5123457437"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [
+          "9500 Aboretum Blvd Ste 200\nAustin, TX 78759"
+        ],
+        "personNames": [],
+        "footerText": "Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.ruddwisdomfinancial.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "5123461590",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "info@ruddwisdomfinancial.com"
+        ],
+        "physicalAddresses": [
+          "9500 Aboretum Blvd Ste 200\n\n\n\n\nAustin\n\n"
+        ],
+        "personNames": [],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(512) 346-1590, (512) 345-7437",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "9500 Aboretum Blvd Ste 200\nAustin, TX 78759",
+          "migratedValue": "9500 Aboretum Blvd Ste 200\n\n\n\n\nAustin\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

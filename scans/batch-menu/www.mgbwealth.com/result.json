@@ -1,0 +1,798 @@
+{
+  "site": {
+    "original": "www.mgbwealth.com",
+    "migrated": "https://mgbwealth-31030808.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.mgbwealth.com",
+    "migratedDomain": "https://mgbwealth-31030808.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:36:57.842Z",
+    "brNavItems": [
+      {
+        "title": "HOME",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "FUNDAMENTALS",
+        "href": "/Fundamentals.11.htm",
+        "children": [
+          {
+            "title": "Wealth Management Approach",
+            "href": "/Plan---Grow---Prosper.1.htm"
+          },
+          {
+            "title": "Advantages of Our Process",
+            "href": "/Why-Choose-MGB-Wealth-Management,-LLC.4.htm"
+          },
+          {
+            "title": "Services and Products",
+            "href": "/Services-and-Products.2.htm"
+          }
+        ]
+      },
+      {
+        "title": "ABOUT US",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Michael G Bailey, Founder and Managing Director",
+            "href": "/Our-Qualifications.3.htm"
+          }
+        ]
+      },
+      {
+        "title": "RESOURCES",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "CLIENT LINKS",
+        "href": "/Resources.5.htm",
+        "children": []
+      },
+      {
+        "title": "CONTACT US",
+        "href": "/contact_us/",
+        "children": [
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          }
+        ]
+      },
+      {
+        "title": "Custom Section 1",
+        "href": "/Wealth-Management-Approach.1.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 3",
+        "href": "/Michael-G-Bailey,-Founder-and-Managing-Director.3.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 4",
+        "href": "/Advantages-of-Our-Process.4.htm",
+        "children": []
+      },
+      {
+        "title": "Custom Section 12",
+        "href": "/Team.12.htm",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "HOME",
+        "href": "https://www.mgbwealth.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "FUNDAMENTALS",
+        "href": "https://www.mgbwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "FUNDAMENTALS",
+            "href": "https://www.mgbwealth.com/Fundamentals.11.htm",
+            "path": "/Fundamentals.11.htm"
+          },
+          {
+            "text": "Wealth Management Approach",
+            "href": "https://www.mgbwealth.com/Plan---Grow---Prosper.1.htm",
+            "path": "/Plan---Grow---Prosper.1.htm"
+          },
+          {
+            "text": "Advantages of Our Process",
+            "href": "https://www.mgbwealth.com/Why-Choose-MGB-Wealth-Management,-LLC.4.htm",
+            "path": "/Why-Choose-MGB-Wealth-Management,-LLC.4.htm"
+          },
+          {
+            "text": "Services and Products",
+            "href": "https://www.mgbwealth.com/Services-and-Products.2.htm",
+            "path": "/Services-and-Products.2.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "ABOUT US",
+        "href": "https://www.mgbwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Michael G Bailey, Founder and Managing Director",
+            "href": "https://www.mgbwealth.com/#",
+            "path": "/"
+          },
+          {
+            "text": "Michael G Bailey, Founder and Managing Director",
+            "href": "https://www.mgbwealth.com/Our-Qualifications.3.htm",
+            "path": "/Our-Qualifications.3.htm"
+          },
+          {
+            "text": "Who we are",
+            "href": "https://www.mgbwealth.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Team",
+            "href": "https://www.mgbwealth.com/Team.12.htm",
+            "path": "/Team.12.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "RESOURCES",
+        "href": "https://www.mgbwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.mgbwealth.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.mgbwealth.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.mgbwealth.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.mgbwealth.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.mgbwealth.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.mgbwealth.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.mgbwealth.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "CLIENT LINKS",
+        "href": "https://www.mgbwealth.com/Resources.5.htm",
+        "path": "/Resources.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "MARKET WATCH",
+        "href": "https://www.mgbwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Market Commentary",
+            "href": "https://www.mgbwealth.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "CONTACT US",
+        "href": "https://www.mgbwealth.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "CONTACT US",
+            "href": "https://www.mgbwealth.com/contact_us/",
+            "path": "/contact_us"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.mgbwealth.com/tellafriend.cfm?SSLID=22323",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.mgbwealth.com/location.htm",
+            "path": "/location.htm"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "HOME",
+        "href": "https://mgbwealth-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "FUNDAMENTALS",
+        "href": "https://mgbwealth-31030808.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Wealth Management Approach",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/custom-section-11",
+            "path": "/custom-section-11"
+          },
+          {
+            "text": "Advantages of Our Process",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/custom-section-44",
+            "path": "/custom-section-44"
+          },
+          {
+            "text": "Services and Products",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/custom-section-22",
+            "path": "/custom-section-22"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "ABOUT US",
+        "href": "https://mgbwealth-31030808.brprodaccount.com/custom-section-33",
+        "path": "/custom-section-33",
+        "subItems": [
+          {
+            "text": "Michael G Bailey, Founder and Managing Director",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/custom-section-33",
+            "path": "/custom-section-33"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "RESOURCES",
+        "href": "https://mgbwealth-31030808.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "CLIENT LINKS",
+        "href": "https://mgbwealth-31030808.brprodaccount.com/client-links5",
+        "path": "/client-links5",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "CONTACT US",
+        "href": "https://mgbwealth-31030808.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [
+          {
+            "text": "Our Location",
+            "href": "https://mgbwealth-31030808.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "HOME",
+        "brHref": "/./",
+        "migratedText": "HOME",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "FUNDAMENTALS",
+        "brHref": "/Fundamentals.11.htm",
+        "migratedText": "FUNDAMENTALS",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Wealth Management Approach",
+            "brHref": "/Plan---Grow---Prosper.1.htm",
+            "migratedText": "Wealth Management Approach",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-11",
+            "migratedPath": "/custom-section-11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Advantages of Our Process",
+            "brHref": "/Why-Choose-MGB-Wealth-Management,-LLC.4.htm",
+            "migratedText": "Advantages of Our Process",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-44",
+            "migratedPath": "/custom-section-44"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services and Products",
+            "brHref": "/Services-and-Products.2.htm",
+            "migratedText": "Services and Products",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-22",
+            "migratedPath": "/custom-section-22"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "ABOUT US",
+        "brHref": "/#",
+        "migratedText": "ABOUT US",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33",
+        "note": "\"ABOUT US\" should be a dropdown (/#) but migrated links to /custom-section-33",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Michael G Bailey, Founder and Managing Director",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Michael G Bailey, Founder and Managing Director",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-33",
+            "migratedPath": "/custom-section-33"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "RESOURCES",
+        "brHref": "/#",
+        "migratedText": "RESOURCES",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"RESOURCES\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "CLIENT LINKS",
+        "brHref": "/Resources.5.htm",
+        "migratedText": "CLIENT LINKS",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/client-links5",
+        "migratedPath": "/client-links5"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "CONTACT US",
+        "brHref": "/contact_us/",
+        "migratedText": "CONTACT US",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Custom Section 1",
+        "brHref": "/Wealth-Management-Approach.1.htm",
+        "migratedText": "Wealth Management Approach",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-11",
+        "migratedPath": "/custom-section-11",
+        "note": "\"Custom Section 1\" is top-level in the BR navigation JSON but nested under \"FUNDAMENTALS\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Custom Section 3",
+        "brHref": "/Michael-G-Bailey,-Founder-and-Managing-Director.3.htm",
+        "migratedText": "Michael G Bailey, Founder and Managing Director",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33",
+        "note": "\"Custom Section 3\" is top-level in the BR navigation JSON but nested under \"ABOUT US\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Custom Section 4",
+        "brHref": "/Advantages-of-Our-Process.4.htm",
+        "migratedText": "Advantages of Our Process",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-44",
+        "migratedPath": "/custom-section-44",
+        "note": "\"Custom Section 4\" is top-level in the BR navigation JSON but nested under \"FUNDAMENTALS\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Custom Section 12",
+        "brHref": "/Team.12.htm",
+        "note": "\"Custom Section 12\" is in the BR navigation JSON but not found in the migrated site menu"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 21,
+      "totalMigratedItems": 17,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 3,
+      "ok": 15,
+      "totalBrItems": 21
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "HOME",
+        "brHref": "/",
+        "migratedText": "HOME",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "FUNDAMENTALS",
+        "brHref": "/",
+        "migratedText": "FUNDAMENTALS",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "FUNDAMENTALS",
+            "brHref": "/Fundamentals.11.htm",
+            "migratedText": "FUNDAMENTALS",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"FUNDAMENTALS\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Wealth Management Approach",
+            "brHref": "/Plan---Grow---Prosper.1.htm",
+            "migratedText": "Wealth Management Approach",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-11",
+            "migratedPath": "/custom-section-11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Advantages of Our Process",
+            "brHref": "/Why-Choose-MGB-Wealth-Management,-LLC.4.htm",
+            "migratedText": "Advantages of Our Process",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-44",
+            "migratedPath": "/custom-section-44"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services and Products",
+            "brHref": "/Services-and-Products.2.htm",
+            "migratedText": "Services and Products",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-22",
+            "migratedPath": "/custom-section-22"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "ABOUT US",
+        "brHref": "/",
+        "migratedText": "ABOUT US",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Michael G Bailey, Founder and Managing Director",
+            "brHref": "/",
+            "migratedText": "Michael G Bailey, Founder and Managing Director",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-33",
+            "migratedPath": "/custom-section-33"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Michael G Bailey, Founder and Managing Director",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Michael G Bailey, Founder and Managing Director",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/custom-section-33",
+            "migratedPath": "/custom-section-33"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Who we are",
+            "brHref": "/team.htm",
+            "note": "Sub-item \"Who we are\" under \"ABOUT US\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Team",
+            "brHref": "/Team.12.htm",
+            "note": "Sub-item \"Team\" under \"ABOUT US\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "RESOURCES",
+        "brHref": "/",
+        "migratedText": "RESOURCES",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"RESOURCES\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "CLIENT LINKS",
+        "brHref": "/Resources.5.htm",
+        "migratedText": "CLIENT LINKS",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/client-links5",
+        "migratedPath": "/client-links5"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "MARKET WATCH",
+        "brHref": "/",
+        "note": "\"MARKET WATCH\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "CONTACT US",
+        "brHref": "/",
+        "migratedText": "CONTACT US",
+        "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "CONTACT US",
+            "brHref": "/contact_us",
+            "migratedText": "CONTACT US",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/location",
+            "migratedPath": "/location",
+            "note": "\"CONTACT US\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"CONTACT US\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://mgbwealth-31030808.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 26,
+      "totalMigratedItems": 17,
+      "missing": 5,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 2,
+      "ok": 18
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "MGB Wealth Management, LLC",
+        "companyNames": [
+          "MGB Wealth Management, LLC"
+        ],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "This website (www.mgbwealth.com) (this “Website”) is owned and operated by MGB Wealth Management, LLC (“MGB”). MGB offers investment advisory services and is registered with the U.S. Securities and Exchange Commission (“SEC”). SEC registration does not constitute an endorsement of the advisory firm by the SEC nor does it indicate that the advisory firm has attained a particular level of skill or ability. All content available on this Website is general in nature, not directed or tailored to any particular person, and is for informational purposes only. Neither the Website nor any of its content is offered as investment advice and should not be deemed as investment advice or a recommendation to purchase or sell any specific security. The information contained herein reflects the opinions and projections of MGB as of the date hereof, which are subject to change without notice at any time. MGB does not represent that any opinion or projection will be realized. Neither MGB nor any of its a"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.mgbwealth.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "8003447437",
+          "7475987"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Securities and investment advisory services are offered solely through Registered Representatives and Investment Adviser Representatives of Equity Services, Inc. Member FINRA/SIPC, One National Life Drive, Montpelier, Vermont 05604, 1-800-344-7437. Creative Financial Professionals and all other entities referenced are not affiliated with Equity Services, Inc., unless otherwise noted. Neil Resnik is a Registered Representative and Investment Adviser Representative of Equity Services, Inc. and offers securities in Texas. Neil is also licensed to offer life insurance and annuities in Texas. This site is not a solicitation of interest in any of these products in any other state. TC7475987(1224)3"
+      },
+      "mismatches": []
+    }
+  }
+}

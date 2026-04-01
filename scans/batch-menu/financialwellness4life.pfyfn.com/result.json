@@ -1,0 +1,185 @@
+{
+  "site": {
+    "original": "financialwellness4life.pfyfn.com",
+    "migrated": "https://financialwellness4lifepfyfn-31030809.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "financialwellness4life.pfyfn.com",
+    "migratedDomain": "https://financialwellness4lifepfyfn-31030809.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:37:23.985Z",
+    "brNavItems": [
+      {
+        "title": "Your Profile",
+        "href": "/http://financialwellness4life.com",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/resources.cfm",
+        "children": []
+      },
+      {
+        "title": "Contact Us",
+        "href": "/http://financialwellness4life.com/#contact-form",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Your Profile",
+        "href": "http://financialwellness4life.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://financialwellness4life.pfyfn.com/resources.cfm",
+        "path": "/resources.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "http://financialwellness4life.com/#contact-form",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Your Profile",
+        "href": "http://financialwellness4life.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://financialwellness4lifepfyfn-31030809.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://financialwellness4lifepfyfn-31030809.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Your Profile",
+        "brHref": "/http://financialwellness4life.com",
+        "migratedText": "Your Profile",
+        "migratedHref": "http://financialwellness4life.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/resources.cfm",
+        "migratedText": "Resources",
+        "migratedHref": "https://financialwellness4lifepfyfn-31030809.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/http://financialwellness4life.com/#contact-form",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://financialwellness4lifepfyfn-31030809.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 3,
+      "totalMigratedItems": 3,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 3,
+      "totalBrItems": 3
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Your Profile",
+        "brHref": "/",
+        "migratedText": "Your Profile",
+        "migratedHref": "http://financialwellness4life.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/resources.cfm",
+        "migratedText": "Resources",
+        "migratedHref": "https://financialwellness4lifepfyfn-31030809.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://financialwellness4lifepfyfn-31030809.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 3,
+      "totalMigratedItems": 3,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 3
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Copyright 2014 Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | financialwellness4life.pfyfn.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "education@financialwellness4life.com"
+        ],
+        "physicalAddresses": [
+          "735 Plaza Blvd Suite 100\n\n\n\n\nCoppell\n\n"
+        ],
+        "personNames": [],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(none found)",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

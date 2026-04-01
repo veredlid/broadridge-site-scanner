@@ -1,0 +1,656 @@
+{
+  "site": {
+    "original": "www.harvestfg.com",
+    "migrated": "https://harvestfg-31030801.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.harvestfg.com",
+    "migratedDomain": "https://harvestfg-31030801.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:11:23.710Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "What We Do",
+            "href": "/What-We-Do.1.htm"
+          },
+          {
+            "title": "Investment Process",
+            "href": "/Investment-Process.2.htm"
+          },
+          {
+            "title": "Investment Methodology",
+            "href": "/Investment-Methodology.5.htm"
+          },
+          {
+            "title": "Meet the Advisors",
+            "href": "/Meet-the-Advisors.3.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.harvestfg.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "What We Do",
+            "href": "https://www.harvestfg.com/What-We-Do.1.htm",
+            "path": "/What-We-Do.1.htm"
+          },
+          {
+            "text": "Investment Process",
+            "href": "https://www.harvestfg.com/Investment-Process.2.htm",
+            "path": "/Investment-Process.2.htm"
+          },
+          {
+            "text": "Investment Methodology",
+            "href": "https://www.harvestfg.com/Investment-Methodology.5.htm",
+            "path": "/Investment-Methodology.5.htm"
+          },
+          {
+            "text": "Meet the Advisors",
+            "href": "https://www.harvestfg.com/Meet-the-Advisors.3.htm",
+            "path": "/Meet-the-Advisors.3.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.harvestfg.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=20985",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.harvestfg.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.harvestfg.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.harvestfg.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.harvestfg.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.harvestfg.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.harvestfg.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.harvestfg.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Information Request",
+            "href": "https://www.harvestfg.com/form.cfm?ID=73&SSLID=20985",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.harvestfg.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://harvestfg-31030801.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://harvestfg-31030801.brprodaccount.com/what-we-do1",
+        "path": "/what-we-do1",
+        "subItems": [
+          {
+            "text": "What We Do",
+            "href": "https://harvestfg-31030801.brprodaccount.com/what-we-do1",
+            "path": "/what-we-do1"
+          },
+          {
+            "text": "Investment Process",
+            "href": "https://harvestfg-31030801.brprodaccount.com/investment-process2",
+            "path": "/investment-process2"
+          },
+          {
+            "text": "Investment Methodology",
+            "href": "https://harvestfg-31030801.brprodaccount.com/investment-methodology5",
+            "path": "/investment-methodology5"
+          },
+          {
+            "text": "Meet the Advisors",
+            "href": "https://harvestfg-31030801.brprodaccount.com/meet-the-advisors3",
+            "path": "/meet-the-advisors3"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://harvestfg-31030801.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://harvestfg-31030801.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://harvestfg-31030801.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://harvestfg-31030801.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://harvestfg-31030801.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://harvestfg-31030801.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://harvestfg-31030801.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://harvestfg-31030801.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://harvestfg-31030801.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://harvestfg-31030801.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://harvestfg-31030801.brprodaccount.com/what-we-do1",
+        "migratedPath": "/what-we-do1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /what-we-do1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "What We Do",
+            "brHref": "/What-We-Do.1.htm",
+            "migratedText": "What We Do",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/what-we-do1",
+            "migratedPath": "/what-we-do1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investment Process",
+            "brHref": "/Investment-Process.2.htm",
+            "migratedText": "Investment Process",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/investment-process2",
+            "migratedPath": "/investment-process2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investment Methodology",
+            "brHref": "/Investment-Methodology.5.htm",
+            "migratedText": "Investment Methodology",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/investment-methodology5",
+            "migratedPath": "/investment-methodology5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Meet the Advisors",
+            "brHref": "/Meet-the-Advisors.3.htm",
+            "migratedText": "Meet the Advisors",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/meet-the-advisors3",
+            "migratedPath": "/meet-the-advisors3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://harvestfg-31030801.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://harvestfg-31030801.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 15,
+      "totalMigratedItems": 15,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 13,
+      "totalBrItems": 15
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://harvestfg-31030801.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://harvestfg-31030801.brprodaccount.com/what-we-do1",
+        "migratedPath": "/what-we-do1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /what-we-do1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "What We Do",
+            "brHref": "/What-We-Do.1.htm",
+            "migratedText": "What We Do",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/what-we-do1",
+            "migratedPath": "/what-we-do1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investment Process",
+            "brHref": "/Investment-Process.2.htm",
+            "migratedText": "Investment Process",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/investment-process2",
+            "migratedPath": "/investment-process2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investment Methodology",
+            "brHref": "/Investment-Methodology.5.htm",
+            "migratedText": "Investment Methodology",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/investment-methodology5",
+            "migratedPath": "/investment-methodology5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Meet the Advisors",
+            "brHref": "/Meet-the-Advisors.3.htm",
+            "migratedText": "Meet the Advisors",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/meet-the-advisors3",
+            "migratedPath": "/meet-the-advisors3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://harvestfg-31030801.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://harvestfg-31030801.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/#",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://harvestfg-31030801.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 19,
+      "totalMigratedItems": 15,
+      "missing": 3,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 13
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Harvest Financial Group",
+        "companyNames": [
+          "Harvest Financial Group"
+        ],
+        "phoneNumbers": [
+          "(804) 788-4100",
+          "(804) 740-0257"
+        ],
+        "emailAddresses": [
+          "info@harvestfg.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Westerre Parkway",
+          "Google Maps",
+          "Home\n          \n          About",
+          "Us\n           \n            What",
+          "Do\n            Investment",
+          "Process\n            Investment",
+          "Methodology\n            Meet",
+          "Advisors\n            Our",
+          "Location\n            Tell",
+          "Friend\n            \n           \n          \n          Resources",
+          "Articles\n            Calculators",
+          "Flipbooks\n            Newsletters",
+          "Glossary\n            Tax",
+          "Library\n            Videos",
+          "Request A Quote",
+          "Information Request",
+          "Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFuture",
+          "Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity",
+          "Simple Philosophy",
+          "At Harvest",
+          "Investment Methodology",
+          "Unbiased Investment",
+          "Harvest Financial",
+          "Many Investment",
+          "Learning Center",
+          "Articles\n                Educate",
+          "Newsletters\n                Timely",
+          "Flipbooks\n                \n                  These",
+          "Glossary\n                  \n                  Financial",
+          "Tax Library",
+          "Site Map"
+        ],
+        "footerText": "Harvest Financial Group, LLC (Harvest Financial), is an independent, fee-only, registered investment advisory firm, (RIA), located in Richmond, VA. The firm is also a registered investment advisory firm in the state of California.  The presence of this website on the Internet shall not be directly or indirectly interpreted as a solicitation of investment advisory services to persons of another jurisdiction unless otherwise permitted by statute. Follow-up or individualized responses to consumers "
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.harvestfg.com",
+        "companyNames": [
+          "Creative Financial\nProfessionals"
+        ],
+        "phoneNumbers": [
+          "8047884100",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "info@harvestfg.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Harvest Financial Group, LLC (Harvest Financial), is an independent, fee-only, registered investment advisory firm, (RIA), located in Richmond, VA. The firm is also a registered investment advisory firm in the state of California. The presence of this website on the Internet shall not be directly or indirectly interpreted as a solicitation of investment advisory services to persons of another jurisdiction unless otherwise permitted by statute. Follow-up or individualized responses to consumers in a particular state by our firm in the rendering of personalized investment advice for compensation shall not be made without our first complying with jurisdiction requirements or pursuant to applicable state exemption. For information concerning the status or disciplinary history of a broker-dealer, investment adviser, or their representatives, a consumer should contact their state securities administrator."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(804) 788-4100, (804) 740-0257",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "company-name",
+          "originalValue": "Harvest Financial Group",
+          "migratedValue": "Creative Financial\nProfessionals",
+          "severity": "warning",
+          "note": "Company name \"Creative Financial\nProfessionals\" on migrated site may not match original"
+        }
+      ]
+    }
+  }
+}

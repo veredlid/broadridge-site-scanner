@@ -1,0 +1,608 @@
+{
+  "site": {
+    "original": "www.ascendwealthmh.com",
+    "migrated": "https://ascendwealthmh-31030806.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.ascendwealthmh.com",
+    "migratedDomain": "https://ascendwealthmh-31030806.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:37:48.257Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          }
+        ]
+      },
+      {
+        "title": "What to Expect?",
+        "href": "/What.6.htm",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          }
+        ]
+      },
+      {
+        "title": "Contact",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Client Portal",
+        "href": "/https://www.cirstatements.com/",
+        "children": []
+      },
+      {
+        "title": "Our Vision ",
+        "href": "/What-to-Expect.6.htm",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.ascendwealthmh.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://www.ascendwealthmh.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission",
+            "href": "https://www.ascendwealthmh.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.ascendwealthmh.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://www.ascendwealthmh.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.ascendwealthmh.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "What to Expect?",
+        "href": "https://www.ascendwealthmh.com/What.6.htm",
+        "path": "/What.6.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.ascendwealthmh.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.ascendwealthmh.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.ascendwealthmh.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.ascendwealthmh.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.ascendwealthmh.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.ascendwealthmh.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.ascendwealthmh.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact",
+        "href": "https://www.ascendwealthmh.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Client Portal",
+        "href": "https://www.ascendwealthmh.com/Client-Portal.8.htm",
+        "path": "/Client-Portal.8.htm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://ascendwealthmh-31030806.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://ascendwealthmh-31030806.brprodaccount.com/our-mission1",
+        "path": "/our-mission1",
+        "subItems": [
+          {
+            "text": "Our Mission",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/our-mission1",
+            "path": "/our-mission1"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "What to Expect?",
+        "href": "https://ascendwealthmh-31030806.brprodaccount.com/our-vision6",
+        "path": "/our-vision6",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://ascendwealthmh-31030806.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Videos",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://ascendwealthmh-31030806.brprodaccount.com/glossary",
+            "path": "/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact",
+        "href": "https://ascendwealthmh-31030806.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Client Portal",
+        "href": "https://www.cirstatements.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About",
+        "brHref": "/#",
+        "migratedText": "About",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-mission1",
+        "migratedPath": "/our-mission1",
+        "note": "\"About\" should be a dropdown (/#) but migrated links to /our-mission1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-mission1",
+            "migratedPath": "/our-mission1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "What to Expect?",
+        "brHref": "/What.6.htm",
+        "migratedText": "What to Expect?",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-vision6",
+        "migratedPath": "/our-vision6"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Client Portal",
+        "brHref": "/https://www.cirstatements.com/",
+        "migratedText": "Client Portal",
+        "migratedHref": "https://www.cirstatements.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Vision ",
+        "brHref": "/What-to-Expect.6.htm",
+        "note": "\"Our Vision \" is in the BR navigation JSON but not found in the migrated site menu"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 16,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 14,
+      "totalBrItems": 17
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About",
+        "brHref": "/",
+        "migratedText": "About",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-mission1",
+        "migratedPath": "/our-mission1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-mission1",
+            "migratedPath": "/our-mission1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "What to Expect?",
+        "brHref": "/What.6.htm",
+        "migratedText": "What to Expect?",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/our-vision6",
+        "migratedPath": "/our-vision6"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact",
+        "brHref": "/contact_us",
+        "migratedText": "Contact",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Client Portal",
+        "brHref": "/Client-Portal.8.htm",
+        "migratedText": "Client Portal",
+        "migratedHref": "https://www.cirstatements.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://ascendwealthmh-31030806.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 16,
+      "totalMigratedItems": 16,
+      "missing": 1,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 15
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Registered Representative Securities offered through Cambridge Investment Research, Inc., a broker-dealer, member FINRA/SIPC. Investment Advisor Representative Cambridge Investment Research Advisors, Inc.,a Registered Investment Advisor. Cambridge and Ascend Wealth Management are not affiliated.Privacy Policy #footerContainer {background-color:#506357; } Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.ascendwealthmh.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Registered Representative Securities offered through Cambridge Investment Research, Inc., a broker-dealer, member FINRA/SIPC. Investment Advisor Representative Cambridge Investment Research Advisors, Inc.,a Registered Investment Advisor. Cambridge and Ascend Wealth Management are not affiliated.Privacy Policy"
+      },
+      "mismatches": []
+    }
+  }
+}

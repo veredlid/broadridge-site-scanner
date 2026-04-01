@@ -1,0 +1,618 @@
+{
+  "site": {
+    "original": "sytc-mass.pfyfn.com",
+    "migrated": "https://sytc-masspfyfn-31030809.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "sytc-mass.pfyfn.com",
+    "migratedDomain": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:38:28.985Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/http://www.gofso.com/sytc%2Dmas"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Firm Profile",
+            "href": "/http://www.gofso.com/sytc%2Dmas/"
+          },
+          {
+            "title": "Client Services",
+            "href": "/http://www.gofso.com/sytc%2Dmas/"
+          },
+          {
+            "title": "Firm Notes",
+            "href": "/http://www.gofso.com/sytc%2Dmas/"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://sytc-mass.pfyfn.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Firm",
+        "href": "https://sytc-mass.pfyfn.com/Our-Firm.1.htm",
+        "path": "/Our-Firm.1.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Location",
+        "href": "https://sytc-mass.pfyfn.com/location.htm",
+        "path": "/location.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Firm Profile",
+        "href": "https://sytc-mass.pfyfn.com/Firm-Profile.2.htm",
+        "path": "/Firm-Profile.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Client Services",
+        "href": "https://sytc-mass.pfyfn.com/Client-Services.3.htm",
+        "path": "/Client-Services.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Firm Notes",
+        "href": "https://sytc-mass.pfyfn.com/Firm-Notes.4.htm",
+        "path": "/Firm-Notes.4.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Featured Links",
+        "href": "https://sytc-mass.pfyfn.com/featured_links.htm",
+        "path": "/featured_links.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Tell A Friend",
+        "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=7096",
+        "path": "/tellafriend.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Learning Center",
+        "href": "https://sytc-mass.pfyfn.com/learning_center.cfm",
+        "path": "/learning_center.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Articles",
+        "href": "https://sytc-mass.pfyfn.com/research.cfm",
+        "path": "/research.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Calculators",
+        "href": "https://sytc-mass.pfyfn.com/calculators.cfm",
+        "path": "/calculators.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Newsletters",
+        "href": "https://sytc-mass.pfyfn.com/newsletters.cfm",
+        "path": "/newsletters.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Glossary",
+        "href": "https://sytc-mass.pfyfn.com/glossary.cfm",
+        "path": "/glossary.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Tax Library",
+        "href": "https://sytc-mass.pfyfn.com/tax_library.cfm",
+        "path": "/tax_library.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Videos",
+        "href": "https://sytc-mass.pfyfn.com/videos.cfm",
+        "path": "/videos.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Flipbooks",
+        "href": "https://sytc-mass.pfyfn.com/flipbooks.cfm",
+        "path": "/flipbooks.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://sytc-mass.pfyfn.com/request_quote.cfm",
+        "path": "/request_quote.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Annuity",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=7096&SN=2647866212",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Long-Term Care Insurance",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=7096&SN=2647866212",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Group Health",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=7096&SN=2647866212",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Life Insurance",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=7096&SN=2647866212",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Individual Health",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=7096&SN=2647866212",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Disability Income Insurance",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=7096&SN=2647866212",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Mortgage Qualification",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=71&SSLID=7096&SN=2647866212",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "401(k) Information Request",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=7096&SN=2647866212",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Information Request",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=7096&SN=2647866212",
+        "path": "/form.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://sytc-mass.pfyfn.com/location.cfm",
+        "path": "/location.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "http://www.gofso.com/sytc%2Dmas",
+        "path": "/sytc%2Dmas",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "http://www.gofso.com/sytc%2Dmas",
+            "path": "/sytc%2Dmas"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://sytc-masspfyfn-31030809.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Firm Profile",
+            "href": "http://www.gofso.com/sytc%2Dmas/",
+            "path": "/sytc%2Dmas"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://sytc-masspfyfn-31030809.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "http://www.gofso.com/sytc%2Dmas",
+        "migratedPath": "/sytc%2Dmas",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /sytc%2Dmas",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/http://www.gofso.com/sytc%2Dmas",
+            "migratedText": "Our Firm",
+            "migratedHref": "http://www.gofso.com/sytc%2Dmas",
+            "migratedPath": "/sytc%2Dmas"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://sytc-masspfyfn-31030809.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Firm Profile",
+            "brHref": "/http://www.gofso.com/sytc%2Dmas/",
+            "migratedText": "Firm Profile",
+            "migratedHref": "http://www.gofso.com/sytc%2Dmas/",
+            "migratedPath": "/sytc%2Dmas"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Client Services",
+            "brHref": "/http://www.gofso.com/sytc%2Dmas/",
+            "note": "Sub-item \"Client Services\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Firm Notes",
+            "brHref": "/http://www.gofso.com/sytc%2Dmas/",
+            "note": "Sub-item \"Firm Notes\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://sytc-masspfyfn-31030809.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 8,
+      "totalMigratedItems": 7,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 5,
+      "totalBrItems": 8
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Firm",
+        "brHref": "/Our-Firm.1.htm",
+        "migratedText": "Our Firm",
+        "migratedHref": "http://www.gofso.com/sytc%2Dmas",
+        "migratedPath": "/sytc%2Dmas",
+        "note": "\"Our Firm\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Location",
+        "brHref": "/location.htm",
+        "migratedText": "Our Location",
+        "migratedHref": "https://sytc-masspfyfn-31030809.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Our Location\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Firm Profile",
+        "brHref": "/Firm-Profile.2.htm",
+        "migratedText": "Firm Profile",
+        "migratedHref": "http://www.gofso.com/sytc%2Dmas/",
+        "migratedPath": "/sytc%2Dmas",
+        "note": "\"Firm Profile\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Client Services",
+        "brHref": "/Client-Services.3.htm",
+        "note": "\"Client Services\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Firm Notes",
+        "brHref": "/Firm-Notes.4.htm",
+        "note": "\"Firm Notes\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Featured Links",
+        "brHref": "/featured_links.htm",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://sytc-masspfyfn-31030809.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Tell A Friend",
+        "brHref": "/tellafriend.cfm",
+        "note": "\"Tell A Friend\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Learning Center",
+        "brHref": "/learning_center.cfm",
+        "note": "\"Learning Center\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Articles",
+        "brHref": "/research.cfm",
+        "note": "\"Articles\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Calculators",
+        "brHref": "/calculators.cfm",
+        "note": "\"Calculators\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Newsletters",
+        "brHref": "/newsletters.cfm",
+        "note": "\"Newsletters\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Glossary",
+        "brHref": "/glossary.cfm",
+        "note": "\"Glossary\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Tax Library",
+        "brHref": "/tax_library.cfm",
+        "note": "\"Tax Library\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Videos",
+        "brHref": "/videos.cfm",
+        "note": "\"Videos\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Flipbooks",
+        "brHref": "/flipbooks.cfm",
+        "note": "\"Flipbooks\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/request_quote.cfm",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Annuity",
+        "brHref": "/form.cfm",
+        "note": "\"Annuity\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Long-Term Care Insurance",
+        "brHref": "/form.cfm",
+        "note": "\"Long-Term Care Insurance\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Group Health",
+        "brHref": "/form.cfm",
+        "note": "\"Group Health\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Life Insurance",
+        "brHref": "/form.cfm",
+        "note": "\"Life Insurance\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Individual Health",
+        "brHref": "/form.cfm",
+        "note": "\"Individual Health\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Disability Income Insurance",
+        "brHref": "/form.cfm",
+        "note": "\"Disability Income Insurance\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Mortgage Qualification",
+        "brHref": "/form.cfm",
+        "note": "\"Mortgage Qualification\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "401(k) Information Request",
+        "brHref": "/form.cfm",
+        "note": "\"401(k) Information Request\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Information Request",
+        "brHref": "/form.cfm",
+        "note": "\"Information Request\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/location.cfm",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Us",
+        "migratedHref": "http://www.gofso.com/sytc%2Dmas",
+        "migratedPath": "/sytc%2Dmas",
+        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 27,
+      "totalMigratedItems": 7,
+      "missing": 22,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 4,
+      "ok": 1
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "SYTAC, YORK, TOWNE & CO., P.C.",
+        "companyNames": [
+          "SYTAC, YORK, TOWNE & CO., P.C."
+        ],
+        "phoneNumbers": [
+          "0237894",
+          "2539527681",
+          "2538381034"
+        ],
+        "emailAddresses": [
+          "questions@sytc-mas.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "The editorial content on this site is prepared for us by Emerald Publications, Inc., as a service to our subscribers. You should seek professional advice before implementing any of the information or strategies discussed herein, or products or services inherently found through vast research capabilities of site, which are offered by others, since: (1) The information and strategies are general in nature and will not apply to every situation; (2) Other opportunities may be better suited to your particular needs; and (3) The rules and regulations are constantly changing."
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | sytc-mass.pfyfn.com",
+        "companyNames": [
+          "SYTAC, YORK, TOWNE & CO., P.C."
+        ],
+        "phoneNumbers": [
+          "0237894",
+          "2539527681",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "questions@sytc-mas.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "The editorial content on this site is prepared for us by Emerald Publications, Inc., as a service to our subscribers. You should seek professional advice before implementing any of the information or strategies discussed herein, or products or services inherently found through vast research capabilities of site, which are offered by others, since: (1) The information and strategies are general in nature and will not apply to every situation; (2) Other opportunities may be better suited to your particular needs; and (3) The rules and regulations are constantly changing."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "0237894, (253) 952-7681, (253) 838-1034",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

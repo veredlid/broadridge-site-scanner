@@ -1,0 +1,701 @@
+{
+  "site": {
+    "original": "www.kaneinvestment.com",
+    "migrated": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5"
+  },
+  "result": {
+    "originalDomain": "www.kaneinvestment.com",
+    "migratedDomain": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5",
+    "capturedAt": "2026-04-01T08:35:24.690Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Account Management",
+            "href": "/Account-Management.7.htm"
+          },
+          {
+            "title": "Our Staff Qualifications",
+            "href": "/Our-Staff-Qualifications.4.htm"
+          },
+          {
+            "title": "Our Fee Schedule",
+            "href": "/Our-Fee-Schedule.5.htm"
+          },
+          {
+            "title": "Our Clients",
+            "href": "/Our-Clients.6.htm"
+          },
+          {
+            "title": "Form CRS",
+            "href": "/Form-CRS.10.htm"
+          },
+          {
+            "title": "Form ADV Part 2A",
+            "href": "/Form-ADV-Part-2A.11.htm"
+          },
+          {
+            "title": "Form ADV Part 2B",
+            "href": "/Form-ADV-Part-2B.12.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.kaneinvestment.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.kaneinvestment.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.kaneinvestment.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.kaneinvestment.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.kaneinvestment.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.kaneinvestment.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Account Management",
+            "href": "https://www.kaneinvestment.com/Account-Management.7.htm",
+            "path": "/Account-Management.7.htm"
+          },
+          {
+            "text": "Our Staff Qualifications",
+            "href": "https://www.kaneinvestment.com/Our-Staff-Qualifications.4.htm",
+            "path": "/Our-Staff-Qualifications.4.htm"
+          },
+          {
+            "text": "Our Fee Schedule",
+            "href": "https://www.kaneinvestment.com/Our-Fee-Schedule.5.htm",
+            "path": "/Our-Fee-Schedule.5.htm"
+          },
+          {
+            "text": "Our Clients",
+            "href": "https://www.kaneinvestment.com/Our-Clients.6.htm",
+            "path": "/Our-Clients.6.htm"
+          },
+          {
+            "text": "Form CRS",
+            "href": "https://www.kaneinvestment.com/Form-CRS.10.htm",
+            "path": "/Form-CRS.10.htm"
+          },
+          {
+            "text": "Form ADV Part 2A",
+            "href": "https://www.kaneinvestment.com/Form-ADV-Part-2A.11.htm",
+            "path": "/Form-ADV-Part-2A.11.htm"
+          },
+          {
+            "text": "Form ADV Part 2B",
+            "href": "https://www.kaneinvestment.com/Form-ADV-Part-2B.12.htm",
+            "path": "/Form-ADV-Part-2B.12.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.kaneinvestment.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.kaneinvestment.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.kaneinvestment.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.kaneinvestment.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.kaneinvestment.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.kaneinvestment.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Account Management",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/account-management7",
+            "path": "/account-management7"
+          },
+          {
+            "text": "Our Staff Qualifications",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Fee Schedule",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-fee-schedule5",
+            "path": "/our-fee-schedule5"
+          },
+          {
+            "text": "Our Clients",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-clients6",
+            "path": "/our-clients6"
+          },
+          {
+            "text": "Form CRS",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/form-crs10",
+            "path": "/form-crs10"
+          },
+          {
+            "text": "Form ADV Part 2A",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/form-adv-part-2a11",
+            "path": "/form-adv-part-2a11"
+          },
+          {
+            "text": "Form ADV Part 2B",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/form-adv-part-2b12",
+            "path": "/form-adv-part-2b12"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Account Management",
+            "brHref": "/Account-Management.7.htm",
+            "migratedText": "Account Management",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/account-management7",
+            "migratedPath": "/account-management7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Staff Qualifications",
+            "brHref": "/Our-Staff-Qualifications.4.htm",
+            "migratedText": "Our Staff Qualifications",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Fee Schedule",
+            "brHref": "/Our-Fee-Schedule.5.htm",
+            "migratedText": "Our Fee Schedule",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-fee-schedule5",
+            "migratedPath": "/our-fee-schedule5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Clients",
+            "brHref": "/Our-Clients.6.htm",
+            "migratedText": "Our Clients",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-clients6",
+            "migratedPath": "/our-clients6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Form CRS",
+            "brHref": "/Form-CRS.10.htm",
+            "migratedText": "Form CRS",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/form-crs10",
+            "migratedPath": "/form-crs10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Form ADV Part 2A",
+            "brHref": "/Form-ADV-Part-2A.11.htm",
+            "migratedText": "Form ADV Part 2A",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/form-adv-part-2a11",
+            "migratedPath": "/form-adv-part-2a11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Form ADV Part 2B",
+            "brHref": "/Form-ADV-Part-2B.12.htm",
+            "migratedText": "Form ADV Part 2B",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/form-adv-part-2b12",
+            "migratedPath": "/form-adv-part-2b12"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 19,
+      "totalMigratedItems": 19,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 17,
+      "totalBrItems": 19
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Account Management",
+            "brHref": "/Account-Management.7.htm",
+            "migratedText": "Account Management",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/account-management7",
+            "migratedPath": "/account-management7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Staff Qualifications",
+            "brHref": "/Our-Staff-Qualifications.4.htm",
+            "migratedText": "Our Staff Qualifications",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Fee Schedule",
+            "brHref": "/Our-Fee-Schedule.5.htm",
+            "migratedText": "Our Fee Schedule",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-fee-schedule5",
+            "migratedPath": "/our-fee-schedule5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Clients",
+            "brHref": "/Our-Clients.6.htm",
+            "migratedText": "Our Clients",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/our-clients6",
+            "migratedPath": "/our-clients6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Form CRS",
+            "brHref": "/Form-CRS.10.htm",
+            "migratedText": "Form CRS",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/form-crs10",
+            "migratedPath": "/form-crs10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Form ADV Part 2A",
+            "brHref": "/Form-ADV-Part-2A.11.htm",
+            "migratedText": "Form ADV Part 2A",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/form-adv-part-2a11",
+            "migratedPath": "/form-adv-part-2a11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Form ADV Part 2B",
+            "brHref": "/Form-ADV-Part-2B.12.htm",
+            "migratedText": "Form ADV Part 2B",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/form-adv-part-2b12",
+            "migratedPath": "/form-adv-part-2b12"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 19,
+      "totalMigratedItems": 19,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 19
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Kane Investment Management, Inc.",
+        "companyNames": [
+          "Kane Investment Management, Inc."
+        ],
+        "phoneNumbers": [
+          "4083585263",
+          "4083585260"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [
+          "15466 Los Gatos Blvd Suite 213\nLos Gatos, CA 95032",
+          "15466 Los Gatos Boulevard, Suite "
+        ],
+        "personNames": [],
+        "footerText": "Kane Investment Management, Inc.15466 Los Gatos Boulevard, Suite 213, Los Gatos, CA 95032(408) 358-KANE (5263) (800) 644-KANE (5263) Privacy Policy Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.kaneinvestment.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "4083585263",
+          "9723800097"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [
+          "15466 Los Gatos Blvd Suite 213\n\n\n\n\nLos Gatos\n\n",
+          "15466 Los Gatos Boulevard, Suite "
+        ],
+        "personNames": [],
+        "footerText": "Privacy PolicyKane Investment Management, Inc.15466 Los Gatos Boulevard, Suite 213, Los Gatos, CA 95032(408) 358-KANE (5263) (800) 644-KANE (5263)"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(408) 358-5263, (408) 358-5260",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "15466 Los Gatos Blvd Suite 213\nLos Gatos, CA 95032",
+          "migratedValue": "15466 Los Gatos Blvd Suite 213\n\n\n\n\nLos Gatos\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

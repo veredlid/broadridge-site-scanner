@@ -1,0 +1,555 @@
+{
+  "site": {
+    "original": "www.greykirwan.com",
+    "migrated": "https://greykirwan-31030801.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.greykirwan.com",
+    "migratedDomain": "https://greykirwan-31030801.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:43:51.923Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Why a CFP®?",
+            "href": "/https://www.emeraldhost.net/files/120655/2024%20What%20Is%20CFP%20Certification%20Bookletv2updated.pdf"
+          },
+          {
+            "title": "About Chloe",
+            "href": "/About-Chloe.6.htm"
+          }
+        ]
+      },
+      {
+        "title": "Our Services",
+        "href": "/Our-Services.3.htm",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.greykirwan.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.greykirwan.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.greykirwan.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Why a CFP®?",
+            "href": "https://www.greykirwan.com/Why-a-CFP.7.htm",
+            "path": "/Why-a-CFP.7.htm"
+          },
+          {
+            "text": "About Chloe",
+            "href": "https://www.greykirwan.com/About-Chloe.6.htm",
+            "path": "/About-Chloe.6.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.greykirwan.com/tellafriend.cfm?SSLID=120655",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Our Services",
+        "href": "https://www.greykirwan.com/Our-Services.3.htm",
+        "path": "/Our-Services.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.greykirwan.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.greykirwan.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.greykirwan.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.greykirwan.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.greykirwan.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.greykirwan.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.greykirwan.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.greykirwan.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://greykirwan-31030801.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://greykirwan-31030801.brprodaccount.com/custom-section-22",
+        "path": "/custom-section-22",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://greykirwan-31030801.brprodaccount.com/custom-section-22",
+            "path": "/custom-section-22"
+          },
+          {
+            "text": "Why a CFP®?",
+            "href": "https://4f1c26cf-4dfc-4faf-8724-254da40c41f8.usrfiles.com/ugd/4f907f_0ed6c3a390b54cd999705800114ff9a1.pdf",
+            "path": "/ugd/4f907f_0ed6c3a390b54cd999705800114ff9a1.pdf"
+          },
+          {
+            "text": "About Chloe",
+            "href": "https://greykirwan-31030801.brprodaccount.com/custom-section-66",
+            "path": "/custom-section-66"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Our Services",
+        "href": "https://greykirwan-31030801.brprodaccount.com/custom-section-33",
+        "path": "/custom-section-33",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://greykirwan-31030801.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://greykirwan-31030801.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://greykirwan-31030801.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://greykirwan-31030801.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://greykirwan-31030801.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://greykirwan-31030801.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://greykirwan-31030801.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://greykirwan-31030801.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/custom-section-22",
+        "migratedPath": "/custom-section-22",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /custom-section-22",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/custom-section-22",
+            "migratedPath": "/custom-section-22"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Why a CFP®?",
+            "brHref": "/https://www.emeraldhost.net/files/120655/2024%20What%20Is%20CFP%20Certification%20Bookletv2updated.pdf",
+            "migratedText": "Why a CFP®?",
+            "migratedHref": "https://4f1c26cf-4dfc-4faf-8724-254da40c41f8.usrfiles.com/ugd/4f907f_0ed6c3a390b54cd999705800114ff9a1.pdf",
+            "migratedPath": "/ugd/4f907f_0ed6c3a390b54cd999705800114ff9a1.pdf"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Chloe",
+            "brHref": "/About-Chloe.6.htm",
+            "migratedText": "About Chloe",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Our Services",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 14,
+      "totalMigratedItems": 14,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 12,
+      "totalBrItems": 14
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/custom-section-22",
+        "migratedPath": "/custom-section-22",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/custom-section-22",
+            "migratedPath": "/custom-section-22"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Why a CFP®?",
+            "brHref": "/Why-a-CFP.7.htm",
+            "migratedText": "Why a CFP®?",
+            "migratedHref": "https://4f1c26cf-4dfc-4faf-8724-254da40c41f8.usrfiles.com/ugd/4f907f_0ed6c3a390b54cd999705800114ff9a1.pdf",
+            "migratedPath": "/ugd/4f907f_0ed6c3a390b54cd999705800114ff9a1.pdf"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "About Chloe",
+            "brHref": "/About-Chloe.6.htm",
+            "migratedText": "About Chloe",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Our Services",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://greykirwan-31030801.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://greykirwan-31030801.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 15,
+      "totalMigratedItems": 14,
+      "missing": 2,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 13
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Grey Kirwan Financial",
+        "companyNames": [
+          "Grey Kirwan Financial"
+        ],
+        "phoneNumbers": [
+          "7035923944"
+        ],
+        "emailAddresses": [
+          "info@greykirwan.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "The content is developed from sources believed to provide accurate information. The information in this material is not intended as tax or legal advice. Please consult legal or tax professionals for specific information regarding your individual situation. Some of this material was developed and produced by Broadridge to provide information on a topic that may be of interest. Broadridge is not affiliated with the named representative, broker - dealer, state - or SEC - registered investment advisory firm. The opinions expressed and material provided are for general information and should not be considered a solicitation for the purchase or sale of any security.Grey Kirwan Financial, 1984 Isaac Newton Sq W, Ste 107, Reston VA 20190 Tel: 703-592-3944 Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.greykirwan.com",
+        "companyNames": [
+          "Welcome to Grey Kirwan Financial"
+        ],
+        "phoneNumbers": [
+          "7035923944"
+        ],
+        "emailAddresses": [
+          "info@greykirwan.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "The content is developed from sources believed to provide accurate information. The information in this material is not intended as tax or legal advice. Please consult legal or tax professionals for specific information regarding your individual situation. Some of this material was developed and produced by Broadridge to provide information on a topic that may be of interest. Broadridge is not affiliated with the named representative, broker - dealer, state - or SEC - registered investment advisory firm. The opinions expressed and material provided are for general information and should not be considered a solicitation for the purchase or sale of any security.Grey Kirwan Financial, 1984 Isaac Newton Sq W, Ste 107, Reston VA 20190 Tel: 703-592-3944"
+      },
+      "mismatches": []
+    }
+  }
+}

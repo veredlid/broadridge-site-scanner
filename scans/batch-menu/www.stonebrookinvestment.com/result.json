@@ -1,0 +1,609 @@
+{
+  "site": {
+    "original": "www.stonebrookinvestment.com",
+    "migrated": "https://stonebrookinvestment-31030753.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.stonebrookinvestment.com",
+    "migratedDomain": "https://stonebrookinvestment-31030753.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:23:30.631Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Schwab  Account Login",
+            "href": "/featured_links.htm"
+          },
+          {
+            "title": "Schwab Account Protection",
+            "href": "/Schwab-Account-Protection.9.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Services We Provide Our Clients",
+            "href": "/Services-We-Provide-Our-Clients.3.htm"
+          },
+          {
+            "title": "Complimentary Portfolio Review",
+            "href": "/Complimentary-Portfolio-Review.7.htm"
+          },
+          {
+            "title": "Our Investment Process",
+            "href": "/Our-Investment-Process.1.htm"
+          },
+          {
+            "title": "The Portfolio Manager",
+            "href": "/The-Portfolio-Manager.4.htm"
+          },
+          {
+            "title": "Goal Specific Investments",
+            "href": "/Goal-Specific-Investments.11.htm"
+          },
+          {
+            "title": "Office Locations",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Why you want an Independent Advisor",
+            "href": "/Why-you-want-an-Independent-Advisor.12.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.stonebrookinvestment.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.stonebrookinvestment.com/about_us/",
+        "path": "/about_us",
+        "subItems": [
+          {
+            "text": "Schwab  Account Login",
+            "href": "https://www.stonebrookinvestment.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Schwab Account Protection",
+            "href": "https://www.stonebrookinvestment.com/Schwab-Account-Protection.9.htm",
+            "path": "/Schwab-Account-Protection.9.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.stonebrookinvestment.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Services We Provide Our Clients",
+            "href": "https://www.stonebrookinvestment.com/Services-We-Provide-Our-Clients.3.htm",
+            "path": "/Services-We-Provide-Our-Clients.3.htm"
+          },
+          {
+            "text": "Complimentary Portfolio Review",
+            "href": "https://www.stonebrookinvestment.com/Complimentary-Portfolio-Review.7.htm",
+            "path": "/Complimentary-Portfolio-Review.7.htm"
+          },
+          {
+            "text": "Our Investment Process",
+            "href": "https://www.stonebrookinvestment.com/Our-Investment-Process.1.htm",
+            "path": "/Our-Investment-Process.1.htm"
+          },
+          {
+            "text": "The Portfolio Manager",
+            "href": "https://www.stonebrookinvestment.com/The-Portfolio-Manager.4.htm",
+            "path": "/The-Portfolio-Manager.4.htm"
+          },
+          {
+            "text": "Goal Specific Investments",
+            "href": "https://www.stonebrookinvestment.com/Goal-Specific-Investments.11.htm",
+            "path": "/Goal-Specific-Investments.11.htm"
+          },
+          {
+            "text": "Office Locations",
+            "href": "https://www.stonebrookinvestment.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Why you want an Independent Advisor",
+            "href": "https://www.stonebrookinvestment.com/Why-you-want-an-Independent-Advisor.12.htm",
+            "path": "/Why-you-want-an-Independent-Advisor.12.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.stonebrookinvestment.com/learning_center/",
+        "path": "/learning_center",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.stonebrookinvestment.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.stonebrookinvestment.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.stonebrookinvestment.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.stonebrookinvestment.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.stonebrookinvestment.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.stonebrookinvestment.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.stonebrookinvestment.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.stonebrookinvestment.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://stonebrookinvestment-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://stonebrookinvestment-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://stonebrookinvestment-31030753.brprodaccount.com/featured-links",
+        "path": "/featured-links",
+        "subItems": [
+          {
+            "text": "Schwab  Account Login",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Schwab Account Protection",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/charles-schwab-co-is-the-custodian-of-all-client-assets9",
+            "path": "/charles-schwab-co-is-the-custodian-of-all-client-assets9"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/the-fee-only-advantage-is-that-were-always-on-the-same-team2",
+            "path": "/the-fee-only-advantage-is-that-were-always-on-the-same-team2"
+          },
+          {
+            "text": "Services We Provide Our Clients",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/services-that-our-clients-value3",
+            "path": "/services-that-our-clients-value3"
+          },
+          {
+            "text": "Complimentary Portfolio Review",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/complimentary-portfolio-review7",
+            "path": "/complimentary-portfolio-review7"
+          },
+          {
+            "text": "Our Investment Process",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/our-investment-process1",
+            "path": "/our-investment-process1"
+          },
+          {
+            "text": "The Portfolio Manager",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/the-portfolio-manager4",
+            "path": "/the-portfolio-manager4"
+          },
+          {
+            "text": "Goal Specific Investments",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/custom-section-1111",
+            "path": "/custom-section-1111"
+          },
+          {
+            "text": "Office Locations",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Why you want an Independent Advisor",
+            "href": "https://stonebrookinvestment-31030753.brprodaccount.com/why-you-want-an-independent-advisor12",
+            "path": "/why-you-want-an-independent-advisor12"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /featured-links",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Schwab  Account Login",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Schwab  Account Login",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Schwab Account Protection",
+            "brHref": "/Schwab-Account-Protection.9.htm",
+            "migratedText": "Schwab Account Protection",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/charles-schwab-co-is-the-custodian-of-all-client-assets9",
+            "migratedPath": "/charles-schwab-co-is-the-custodian-of-all-client-assets9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/the-fee-only-advantage-is-that-were-always-on-the-same-team2",
+            "migratedPath": "/the-fee-only-advantage-is-that-were-always-on-the-same-team2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services We Provide Our Clients",
+            "brHref": "/Services-We-Provide-Our-Clients.3.htm",
+            "migratedText": "Services We Provide Our Clients",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/services-that-our-clients-value3",
+            "migratedPath": "/services-that-our-clients-value3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Complimentary Portfolio Review",
+            "brHref": "/Complimentary-Portfolio-Review.7.htm",
+            "migratedText": "Complimentary Portfolio Review",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/complimentary-portfolio-review7",
+            "migratedPath": "/complimentary-portfolio-review7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Investment Process",
+            "brHref": "/Our-Investment-Process.1.htm",
+            "migratedText": "Our Investment Process",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/our-investment-process1",
+            "migratedPath": "/our-investment-process1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "The Portfolio Manager",
+            "brHref": "/The-Portfolio-Manager.4.htm",
+            "migratedText": "The Portfolio Manager",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/the-portfolio-manager4",
+            "migratedPath": "/the-portfolio-manager4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Goal Specific Investments",
+            "brHref": "/Goal-Specific-Investments.11.htm",
+            "migratedText": "Goal Specific Investments",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/custom-section-1111",
+            "migratedPath": "/custom-section-1111"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Office Locations",
+            "brHref": "/location.htm",
+            "migratedText": "Office Locations",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Why you want an Independent Advisor",
+            "brHref": "/Why-you-want-an-Independent-Advisor.12.htm",
+            "migratedText": "Why you want an Independent Advisor",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/why-you-want-an-independent-advisor12",
+            "migratedPath": "/why-you-want-an-independent-advisor12"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 12,
+      "totalMigratedItems": 13,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 11,
+      "totalBrItems": 12
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/about_us",
+        "migratedText": "About Us",
+        "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Schwab  Account Login",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Schwab  Account Login",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Schwab Account Protection",
+            "brHref": "/Schwab-Account-Protection.9.htm",
+            "migratedText": "Schwab Account Protection",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/charles-schwab-co-is-the-custodian-of-all-client-assets9",
+            "migratedPath": "/charles-schwab-co-is-the-custodian-of-all-client-assets9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/the-fee-only-advantage-is-that-were-always-on-the-same-team2",
+            "migratedPath": "/the-fee-only-advantage-is-that-were-always-on-the-same-team2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services We Provide Our Clients",
+            "brHref": "/Services-We-Provide-Our-Clients.3.htm",
+            "migratedText": "Services We Provide Our Clients",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/services-that-our-clients-value3",
+            "migratedPath": "/services-that-our-clients-value3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Complimentary Portfolio Review",
+            "brHref": "/Complimentary-Portfolio-Review.7.htm",
+            "migratedText": "Complimentary Portfolio Review",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/complimentary-portfolio-review7",
+            "migratedPath": "/complimentary-portfolio-review7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Investment Process",
+            "brHref": "/Our-Investment-Process.1.htm",
+            "migratedText": "Our Investment Process",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/our-investment-process1",
+            "migratedPath": "/our-investment-process1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "The Portfolio Manager",
+            "brHref": "/The-Portfolio-Manager.4.htm",
+            "migratedText": "The Portfolio Manager",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/the-portfolio-manager4",
+            "migratedPath": "/the-portfolio-manager4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Goal Specific Investments",
+            "brHref": "/Goal-Specific-Investments.11.htm",
+            "migratedText": "Goal Specific Investments",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/custom-section-1111",
+            "migratedPath": "/custom-section-1111"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Office Locations",
+            "brHref": "/location.htm",
+            "migratedText": "Office Locations",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Why you want an Independent Advisor",
+            "brHref": "/Why-you-want-an-Independent-Advisor.12.htm",
+            "migratedText": "Why you want an Independent Advisor",
+            "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/why-you-want-an-independent-advisor12",
+            "migratedPath": "/why-you-want-an-independent-advisor12"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/learning_center",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 21,
+      "totalMigratedItems": 13,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 12
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Stonebrook Investment",
+        "companyNames": [
+          "Stonebrook Investment"
+        ],
+        "phoneNumbers": [
+          "(703) 587-8683"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [
+          "12020 Sunrise Valley Drive, Suite 100\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tReston, VA 20191"
+        ],
+        "personNames": [
+          "Sunrise Valley",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Schwab",
+          "Account Login",
+          "Schwab Account",
+          "Protection\n      \n    \n      \n        Our",
+          "Firm\n      \n    \n      \n        Services",
+          "We Provide",
+          "Our Clients",
+          "Complimentary Portfolio",
+          "Review\n      \n    \n      \n        Our",
+          "Investment Process",
+          "The Portfolio",
+          "Manager\n      \n    \n      \n        Goal",
+          "Specific Investments",
+          "Office Locations",
+          "Independent Advisor",
+          "Resources\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n          \n            Articles",
+          "Calculators\n          \n        \n          \n            Flipbooks",
+          "Newsletters\n          \n        \n          \n            Glossary",
+          "Tax Library",
+          "Videos\n          \n        \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tContact",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t  Charles",
+          "Mark Burkhardt",
+          "Will Tax",
+          "Law Changes",
+          "Impact Your",
+          "Giving Strategy",
+          "Balancing Life",
+          "Sandwich Generation",
+          "Consider Roth",
+          "Free Income",
+          "Grocery Games",
+          "Help Stretch",
+          "Your Food",
+          "More Newsletters",
+          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Estate",
+          "Taxes\n          \n        \n        Use",
+          "Retirement Plan",
+          "Early Distribution",
+          "Retirement\n          \n        \n        Use",
+          "Cash Flow",
+          "Analysis\n          \n        \n        This",
+          "More Calculators",
+          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSchwab",
+          "Learning Center",
+          "Articles\n                Educate",
+          "Newsletters\n                Timely",
+          "Flipbooks\n                \n                  These",
+          "Glossary\n                  \n                  Financial",
+          "United States",
+          "Stonebrook Investment",
+          "Charles Schwab",
+          "Site Map"
+        ],
+        "footerText": "This website is for informational purposes only and does not constitute a complete description of our investment services or performance. This website is in no way a solicitation or offer to sell securities or investment advisory services except, where applicable, in states where we are registered or where an exemption or exclusion from such registrations exist. The products and/or services described by this website are intended to be made available only to persons residing in the United States."
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.stonebrookinvestment.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "7035878683",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "mburkhardt@stonebrookinvestment.com"
+        ],
+        "physicalAddresses": [
+          "12020 Sunrise Valley Drive, Suite "
+        ],
+        "personNames": [],
+        "footerText": "This website is for informational purposes only and does not constitute a complete description of our investment services or performance. This website is in no way a solicitation or offer to sell securities or investment advisory services except, where applicable, in states where we are registered or where an exemption or exclusion from such registrations exist. The products and/or services described by this website are intended to be made available only to persons residing in the United States. This website should not be considered a solicitation or an offering of any Stonebrook Investment LLC services to investors residing outside the U.S. Information throughout this site, whether stock quotes, charts, articles, calculators or any other statement or statements regarding market or other financial information, is obtained from sources which we, and our suppliers, believe to be reliable, but we do not warrant or guarantee the timeliness or accuracy of this information. Nothing on this w"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(703) 587-8683",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "12020 Sunrise Valley Drive, Suite 100\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tReston, VA 20191",
+          "migratedValue": "12020 Sunrise Valley Drive, Suite ",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

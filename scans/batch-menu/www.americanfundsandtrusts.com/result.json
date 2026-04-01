@@ -1,0 +1,711 @@
+{
+  "site": {
+    "original": "www.americanfundsandtrusts.com",
+    "migrated": "https://americanfundsandtrusts-31030806.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.americanfundsandtrusts.com",
+    "migratedDomain": "https://americanfundsandtrusts-31030806.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:38:08.539Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.1.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.2.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.3.htm"
+          },
+          {
+            "title": "Business Continuity Plan",
+            "href": "/Business-Continuity-Plan.6.htm"
+          },
+          {
+            "title": "Form CRS",
+            "href": "/Form-CRS.8.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Account Access",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "American Funds",
+            "href": "/https://www.capitalgroup.com/individual/accounts/login.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.americanfundsandtrusts.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.americanfundsandtrusts.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.americanfundsandtrusts.com/Our-Firm.1.htm",
+            "path": "/Our-Firm.1.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.americanfundsandtrusts.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.americanfundsandtrusts.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.americanfundsandtrusts.com/Our-Services.2.htm",
+            "path": "/Our-Services.2.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.americanfundsandtrusts.com/Our-Qualifications.3.htm",
+            "path": "/Our-Qualifications.3.htm"
+          },
+          {
+            "text": "Business Continuity Plan",
+            "href": "https://www.americanfundsandtrusts.com/Business-Continuity-Plan.6.htm",
+            "path": "/Business-Continuity-Plan.6.htm"
+          },
+          {
+            "text": "Request A Quote",
+            "href": "https://www.americanfundsandtrusts.com/Request-A-Quote.5.htm",
+            "path": "/Request-A-Quote.5.htm"
+          },
+          {
+            "text": "Form CRS",
+            "href": "https://www.americanfundsandtrusts.com/Form-CRS.8.htm",
+            "path": "/Form-CRS.8.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.americanfundsandtrusts.com/tellafriend.cfm?SSLID=720",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.americanfundsandtrusts.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.americanfundsandtrusts.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.americanfundsandtrusts.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.americanfundsandtrusts.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.americanfundsandtrusts.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.americanfundsandtrusts.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.americanfundsandtrusts.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.americanfundsandtrusts.com/form.cfm?ID=64&SSLID=720",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.americanfundsandtrusts.com/form.cfm?ID=72&SSLID=720",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.americanfundsandtrusts.com/form.cfm?ID=73&SSLID=720",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.americanfundsandtrusts.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Account Access",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "American Funds",
+            "href": "https://www.capitalgroup.com/individual/accounts/login.htm",
+            "path": "/individual/accounts/login.htm"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-firm1",
+        "path": "/our-firm1",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-firm1",
+            "path": "/our-firm1"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-services2",
+            "path": "/our-services2"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-qualifications3",
+            "path": "/our-qualifications3"
+          },
+          {
+            "text": "Business Continuity Plan",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/business-continuity-plan6",
+            "path": "/business-continuity-plan6"
+          },
+          {
+            "text": "Form CRS",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/customer-relationship-summary-lparcrsrpar8",
+            "path": "/customer-relationship-summary-lparcrsrpar8"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/glossary",
+            "path": "/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Account Access",
+        "href": "https://americanfundsandtrusts-31030806.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "American Funds",
+            "href": "https://www.capitalgroup.com/individual/accounts/login.htm",
+            "path": "/individual/accounts/login.htm"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Business Continuity Plan",
+            "brHref": "/Business-Continuity-Plan.6.htm",
+            "migratedText": "Business Continuity Plan",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/business-continuity-plan6",
+            "migratedPath": "/business-continuity-plan6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Form CRS",
+            "brHref": "/Form-CRS.8.htm",
+            "migratedText": "Form CRS",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/customer-relationship-summary-lparcrsrpar8",
+            "migratedPath": "/customer-relationship-summary-lparcrsrpar8"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Account Access",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Account Access",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "American Funds",
+            "brHref": "/https://www.capitalgroup.com/individual/accounts/login.htm",
+            "migratedText": "American Funds",
+            "migratedHref": "https://www.capitalgroup.com/individual/accounts/login.htm",
+            "migratedPath": "/individual/accounts/login.htm"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 17,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 15,
+      "totalBrItems": 17
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Business Continuity Plan",
+            "brHref": "/Business-Continuity-Plan.6.htm",
+            "migratedText": "Business Continuity Plan",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/business-continuity-plan6",
+            "migratedPath": "/business-continuity-plan6"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Request A Quote",
+            "brHref": "/Request-A-Quote.5.htm",
+            "note": "Sub-item \"Request A Quote\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Form CRS",
+            "brHref": "/Form-CRS.8.htm",
+            "migratedText": "Form CRS",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/customer-relationship-summary-lparcrsrpar8",
+            "migratedPath": "/customer-relationship-summary-lparcrsrpar8"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Account Access",
+        "brHref": "void(0);",
+        "migratedText": "Account Access",
+        "migratedHref": "https://americanfundsandtrusts-31030806.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "American Funds",
+            "brHref": "/individual/accounts/login.htm",
+            "migratedText": "American Funds",
+            "migratedHref": "https://www.capitalgroup.com/individual/accounts/login.htm",
+            "migratedPath": "/individual/accounts/login.htm"
+          }
+        ]
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 24,
+      "totalMigratedItems": 17,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 17
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "American Funds and Trusts",
+        "companyNames": [
+          "American Funds and Trusts, Inc.",
+          "American Funds and Trusts"
+        ],
+        "phoneNumbers": [
+          "8014668701",
+          "8014668780"
+        ],
+        "emailAddresses": [
+          "amfunds58@aol.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "3030 S. Main Street Suite 100 Salt Lake City, UT 84115 (801) 466-8701 Customer Relationship Summary (CRS) Privacy Policy Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.americanfundsandtrusts.com",
+        "companyNames": [
+          "American Funds and Trusts, Inc."
+        ],
+        "phoneNumbers": [
+          "8014668701",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "amfunds58@aol.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "3030 S. Main Street Suite 100 Salt Lake City, UT 84115 (801) 466-8701 Customer Relationship Summary (CRS)Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(801) 466-8701, (801) 466-8780",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,743 @@
+{
+  "site": {
+    "original": "www.midtownfa.com",
+    "migrated": "https://midtownfa-31030758.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.midtownfa.com",
+    "migratedDomain": "https://midtownfa-31030758.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:46:52.681Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/team.htm"
+          }
+        ]
+      },
+      {
+        "title": "Our Services",
+        "href": "/",
+        "children": [
+          {
+            "title": "Comprehensive Planning",
+            "href": "/Comprehensive-Planning.3.htm"
+          },
+          {
+            "title": "Investment Management",
+            "href": "/Investment-Management.1.htm"
+          },
+          {
+            "title": "Corporate Benefits",
+            "href": "/Corporate-Benefits.4.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Markets at a Glance",
+            "href": "/markets.cfm"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          }
+        ]
+      },
+      {
+        "title": "Prospective Advisors",
+        "href": "/Prospective-Advisors.5.htm",
+        "children": []
+      },
+      {
+        "title": "Client Login",
+        "href": "/https://login.orionadvisor.com/login.html?g=815802c9-5d28-4739-bb99-1851f75fc2d3&amp;e=2&amp;i=2",
+        "children": []
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.midtownfa.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.midtownfa.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.midtownfa.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://www.midtownfa.com/team.htm",
+            "path": "/team.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Our Services",
+        "href": "https://www.midtownfa.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Comprehensive Planning",
+            "href": "https://www.midtownfa.com/Comprehensive-Planning.3.htm",
+            "path": "/Comprehensive-Planning.3.htm"
+          },
+          {
+            "text": "Investment Management",
+            "href": "https://www.midtownfa.com/Investment-Management.1.htm",
+            "path": "/Investment-Management.1.htm"
+          },
+          {
+            "text": "Corporate Benefits",
+            "href": "https://www.midtownfa.com/Corporate-Benefits.4.htm",
+            "path": "/Corporate-Benefits.4.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.midtownfa.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://www.midtownfa.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.midtownfa.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.midtownfa.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.midtownfa.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.midtownfa.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.midtownfa.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.midtownfa.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Prospective Advisors",
+        "href": "https://www.midtownfa.com/Prospective-Advisors.5.htm",
+        "path": "/Prospective-Advisors.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Client Login",
+        "href": "https://login.orionadvisor.com/login.html?g=815802c9-5d28-4739-bb99-1851f75fc2d3&e=2&i=2",
+        "path": "/login.html",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.midtownfa.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://midtownfa-31030758.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://midtownfa-31030758.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Team",
+            "href": "https://midtownfa-31030758.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Location",
+            "href": "https://midtownfa-31030758.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "HR360",
+            "href": "https://www.hr360.com/login/",
+            "path": "/login"
+          },
+          {
+            "text": "Apply for Individual Health Insurance",
+            "href": "https://midtownfa-31030758.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://midtownfa-31030758.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Affiliated Office",
+            "href": "https://midtownfa-31030758.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://midtownfa-31030758.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://midtownfa-31030758.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://midtownfa-31030758.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://midtownfa-31030758.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://midtownfa-31030758.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://midtownfa-31030758.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://midtownfa-31030758.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "FAQ",
+            "href": "https://midtownfa-31030758.brprodaccount.com/faq",
+            "path": "/faq"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Location",
+        "href": "https://midtownfa-31030758.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "note": "Sub-item \"Our Firm\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Services",
+        "brHref": "/",
+        "note": "\"Our Services\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Markets at a Glance",
+            "brHref": "/markets.cfm",
+            "note": "Sub-item \"Markets at a Glance\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Prospective Advisors",
+        "brHref": "/Prospective-Advisors.5.htm",
+        "note": "\"Prospective Advisors\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Client Login",
+        "brHref": "/https://login.orionadvisor.com/login.html?g=815802c9-5d28-4739-bb99-1851f75fc2d3&amp;e=2&amp;i=2",
+        "note": "\"Client Login\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" appears in the migrated menu but is not in the BR navigation JSON"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 19,
+      "totalMigratedItems": 17,
+      "missing": 6,
+      "extra": 7,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 8,
+      "totalBrItems": 19
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "note": "Sub-item \"Our Firm\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Services",
+        "brHref": "/",
+        "note": "\"Our Services\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://midtownfa-31030758.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Prospective Advisors",
+        "brHref": "/Prospective-Advisors.5.htm",
+        "note": "\"Prospective Advisors\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Client Login",
+        "brHref": "/login.html",
+        "note": "\"Client Login\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Featured Links",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Featured Links\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Location",
+        "migratedHref": "https://midtownfa-31030758.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Location\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 19,
+      "totalMigratedItems": 17,
+      "missing": 6,
+      "extra": 7,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 10
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Midtown Financial Advisors, LLC",
+        "companyNames": [
+          "Midtown Financial Advisors, LLC"
+        ],
+        "phoneNumbers": [
+          "18122533"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Blueprint Financial Advisors d/b/a Midtown Financial Advisors is an investment adviser registered under the Investment Advisers Act of 1940. Registration as an investment adviser does not imply any level of skill or training. For more information, please visit adviserinfo.sec.gov and search for our firm name. All content available on this website is general in nature, not directed or tailored to any particular person, and is for informational purposes only. Neither the website nor any of its content is offered as investment advice and should not be deemed as investment advice or a recommendation to purchase or sell any specific security. Blueprint does not represent that any opinion or projection will be realized. Neither Blueprint nor any of its advisers, officers, directors, or affiliates represents that the information presented on this website is accurate, current or complete, and such information is subject to change without notice. Past performance is not a guarantee of future re"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.midtownfa.com",
+        "companyNames": [
+          "Creative Financial\nProfessionals"
+        ],
+        "phoneNumbers": [
+          "9723800063",
+          "8005295740",
+          "9723800097",
+          "18122533"
+        ],
+        "emailAddresses": [
+          "resnik_neil@nlgroupmail.com"
+        ],
+        "physicalAddresses": [
+          "4500 Westgrove Suite 356\nAddison, TX 75001"
+        ],
+        "personNames": [],
+        "footerText": "Blueprint Financial Advisors d/b/a Midtown Financial Advisors is an investment adviser registered under the Investment Advisers Act of 1940. Registration as an investment adviser does not imply any level of skill or training. For more information, please visit adviserinfo.sec.gov and search for our firm name. All content available on this website is general in nature, not directed or tailored to any particular person, and is for informational purposes only. Neither the website nor any of its content is offered as investment advice and should not be deemed as investment advice or a recommendation to purchase or sell any specific security. Blueprint does not represent that any opinion or projection will be realized. Neither Blueprint nor any of its advisers, officers, directors, or affiliates represents that the information presented on this website is accurate, current or complete, and such information is subject to change without notice. Past performance is not a guarantee of future re"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "18122533",
+          "migratedValue": "(972) 380-0063",
+          "severity": "critical",
+          "note": "Phone \"(972) 380-0063\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "18122533",
+          "migratedValue": "(800) 529-5740",
+          "severity": "critical",
+          "note": "Phone \"(800) 529-5740\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "18122533",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "company-name",
+          "originalValue": "Midtown Financial Advisors, LLC",
+          "migratedValue": "Creative Financial\nProfessionals",
+          "severity": "warning",
+          "note": "Company name \"Creative Financial\nProfessionals\" on migrated site may not match original"
+        }
+      ]
+    }
+  }
+}

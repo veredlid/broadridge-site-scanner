@@ -1,0 +1,357 @@
+{
+  "site": {
+    "original": "www.afgplanning.com",
+    "migrated": "https://afgplanning-31030807.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.afgplanning.com",
+    "migratedDomain": "https://afgplanning-31030807.brprodaccount.com/",
+    "capturedAt": "2026-04-01T07:57:01.547Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "How We Help",
+        "href": "/How-We-Help.5.htm",
+        "children": []
+      },
+      {
+        "title": "Retirement Plan Services",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Retirement Plans We Service",
+            "href": "/Retirement-Plans-We-Service.8.htm"
+          },
+          {
+            "title": "Plan Management",
+            "href": "/Plan-Management.9.htm"
+          },
+          {
+            "title": "Investment Services",
+            "href": "/Investment-Services.10.htm"
+          },
+          {
+            "title": "Participant Services",
+            "href": "/Participant-Services.11.htm"
+          }
+        ]
+      },
+      {
+        "title": "Wealth Management",
+        "href": "/Wealth-Management.12.htm",
+        "children": []
+      },
+      {
+        "title": "Tools",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://afgplanning-31030807.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "How We Help",
+        "href": "https://afgplanning-31030807.brprodaccount.com/how-we-help5",
+        "path": "/how-we-help5",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Retirement Plan Services",
+        "href": "https://afgplanning-31030807.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Retirement Plans We Service",
+            "href": "https://afgplanning-31030807.brprodaccount.com/retirement-plans-we-service8",
+            "path": "/retirement-plans-we-service8"
+          },
+          {
+            "text": "Plan Management",
+            "href": "https://afgplanning-31030807.brprodaccount.com/plan-management9",
+            "path": "/plan-management9"
+          },
+          {
+            "text": "Investment Services",
+            "href": "https://afgplanning-31030807.brprodaccount.com/investment-services10",
+            "path": "/investment-services10"
+          },
+          {
+            "text": "Participant Services",
+            "href": "https://afgplanning-31030807.brprodaccount.com/participant-services11",
+            "path": "/participant-services11"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Wealth Management",
+        "href": "https://afgplanning-31030807.brprodaccount.com/wealth-management12",
+        "path": "/wealth-management12",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Tools",
+        "href": "https://afgplanning-31030807.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://afgplanning-31030807.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Videos",
+            "href": "https://afgplanning-31030807.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://afgplanning-31030807.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://afgplanning-31030807.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://afgplanning-31030807.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://afgplanning-31030807.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://afgplanning-31030807.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "How We Help",
+        "brHref": "/How-We-Help.5.htm",
+        "migratedText": "How We Help",
+        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/how-we-help5",
+        "migratedPath": "/how-we-help5"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Retirement Plan Services",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Retirement Plan Services",
+        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Plans We Service",
+            "brHref": "/Retirement-Plans-We-Service.8.htm",
+            "migratedText": "Retirement Plans We Service",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/retirement-plans-we-service8",
+            "migratedPath": "/retirement-plans-we-service8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Plan Management",
+            "brHref": "/Plan-Management.9.htm",
+            "migratedText": "Plan Management",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/plan-management9",
+            "migratedPath": "/plan-management9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investment Services",
+            "brHref": "/Investment-Services.10.htm",
+            "migratedText": "Investment Services",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/investment-services10",
+            "migratedPath": "/investment-services10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Participant Services",
+            "brHref": "/Participant-Services.11.htm",
+            "migratedText": "Participant Services",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/participant-services11",
+            "migratedPath": "/participant-services11"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Wealth Management",
+        "brHref": "/Wealth-Management.12.htm",
+        "migratedText": "Wealth Management",
+        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/wealth-management12",
+        "migratedPath": "/wealth-management12"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Tools",
+        "brHref": "/#",
+        "migratedText": "Tools",
+        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Tools\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 16,
+      "totalMigratedItems": 16,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 15,
+      "totalBrItems": 16
+    },
+    "liveIssues": [],
+    "liveSummary": {
+      "totalSourceItems": 0,
+      "totalMigratedItems": 16,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
+    },
+    "originalCrawlFailed": true,
+    "originalCrawlError": "Playwright: page.goto: net::ERR_ADDRESS_INVALID at http://www.afgplanning.com/\nCall log:\n  - navigating to \"http | Fetch: fetch failed",
+    "contentCheck": {
+      "originalIdentity": null,
+      "migratedIdentity": {
+        "pageTitle": "Home | www.afgplanning.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Certified Financial Planner Board of Standards Inc. owns the certification marks CFP®, CERTIFIED FINANCIAL PLANNER™ and in the U.S., which it awards to individuals who successfully complete CFP Board’s initial and ongoing certification requirements.Investment advisory services through Atlas Fiduciary Services, Inc., a Registered Investment Adviser. John R Heise, Investment Advisor Representative."
+      },
+      "mismatches": [],
+      "error": "Original site could not be crawled"
+    }
+  }
+}

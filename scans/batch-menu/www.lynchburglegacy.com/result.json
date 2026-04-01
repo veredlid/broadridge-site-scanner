@@ -1,0 +1,1023 @@
+{
+  "site": {
+    "original": "www.lynchburglegacy.com",
+    "migrated": "https://lynchburglegacy-31030758.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.lynchburglegacy.com",
+    "migratedDomain": "https://lynchburglegacy-31030758.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:45:26.677Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "LPL Financial",
+            "href": "/featured_links.htm"
+          },
+          {
+            "title": "Access Black Diamond",
+            "href": "/Access-Lifetime-Legacy.10.htm"
+          },
+          {
+            "title": "Broker Dealer VS. Registered Investment Advisor",
+            "href": "/Broker-Dealer-VS--Registered-Investment-Advisor.6.htm"
+          }
+        ]
+      },
+      {
+        "title": "Disclosures",
+        "href": "/:void(0);",
+        "children": [
+          {
+            "title": "LWM ADV Part 2A 2025",
+            "href": "/files/86455/LWMG ADV 2A 03.15.2025.pdf"
+          },
+          {
+            "title": "LWM Privacy Policy 2025",
+            "href": "/files/86455/LWMG Privacy Policy 03.10.2025.pdf"
+          },
+          {
+            "title": "LWM Wrap Brochure 2025",
+            "href": "/files/86455/LWM Wrap Brochure 03.15.2025.pdf"
+          },
+          {
+            "title": "LWM CRS 2025",
+            "href": "/files/86455/LWMG CRS 03.10.2025.pdf"
+          },
+          {
+            "title": "Social Media Disclosures",
+            "href": "/files/86455/Social Media for LWMG Website.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.lynchburglegacy.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.lynchburglegacy.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.lynchburglegacy.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.lynchburglegacy.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.lynchburglegacy.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.lynchburglegacy.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.lynchburglegacy.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.lynchburglegacy.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "LPL Financial",
+            "href": "https://www.lynchburglegacy.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Access Black Diamond",
+            "href": "https://www.lynchburglegacy.com/Access-Lifetime-Legacy.10.htm",
+            "path": "/Access-Lifetime-Legacy.10.htm"
+          },
+          {
+            "text": "Broker Dealer VS. Registered Investment Advisor",
+            "href": "https://www.lynchburglegacy.com/Broker-Dealer-VS--Registered-Investment-Advisor.6.htm",
+            "path": "/Broker-Dealer-VS--Registered-Investment-Advisor.6.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.lynchburglegacy.com/tellafriend.cfm?SSLID=86455",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Disclosures",
+        "href": "https://www.lynchburglegacy.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Disclosures",
+            "href": "https://www.lynchburglegacy.com/:void(0);",
+            "path": "/:void(0);"
+          },
+          {
+            "text": "LWM ADV Part 2A 2025",
+            "href": "https://www.lynchburglegacy.com/files/86455/LWMG%20ADV%202A%2003.15.2025.pdf",
+            "path": "/files/86455/LWMG%20ADV%202A%2003.15.2025.pdf"
+          },
+          {
+            "text": "LWM Privacy Policy 2025",
+            "href": "https://www.lynchburglegacy.com/files/86455/LWMG%20Privacy%20Policy%2003.10.2025.pdf",
+            "path": "/files/86455/LWMG%20Privacy%20Policy%2003.10.2025.pdf"
+          },
+          {
+            "text": "LWM Wrap Brochure 2025",
+            "href": "https://www.lynchburglegacy.com/files/86455/LWM%20Wrap%20Brochure%2003.15.2025.pdf",
+            "path": "/files/86455/LWM%20Wrap%20Brochure%2003.15.2025.pdf"
+          },
+          {
+            "text": "LWM CRS 2025",
+            "href": "https://www.lynchburglegacy.com/files/86455/LWMG%20CRS%2003.10.2025.pdf",
+            "path": "/files/86455/LWMG%20CRS%2003.10.2025.pdf"
+          },
+          {
+            "text": "Social Media Disclosures",
+            "href": "https://www.lynchburglegacy.com/files/86455/Social%20Media%20for%20LWMG%20Website.pdf",
+            "path": "/files/86455/Social%20Media%20for%20LWMG%20Website.pdf"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.lynchburglegacy.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.lynchburglegacy.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.lynchburglegacy.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.lynchburglegacy.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.lynchburglegacy.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.lynchburglegacy.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.lynchburglegacy.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.lynchburglegacy.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.lynchburglegacy.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=64&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=65&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=67&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=68&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=69&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=70&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=72&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=73&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Auto Insurance",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=418&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Motorcycle Insurance",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=419&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Motor Home Insurance",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=420&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Watercraft Insurance",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=421&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Homeowners Insurance",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=422&SSLID=86455",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Plan Benchmarking",
+            "href": "https://www.lynchburglegacy.com/form.cfm?ID=1063&SSLID=86455",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Events",
+        "href": "https://www.lynchburglegacy.com/events.htm",
+        "path": "/events.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.lynchburglegacy.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://lynchburglegacy-31030758.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://lynchburglegacy-31030758.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          },
+          {
+            "text": "LPL Financial",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Access Black Diamond",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/access-black-diamond10",
+            "path": "/access-black-diamond10"
+          },
+          {
+            "text": "Broker Dealer VS. Registered Investment Advisor",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/broker-dealer-vs-registered-investment-advisor6",
+            "path": "/broker-dealer-vs-registered-investment-advisor6"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Disclosures",
+        "href": "https://lynchburglegacy-31030758.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "LWM ADV Part 2A 2025",
+            "href": "https://4e7e1496-b923-4a3c-bb11-5d26e85abce7.usrfiles.com/ugd/4f907f_c1cd1de4157c4397aa389363d3bfb4cf.pdf",
+            "path": "/ugd/4f907f_c1cd1de4157c4397aa389363d3bfb4cf.pdf"
+          },
+          {
+            "text": "LWM Privacy Policy 2025",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/access-black-diamond10",
+            "path": "/access-black-diamond10"
+          },
+          {
+            "text": "LWM Wrap Brochure 2025",
+            "href": "https://4e7e1496-b923-4a3c-bb11-5d26e85abce7.usrfiles.com/ugd/4f907f_2ece980d1a444558aa08f20dd97ba814.pdf",
+            "path": "/ugd/4f907f_2ece980d1a444558aa08f20dd97ba814.pdf"
+          },
+          {
+            "text": "Social Media Disclosures",
+            "href": "https://4e7e1496-b923-4a3c-bb11-5d26e85abce7.usrfiles.com/ugd/4f907f_caf50db6741d4dd38a3bb12f942e8b11.pdf",
+            "path": "/ugd/4f907f_caf50db6741d4dd38a3bb12f942e8b11.pdf"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://lynchburglegacy-31030758.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://lynchburglegacy-31030758.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://lynchburglegacy-31030758.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "LPL Financial",
+            "brHref": "/featured_links.htm",
+            "migratedText": "LPL Financial",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Access Black Diamond",
+            "brHref": "/Access-Lifetime-Legacy.10.htm",
+            "migratedText": "Access Black Diamond",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/access-black-diamond10",
+            "migratedPath": "/access-black-diamond10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Broker Dealer VS. Registered Investment Advisor",
+            "brHref": "/Broker-Dealer-VS--Registered-Investment-Advisor.6.htm",
+            "migratedText": "Broker Dealer VS. Registered Investment Advisor",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/broker-dealer-vs-registered-investment-advisor6",
+            "migratedPath": "/broker-dealer-vs-registered-investment-advisor6"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Disclosures",
+        "brHref": "/:void(0);",
+        "migratedText": "Disclosures",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "LWM ADV Part 2A 2025",
+            "brHref": "/files/86455/LWMG ADV 2A 03.15.2025.pdf",
+            "migratedText": "LWM ADV Part 2A 2025",
+            "migratedHref": "https://4e7e1496-b923-4a3c-bb11-5d26e85abce7.usrfiles.com/ugd/4f907f_c1cd1de4157c4397aa389363d3bfb4cf.pdf",
+            "migratedPath": "/ugd/4f907f_c1cd1de4157c4397aa389363d3bfb4cf.pdf"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "LWM Privacy Policy 2025",
+            "brHref": "/files/86455/LWMG Privacy Policy 03.10.2025.pdf",
+            "migratedText": "LWM Privacy Policy 2025",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/access-black-diamond10",
+            "migratedPath": "/access-black-diamond10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "LWM Wrap Brochure 2025",
+            "brHref": "/files/86455/LWM Wrap Brochure 03.15.2025.pdf",
+            "migratedText": "LWM Wrap Brochure 2025",
+            "migratedHref": "https://4e7e1496-b923-4a3c-bb11-5d26e85abce7.usrfiles.com/ugd/4f907f_2ece980d1a444558aa08f20dd97ba814.pdf",
+            "migratedPath": "/ugd/4f907f_2ece980d1a444558aa08f20dd97ba814.pdf"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "LWM CRS 2025",
+            "brHref": "/files/86455/LWMG CRS 03.10.2025.pdf",
+            "note": "Sub-item \"LWM CRS 2025\" under \"Disclosures\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Social Media Disclosures",
+            "brHref": "/files/86455/Social Media for LWMG Website.pdf",
+            "migratedText": "Social Media Disclosures",
+            "migratedHref": "https://4e7e1496-b923-4a3c-bb11-5d26e85abce7.usrfiles.com/ugd/4f907f_caf50db6741d4dd38a3bb12f942e8b11.pdf",
+            "migratedPath": "/ugd/4f907f_caf50db6741d4dd38a3bb12f942e8b11.pdf"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 24,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 22,
+      "totalBrItems": 25
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "LPL Financial",
+            "brHref": "/featured_links.htm",
+            "migratedText": "LPL Financial",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Access Black Diamond",
+            "brHref": "/Access-Lifetime-Legacy.10.htm",
+            "migratedText": "Access Black Diamond",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/access-black-diamond10",
+            "migratedPath": "/access-black-diamond10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Broker Dealer VS. Registered Investment Advisor",
+            "brHref": "/Broker-Dealer-VS--Registered-Investment-Advisor.6.htm",
+            "migratedText": "Broker Dealer VS. Registered Investment Advisor",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/broker-dealer-vs-registered-investment-advisor6",
+            "migratedPath": "/broker-dealer-vs-registered-investment-advisor6"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Disclosures",
+        "brHref": "/",
+        "migratedText": "Disclosures",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Disclosures",
+            "brHref": "/:void(0);",
+            "migratedText": "Disclosures",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Disclosures\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "LWM ADV Part 2A 2025",
+            "brHref": "/files/86455/LWMG%20ADV%202A%2003.15.2025.pdf",
+            "migratedText": "LWM ADV Part 2A 2025",
+            "migratedHref": "https://4e7e1496-b923-4a3c-bb11-5d26e85abce7.usrfiles.com/ugd/4f907f_c1cd1de4157c4397aa389363d3bfb4cf.pdf",
+            "migratedPath": "/ugd/4f907f_c1cd1de4157c4397aa389363d3bfb4cf.pdf"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "LWM Privacy Policy 2025",
+            "brHref": "/files/86455/LWMG%20Privacy%20Policy%2003.10.2025.pdf",
+            "migratedText": "LWM Privacy Policy 2025",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/access-black-diamond10",
+            "migratedPath": "/access-black-diamond10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "LWM Wrap Brochure 2025",
+            "brHref": "/files/86455/LWM%20Wrap%20Brochure%2003.15.2025.pdf",
+            "migratedText": "LWM Wrap Brochure 2025",
+            "migratedHref": "https://4e7e1496-b923-4a3c-bb11-5d26e85abce7.usrfiles.com/ugd/4f907f_2ece980d1a444558aa08f20dd97ba814.pdf",
+            "migratedPath": "/ugd/4f907f_2ece980d1a444558aa08f20dd97ba814.pdf"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "LWM CRS 2025",
+            "brHref": "/files/86455/LWMG%20CRS%2003.10.2025.pdf",
+            "note": "Sub-item \"LWM CRS 2025\" under \"Disclosures\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Social Media Disclosures",
+            "brHref": "/files/86455/Social%20Media%20for%20LWMG%20Website.pdf",
+            "migratedText": "Social Media Disclosures",
+            "migratedHref": "https://4e7e1496-b923-4a3c-bb11-5d26e85abce7.usrfiles.com/ugd/4f907f_caf50db6741d4dd38a3bb12f942e8b11.pdf",
+            "migratedPath": "/ugd/4f907f_caf50db6741d4dd38a3bb12f942e8b11.pdf"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Events",
+        "brHref": "/events.htm",
+        "note": "\"Events\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://lynchburglegacy-31030758.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 44,
+      "totalMigratedItems": 24,
+      "missing": 5,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 1,
+      "ok": 24
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Legacy Wealth Management Group, Fiduciary, Investment Management, RIA, Lynchburg, Virginia, Educational Seminar, Riskalyze, Independent Financial Advisor",
+        "companyNames": [
+          "Legacy Wealth Management Group"
+        ],
+        "phoneNumbers": [
+          "4342661214",
+          "4344855499"
+        ],
+        "emailAddresses": [
+          "clientsupport@legacywealthadvisor.org"
+        ],
+        "physicalAddresses": [
+          "1971 English Tavern Rd\nLynchburg, VA 24501"
+        ],
+        "personNames": [],
+        "footerText": "Legacy Wealth Management Group, Inc. (LWMG) is an SEC registered investment adviser located in Lynchburg, VA. LWMG and its representatives are in compliance with the current filing requirements imposed upon SEC registered investment advisers by those states in which LWMG maintains clients. LWMG may only transact business in those states in which it is registered or qualifies for an exemption or exclusion from registration requirements. LWMG's web site is limited to the dissemination of general information pertaining to its advisory services, together with access to additional investment-related information, publications, and links. Accordingly, the publication of LWMG's web site on the Internet should not be construed by any consumer and/or prospective client as LWMG's solicitation to effect, or attempt to effect transactions in securities, or the rendering of personalized investment advice for compensation, over the Internet. Any subsequent, direct communication by LWMG with a prospec"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.lynchburglegacy.com",
+        "companyNames": [
+          "Legacy Wealth Management Group"
+        ],
+        "phoneNumbers": [
+          "4342661214",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "clientsupport@legacywealthadvisor.org"
+        ],
+        "physicalAddresses": [
+          "1971 English Tavern Rd\n\n\n\n\nLynchburg\n\n"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Legacy Wealth Management Group, Inc. (LWMG) is an SEC registered investment adviser located in Lynchburg, VA. LWMG and its representatives are in compliance with the current filing requirements imposed upon SEC registered investment advisers by those states in which LWMG maintains clients. LWMG may only transact business in those states in which it is registered or qualifies for an exemption or exclusion from registration requirements. LWMG's web site is limited to the dissemination of general information pertaining to its advisory services, together with access to additional investment-related information, publications, and links. Accordingly, the publication of LWMG's web site on the Internet should not be construed by any consumer and/or prospective client as LWMG's solicitation to effect, or attempt to effect transactions in securities, or the rendering of personalized investment advice for compensation, over the Internet. Any subsequent, direct communication by LWMG with a prospec"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(434) 266-1214, (434) 485-5499",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "1971 English Tavern Rd\nLynchburg, VA 24501",
+          "migratedValue": "1971 English Tavern Rd\n\n\n\n\nLynchburg\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

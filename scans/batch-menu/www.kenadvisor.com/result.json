@@ -1,0 +1,478 @@
+{
+  "site": {
+    "original": "www.kenadvisor.com",
+    "migrated": "https://kenadvisor-31030759.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.kenadvisor.com",
+    "migratedDomain": "https://kenadvisor-31030759.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:47:01.735Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/About-Us.2.htm",
+        "children": []
+      },
+      {
+        "title": "Our Services",
+        "href": "/Our-Services.3.htm",
+        "children": []
+      },
+      {
+        "title": "Learning Center",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.kenadvisor.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.kenadvisor.com/About-Us.2.htm",
+        "path": "/About-Us.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Services",
+        "href": "https://www.kenadvisor.com/Our-Services.3.htm",
+        "path": "/Our-Services.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Learning Center",
+        "href": "https://www.kenadvisor.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://www.kenadvisor.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.kenadvisor.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.kenadvisor.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.kenadvisor.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.kenadvisor.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.kenadvisor.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.kenadvisor.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.kenadvisor.com/form.cfm?ID=64&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.kenadvisor.com/form.cfm?ID=70&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.kenadvisor.com/form.cfm?ID=65&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.kenadvisor.com/form.cfm?ID=68&SSLID=*",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.kenadvisor.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://kenadvisor-31030759.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://kenadvisor-31030759.brprodaccount.com/about-us2",
+        "path": "/about-us2",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Services",
+        "href": "https://kenadvisor-31030759.brprodaccount.com/our-services3",
+        "path": "/our-services3",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Learning Center",
+        "href": "https://kenadvisor-31030759.brprodaccount.com/videos",
+        "path": "/videos",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://kenadvisor-31030759.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://kenadvisor-31030759.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://kenadvisor-31030759.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Articles",
+            "href": "https://kenadvisor-31030759.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://kenadvisor-31030759.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://kenadvisor-31030759.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://kenadvisor-31030759.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/About-Us.2.htm",
+        "migratedText": "About Us",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/about-us2",
+        "migratedPath": "/about-us2"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Our Services",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/our-services3",
+        "migratedPath": "/our-services3"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Learning Center",
+        "brHref": "/#",
+        "migratedText": "Learning Center",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Learning Center\" should be a dropdown (/#) but migrated links to /videos",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 11,
+      "totalMigratedItems": 11,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 10,
+      "totalBrItems": 11
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/About-Us.2.htm",
+        "migratedText": "About Us",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/about-us2",
+        "migratedPath": "/about-us2"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Our Services",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/our-services3",
+        "migratedPath": "/our-services3"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Learning Center",
+        "brHref": "/",
+        "migratedText": "Learning Center",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Learning Center\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "void(0);",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://kenadvisor-31030759.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 11,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 11
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "",
+        "companyNames": [
+          "Trinity Advisor Group"
+        ],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Securities offered through SA Stone Wealth Management Inc. Member FINRA/SIPC. Investment Advisory Services are offered through Ignite Planners, LLC, an SEC Registered Investment Adviser. .Client Relationship Summary IgniteIgnite Privacy Policy Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.kenadvisor.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Securities offered through SA Stone Wealth Management Inc. Member FINRA/SIPC.Investment Advisory Services are offered through Ignite Planners, LLC, an SEC Registered Investment Adviser..Client Relationship Summary IgniteIgnite Privacy Policy"
+      },
+      "mismatches": []
+    }
+  }
+}

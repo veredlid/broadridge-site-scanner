@@ -1,0 +1,415 @@
+{
+  "site": {
+    "original": "www.donleander.com",
+    "migrated": "https://donleander-31030803.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.donleander.com",
+    "migratedDomain": "https://donleander-31030803.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:41:09.756Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "The mission of Financial Planning Strategies is to help you secure every aspect of your financial future and give you peace of mind today in all your investment and financial planning goals",
+            "href": "/The-mission-of-Financial-Planning-Strategies-is-to-help-you-secure-every-aspect-of-your-financial-future-and-give-you-peace-of-mind-today-in-all-your-investment-and-financial-planning-goals.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Sitemap",
+            "href": "/Sitemap.9.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.donleander.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.donleander.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "The mission of Financial Planning Strategies is to help you secure every aspect of your financial future and give you peace of mind today in all your investment and financial planning goals",
+            "href": "https://www.donleander.com/The-mission-of-Financial-Planning-Strategies-is-to-help-you-secure-every-aspect-of-your-financial-future-and-give-you-peace-of-mind-today-in-all-your-investment-and-financial-planning-goals.1.htm",
+            "path": "/The-mission-of-Financial-Planning-Strategies-is-to-help-you-secure-every-aspect-of-your-financial-future-and-give-you-peace-of-mind-today-in-all-your-investment-and-financial-planning-goals.1.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.donleander.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.donleander.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Sitemap",
+            "href": "https://www.donleander.com/Sitemap.9.htm",
+            "path": "/Sitemap.9.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=42033",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.donleander.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.donleander.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.donleander.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.donleander.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.donleander.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.donleander.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.donleander.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.donleander.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.donleander.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=42033&SN=2594253929",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=42033&SN=2594253929",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=42033&SN=2594253929",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=42033&SN=2594253929",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.donleander.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://donleander-31030803.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://donleander-31030803.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://donleander-31030803.brprodaccount.com/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+        "path": "/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+        "subItems": [
+          {
+            "text": "The mission of Financial Planning Strategies is to help you secure every aspect of your financial future and give you peace of mind today in all your investment and financial planning goals",
+            "href": "https://donleander-31030803.brprodaccount.com/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+            "path": "/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://donleander-31030803.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://donleander-31030803.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Sitemap",
+            "href": "https://donleander-31030803.brprodaccount.com/sitemap9",
+            "path": "/sitemap9"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://donleander-31030803.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://donleander-31030803.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://donleander-31030803.brprodaccount.com/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+        "migratedPath": "/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "The mission of Financial Planning Strategies is to help you secure every aspect of your financial future and give you peace of mind today in all your investment and financial planning goals",
+            "brHref": "/The-mission-of-Financial-Planning-Strategies-is-to-help-you-secure-every-aspect-of-your-financial-future-and-give-you-peace-of-mind-today-in-all-your-investment-and-financial-planning-goals.1.htm",
+            "migratedText": "The mission of Financial Planning Strategies is to help you secure every aspect of your financial future and give you peace of mind today in all your investment and financial planning goals",
+            "migratedHref": "https://donleander-31030803.brprodaccount.com/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+            "migratedPath": "/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://donleander-31030803.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://donleander-31030803.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Sitemap",
+            "brHref": "/Sitemap.9.htm",
+            "migratedText": "Sitemap",
+            "migratedHref": "https://donleander-31030803.brprodaccount.com/sitemap9",
+            "migratedPath": "/sitemap9"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 6,
+      "totalMigratedItems": 7,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 5,
+      "totalBrItems": 6
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://donleander-31030803.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://donleander-31030803.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://donleander-31030803.brprodaccount.com/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+        "migratedPath": "/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "The mission of Financial Planning Strategies is to help you secure every aspect of your financial future and give you peace of mind today in all your investment and financial planning goals",
+            "brHref": "/The-mission-of-Financial-Planning-Strategies-is-to-help-you-secure-every-aspect-of-your-financial-future-and-give-you-peace-of-mind-today-in-all-your-investment-and-financial-planning-goals.1.htm",
+            "migratedText": "The mission of Financial Planning Strategies is to help you secure every aspect of your financial future and give you peace of mind today in all your investment and financial planning goals",
+            "migratedHref": "https://donleander-31030803.brprodaccount.com/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1",
+            "migratedPath": "/don-leander-cfp-over-30-years-of-independent-objective-comprehensive-financial-advice1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://donleander-31030803.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://donleander-31030803.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Sitemap",
+            "brHref": "/Sitemap.9.htm",
+            "migratedText": "Sitemap",
+            "migratedHref": "https://donleander-31030803.brprodaccount.com/sitemap9",
+            "migratedPath": "/sitemap9"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 21,
+      "totalMigratedItems": 7,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 6
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Don Leander | Colorado Investment Advisor, Colorado Springs Financial Advisor, Estate Planner | Donleander.com",
+        "companyNames": [
+          "Financial Planning Strategies, LLC",
+          "Don Leander",
+          "Colorado Investment Advisor, Colorado Springs Financial Advisor, Estate Planner"
+        ],
+        "phoneNumbers": [
+          "7192665335",
+          "8003759850"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Required Disclosure: Don Leander is primarily a fee-only financial adviser (dba: Financial Planning Strategies) and a registered investment advisory firm, and is not employed by any brokerage firm. Schwab Institutional is the primary brokerage recommended to provide client statements, online services, and securities transaction clearing. Don is also a licensed insurance agent, and when requested, will work for clients as an independent agent recommending various kinds of insurance or annuities, when appropriate, which can result in commission compensation. A copy of Don Leander's disclouure brochure (Form ADV Part II) is available upon request. Don Leander is available to work with a limited number of clients in all 50 states, but primarily focuses on clients in the states of Colorado and Texas. Colorado Springs Investment Advisor | Financial Advisor Colorado Springs Estate Planner Colorado | Colorado 529 Plans Colorado Springs | Sitemap © <!-- var currentTime = new Date() var month = "
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.donleander.com",
+        "companyNames": [
+          "Financial Planning Strategies, LLC"
+        ],
+        "phoneNumbers": [
+          "7192665335",
+          "8003759850",
+          "9723800097"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Required Disclosure: Don Leander is primarily a fee-only financial adviser (dba: Financial Planning Strategies) and a registered investment advisory firm, and is not employed by any brokerage firm. Schwab Institutional is the primary brokerage recommended to provide client statements, online services, and securities transaction clearing. Don is also a licensed insurance agent, and when requested, will work for clients as an independent agent recommending various kinds of insurance or annuities, when appropriate, which can result in commission compensation. A copy of Don Leander's disclouure brochure (Form ADV Part II) is available upon request. Don Leander is available to work with a limited number of clients in all 50 states, but primarily focuses on clients in the states of Colorado and Texas."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(719) 266-5335, (800) 375-9850",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

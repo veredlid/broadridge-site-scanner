@@ -1,0 +1,788 @@
+{
+  "site": {
+    "original": "www.know-parallel.com",
+    "migrated": "https://know-parallel-31030759.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.know-parallel.com",
+    "migratedDomain": "https://know-parallel-31030759.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:45:14.556Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": [
+          {
+            "title": "Secure Client Upload",
+            "href": "/https://www.dropbox.com/request/5LxehF1SgqfV0jIQhfSr"
+          },
+          {
+            "title": "Parallel Family Office Secure Upload",
+            "href": "/https://www.dropbox.com/request/ZsF7M1NKsdJrPlZrdaDv"
+          }
+        ]
+      },
+      {
+        "title": "About Our Team",
+        "href": "/About-Our-Team.5.htm",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          }
+        ]
+      },
+      {
+        "title": "Your Account",
+        "href": "/You-Account.6.htm",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Broker/Dealer Form CRS",
+        "href": "/Broker-Dealer-Form-CRS.8.htm",
+        "children": []
+      },
+      {
+        "title": "ADV/Firm Brochure",
+        "href": "/View-ADV-Brochure.7.htm",
+        "children": []
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.know-parallel.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Home",
+            "href": "https://www.know-parallel.com/",
+            "path": "/"
+          },
+          {
+            "text": "Secure Client Upload",
+            "href": "https://www.dropbox.com/request/5LxehF1SgqfV0jIQhfSr",
+            "path": "/request/5LxehF1SgqfV0jIQhfSr"
+          },
+          {
+            "text": "Parallel Family Office Secure Upload",
+            "href": "https://www.know-parallel.com/Parallel-Family-Office-Secure-Upload.15.htm",
+            "path": "/Parallel-Family-Office-Secure-Upload.15.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "About Our Team",
+        "href": "https://www.know-parallel.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "About Our Team",
+            "href": "https://www.know-parallel.com/About-Our-Team.5.htm",
+            "path": "/About-Our-Team.5.htm"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.know-parallel.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.know-parallel.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.know-parallel.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.know-parallel.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.know-parallel.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.know-parallel.com/tellafriend.cfm?SSLID=103162",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Your Account",
+        "href": "https://www.know-parallel.com/You-Account.6.htm",
+        "path": "/You-Account.6.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.know-parallel.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.know-parallel.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.know-parallel.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.know-parallel.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.know-parallel.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.know-parallel.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.know-parallel.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.know-parallel.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Broker/Dealer Form CRS",
+        "href": "https://www.know-parallel.com/Broker-Dealer-Form-CRS.8.htm",
+        "path": "/Broker-Dealer-Form-CRS.8.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "ADV/Firm Brochure",
+        "href": "https://www.know-parallel.com/View-ADV-Brochure.7.htm",
+        "path": "/View-ADV-Brochure.7.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.know-parallel.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://know-parallel-31030759.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Secure Client Upload",
+            "href": "https://www.dropbox.com/request/5LxehF1SgqfV0jIQhfSr",
+            "path": "/request/5LxehF1SgqfV0jIQhfSr"
+          },
+          {
+            "text": "Parallel Family Office Secure Upload",
+            "href": "https://www.dropbox.com/request/ZsF7M1NKsdJrPlZrdaDv",
+            "path": "/request/ZsF7M1NKsdJrPlZrdaDv"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "About Our Team",
+        "href": "https://know-parallel-31030759.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://know-parallel-31030759.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://know-parallel-31030759.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://know-parallel-31030759.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://know-parallel-31030759.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://know-parallel-31030759.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Your Account",
+        "href": "https://know-parallel-31030759.brprodaccount.com/your-account6",
+        "path": "/your-account6",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://know-parallel-31030759.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://know-parallel-31030759.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://know-parallel-31030759.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://know-parallel-31030759.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://know-parallel-31030759.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://know-parallel-31030759.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://know-parallel-31030759.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Broker/Dealer Form CRS",
+        "href": "https://know-parallel-31030759.brprodaccount.com/custom-section-88",
+        "path": "/custom-section-88",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "ADV/Firm Brochure",
+        "href": "https://know-parallel-31030759.brprodaccount.com/custom-section-77",
+        "path": "/custom-section-77",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://know-parallel-31030759.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Secure Client Upload",
+            "brHref": "/https://www.dropbox.com/request/5LxehF1SgqfV0jIQhfSr",
+            "migratedText": "Secure Client Upload",
+            "migratedHref": "https://www.dropbox.com/request/5LxehF1SgqfV0jIQhfSr",
+            "migratedPath": "/request/5LxehF1SgqfV0jIQhfSr"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Parallel Family Office Secure Upload",
+            "brHref": "/https://www.dropbox.com/request/ZsF7M1NKsdJrPlZrdaDv",
+            "migratedText": "Parallel Family Office Secure Upload",
+            "migratedHref": "https://www.dropbox.com/request/ZsF7M1NKsdJrPlZrdaDv",
+            "migratedPath": "/request/ZsF7M1NKsdJrPlZrdaDv"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Our Team",
+        "brHref": "/About-Our-Team.5.htm",
+        "migratedText": "About Our Team",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Your Account",
+        "brHref": "/You-Account.6.htm",
+        "migratedText": "Your Account",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/your-account6",
+        "migratedPath": "/your-account6"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Broker/Dealer Form CRS",
+        "brHref": "/Broker-Dealer-Form-CRS.8.htm",
+        "migratedText": "Broker/Dealer Form CRS",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/custom-section-88",
+        "migratedPath": "/custom-section-88"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "ADV/Firm Brochure",
+        "brHref": "/View-ADV-Brochure.7.htm",
+        "migratedText": "ADV/Firm Brochure",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/custom-section-77",
+        "migratedPath": "/custom-section-77"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 20,
+      "totalMigratedItems": 20,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 19,
+      "totalBrItems": 20
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Home",
+            "brHref": "/",
+            "migratedText": "Home",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Home\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Secure Client Upload",
+            "brHref": "/request/5LxehF1SgqfV0jIQhfSr",
+            "migratedText": "Secure Client Upload",
+            "migratedHref": "https://www.dropbox.com/request/5LxehF1SgqfV0jIQhfSr",
+            "migratedPath": "/request/5LxehF1SgqfV0jIQhfSr"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Parallel Family Office Secure Upload",
+            "brHref": "/Parallel-Family-Office-Secure-Upload.15.htm",
+            "migratedText": "Parallel Family Office Secure Upload",
+            "migratedHref": "https://www.dropbox.com/request/ZsF7M1NKsdJrPlZrdaDv",
+            "migratedPath": "/request/ZsF7M1NKsdJrPlZrdaDv"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Our Team",
+        "brHref": "/",
+        "migratedText": "About Our Team",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "About Our Team",
+            "brHref": "/About-Our-Team.5.htm",
+            "migratedText": "About Our Team",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-team",
+            "migratedPath": "/our-team",
+            "note": "\"About Our Team\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Our Team\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Your Account",
+        "brHref": "/You-Account.6.htm",
+        "migratedText": "Your Account",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/your-account6",
+        "migratedPath": "/your-account6"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://know-parallel-31030759.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Broker/Dealer Form CRS",
+        "brHref": "/Broker-Dealer-Form-CRS.8.htm",
+        "migratedText": "Broker/Dealer Form CRS",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/custom-section-88",
+        "migratedPath": "/custom-section-88"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "ADV/Firm Brochure",
+        "brHref": "/View-ADV-Brochure.7.htm",
+        "migratedText": "ADV/Firm Brochure",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/custom-section-77",
+        "migratedPath": "/custom-section-77"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://know-parallel-31030759.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 24,
+      "totalMigratedItems": 20,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 2,
+      "ok": 20
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Parallel Equity Advisors LTD.",
+        "companyNames": [
+          "Parallel Equity Advisors, Ltd.",
+          "Parallel Equity Advisors LTD."
+        ],
+        "phoneNumbers": [
+          "7248462488"
+        ],
+        "emailAddresses": [
+          "advisor@know-parallel.com"
+        ],
+        "physicalAddresses": [
+          "3582 Brodhead Road, Suite "
+        ],
+        "personNames": [],
+        "footerText": "Securities offered through Fortune Financial Services, Inc. 3582 Brodhead Road, Suite 202 Monaca, PA 15061. Member of FINRA/SIPC 724-846-2488. Investment advisory services offered through Parallel Equity Advisors, LTD., CRD# 153265, a Licensed Registered Investment Adviser under the Ohio Department of Commerce/Division of Securities administers purview. Parallel Equity Advisors, LTD. is not an entity of Fortune Financial Services Inc.This communication is strictly intended for individuals residing in the state(s) of OH, IN, PA. No offers may be made or accepted from any resident outside the specific states referenced. Please review \"View ADV/Firm Brochure\" tab for more information pertaining to this matter.Investment Adviser Firm Summary may be found here Parallel Equity Advisors, LTD Firm Summary Check the background of this fiancial professional on FINRA's BrokerCheck Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.know-parallel.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "7248462488"
+        ],
+        "emailAddresses": [
+          "advisor@know-parallel.com"
+        ],
+        "physicalAddresses": [
+          "3582 Brodhead Road, Suite "
+        ],
+        "personNames": [],
+        "footerText": "Securities offered through Fortune Financial Services, Inc. 3582 Brodhead Road, Suite 202 Monaca, PA 15061. Member of FINRA/SIPC 724-846-2488. Investment advisory services offered through Parallel Equity Advisors, LTD., CRD# 153265, a Licensed Registered Investment Adviser under the Ohio Department of Commerce/Division of Securities administers purview. Parallel Equity Advisors, LTD. is not an entity of Fortune Financial Services Inc.This communication is strictly intended for individuals residing in the state(s) of OH, IN, PA. No offers may be made or accepted from any resident outside the specific states referenced. Please review \"View ADV/Firm Brochure\" tab for more information pertaining to this matter.Investment Adviser Firm Summary may be found here Parallel Equity Advisors, LTD Firm Summary Check the background of this fiancial professional on FINRA's BrokerCheck"
+      },
+      "mismatches": []
+    }
+  }
+}

@@ -1,0 +1,931 @@
+{
+  "site": {
+    "original": "www.rlevansco.net",
+    "migrated": "https://rlevansco-31030755.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.rlevansco.net",
+    "migratedDomain": "https://rlevansco-31030755.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:48:01.032Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Privacy Policy",
+            "href": "/Privacy-Policy.8.htm"
+          },
+          {
+            "title": "Site Disclaimer",
+            "href": "/https://admin.emeraldconnect.com/admin/view_file.cfm?ID=802636"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Our Services",
+        "href": "/:void(0);",
+        "children": [
+          {
+            "title": "Investment Management",
+            "href": "/Investment-Management.11.htm"
+          },
+          {
+            "title": "Financial Planning",
+            "href": "/Financial-Planning.12.htm"
+          },
+          {
+            "title": "Retirement Plan Consulting",
+            "href": "/Retirement-Plan-Consulting.13.htm"
+          },
+          {
+            "title": "Fiduciary Consulting",
+            "href": "/Fiduciary-Consulting.10.htm"
+          },
+          {
+            "title": "Insurance Services",
+            "href": "/https://www.rlevansco.com/"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Access My Accounts",
+        "href": "/#",
+        "children": [
+          {
+            "title": "ECMA Client Web Portal",
+            "href": "/https://client.myadvisorlink.com/auth/users/webportal/ECMA"
+          },
+          {
+            "title": "Charles Schwab",
+            "href": "/https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "title": "Capital Group",
+            "href": "/https://www.capitalgroup.com/individual/accounts/login.htm"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.rlevansco.net/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.rlevansco.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Associates",
+            "href": "https://www.rlevansco.net/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.rlevansco.net/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Privacy Policy",
+            "href": "https://www.rlevansco.net/Privacy-Policy.8.htm",
+            "path": "/Privacy-Policy.8.htm"
+          },
+          {
+            "text": "Site Disclaimer",
+            "href": "https://www.rlevansco.net/Site-Disclaimer.9.htm",
+            "path": "/Site-Disclaimer.9.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.rlevansco.net/featured_links.htm",
+            "path": "/featured_links.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Our Services",
+        "href": "https://www.rlevansco.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Services",
+            "href": "https://www.rlevansco.net/:void(0);",
+            "path": "/:void(0);"
+          },
+          {
+            "text": "Investment Management",
+            "href": "https://www.rlevansco.net/Investment-Management.11.htm",
+            "path": "/Investment-Management.11.htm"
+          },
+          {
+            "text": "Financial Planning",
+            "href": "https://www.rlevansco.net/Financial-Planning.12.htm",
+            "path": "/Financial-Planning.12.htm"
+          },
+          {
+            "text": "Retirement Plan Consulting",
+            "href": "https://www.rlevansco.net/Retirement-Plan-Consulting.13.htm",
+            "path": "/Retirement-Plan-Consulting.13.htm"
+          },
+          {
+            "text": "Fiduciary Consulting",
+            "href": "https://www.rlevansco.net/Fiduciary-Consulting.10.htm",
+            "path": "/Fiduciary-Consulting.10.htm"
+          },
+          {
+            "text": "Insurance Services",
+            "href": "https://www.rlevansco.net/Insurance-Services.4.htm",
+            "path": "/Insurance-Services.4.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.rlevansco.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.rlevansco.net/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.rlevansco.net/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.rlevansco.net/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.rlevansco.net/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.rlevansco.net/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.rlevansco.net/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.rlevansco.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.rlevansco.net/form.cfm?ID=65&SSLID=18470",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.rlevansco.net/form.cfm?ID=68&SSLID=18470",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.rlevansco.net/form.cfm?ID=70&SSLID=18470",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.rlevansco.net/form.cfm?ID=72&SSLID=18470",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.rlevansco.net/form.cfm?ID=73&SSLID=18470",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Access My Accounts",
+        "href": "https://www.rlevansco.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "ECMA Client Web Portal",
+            "href": "https://client.myadvisorlink.com/auth/users/webportal/ECMA",
+            "path": "/auth/users/webportal/ECMA"
+          },
+          {
+            "text": "Charles Schwab",
+            "href": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "path": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "text": "Capital Group",
+            "href": "https://www.capitalgroup.com/individual/accounts/login.htm",
+            "path": "/individual/accounts/login.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.rlevansco.net/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://rlevansco-31030755.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://rlevansco-31030755.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Associates",
+            "href": "https://rlevansco-31030755.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://rlevansco-31030755.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Privacy Policy",
+            "href": "https://rlevansco-31030755.brprodaccount.com/privacy-policy8",
+            "path": "/privacy-policy8"
+          },
+          {
+            "text": "Site Disclaimer",
+            "href": "https://admin.emeraldconnect.com/admin/view_file.cfm?ID=802636",
+            "path": "/admin/view_file.cfm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://rlevansco-31030755.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Our Services",
+        "href": "https://rlevansco-31030755.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Investment Management",
+            "href": "https://rlevansco-31030755.brprodaccount.com/investment-management11",
+            "path": "/investment-management11"
+          },
+          {
+            "text": "Financial Planning",
+            "href": "https://rlevansco-31030755.brprodaccount.com/financial-planning12",
+            "path": "/financial-planning12"
+          },
+          {
+            "text": "Retirement Plan Consulting",
+            "href": "https://rlevansco-31030755.brprodaccount.com/retirement-plan-consulting13",
+            "path": "/retirement-plan-consulting13"
+          },
+          {
+            "text": "Fiduciary Consulting",
+            "href": "https://rlevansco-31030755.brprodaccount.com/fiduciary-consulting10",
+            "path": "/fiduciary-consulting10"
+          },
+          {
+            "text": "Insurance Services",
+            "href": "https://www.rlevansco.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://rlevansco-31030755.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://rlevansco-31030755.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://rlevansco-31030755.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://rlevansco-31030755.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://rlevansco-31030755.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://rlevansco-31030755.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Access My Accounts",
+        "href": "https://client.myadvisorlink.com/auth/users/webportal/ECMA",
+        "path": "/auth/users/webportal/ECMA",
+        "subItems": [
+          {
+            "text": "ECMA Client Web Portal",
+            "href": "https://client.myadvisorlink.com/auth/users/webportal/ECMA",
+            "path": "/auth/users/webportal/ECMA"
+          },
+          {
+            "text": "Charles Schwab",
+            "href": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "path": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "text": "Capital Group",
+            "href": "https://www.capitalgroup.com/individual/accounts/login.htm",
+            "path": "/individual/accounts/login.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://rlevansco-31030755.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Privacy Policy",
+            "brHref": "/Privacy-Policy.8.htm",
+            "migratedText": "Privacy Policy",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/privacy-policy8",
+            "migratedPath": "/privacy-policy8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Site Disclaimer",
+            "brHref": "/https://admin.emeraldconnect.com/admin/view_file.cfm?ID=802636",
+            "migratedText": "Site Disclaimer",
+            "migratedHref": "https://admin.emeraldconnect.com/admin/view_file.cfm?ID=802636",
+            "migratedPath": "/admin/view_file.cfm"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Services",
+        "brHref": "/:void(0);",
+        "migratedText": "Our Services",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Investment Management",
+            "brHref": "/Investment-Management.11.htm",
+            "migratedText": "Investment Management",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/investment-management11",
+            "migratedPath": "/investment-management11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Financial Planning",
+            "brHref": "/Financial-Planning.12.htm",
+            "migratedText": "Financial Planning",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/financial-planning12",
+            "migratedPath": "/financial-planning12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Plan Consulting",
+            "brHref": "/Retirement-Plan-Consulting.13.htm",
+            "migratedText": "Retirement Plan Consulting",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/retirement-plan-consulting13",
+            "migratedPath": "/retirement-plan-consulting13"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Fiduciary Consulting",
+            "brHref": "/Fiduciary-Consulting.10.htm",
+            "migratedText": "Fiduciary Consulting",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/fiduciary-consulting10",
+            "migratedPath": "/fiduciary-consulting10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Insurance Services",
+            "brHref": "/https://www.rlevansco.com/",
+            "migratedText": "Insurance Services",
+            "migratedHref": "https://www.rlevansco.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Access My Accounts",
+        "brHref": "/#",
+        "migratedText": "Access My Accounts",
+        "migratedHref": "https://client.myadvisorlink.com/auth/users/webportal/ECMA",
+        "migratedPath": "/auth/users/webportal/ECMA",
+        "note": "\"Access My Accounts\" should be a dropdown (/#) but migrated links to /auth/users/webportal/ECMA",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "ECMA Client Web Portal",
+            "brHref": "/https://client.myadvisorlink.com/auth/users/webportal/ECMA",
+            "migratedText": "ECMA Client Web Portal",
+            "migratedHref": "https://client.myadvisorlink.com/auth/users/webportal/ECMA",
+            "migratedPath": "/auth/users/webportal/ECMA"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Charles Schwab",
+            "brHref": "/https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "migratedText": "Charles Schwab",
+            "migratedHref": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "migratedPath": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Capital Group",
+            "brHref": "/https://www.capitalgroup.com/individual/accounts/login.htm",
+            "migratedText": "Capital Group",
+            "migratedHref": "https://www.capitalgroup.com/individual/accounts/login.htm",
+            "migratedPath": "/individual/accounts/login.htm"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 24,
+      "totalMigratedItems": 24,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 3,
+      "structureChanges": 0,
+      "ok": 21,
+      "totalBrItems": 24
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Privacy Policy",
+            "brHref": "/Privacy-Policy.8.htm",
+            "migratedText": "Privacy Policy",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/privacy-policy8",
+            "migratedPath": "/privacy-policy8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Site Disclaimer",
+            "brHref": "/Site-Disclaimer.9.htm",
+            "migratedText": "Site Disclaimer",
+            "migratedHref": "https://admin.emeraldconnect.com/admin/view_file.cfm?ID=802636",
+            "migratedPath": "/admin/view_file.cfm"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Services",
+        "brHref": "/",
+        "migratedText": "Our Services",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Our Services",
+            "brHref": "/:void(0);",
+            "migratedText": "Our Services",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Our Services\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Investment Management",
+            "brHref": "/Investment-Management.11.htm",
+            "migratedText": "Investment Management",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/investment-management11",
+            "migratedPath": "/investment-management11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Financial Planning",
+            "brHref": "/Financial-Planning.12.htm",
+            "migratedText": "Financial Planning",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/financial-planning12",
+            "migratedPath": "/financial-planning12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Plan Consulting",
+            "brHref": "/Retirement-Plan-Consulting.13.htm",
+            "migratedText": "Retirement Plan Consulting",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/retirement-plan-consulting13",
+            "migratedPath": "/retirement-plan-consulting13"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Fiduciary Consulting",
+            "brHref": "/Fiduciary-Consulting.10.htm",
+            "migratedText": "Fiduciary Consulting",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/fiduciary-consulting10",
+            "migratedPath": "/fiduciary-consulting10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Insurance Services",
+            "brHref": "/Insurance-Services.4.htm",
+            "migratedText": "Insurance Services",
+            "migratedHref": "https://www.rlevansco.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://rlevansco-31030755.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Access My Accounts",
+        "brHref": "/",
+        "migratedText": "Access My Accounts",
+        "migratedHref": "https://client.myadvisorlink.com/auth/users/webportal/ECMA",
+        "migratedPath": "/auth/users/webportal/ECMA",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "ECMA Client Web Portal",
+            "brHref": "/auth/users/webportal/ECMA",
+            "migratedText": "ECMA Client Web Portal",
+            "migratedHref": "https://client.myadvisorlink.com/auth/users/webportal/ECMA",
+            "migratedPath": "/auth/users/webportal/ECMA"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Charles Schwab",
+            "brHref": "/Login/SignOn/CustomerCenterLogin.aspx",
+            "migratedText": "Charles Schwab",
+            "migratedHref": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "migratedPath": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Capital Group",
+            "brHref": "/individual/accounts/login.htm",
+            "migratedText": "Capital Group",
+            "migratedHref": "https://www.capitalgroup.com/individual/accounts/login.htm",
+            "migratedPath": "/individual/accounts/login.htm"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://rlevansco-31030755.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 32,
+      "totalMigratedItems": 24,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 1,
+      "ok": 24
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "R. L. Evans Company Inc.",
+        "companyNames": [
+          "R. L. Evans Company Inc."
+        ],
+        "phoneNumbers": [
+          "4254550501",
+          "4254675264"
+        ],
+        "emailAddresses": [
+          "ecma@rlevansco.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "This website is a publication of Evans Capital Management Associates. Information presented is believed to be factual and up-to-date, but we do not guarantee its accuracy and it should not be regarded as a complete analysis of the subjects discussed. All expressions of opinion reflect the judgment of the authors as of the date of publication and are subject to change. Information on this web site is directed toward U.S. residents only. Evans Capital Management Associates is a registered investment adviser that is registered with the United States Securities and Exchange Commission (SEC), and notice filed in state jurisdictions where required. Evans Capital Management Associates will not transact business in states where it is not properly notice filed, excluded or exempted from notice filing requirements. Individualized responses to persons that involve either the effecting of transaction in securities, or the rendering of personalized investment advice for compensation, will not be ma"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.rlevansco.net",
+        "companyNames": [],
+        "phoneNumbers": [
+          "4254550501",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "ecma@rlevansco.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "This website is a publication of Evans Capital Management Associates. Information presented is believed to be factual and up-to-date, but we do not guarantee its accuracy and it should not be regarded as a complete analysis of the subjects discussed. All expressions of opinion reflect the judgment of the authors as of the date of publication and are subject to change. Information on this web site is directed toward U.S. residents only. Evans Capital Management Associates is a registered investment adviser that is registered with the United States Securities and Exchange Commission (SEC), and notice filed in state jurisdictions where required. Evans Capital Management Associates will not transact business in states where it is not properly notice filed, excluded or exempted from notice filing requirements. Individualized responses to persons that involve either the effecting of transaction in securities, or the rendering of personalized investment advice for compensation, will not be ma"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(425) 455-0501, (425) 467-5264",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,757 @@
+{
+  "site": {
+    "original": "www.myreliance.com",
+    "migrated": "https://myreliance-31030757.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.myreliance.com",
+    "migratedDomain": "https://myreliance-31030757.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:47:44.990Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Many Services, One Fee",
+            "href": "/Many-Services,-One-Fee.2.htm"
+          },
+          {
+            "title": "Asset Management",
+            "href": "/Asset-Management.4.htm"
+          },
+          {
+            "title": "Financial Planning",
+            "href": "/Financial-Planning.6.htm"
+          },
+          {
+            "title": "Who We Are",
+            "href": "/Who-We-Are.8.htm"
+          }
+        ]
+      },
+      {
+        "title": "Womens Resource Center",
+        "href": "/Womens-Resource-Center.10.htm",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "FAQS",
+        "href": "/FAQS.9.htm",
+        "children": []
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Access Your Account",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Schwab Account",
+            "href": "/https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "title": "Money Guide Pro Account",
+            "href": "/https://www.moneyguidepro.com/first-affirmative/Guests.aspx?gst=&amp;sDestPage=10032"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.myreliance.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.myreliance.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Many Services, One Fee",
+            "href": "https://www.myreliance.com/Many-Services,-One-Fee.2.htm",
+            "path": "/Many-Services,-One-Fee.2.htm"
+          },
+          {
+            "text": "Asset Management",
+            "href": "https://www.myreliance.com/Asset-Management.4.htm",
+            "path": "/Asset-Management.4.htm"
+          },
+          {
+            "text": "Financial Planning",
+            "href": "https://www.myreliance.com/Financial-Planning.6.htm",
+            "path": "/Financial-Planning.6.htm"
+          },
+          {
+            "text": "Who We Are",
+            "href": "https://www.myreliance.com/Who-We-Are.8.htm",
+            "path": "/Who-We-Are.8.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.myreliance.com/tellafriend.cfm?SSLID=18670",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Womens Resource Center",
+        "href": "https://www.myreliance.com/Womens-Resource-Center.10.htm",
+        "path": "/Womens-Resource-Center.10.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.myreliance.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Featured Links",
+            "href": "https://www.myreliance.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.myreliance.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.myreliance.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.myreliance.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.myreliance.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.myreliance.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.myreliance.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "FAQS",
+        "href": "https://www.myreliance.com/FAQS.9.htm",
+        "path": "/FAQS.9.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.myreliance.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Access Your Account",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Schwab Account",
+            "href": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "path": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "text": "Money Guide Pro Account",
+            "href": "https://www.moneyguidepro.com/first-affirmative/Guests.aspx?gst=&sDestPage=10032",
+            "path": "/first-affirmative/Guests.aspx"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://myreliance-31030757.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://myreliance-31030757.brprodaccount.com/many-services-one-fee2",
+        "path": "/many-services-one-fee2",
+        "subItems": [
+          {
+            "text": "Many Services, One Fee",
+            "href": "https://myreliance-31030757.brprodaccount.com/many-services-one-fee2",
+            "path": "/many-services-one-fee2"
+          },
+          {
+            "text": "Asset Management",
+            "href": "https://myreliance-31030757.brprodaccount.com/asset-management4",
+            "path": "/asset-management4"
+          },
+          {
+            "text": "Financial Planning",
+            "href": "https://myreliance-31030757.brprodaccount.com/financial-planning6",
+            "path": "/financial-planning6"
+          },
+          {
+            "text": "Who We Are",
+            "href": "https://myreliance-31030757.brprodaccount.com/our-team",
+            "path": "/our-team"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Womens Resource Center",
+        "href": "https://myreliance-31030757.brprodaccount.com/womens-resource-center10",
+        "path": "/womens-resource-center10",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://myreliance-31030757.brprodaccount.com/featured-links",
+        "path": "/featured-links",
+        "subItems": [
+          {
+            "text": "Featured Links",
+            "href": "https://myreliance-31030757.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Articles",
+            "href": "https://myreliance-31030757.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://myreliance-31030757.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://myreliance-31030757.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://myreliance-31030757.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://myreliance-31030757.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "FAQS",
+        "href": "https://myreliance-31030757.brprodaccount.com/faqs9",
+        "path": "/faqs9",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://myreliance-31030757.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Access Your Account",
+        "href": "https://myreliance-31030757.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Schwab Account",
+            "href": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "path": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "text": "Money Guide Pro Account",
+            "href": "https://www.moneyguidepro.com/first-affirmative/Guests.aspx?gst=&amp;sDestPage=10032",
+            "path": "/first-affirmative/Guests.aspx"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/many-services-one-fee2",
+        "migratedPath": "/many-services-one-fee2",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /many-services-one-fee2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Many Services, One Fee",
+            "brHref": "/Many-Services,-One-Fee.2.htm",
+            "migratedText": "Many Services, One Fee",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/many-services-one-fee2",
+            "migratedPath": "/many-services-one-fee2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Asset Management",
+            "brHref": "/Asset-Management.4.htm",
+            "migratedText": "Asset Management",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/asset-management4",
+            "migratedPath": "/asset-management4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Financial Planning",
+            "brHref": "/Financial-Planning.6.htm",
+            "migratedText": "Financial Planning",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/financial-planning6",
+            "migratedPath": "/financial-planning6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Who We Are",
+            "brHref": "/Who-We-Are.8.htm",
+            "migratedText": "Who We Are",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Womens Resource Center",
+        "brHref": "/Womens-Resource-Center.10.htm",
+        "migratedText": "Womens Resource Center",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/womens-resource-center10",
+        "migratedPath": "/womens-resource-center10"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /featured-links",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "FAQS",
+        "brHref": "/FAQS.9.htm",
+        "migratedText": "FAQS",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/faqs9",
+        "migratedPath": "/faqs9"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Access Your Account",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Access Your Account",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Schwab Account",
+            "brHref": "/https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "migratedText": "Schwab Account",
+            "migratedHref": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "migratedPath": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Money Guide Pro Account",
+            "brHref": "/https://www.moneyguidepro.com/first-affirmative/Guests.aspx?gst=&amp;sDestPage=10032",
+            "migratedText": "Money Guide Pro Account",
+            "migratedHref": "https://www.moneyguidepro.com/first-affirmative/Guests.aspx?gst=&amp;sDestPage=10032",
+            "migratedPath": "/first-affirmative/Guests.aspx"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 19,
+      "totalMigratedItems": 19,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 17,
+      "totalBrItems": 19
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/many-services-one-fee2",
+        "migratedPath": "/many-services-one-fee2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Many Services, One Fee",
+            "brHref": "/Many-Services,-One-Fee.2.htm",
+            "migratedText": "Many Services, One Fee",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/many-services-one-fee2",
+            "migratedPath": "/many-services-one-fee2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Asset Management",
+            "brHref": "/Asset-Management.4.htm",
+            "migratedText": "Asset Management",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/asset-management4",
+            "migratedPath": "/asset-management4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Financial Planning",
+            "brHref": "/Financial-Planning.6.htm",
+            "migratedText": "Financial Planning",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/financial-planning6",
+            "migratedPath": "/financial-planning6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Who We Are",
+            "brHref": "/Who-We-Are.8.htm",
+            "migratedText": "Who We Are",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Womens Resource Center",
+        "brHref": "/Womens-Resource-Center.10.htm",
+        "migratedText": "Womens Resource Center",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/womens-resource-center10",
+        "migratedPath": "/womens-resource-center10"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/featured-links",
+        "migratedPath": "/featured-links",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://myreliance-31030757.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "FAQS",
+        "brHref": "/FAQS.9.htm",
+        "migratedText": "FAQS",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/faqs9",
+        "migratedPath": "/faqs9"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Access Your Account",
+        "brHref": "void(0);",
+        "migratedText": "Access Your Account",
+        "migratedHref": "https://myreliance-31030757.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Schwab Account",
+            "brHref": "/Login/SignOn/CustomerCenterLogin.aspx",
+            "migratedText": "Schwab Account",
+            "migratedHref": "https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx",
+            "migratedPath": "/Login/SignOn/CustomerCenterLogin.aspx"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Money Guide Pro Account",
+            "brHref": "/first-affirmative/Guests.aspx",
+            "migratedText": "Money Guide Pro Account",
+            "migratedHref": "https://www.moneyguidepro.com/first-affirmative/Guests.aspx?gst=&amp;sDestPage=10032",
+            "migratedPath": "/first-affirmative/Guests.aspx"
+          }
+        ]
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 21,
+      "totalMigratedItems": 19,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 19
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "My Reliance",
+        "companyNames": [
+          "Joe Stover, CPA/PFS",
+          "My Reliance"
+        ],
+        "phoneNumbers": [
+          "7123139",
+          "9193642030"
+        ],
+        "emailAddresses": [
+          "jstover@myreliance.com"
+        ],
+        "physicalAddresses": [
+          "6 Misty Morning Ct.\nDurham, NC 27712-3139",
+          "6 Misty Morning Ct. Durham, NC 27712"
+        ],
+        "personNames": [
+          "Account \nJoe Stover"
+        ],
+        "footerText": "Reliance Financial Group, Inc. - 6 Misty Morning Ct. Durham, NC 27712 Contact Us Reliance Financial Group, Inc. is a fee only registered investment advisory company licensed in the state of North Carolina. The information presented herein is for informational purposes only and does not constitute an offer to sell securities or investment advisory services. Such an offer can only be made in North Carolina or any state where an exemption from notification is currently available under the de minimis exemption rule. The investment advisor is an independent advisor and receives no compensation from any corporations, brokerage houses, organizations or special interest groups by making recommendations to purchase any of the investment products used. The advisor is a fee-only advisor and receives no commissions for client trades. Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.myreliance.com",
+        "companyNames": [
+          "Joe Stover, CPA/PFS"
+        ],
+        "phoneNumbers": [
+          "7123139",
+          "9193642030",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "jstover@myreliance.com"
+        ],
+        "physicalAddresses": [
+          "6 Misty Morning Ct.\n\n\n\n\nDurham\n\n",
+          "6 Misty Morning Ct. Durham, NC 27712"
+        ],
+        "personNames": [
+          "Account\n\nJoe Stover"
+        ],
+        "footerText": "Reliance Financial Group, Inc. - 6 Misty Morning Ct. Durham, NC 27712 Contact Us Reliance Financial Group, Inc. is a fee only registered investment advisory company licensed in the state of North Carolina. The information presented herein is for informational purposes only and does not constitute an offer to sell securities or investment advisory services. Such an offer can only be made in North Carolina or any state where an exemption from notification is currently available under the de minimis exemption rule. The investment advisor is an independent advisor and receives no compensation from any corporations, brokerage houses, organizations or special interest groups by making recommendations to purchase any of the investment products used. The advisor is a fee-only advisor and receives no commissions for client trades."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "7123139, (919) 364-2030",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "6 Misty Morning Ct.\nDurham, NC 27712-3139",
+          "migratedValue": "6 Misty Morning Ct.\n\n\n\n\nDurham\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

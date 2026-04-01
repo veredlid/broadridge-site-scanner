@@ -1,0 +1,755 @@
+{
+  "site": {
+    "original": "www.capstonebeaufort.com",
+    "migrated": "https://capstonebeaufort-31030804.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.capstonebeaufort.com",
+    "migratedDomain": "https://capstonebeaufort-31030804.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:36:48.599Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Health Insurance Consent form",
+            "href": "/Health-Insurance-Consent-form.18.htm"
+          },
+          {
+            "title": "Our Mission Statement ",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm ",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services ",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications ",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "Circle of Services",
+            "href": "/Circle-of-Services.7.htm"
+          },
+          {
+            "title": "Get your LIFE Insurance quote & get covered Today!",
+            "href": "/Get-your-LIFE-Insurance-quote-and-get-covered-Today!.16.htm"
+          },
+          {
+            "title": "Affordable Healthcare ACA / ObamaCare Enrollment",
+            "href": "/https://www.healthsherpa.com/?_agent_id=joel-iacopelli"
+          },
+          {
+            "title": "Employee Benefits",
+            "href": "/Employee-Benefits.5.htm"
+          },
+          {
+            "title": "Health Insurance",
+            "href": "/Health-Insurance.6.htm"
+          },
+          {
+            "title": "Employee Navigator",
+            "href": "/Employee-Navigator.12.htm"
+          },
+          {
+            "title": "2026 Medicare Meeting landing page",
+            "href": "/2026-Medicare-Meeting-landing-page.17.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.capstonebeaufort.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.capstonebeaufort.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Health Insurance Consent form",
+            "href": "https://www.capstonebeaufort.com/Health-Insurance-Consent-form.18.htm",
+            "path": "/Health-Insurance-Consent-form.18.htm"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.capstonebeaufort.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.capstonebeaufort.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.capstonebeaufort.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.capstonebeaufort.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.capstonebeaufort.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.capstonebeaufort.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Circle of Services",
+            "href": "https://www.capstonebeaufort.com/Circle-of-Services.7.htm",
+            "path": "/Circle-of-Services.7.htm"
+          },
+          {
+            "text": "Get your LIFE Insurance quote & get covered Today!",
+            "href": "https://www.capstonebeaufort.com/Get-your-LIFE-Insurance-quote-and-get-covered-Today!.16.htm",
+            "path": "/Get-your-LIFE-Insurance-quote-and-get-covered-Today!.16.htm"
+          },
+          {
+            "text": "Affordable Healthcare ACA / ObamaCare Enrollment",
+            "href": "https://www.capstonebeaufort.com/Affordable-Healthcare-ACA---ObamaCare-Enrollment.11.htm",
+            "path": "/Affordable-Healthcare-ACA---ObamaCare-Enrollment.11.htm"
+          },
+          {
+            "text": "Employee Benefits",
+            "href": "https://www.capstonebeaufort.com/Employee-Benefits.5.htm",
+            "path": "/Employee-Benefits.5.htm"
+          },
+          {
+            "text": "Health Insurance",
+            "href": "https://www.capstonebeaufort.com/Health-Insurance.6.htm",
+            "path": "/Health-Insurance.6.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=17379",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Employee Navigator",
+            "href": "https://www.capstonebeaufort.com/Employee-Navigator.12.htm",
+            "path": "/Employee-Navigator.12.htm"
+          },
+          {
+            "text": "2026 Medicare Meeting landing page",
+            "href": "https://www.capstonebeaufort.com/2026-Medicare-Meeting-landing-page.17.htm",
+            "path": "/2026-Medicare-Meeting-landing-page.17.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.capstonebeaufort.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.capstonebeaufort.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.capstonebeaufort.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.capstonebeaufort.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.capstonebeaufort.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.capstonebeaufort.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.capstonebeaufort.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.capstonebeaufort.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.capstonebeaufort.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=17379&SN=2647866043",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=17379&SN=2647866043",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=17379&SN=2647866043",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=17379&SN=2647866043",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=17379&SN=2647866043",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=17379&SN=2647866043",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=17379&SN=2647866043",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=17379&SN=2647866043",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.capstonebeaufort.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://capstonebeaufort-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://capstonebeaufort-31030804.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://capstonebeaufort-31030804.brprodaccount.com/health-insurance-consent-form18",
+        "path": "/health-insurance-consent-form18",
+        "subItems": [
+          {
+            "text": "Health Insurance Consent form",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/health-insurance-consent-form18",
+            "path": "/health-insurance-consent-form18"
+          },
+          {
+            "text": "Our Mission Statement",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          },
+          {
+            "text": "Circle of Services",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/circle-of-services7",
+            "path": "/circle-of-services7"
+          },
+          {
+            "text": "Get your LIFE Insurance quote & get covered Today!",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/get-your-life-insurance-quote-get-covered-today16",
+            "path": "/get-your-life-insurance-quote-get-covered-today16"
+          },
+          {
+            "text": "Affordable Healthcare ACA / ObamaCare Enrollment",
+            "href": "https://www.healthsherpa.com/?_agent_id=joel-iacopelli",
+            "path": "/"
+          },
+          {
+            "text": "Employee Benefits",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/employee-benefits5",
+            "path": "/employee-benefits5"
+          },
+          {
+            "text": "Health Insurance",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/health-insurance6",
+            "path": "/health-insurance6"
+          },
+          {
+            "text": "Employee Navigator",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/employee-navigator12",
+            "path": "/employee-navigator12"
+          },
+          {
+            "text": "2026 Medicare Meeting landing page",
+            "href": "https://capstonebeaufort-31030804.brprodaccount.com/2026-medicare-meeting-landing-page17",
+            "path": "/2026-medicare-meeting-landing-page17"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/health-insurance-consent-form18",
+        "migratedPath": "/health-insurance-consent-form18",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /health-insurance-consent-form18",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Health Insurance Consent form",
+            "brHref": "/Health-Insurance-Consent-form.18.htm",
+            "migratedText": "Health Insurance Consent form",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/health-insurance-consent-form18",
+            "migratedPath": "/health-insurance-consent-form18"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement ",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm ",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services ",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications ",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Circle of Services",
+            "brHref": "/Circle-of-Services.7.htm",
+            "migratedText": "Circle of Services",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/circle-of-services7",
+            "migratedPath": "/circle-of-services7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Get your LIFE Insurance quote & get covered Today!",
+            "brHref": "/Get-your-LIFE-Insurance-quote-and-get-covered-Today!.16.htm",
+            "migratedText": "Get your LIFE Insurance quote & get covered Today!",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/get-your-life-insurance-quote-get-covered-today16",
+            "migratedPath": "/get-your-life-insurance-quote-get-covered-today16"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Affordable Healthcare ACA / ObamaCare Enrollment",
+            "brHref": "/https://www.healthsherpa.com/?_agent_id=joel-iacopelli",
+            "migratedText": "Affordable Healthcare ACA / ObamaCare Enrollment",
+            "migratedHref": "https://www.healthsherpa.com/?_agent_id=joel-iacopelli",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Employee Benefits",
+            "brHref": "/Employee-Benefits.5.htm",
+            "migratedText": "Employee Benefits",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/employee-benefits5",
+            "migratedPath": "/employee-benefits5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Health Insurance",
+            "brHref": "/Health-Insurance.6.htm",
+            "migratedText": "Health Insurance",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/health-insurance6",
+            "migratedPath": "/health-insurance6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Employee Navigator",
+            "brHref": "/Employee-Navigator.12.htm",
+            "migratedText": "Employee Navigator",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/employee-navigator12",
+            "migratedPath": "/employee-navigator12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "2026 Medicare Meeting landing page",
+            "brHref": "/2026-Medicare-Meeting-landing-page.17.htm",
+            "migratedText": "2026 Medicare Meeting landing page",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/2026-medicare-meeting-landing-page17",
+            "migratedPath": "/2026-medicare-meeting-landing-page17"
+          }
+        ]
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Affordable Healthcare ACA / ObamaCare Enrollment",
+        "migratedHref": "https://www.healthsherpa.com/?_agent_id=joel-iacopelli",
+        "migratedPath": "/",
+        "httpStatus": 406,
+        "note": "\"Affordable Healthcare ACA / ObamaCare Enrollment\" → HTTP 406 (https://www.healthsherpa.com/?_agent_id=joel-iacopelli)"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 16,
+      "totalMigratedItems": 17,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 1,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 15,
+      "totalBrItems": 16
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/health-insurance-consent-form18",
+        "migratedPath": "/health-insurance-consent-form18",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Health Insurance Consent form",
+            "brHref": "/Health-Insurance-Consent-form.18.htm",
+            "migratedText": "Health Insurance Consent form",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/health-insurance-consent-form18",
+            "migratedPath": "/health-insurance-consent-form18"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Circle of Services",
+            "brHref": "/Circle-of-Services.7.htm",
+            "migratedText": "Circle of Services",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/circle-of-services7",
+            "migratedPath": "/circle-of-services7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Get your LIFE Insurance quote & get covered Today!",
+            "brHref": "/Get-your-LIFE-Insurance-quote-and-get-covered-Today!.16.htm",
+            "migratedText": "Get your LIFE Insurance quote & get covered Today!",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/get-your-life-insurance-quote-get-covered-today16",
+            "migratedPath": "/get-your-life-insurance-quote-get-covered-today16"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Affordable Healthcare ACA / ObamaCare Enrollment",
+            "brHref": "/Affordable-Healthcare-ACA---ObamaCare-Enrollment.11.htm",
+            "migratedText": "Affordable Healthcare ACA / ObamaCare Enrollment",
+            "migratedHref": "https://www.healthsherpa.com/?_agent_id=joel-iacopelli",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Employee Benefits",
+            "brHref": "/Employee-Benefits.5.htm",
+            "migratedText": "Employee Benefits",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/employee-benefits5",
+            "migratedPath": "/employee-benefits5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Health Insurance",
+            "brHref": "/Health-Insurance.6.htm",
+            "migratedText": "Health Insurance",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/health-insurance6",
+            "migratedPath": "/health-insurance6"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Employee Navigator",
+            "brHref": "/Employee-Navigator.12.htm",
+            "migratedText": "Employee Navigator",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/employee-navigator12",
+            "migratedPath": "/employee-navigator12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "2026 Medicare Meeting landing page",
+            "brHref": "/2026-Medicare-Meeting-landing-page.17.htm",
+            "migratedText": "2026 Medicare Meeting landing page",
+            "migratedHref": "https://capstonebeaufort-31030804.brprodaccount.com/2026-medicare-meeting-landing-page17",
+            "migratedPath": "/2026-medicare-meeting-landing-page17"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Affordable Healthcare ACA / ObamaCare Enrollment",
+        "migratedHref": "https://www.healthsherpa.com/?_agent_id=joel-iacopelli",
+        "migratedPath": "/",
+        "httpStatus": 406,
+        "note": "\"Affordable Healthcare ACA / ObamaCare Enrollment\" → HTTP 406 (https://www.healthsherpa.com/?_agent_id=joel-iacopelli)"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 35,
+      "totalMigratedItems": 17,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 1,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 16
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Capstone Insurance / Mass Mutual Financial Group / Medicare insurance plans",
+        "companyNames": [
+          "Capstone Insurance Inc.",
+          "Capstone Insurance / Mass Mutual Financial Group / Medicare insurance plans"
+        ],
+        "phoneNumbers": [
+          "8435246954",
+          "8435246955"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [
+          "2015 Boundary St.Suite "
+        ],
+        "personNames": [],
+        "footerText": "Licensed to sell insurance in the following jurisdiction(s) Georgia, South Carolina, North Carolina, Connecticut and New York. I cannot communicate with, nor respond to requests from, users who reside in jurisdictions where I am not licensed to conduct insurance. Insurance offered through Massachusetts Mutual Life Insurance Company (MassMutual) and other fine companies. *Group products and Individual Health Insurance, Dental, Vision and full line of supplement insruance plans are not offered through MassMutal but may be offered through other fine compaines. Privacy Policy Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.capstonebeaufort.com",
+        "companyNames": [
+          "Capstone Insurance Inc."
+        ],
+        "phoneNumbers": [
+          "8435246954",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "jiacopelli@capstonebeaufort.com"
+        ],
+        "physicalAddresses": [
+          "2015 Boundary St.Suite "
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Licensed to sell insurance in the following jurisdiction(s) Georgia, South Carolina, North Carolina, Connecticut and New York. I cannot communicate with, nor respond to requests from, users who reside in jurisdictions where I am not licensed to conduct insurance. Insurance offered through Massachusetts Mutual Life Insurance Company (MassMutual) and other fine companies. *Group products and Individual Health Insurance, Dental, Vision and full line of supplement insruance plans are not offered through MassMutal but may be offered through other fine compaines.Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(843) 524-6954, (843) 524-6955",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

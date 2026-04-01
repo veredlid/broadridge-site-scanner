@@ -1,0 +1,369 @@
+{
+  "site": {
+    "original": "www.bryanedwardswealthmanagement.com",
+    "migrated": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.bryanedwardswealthmanagement.com",
+    "migratedDomain": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:41:00.090Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.bryanedwardswealthmanagement.com/index.cfm",
+        "path": "/index.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Mission Statement",
+        "href": "https://www.bryanedwardswealthmanagement.com/Our-Mission-Statement.1.htm",
+        "path": "/Our-Mission-Statement.1.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Location",
+        "href": "https://www.bryanedwardswealthmanagement.com/location.cfm",
+        "path": "/location.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Firm",
+        "href": "https://www.bryanedwardswealthmanagement.com/Our-Firm.2.htm",
+        "path": "/Our-Firm.2.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Services",
+        "href": "https://www.bryanedwardswealthmanagement.com/Our-Services.3.htm",
+        "path": "/Our-Services.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Our Qualifications",
+        "href": "https://www.bryanedwardswealthmanagement.com/Our-Qualifications.4.htm",
+        "path": "/Our-Qualifications.4.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.bryanedwardswealthmanagement.com/resources.cfm",
+        "path": "/resources.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 7,
+      "totalMigratedItems": 8,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 6,
+      "totalBrItems": 7
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/index.cfm",
+        "migratedText": "Home",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Mission Statement",
+        "brHref": "/Our-Mission-Statement.1.htm",
+        "migratedText": "Our Mission Statement",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"Our Mission Statement\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Location",
+        "brHref": "/location.cfm",
+        "migratedText": "Our Location",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Our Location\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Firm",
+        "brHref": "/Our-Firm.2.htm",
+        "migratedText": "Our Firm",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-firm2",
+        "migratedPath": "/our-firm2",
+        "note": "\"Our Firm\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Our Services",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-services3",
+        "migratedPath": "/our-services3",
+        "note": "\"Our Services\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "structure-change",
+        "brTitle": "Our Qualifications",
+        "brHref": "/Our-Qualifications.4.htm",
+        "migratedText": "Our Qualifications",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-qualifications4",
+        "migratedPath": "/our-qualifications4",
+        "note": "\"Our Qualifications\" is top-level in the original live site but nested under \"About Us\" in migrated"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/resources.cfm",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Us",
+        "migratedHref": "https://bryanedwardswealthmanagement-31030805.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 7,
+      "totalMigratedItems": 8,
+      "missing": 1,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 5,
+      "ok": 1
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Bryan Edwards Wealth Management",
+        "companyNames": [
+          "Bryan Edwards Wealth Management"
+        ],
+        "phoneNumbers": [
+          "4694515270",
+          "9728496633",
+          "8006915736",
+          "8889922268"
+        ],
+        "emailAddresses": [
+          "Bryan.edwards@clsecurities.com"
+        ],
+        "physicalAddresses": [
+          "771 Sandy Lane\nFlower Mound, TX 75022"
+        ],
+        "personNames": [],
+        "footerText": "This does not constitute an offer to buy or sell any security, investments in securities may not be suitable for all investors. An investment in any security may involve risk and the potential loss of your initial investment. Investors should review all \"Risk Factors\" before investing. Investors should perform their own due diligence before considering any investment. Past perfroemance is not indicitive of future results. Investment products, Insurance and Annuity products are not FDIC Insured/Not Bank Guaranteed/Not Insured by a Federal Government Agency/May Lose Value. Securities offered through Cabot Lodge Securities, LLC [CLS] Member FINRA/SIPC 425 N. Martingale Rd., Suite 1220, Schaumburg, IL 60173 888.992.2268 Bryan Edwards Wealth Management is not controlled by or a subsidiary of CLS. Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.bryanedwardswealthmanagement.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "4694515270",
+          "9728496633",
+          "9723800097",
+          "8889922268"
+        ],
+        "emailAddresses": [
+          "Bryan.edwards@clsecurities.com"
+        ],
+        "physicalAddresses": [
+          "771 Sandy Lane\n\n\n\n\nFlower Mound\n\n"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "This does not constitute an offer to buy or sell any security, investments in securities may not be suitable for all investors. An investment in any security may involve risk and the potential loss of your initial investment. Investors should review all \"Risk Factors\" before investing. Investors should perform their own due diligence before considering any investment. Past perfroemance is not indicitive of future results. Investment products, Insurance and Annuity products are not FDIC Insured/Not Bank Guaranteed/Not Insured by a Federal Government Agency/May Lose Value. Securities offered through Cabot Lodge Securities, LLC [CLS] Member FINRA/SIPC, 200 Vesey Street, 24th Floor, New York, NY 10281, 888.992.2268. Bryan Edwards Wealth Management is not controlled by or a subsidiary of CLS."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(469) 451-5270, (972) 849-6633, (800) 691-5736, (888) 992-2268",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "771 Sandy Lane\nFlower Mound, TX 75022",
+          "migratedValue": "771 Sandy Lane\n\n\n\n\nFlower Mound\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

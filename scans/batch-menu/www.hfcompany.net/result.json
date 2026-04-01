@@ -1,0 +1,666 @@
+{
+  "site": {
+    "original": "www.hfcompany.net",
+    "migrated": "https://hfcompany-31030801.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.hfcompany.net",
+    "migratedDomain": "https://hfcompany-31030801.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:42:55.876Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "Instant Term Quotes",
+            "href": "/Instant-Term-Quotes.7.htm"
+          },
+          {
+            "title": "Chamber Of Commerce Benefits",
+            "href": "/Chamber-Of-Commerce-Benefits.8.htm"
+          },
+          {
+            "title": "Insurance Specialists",
+            "href": "/Insurance-Specialists.9.htm"
+          },
+          {
+            "title": "Proactive Estate Planning",
+            "href": "/Proactive-Estate-Planning.10.htm"
+          },
+          {
+            "title": "Cigar, Pipe Smokers & Tobacco Dippers",
+            "href": "/http://www.cigarpipesmokerinsurance.com/"
+          },
+          {
+            "title": "SBA Loan Super Close",
+            "href": "/SBA-Loan-Super-Close.13.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.hfcompany.net/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.hfcompany.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.hfcompany.net/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.hfcompany.net/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.hfcompany.net/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.hfcompany.net/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Instant Term Quotes",
+            "href": "https://www.hfcompany.net/Instant-Term-Quotes.7.htm",
+            "path": "/Instant-Term-Quotes.7.htm"
+          },
+          {
+            "text": "Chamber Of Commerce Benefits",
+            "href": "https://www.hfcompany.net/Chamber-Of-Commerce-Benefits.8.htm",
+            "path": "/Chamber-Of-Commerce-Benefits.8.htm"
+          },
+          {
+            "text": "Insurance Specialists",
+            "href": "https://www.hfcompany.net/Insurance-Specialists.9.htm",
+            "path": "/Insurance-Specialists.9.htm"
+          },
+          {
+            "text": "Proactive Estate Planning",
+            "href": "https://www.hfcompany.net/Proactive-Estate-Planning.10.htm",
+            "path": "/Proactive-Estate-Planning.10.htm"
+          },
+          {
+            "text": "Cigar, Pipe Smokers & Tobacco Dippers",
+            "href": "https://www.hfcompany.net/Cigar,-Pipe-Smokers-and-Tobacco-Dippers.11.htm",
+            "path": "/Cigar,-Pipe-Smokers-and-Tobacco-Dippers.11.htm"
+          },
+          {
+            "text": "SBA Loan Super Close",
+            "href": "https://www.hfcompany.net/SBA-Loan-Super-Close.13.htm",
+            "path": "/SBA-Loan-Super-Close.13.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=55776",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.hfcompany.net/location.htm",
+            "path": "/location.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.hfcompany.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.hfcompany.net/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.hfcompany.net/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.hfcompany.net/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.hfcompany.net/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.hfcompany.net/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.hfcompany.net/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.hfcompany.net/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.hfcompany.net/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=55776&SN=2594254136",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=55776&SN=2594254136",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=55776&SN=2594254136",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=55776&SN=2594254136",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=55776&SN=2594254136",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=55776&SN=2594254136",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Mortgage Qualification",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=71&SSLID=55776&SN=2594254136",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=55776&SN=2594254136",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=55776&SN=2594254136",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.hfcompany.net/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://hfcompany-31030801.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://hfcompany-31030801.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://hfcompany-31030801.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://hfcompany-31030801.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://hfcompany-31030801.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://hfcompany-31030801.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://hfcompany-31030801.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          },
+          {
+            "text": "Instant Term Quotes",
+            "href": "https://hfcompany-31030801.brprodaccount.com/instant-term-quotes7",
+            "path": "/instant-term-quotes7"
+          },
+          {
+            "text": "Chamber Of Commerce Benefits",
+            "href": "https://hfcompany-31030801.brprodaccount.com/chamber-of-commerce-benefits8",
+            "path": "/chamber-of-commerce-benefits8"
+          },
+          {
+            "text": "Insurance Specialists",
+            "href": "https://hfcompany-31030801.brprodaccount.com/insurance-specialists9",
+            "path": "/insurance-specialists9"
+          },
+          {
+            "text": "Proactive Estate Planning",
+            "href": "https://hfcompany-31030801.brprodaccount.com/proactive-estate-planning10",
+            "path": "/proactive-estate-planning10"
+          },
+          {
+            "text": "Cigar, Pipe Smokers & Tobacco Dippers",
+            "href": "http://www.cigarpipesmokerinsurance.com/",
+            "path": "/"
+          },
+          {
+            "text": "SBA Loan Super Close",
+            "href": "https://hfcompany-31030801.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://hfcompany-31030801.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://hfcompany-31030801.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://hfcompany-31030801.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Instant Term Quotes",
+            "brHref": "/Instant-Term-Quotes.7.htm",
+            "migratedText": "Instant Term Quotes",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/instant-term-quotes7",
+            "migratedPath": "/instant-term-quotes7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Chamber Of Commerce Benefits",
+            "brHref": "/Chamber-Of-Commerce-Benefits.8.htm",
+            "migratedText": "Chamber Of Commerce Benefits",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/chamber-of-commerce-benefits8",
+            "migratedPath": "/chamber-of-commerce-benefits8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Insurance Specialists",
+            "brHref": "/Insurance-Specialists.9.htm",
+            "migratedText": "Insurance Specialists",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/insurance-specialists9",
+            "migratedPath": "/insurance-specialists9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Proactive Estate Planning",
+            "brHref": "/Proactive-Estate-Planning.10.htm",
+            "migratedText": "Proactive Estate Planning",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/proactive-estate-planning10",
+            "migratedPath": "/proactive-estate-planning10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Cigar, Pipe Smokers & Tobacco Dippers",
+            "brHref": "/http://www.cigarpipesmokerinsurance.com/",
+            "migratedText": "Cigar, Pipe Smokers & Tobacco Dippers",
+            "migratedHref": "http://www.cigarpipesmokerinsurance.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "SBA Loan Super Close",
+            "brHref": "/SBA-Loan-Super-Close.13.htm",
+            "migratedText": "SBA Loan Super Close",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 13,
+      "totalMigratedItems": 14,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 12,
+      "totalBrItems": 13
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://hfcompany-31030801.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://hfcompany-31030801.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Instant Term Quotes",
+            "brHref": "/Instant-Term-Quotes.7.htm",
+            "migratedText": "Instant Term Quotes",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/instant-term-quotes7",
+            "migratedPath": "/instant-term-quotes7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Chamber Of Commerce Benefits",
+            "brHref": "/Chamber-Of-Commerce-Benefits.8.htm",
+            "migratedText": "Chamber Of Commerce Benefits",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/chamber-of-commerce-benefits8",
+            "migratedPath": "/chamber-of-commerce-benefits8"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Insurance Specialists",
+            "brHref": "/Insurance-Specialists.9.htm",
+            "migratedText": "Insurance Specialists",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/insurance-specialists9",
+            "migratedPath": "/insurance-specialists9"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Proactive Estate Planning",
+            "brHref": "/Proactive-Estate-Planning.10.htm",
+            "migratedText": "Proactive Estate Planning",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/proactive-estate-planning10",
+            "migratedPath": "/proactive-estate-planning10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Cigar, Pipe Smokers & Tobacco Dippers",
+            "brHref": "/Cigar,-Pipe-Smokers-and-Tobacco-Dippers.11.htm",
+            "migratedText": "Cigar, Pipe Smokers & Tobacco Dippers",
+            "migratedHref": "http://www.cigarpipesmokerinsurance.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "SBA Loan Super Close",
+            "brHref": "/SBA-Loan-Super-Close.13.htm",
+            "migratedText": "SBA Loan Super Close",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://hfcompany-31030801.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 33,
+      "totalMigratedItems": 14,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 13
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Himmelstein Financial Services",
+        "companyNames": [
+          "Himmelstein Financial: The Financial Supermarket With Advice",
+          "Himmelstein Financial Services"
+        ],
+        "phoneNumbers": [
+          "8607611216",
+          "8005996965",
+          "7819336100"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [
+          "17 Mountain Ave\nBloomfield, CT 06002",
+          "444 Washington Street, Woburn, MA 01801"
+        ],
+        "personNames": [],
+        "footerText": "Securities Offered through Advisory Group Equity Services Ltd. Member FINRA/SIPC 444 Washington Street, Woburn, MA 01801 (781) 933-6100 Advisory Services offered by The Trust Advisory Group Ltd. A Registered Investment Advisor Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.hfcompany.net",
+        "companyNames": [
+          "Himmelstein Financial: The Financial Supermarket With Advice"
+        ],
+        "phoneNumbers": [
+          "8607611216",
+          "8005996965",
+          "9723800097",
+          "7819336100"
+        ],
+        "emailAddresses": [
+          "phimmelstein@tag-ages.com"
+        ],
+        "physicalAddresses": [
+          "17 Mountain Ave\n\n\n\n\nBloomfield\n\n",
+          "444 Washington Street, Woburn, MA 01801"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Securities Offered through Advisory Group Equity Services Ltd. Member FINRA/SIPC 444 Washington Street, Woburn, MA 01801 (781) 933-6100 Advisory Services offered by The Trust Advisory Group Ltd. A Registered Investment Advisor"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(860) 761-1216, (800) 599-6965, (781) 933-6100",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "17 Mountain Ave\nBloomfield, CT 06002",
+          "migratedValue": "17 Mountain Ave\n\n\n\n\nBloomfield\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

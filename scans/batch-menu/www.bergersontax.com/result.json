@@ -1,0 +1,735 @@
+{
+  "site": {
+    "original": "www.bergersontax.com",
+    "migrated": "https://bergersontax-31030805.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.bergersontax.com",
+    "migratedDomain": "https://bergersontax-31030805.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:40:03.183Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "Why Hire a Tax Professional",
+            "href": "/Why-Hire-a-Tax-Professional.6.htm"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "href": "/Our-Services.3.htm",
+        "children": []
+      },
+      {
+        "title": "Testimonials",
+        "href": "/Testimonials.7.htm",
+        "children": []
+      },
+      {
+        "title": "Tax Organizers",
+        "href": "/Tax-Organizers.5.htm",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact",
+        "href": "/contact_us/",
+        "children": []
+      },
+      {
+        "title": "Custom Section 3",
+        "href": "/Services.3.htm",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.bergersontax.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://www.bergersontax.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.bergersontax.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://www.bergersontax.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.bergersontax.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Why Hire a Tax Professional",
+            "href": "https://www.bergersontax.com/Why-Hire-a-Tax-Professional.6.htm",
+            "path": "/Why-Hire-a-Tax-Professional.6.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.bergersontax.com/tellafriend.cfm?SSLID=120595",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Services",
+        "href": "https://www.bergersontax.com/Our-Services.3.htm",
+        "path": "/Our-Services.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Testimonials",
+        "href": "https://www.bergersontax.com/Testimonials.7.htm",
+        "path": "/Testimonials.7.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Tax Organizers",
+        "href": "https://www.bergersontax.com/Tax-Organizers.5.htm",
+        "path": "/Tax-Organizers.5.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.bergersontax.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.bergersontax.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.bergersontax.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.bergersontax.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.bergersontax.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.bergersontax.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.bergersontax.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.bergersontax.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Tax Preparation",
+            "href": "https://www.bergersontax.com/Tax-Preparation.8.htm",
+            "path": "/Tax-Preparation.8.htm"
+          },
+          {
+            "text": "Annuity",
+            "href": "https://www.bergersontax.com/form.cfm?ID=64&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.bergersontax.com/form.cfm?ID=65&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.bergersontax.com/form.cfm?ID=68&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.bergersontax.com/form.cfm?ID=70&SSLID=*",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.bergersontax.com/form.cfm?ID=73&SSLID=*",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact",
+        "href": "https://www.bergersontax.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://bergersontax-31030805.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://bergersontax-31030805.brprodaccount.com/custom-section-22",
+        "path": "/custom-section-22",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://bergersontax-31030805.brprodaccount.com/custom-section-22",
+            "path": "/custom-section-22"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://bergersontax-31030805.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://bergersontax-31030805.brprodaccount.com/custom-section-44",
+            "path": "/custom-section-44"
+          },
+          {
+            "text": "Why Hire a Tax Professional",
+            "href": "https://bergersontax-31030805.brprodaccount.com/custom-section-66",
+            "path": "/custom-section-66"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Services",
+        "href": "https://bergersontax-31030805.brprodaccount.com/custom-section-33",
+        "path": "/custom-section-33",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Testimonials",
+        "href": "https://bergersontax-31030805.brprodaccount.com/custom-section-77",
+        "path": "/custom-section-77",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Tax Organizers",
+        "href": "https://bergersontax-31030805.brprodaccount.com/custom-section-55",
+        "path": "/custom-section-55",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://bergersontax-31030805.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://bergersontax-31030805.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://bergersontax-31030805.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://bergersontax-31030805.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://bergersontax-31030805.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://bergersontax-31030805.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://bergersontax-31030805.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact",
+        "href": "https://bergersontax-31030805.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About",
+        "brHref": "/#",
+        "migratedText": "About",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-22",
+        "migratedPath": "/custom-section-22",
+        "note": "\"About\" should be a dropdown (/#) but migrated links to /custom-section-22",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-22",
+            "migratedPath": "/custom-section-22"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-44",
+            "migratedPath": "/custom-section-44"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Why Hire a Tax Professional",
+            "brHref": "/Why-Hire-a-Tax-Professional.6.htm",
+            "migratedText": "Why Hire a Tax Professional",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Services",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Testimonials",
+        "brHref": "/Testimonials.7.htm",
+        "migratedText": "Testimonials",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-77",
+        "migratedPath": "/custom-section-77"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Tax Organizers",
+        "brHref": "/Tax-Organizers.5.htm",
+        "migratedText": "Tax Organizers",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-55",
+        "migratedPath": "/custom-section-55"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Custom Section 3",
+        "brHref": "/Services.3.htm",
+        "migratedText": "Services",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 17,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 16,
+      "totalBrItems": 18
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About",
+        "brHref": "/",
+        "migratedText": "About",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-22",
+        "migratedPath": "/custom-section-22",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-22",
+            "migratedPath": "/custom-section-22"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-44",
+            "migratedPath": "/custom-section-44"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Why Hire a Tax Professional",
+            "brHref": "/Why-Hire-a-Tax-Professional.6.htm",
+            "migratedText": "Why Hire a Tax Professional",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-66",
+            "migratedPath": "/custom-section-66"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Services",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-33",
+        "migratedPath": "/custom-section-33"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Testimonials",
+        "brHref": "/Testimonials.7.htm",
+        "migratedText": "Testimonials",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-77",
+        "migratedPath": "/custom-section-77"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Tax Organizers",
+        "brHref": "/Tax-Organizers.5.htm",
+        "migratedText": "Tax Organizers",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/custom-section-55",
+        "migratedPath": "/custom-section-55"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://bergersontax-31030805.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact",
+        "brHref": "/contact_us",
+        "migratedText": "Contact",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://bergersontax-31030805.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 25,
+      "totalMigratedItems": 17,
+      "missing": 3,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 16
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Bergerson Resource Group",
+        "companyNames": [
+          "Bergerson Tax Services",
+          "Bergerson Resource Group"
+        ],
+        "phoneNumbers": [
+          "6516474935",
+          "6516442304"
+        ],
+        "emailAddresses": [
+          "info@bergersontax.com"
+        ],
+        "physicalAddresses": [
+          "2580 Rice Street\nSt. Paul, MN 55113"
+        ],
+        "personNames": [],
+        "footerText": "#footerContainer {background-color:#743e60; } #navigation .nav_ul.u-c { display: flex; padding: 0 20px 0 0; flex: 1; align-items: center; justify-content: end; } #container[data-masthead-location=\"logo-left\"] #navigation, #container[data-masthead-location=\"logo-right\"] #navigation { max-width: 80%; } Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.bergersontax.com",
+        "companyNames": [
+          "Bergerson Tax Services"
+        ],
+        "phoneNumbers": [
+          "6516474935",
+          "6516442304",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "info@bergersontax.com"
+        ],
+        "physicalAddresses": [
+          "2580 Rice Street\n\n\n\n\nSt. Paul\n\n"
+        ],
+        "personNames": [],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(651) 647-4935, (651) 644-2304",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "2580 Rice Street\nSt. Paul, MN 55113",
+          "migratedValue": "2580 Rice Street\n\n\n\n\nSt. Paul\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

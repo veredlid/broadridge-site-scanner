@@ -1,0 +1,903 @@
+{
+  "site": {
+    "original": "www.jerrydonut.com",
+    "migrated": "https://jerrydonut-31030800.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.jerrydonut.com",
+    "migratedDomain": "https://jerrydonut-31030800.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:44:46.520Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "Bag Of Donuts",
+            "href": "/Bag-Of-Donuts.5.htm"
+          },
+          {
+            "title": "Health Insurance Experts",
+            "href": "/Health-Insurance-Experts.6.htm"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Medicare",
+            "href": "/Medicare.11.htm"
+          },
+          {
+            "title": "Health Insurance",
+            "href": "/Health-Insurance.10.htm"
+          },
+          {
+            "title": "Life Insurance",
+            "href": "/Life-Insurance.12.htm"
+          },
+          {
+            "title": "Annuities",
+            "href": "/Annuities.13.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Blog",
+            "href": "/Blog.9.htm"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.jerrydonut.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.jerrydonut.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.jerrydonut.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.jerrydonut.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://www.jerrydonut.com/Our-Firm.3.htm",
+            "path": "/Our-Firm.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.jerrydonut.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Bag Of Donuts",
+            "href": "https://www.jerrydonut.com/Bag-Of-Donuts.5.htm",
+            "path": "/Bag-Of-Donuts.5.htm"
+          },
+          {
+            "text": "Health Insurance Experts",
+            "href": "https://www.jerrydonut.com/Health-Insurance-Experts.6.htm",
+            "path": "/Health-Insurance-Experts.6.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Services",
+        "href": "https://www.jerrydonut.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Medicare",
+            "href": "https://www.jerrydonut.com/Medicare.11.htm",
+            "path": "/Medicare.11.htm"
+          },
+          {
+            "text": "Health Insurance",
+            "href": "https://www.jerrydonut.com/Health-Insurance.10.htm",
+            "path": "/Health-Insurance.10.htm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.jerrydonut.com/Life-Insurance.12.htm",
+            "path": "/Life-Insurance.12.htm"
+          },
+          {
+            "text": "Annuities",
+            "href": "https://www.jerrydonut.com/Annuities.13.htm",
+            "path": "/Annuities.13.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.jerrydonut.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Blog",
+            "href": "https://www.jerrydonut.com/Blog.9.htm",
+            "path": "/Blog.9.htm"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.jerrydonut.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.jerrydonut.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.jerrydonut.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.jerrydonut.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.jerrydonut.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.jerrydonut.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.jerrydonut.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.jerrydonut.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=64&SSLID=71065",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=65&SSLID=71065",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=67&SSLID=71065",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=68&SSLID=71065",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=69&SSLID=71065",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=70&SSLID=71065",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=72&SSLID=71065",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=73&SSLID=71065",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Auto Insurance",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=418&SSLID=71065",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Homeowners Insurance",
+            "href": "https://www.jerrydonut.com/form.cfm?ID=422&SSLID=71065",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.jerrydonut.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Contact Us",
+            "href": "https://www.jerrydonut.com/contact_us/",
+            "path": "/contact_us"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.jerrydonut.com/tellafriend.cfm?SSLID=71065",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://jerrydonut-31030800.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://jerrydonut-31030800.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/our-firm3",
+            "path": "/our-firm3"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/our-qualifications4",
+            "path": "/our-qualifications4"
+          },
+          {
+            "text": "Bag Of Donuts",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/bag-of-donuts5",
+            "path": "/bag-of-donuts5"
+          },
+          {
+            "text": "Health Insurance Experts",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/health-insurance-experts6",
+            "path": "/health-insurance-experts6"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Services",
+        "href": "https://jerrydonut-31030800.brprodaccount.com/medicare11",
+        "path": "/medicare11",
+        "subItems": [
+          {
+            "text": "Medicare",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/medicare11",
+            "path": "/medicare11"
+          },
+          {
+            "text": "Health Insurance",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/health-insurance10",
+            "path": "/health-insurance10"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/life-insurance12",
+            "path": "/life-insurance12"
+          },
+          {
+            "text": "Annuities",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/annuities13",
+            "path": "/annuities13"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://jerrydonut-31030800.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Blog",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://jerrydonut-31030800.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://jerrydonut-31030800.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.3.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/our-firm3",
+            "migratedPath": "/our-firm3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Bag Of Donuts",
+            "brHref": "/Bag-Of-Donuts.5.htm",
+            "migratedText": "Bag Of Donuts",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/bag-of-donuts5",
+            "migratedPath": "/bag-of-donuts5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Health Insurance Experts",
+            "brHref": "/Health-Insurance-Experts.6.htm",
+            "migratedText": "Health Insurance Experts",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/health-insurance-experts6",
+            "migratedPath": "/health-insurance-experts6"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Services",
+        "brHref": "/#",
+        "migratedText": "Services",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/medicare11",
+        "migratedPath": "/medicare11",
+        "note": "\"Services\" should be a dropdown (/#) but migrated links to /medicare11",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Medicare",
+            "brHref": "/Medicare.11.htm",
+            "migratedText": "Medicare",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/medicare11",
+            "migratedPath": "/medicare11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Health Insurance",
+            "brHref": "/Health-Insurance.10.htm",
+            "migratedText": "Health Insurance",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/health-insurance10",
+            "migratedPath": "/health-insurance10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance",
+            "brHref": "/Life-Insurance.12.htm",
+            "migratedText": "Life Insurance",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/life-insurance12",
+            "migratedPath": "/life-insurance12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Annuities",
+            "brHref": "/Annuities.13.htm",
+            "migratedText": "Annuities",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/annuities13",
+            "migratedPath": "/annuities13"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Blog",
+            "brHref": "/Blog.9.htm",
+            "migratedText": "Blog",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "note": "Sub-item \"Articles\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 22,
+      "totalMigratedItems": 21,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 19,
+      "totalBrItems": 22
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.3.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/our-firm3",
+            "migratedPath": "/our-firm3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/our-qualifications4",
+            "migratedPath": "/our-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Bag Of Donuts",
+            "brHref": "/Bag-Of-Donuts.5.htm",
+            "migratedText": "Bag Of Donuts",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/bag-of-donuts5",
+            "migratedPath": "/bag-of-donuts5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Health Insurance Experts",
+            "brHref": "/Health-Insurance-Experts.6.htm",
+            "migratedText": "Health Insurance Experts",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/health-insurance-experts6",
+            "migratedPath": "/health-insurance-experts6"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Services",
+        "brHref": "/",
+        "migratedText": "Services",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/medicare11",
+        "migratedPath": "/medicare11",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Medicare",
+            "brHref": "/Medicare.11.htm",
+            "migratedText": "Medicare",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/medicare11",
+            "migratedPath": "/medicare11"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Health Insurance",
+            "brHref": "/Health-Insurance.10.htm",
+            "migratedText": "Health Insurance",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/health-insurance10",
+            "migratedPath": "/health-insurance10"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Life Insurance",
+            "brHref": "/Life-Insurance.12.htm",
+            "migratedText": "Life Insurance",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/life-insurance12",
+            "migratedPath": "/life-insurance12"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Annuities",
+            "brHref": "/Annuities.13.htm",
+            "migratedText": "Annuities",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/annuities13",
+            "migratedPath": "/annuities13"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Blog",
+            "brHref": "/Blog.9.htm",
+            "migratedText": "Blog",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "note": "Sub-item \"Articles\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Contact Us",
+            "brHref": "/contact_us",
+            "migratedText": "Contact Us",
+            "migratedHref": "https://jerrydonut-31030800.brprodaccount.com/location",
+            "migratedPath": "/location",
+            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"Contact Us\" is missing in migrated"
+          }
+        ]
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 36,
+      "totalMigratedItems": 21,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 1,
+      "ok": 21
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "",
+        "companyNames": [
+          "Gerald \"Jerry\" Christopher, Jr., LUTCF"
+        ],
+        "phoneNumbers": [
+          "5042596138",
+          "5044548415"
+        ],
+        "emailAddresses": [
+          "jerrychristopher@icloud.com"
+        ],
+        "physicalAddresses": [
+          "4828 Hastings St.\nMetairie, LA 70006"
+        ],
+        "personNames": [],
+        "footerText": "Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.jerrydonut.com",
+        "companyNames": [
+          "Gerald \"Jerry\" Christopher, Jr., LUTCF"
+        ],
+        "phoneNumbers": [
+          "5042596138",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "jerrychristopher@icloud.com"
+        ],
+        "physicalAddresses": [
+          "4828 Hastings St.\n\n\n\n\nMetairie\n\n"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(504) 259-6138, (504) 454-8415",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "4828 Hastings St.\nMetairie, LA 70006",
+          "migratedValue": "4828 Hastings St.\n\n\n\n\nMetairie\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

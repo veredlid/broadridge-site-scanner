@@ -1,0 +1,646 @@
+{
+  "site": {
+    "original": "www.qualitytaxmo.com",
+    "migrated": "https://qualitytaxmo-31030756.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.qualitytaxmo.com",
+    "migratedDomain": "https://qualitytaxmo-31030756.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:50:34.055Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          }
+        ]
+      },
+      {
+        "title": "Blogs",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Blog Posts",
+            "href": "/Blog-Posts.5.htm"
+          }
+        ]
+      },
+      {
+        "title": "Links",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Links",
+            "href": "/Links.6.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Our Location",
+        "href": "/location.cfm",
+        "children": []
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.qualitytaxmo.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.qualitytaxmo.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.qualitytaxmo.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Blogs",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Blog Posts",
+            "href": "https://www.qualitytaxmo.com/Blog-Posts.5.htm",
+            "path": "/Blog-Posts.5.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Links",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Links",
+            "href": "https://www.qualitytaxmo.com/Links.6.htm",
+            "path": "/Links.6.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.qualitytaxmo.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.qualitytaxmo.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.qualitytaxmo.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.qualitytaxmo.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.qualitytaxmo.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.qualitytaxmo.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.qualitytaxmo.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.qualitytaxmo.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Our Location",
+        "href": "https://www.qualitytaxmo.com/location.cfm",
+        "path": "/location.cfm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.qualitytaxmo.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://qualitytaxmo-31030756.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://qualitytaxmo-31030756.brprodaccount.com/about-us1",
+        "path": "/about-us1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://qualitytaxmo-31030756.brprodaccount.com/about-us1",
+            "path": "/about-us1"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Blogs",
+        "href": "https://qualitytaxmo-31030756.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Blog Posts",
+            "href": "https://qualitytaxmo-31030756.brprodaccount.com/blog-posts5",
+            "path": "/blog-posts5"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Links",
+        "href": "https://qualitytaxmo-31030756.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Links",
+            "href": "https://qualitytaxmo-31030756.brprodaccount.com/links6",
+            "path": "/links6"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://qualitytaxmo-31030756.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://qualitytaxmo-31030756.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://qualitytaxmo-31030756.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://qualitytaxmo-31030756.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://qualitytaxmo-31030756.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://qualitytaxmo-31030756.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://qualitytaxmo-31030756.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Our Location",
+        "href": "https://qualitytaxmo-31030756.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://qualitytaxmo-31030756.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/about-us1",
+        "migratedPath": "/about-us1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /about-us1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/about-us1",
+            "migratedPath": "/about-us1"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Blogs",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Blogs",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Blog Posts",
+            "brHref": "/Blog-Posts.5.htm",
+            "migratedText": "Blog Posts",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/blog-posts5",
+            "migratedPath": "/blog-posts5"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Links",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Links",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Links",
+            "brHref": "/Links.6.htm",
+            "migratedText": "Links",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/links6",
+            "migratedPath": "/links6"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Location",
+        "brHref": "/location.cfm",
+        "migratedText": "Our Location",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 16,
+      "totalMigratedItems": 16,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 14,
+      "totalBrItems": 16
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/about-us1",
+        "migratedPath": "/about-us1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/about-us1",
+            "migratedPath": "/about-us1"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Blogs",
+        "brHref": "void(0);",
+        "migratedText": "Blogs",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Blog Posts",
+            "brHref": "/Blog-Posts.5.htm",
+            "migratedText": "Blog Posts",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/blog-posts5",
+            "migratedPath": "/blog-posts5"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Links",
+        "brHref": "void(0);",
+        "migratedText": "Links",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Links",
+            "brHref": "/Links.6.htm",
+            "migratedText": "Links",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/links6",
+            "migratedPath": "/links6"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Location",
+        "brHref": "/location.cfm",
+        "migratedText": "Our Location",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://qualitytaxmo-31030756.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 16,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 16
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Quality Tax Solutions LLC - Harrisonville, MO-",
+        "companyNames": [
+          "Quality Tax Solutions, LLC",
+          "Quality Tax Solutions LLC - Harrisonville, MO-"
+        ],
+        "phoneNumbers": [
+          "8168924645"
+        ],
+        "emailAddresses": [
+          "susan@qualitytaxmo.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Information provided on this site is general in nature and any planning for your specific circumstances should be discussed with your attorney, tax preparer and/or financial planner. This information is not intended as tax, legal, investment, or retirement advice or recommendations, and it may not be relied on for the purpose of avoiding federal tax penalties. You should always seek advice from independent professional advisors as each situation can be unique. The content is derived from sources believed to be accurate at that time. Neither the information presented nor any opinion expressed constitutes a solicitation for the purpose or sale of any security or product. Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.qualitytaxmo.com",
+        "companyNames": [
+          "Quality Tax Solutions, LLC"
+        ],
+        "phoneNumbers": [
+          "8168924645",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "susan@qualitytaxmo.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Information provided on this site is general in nature and any planning for your specific circumstances should be discussed with your attorney, tax preparer and/or financial planner. This information is not intended as tax, legal, investment, or retirement advice or recommendations, and it may not be relied on for the purpose of avoiding federal tax penalties. You should always seek advice from independent professional advisors as each situation can be unique. The content is derived from sources believed to be accurate at that time. Neither the information presented nor any opinion expressed constitutes a solicitation for the purpose or sale of any security or product."
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(816) 892-4645",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,997 @@
+{
+  "site": {
+    "original": "www.sargentgrp.com",
+    "migrated": "https://sargentgrp-31030754.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.sargentgrp.com",
+    "migratedDomain": "https://sargentgrp-31030754.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:18:56.518Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Sargent Insurance Group",
+            "href": "/Sargent-Insurance-Group.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.4.htm"
+          },
+          {
+            "title": "Our Staff",
+            "href": "/Our-Staff.5.htm"
+          },
+          {
+            "title": "Our Carriers",
+            "href": "/Our-Carriers.6.htm"
+          },
+          {
+            "title": "Click on link to access carrier sites",
+            "href": "/Click-on-link-to-access-carrier-sites.7.htm"
+          },
+          {
+            "title": "",
+            "href": "/page.8.htm"
+          },
+          {
+            "title": "Free Prescription Drug Discount Card",
+            "href": "/Free-Prescription-Drug-Discount-Card.15.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Faqs",
+            "href": "/learning_center/faqs/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.sargentgrp.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.sargentgrp.com/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.sargentgrp.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Sargent Insurance Group",
+            "href": "https://www.sargentgrp.com/Sargent-Insurance-Group.2.htm",
+            "path": "/Sargent-Insurance-Group.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.sargentgrp.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.sargentgrp.com/Our-Qualifications.4.htm",
+            "path": "/Our-Qualifications.4.htm"
+          },
+          {
+            "text": "Our Staff",
+            "href": "https://www.sargentgrp.com/Our-Staff.5.htm",
+            "path": "/Our-Staff.5.htm"
+          },
+          {
+            "text": "Our Carriers",
+            "href": "https://www.sargentgrp.com/Our-Carriers.6.htm",
+            "path": "/Our-Carriers.6.htm"
+          },
+          {
+            "text": "Click on link to access carrier sites",
+            "href": "https://www.sargentgrp.com/Click-on-link-to-access-carrier-sites.7.htm",
+            "path": "/Click-on-link-to-access-carrier-sites.7.htm"
+          },
+          {
+            "text": "",
+            "href": "https://www.sargentgrp.com/page.8.htm",
+            "path": "/page.8.htm"
+          },
+          {
+            "text": "",
+            "href": "https://www.sargentgrp.com/page.8.htm",
+            "path": "/page.8.htm"
+          },
+          {
+            "text": "",
+            "href": "https://www.agentinsure.com/compare/auto-insurance-home-insur%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Safeco-Quote.9.htm%22%3ESafeco%20Quote%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Access-Safeco-online-account.10.htm%22%20target=%22_blank%22%3EAccess%20Safeco%20online%20account%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Steve-Sargent-Owner-Insurance-Agent.11.htm%22%3ESteve%20Sargent%20Owner/Insurance%20Agent%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Health-Insurance-Open-Enrollment.12.htm%22%3EHealth%20Insurance%20Open%20Enrollment%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22The-Affordable-Care-Act.13.htm%22%3EThe%20Affordable%20Care%20Act%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Whats-covered-in-the--Health-Insurance-Marketplace.14.htm%22%3EWhat",
+            "path": "/compare/auto-insurance-home-insur%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Safeco-Quote.9.htm%22%3ESafeco%20Quote%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Access-Safeco-online-account.10.htm%22%20target=%22_blank%22%3EAccess%20Safeco%20online%20account%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Steve-Sargent-Owner-Insurance-Agent.11.htm%22%3ESteve%20Sargent%20Owner/Insurance%20Agent%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Health-Insurance-Open-Enrollment.12.htm%22%3EHealth%20Insurance%20Open%20Enrollment%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22The-Affordable-Care-Act.13.htm%22%3EThe%20Affordable%20Care%20Act%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Whats-covered-in-the--Health-Insurance-Marketplace.14.htm%22%3EWhat"
+          },
+          {
+            "text": "",
+            "href": "https://www.agentinsure.com/compare/auto-insurance-home-insur%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Safeco-Quote.9.htm%22%3ESafeco%20Quote%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Access-Safeco-online-account.10.htm%22%20target=%22_blank%22%3EAccess%20Safeco%20online%20account%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Steve-Sargent-Owner-Insurance-Agent.11.htm%22%3ESteve%20Sargent%20Owner/Insurance%20Agent%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Health-Insurance-Open-Enrollment.12.htm%22%3EHealth%20Insurance%20Open%20Enrollment%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22The-Affordable-Care-Act.13.htm%22%3EThe%20Affordable%20Care%20Act%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Whats-covered-in-the--Health-Insurance-Marketplace.14.htm%22%3EWhat",
+            "path": "/compare/auto-insurance-home-insur%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Safeco-Quote.9.htm%22%3ESafeco%20Quote%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Access-Safeco-online-account.10.htm%22%20target=%22_blank%22%3EAccess%20Safeco%20online%20account%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Steve-Sargent-Owner-Insurance-Agent.11.htm%22%3ESteve%20Sargent%20Owner/Insurance%20Agent%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Health-Insurance-Open-Enrollment.12.htm%22%3EHealth%20Insurance%20Open%20Enrollment%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22The-Affordable-Care-Act.13.htm%22%3EThe%20Affordable%20Care%20Act%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Whats-covered-in-the--Health-Insurance-Marketplace.14.htm%22%3EWhat"
+          },
+          {
+            "text": "",
+            "href": "https://www.agentinsure.com/compare/auto-insurance-home-insur%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Safeco-Quote.9.htm%22%3ESafeco%20Quote%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Access-Safeco-online-account.10.htm%22%20target=%22_blank%22%3EAccess%20Safeco%20online%20account%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Steve-Sargent-Owner-Insurance-Agent.11.htm%22%3ESteve%20Sargent%20Owner/Insurance%20Agent%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Health-Insurance-Open-Enrollment.12.htm%22%3EHealth%20Insurance%20Open%20Enrollment%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22The-Affordable-Care-Act.13.htm%22%3EThe%20Affordable%20Care%20Act%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Whats-covered-in-the--Health-Insurance-Marketplace.14.htm%22%3EWhat",
+            "path": "/compare/auto-insurance-home-insur%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Safeco-Quote.9.htm%22%3ESafeco%20Quote%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Access-Safeco-online-account.10.htm%22%20target=%22_blank%22%3EAccess%20Safeco%20online%20account%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Steve-Sargent-Owner-Insurance-Agent.11.htm%22%3ESteve%20Sargent%20Owner/Insurance%20Agent%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Health-Insurance-Open-Enrollment.12.htm%22%3EHealth%20Insurance%20Open%20Enrollment%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22The-Affordable-Care-Act.13.htm%22%3EThe%20Affordable%20Care%20Act%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Whats-covered-in-the--Health-Insurance-Marketplace.14.htm%22%3EWhat"
+          },
+          {
+            "text": "Free Prescription Drug Discount Card",
+            "href": "https://www.sargentgrp.com/Free-Prescription-Drug-Discount-Card.15.htm",
+            "path": "/Free-Prescription-Drug-Discount-Card.15.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.sargentgrp.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=77226",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.sargentgrp.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.sargentgrp.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.sargentgrp.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.sargentgrp.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.sargentgrp.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Faqs",
+            "href": "https://www.sargentgrp.com/learning_center/faqs/",
+            "path": "/learning_center/faqs"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Auto Policy Change Request",
+            "href": "https://www.sargentgrp.com/form.cfm?ID=8&SSLID=77226",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Auto Insurance ID Card Request",
+            "href": "https://www.sargentgrp.com/form.cfm?ID=10&SSLID=77226",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Auto Quote Request",
+            "href": "https://www.sargentgrp.com/form.cfm?ID=13&SSLID=77226",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Homeowners Insurance Quote Request",
+            "href": "https://www.sargentgrp.com/form.cfm?ID=101&SSLID=77226",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance Quote Request",
+            "href": "https://www.sargentgrp.com/form.cfm?ID=102&SSLID=77226",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.sargentgrp.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://sargentgrp-31030754.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About",
+        "href": "https://sargentgrp-31030754.brprodaccount.com/our-team",
+        "path": "/our-team",
+        "subItems": [
+          {
+            "text": "Our Team",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Location",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "HR360",
+            "href": "https://www.hr360.com/login/",
+            "path": "/login"
+          },
+          {
+            "text": "Apply for Individual Health Insurance",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/",
+            "path": "/"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Affiliated Office",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/affiliated-office",
+            "path": "/affiliated-office"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://sargentgrp-31030754.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "FAQ",
+            "href": "https://sargentgrp-31030754.brprodaccount.com/faq",
+            "path": "/faq"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Location",
+        "href": "https://sargentgrp-31030754.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "note": "Sub-item \"Our Mission Statement\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Location",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Sargent Insurance Group",
+            "brHref": "/Sargent-Insurance-Group.2.htm",
+            "note": "Sub-item \"Sargent Insurance Group\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "note": "Sub-item \"Our Services\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "note": "Sub-item \"Our Qualifications\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Staff",
+            "brHref": "/Our-Staff.5.htm",
+            "note": "Sub-item \"Our Staff\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Carriers",
+            "brHref": "/Our-Carriers.6.htm",
+            "note": "Sub-item \"Our Carriers\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Click on link to access carrier sites",
+            "brHref": "/Click-on-link-to-access-carrier-sites.7.htm",
+            "note": "Sub-item \"Click on link to access carrier sites\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "",
+            "brHref": "/page.8.htm",
+            "note": "Sub-item \"\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Free Prescription Drug Discount Card",
+            "brHref": "/Free-Prescription-Drug-Discount-Card.15.htm",
+            "note": "Sub-item \"Free Prescription Drug Discount Card\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Faqs",
+            "brHref": "/learning_center/faqs/",
+            "note": "Sub-item \"Faqs\" under \"Resources\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Team",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 21,
+      "totalMigratedItems": 17,
+      "missing": 11,
+      "extra": 6,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 8,
+      "totalBrItems": 21
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
+        "subIssues": [
+          {
+            "kind": "missing",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "note": "Sub-item \"Our Mission Statement\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Location",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Sargent Insurance Group",
+            "brHref": "/Sargent-Insurance-Group.2.htm",
+            "note": "Sub-item \"Sargent Insurance Group\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "note": "Sub-item \"Our Services\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.4.htm",
+            "note": "Sub-item \"Our Qualifications\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Staff",
+            "brHref": "/Our-Staff.5.htm",
+            "note": "Sub-item \"Our Staff\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Our Carriers",
+            "brHref": "/Our-Carriers.6.htm",
+            "note": "Sub-item \"Our Carriers\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Click on link to access carrier sites",
+            "brHref": "/Click-on-link-to-access-carrier-sites.7.htm",
+            "note": "Sub-item \"Click on link to access carrier sites\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "",
+            "brHref": "/page.8.htm",
+            "note": "Sub-item \"\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "",
+            "brHref": "/page.8.htm",
+            "note": "Sub-item \"\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "",
+            "brHref": "/compare/auto-insurance-home-insur%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Safeco-Quote.9.htm%22%3ESafeco%20Quote%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Access-Safeco-online-account.10.htm%22%20target=%22_blank%22%3EAccess%20Safeco%20online%20account%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Steve-Sargent-Owner-Insurance-Agent.11.htm%22%3ESteve%20Sargent%20Owner/Insurance%20Agent%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Health-Insurance-Open-Enrollment.12.htm%22%3EHealth%20Insurance%20Open%20Enrollment%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22The-Affordable-Care-Act.13.htm%22%3EThe%20Affordable%20Care%20Act%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Whats-covered-in-the--Health-Insurance-Marketplace.14.htm%22%3EWhat",
+            "note": "Sub-item \"\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "",
+            "brHref": "/compare/auto-insurance-home-insur%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Safeco-Quote.9.htm%22%3ESafeco%20Quote%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Access-Safeco-online-account.10.htm%22%20target=%22_blank%22%3EAccess%20Safeco%20online%20account%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Steve-Sargent-Owner-Insurance-Agent.11.htm%22%3ESteve%20Sargent%20Owner/Insurance%20Agent%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Health-Insurance-Open-Enrollment.12.htm%22%3EHealth%20Insurance%20Open%20Enrollment%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22The-Affordable-Care-Act.13.htm%22%3EThe%20Affordable%20Care%20Act%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Whats-covered-in-the--Health-Insurance-Marketplace.14.htm%22%3EWhat",
+            "note": "Sub-item \"\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "",
+            "brHref": "/compare/auto-insurance-home-insur%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Safeco-Quote.9.htm%22%3ESafeco%20Quote%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Access-Safeco-online-account.10.htm%22%20target=%22_blank%22%3EAccess%20Safeco%20online%20account%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Steve-Sargent-Owner-Insurance-Agent.11.htm%22%3ESteve%20Sargent%20Owner/Insurance%20Agent%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Health-Insurance-Open-Enrollment.12.htm%22%3EHealth%20Insurance%20Open%20Enrollment%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22The-Affordable-Care-Act.13.htm%22%3EThe%20Affordable%20Care%20Act%3C/a%3E%3C/li%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cli%3E%3Ca%20href=%22Whats-covered-in-the--Health-Insurance-Marketplace.14.htm%22%3EWhat",
+            "note": "Sub-item \"\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Free Prescription Drug Discount Card",
+            "brHref": "/Free-Prescription-Drug-Discount-Card.15.htm",
+            "note": "Sub-item \"Free Prescription Drug Discount Card\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Faqs",
+            "brHref": "/learning_center/faqs",
+            "note": "Sub-item \"Faqs\" under \"Resources\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/#",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Team",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/our-team",
+        "migratedPath": "/our-team",
+        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "HR360",
+        "migratedHref": "https://www.hr360.com/login/",
+        "migratedPath": "/login",
+        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Apply for Individual Health Insurance",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Affiliated Office",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/affiliated-office",
+        "migratedPath": "/affiliated-office",
+        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "FAQ",
+        "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/faq",
+        "migratedPath": "/faq",
+        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 32,
+      "totalMigratedItems": 17,
+      "missing": 17,
+      "extra": 6,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 8
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Sargent Insurance Group",
+        "companyNames": [
+          "Insurance solutions to protect the things that matter most.",
+          "Sargent Insurance Group"
+        ],
+        "phoneNumbers": [
+          "(208) 392-1721",
+          "(866) 275-7770"
+        ],
+        "emailAddresses": [
+          "ladale@sargentgrp.com"
+        ],
+        "physicalAddresses": [
+          "810 Pancheri Drive\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tIdaho Falls,\n\t\t\t\t\n\t\t\t\t\tID \n\t\t\t\t\t83402"
+        ],
+        "personNames": [
+          "Pancheri Drive",
+          "Idaho Falls",
+          "Home\n          \n          About",
+          "Us\n           \n            Our",
+          "Mission Statement",
+          "Our Location",
+          "Sargent Insurance",
+          "Group\n            Our",
+          "Services\n            Our",
+          "Qualifications\n            Our",
+          "Staff\n            Our",
+          "Carriers\n            Click",
+          "Free Prescription",
+          "Drug Discount",
+          "Card\n            Featured",
+          "Links\n            Tell",
+          "Friend\n            \n           \n          \n          Resources",
+          "Articles\n            Calculators",
+          "Newsletters\n            Glossary",
+          "Tax Library",
+          "Faqs\n           \n          \n          Request",
+          "Quote\n           \n            Auto",
+          "Policy Change",
+          "Request\n            Auto",
+          "Card Request",
+          "Auto Quote",
+          "Request\n            Homeowners",
+          "Insurance Quote",
+          "Request\n            Life",
+          "Request\n           \n          \n          Contact",
+          "Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\nThanks",
+          "Our Learning",
+          "Quote Center",
+          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Disability",
+          "Income Insurance",
+          "Disability Income",
+          "Net Worth",
+          "Lifetime Earnings",
+          "Life Expectancy",
+          "More Calculators",
+          "Learning Center",
+          "Articles\n                Educate",
+          "Glossary\n                  \n                  Financial",
+          "Frequently Asked",
+          "Questions\n              \n            \n              \n                \n                  Tax",
+          "Library\n                \n                Manage",
+          "Auto Insurance",
+          "Home Insurance",
+          "Quotes Powered",
+          "Privacy Policy",
+          "Website Visitors",
+          "Internet Protocol",
+          "Identifying Information",
+          "Aggregated Statistics",
+          "Certain Personally",
+          "Business Transfers",
+          "If Sargent",
+          "Insurance Group",
+          "This Privacy",
+          "Site Map"
+        ],
+        "footerText": "Auto Insurance Quotes and Home Insurance Quotes Powered by AgentInsure\n\t\t\t\n\t\t\n\t\n\n\n\nPrivacy Policy:\nSargent Insurance Group operates sargentgrp.com and may operate other websites. It is Sargent Insurance Group’s policy to respect your privacy regarding any information we may collect while operating our websites.\nWebsite Visitors\nLike most website operators, Sargent Insurance Group collects non-personally-identifying information of the sort that web browsers and servers typically make available, s"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.sargentgrp.com",
+        "companyNames": [
+          "Creative Financial\nProfessionals"
+        ],
+        "phoneNumbers": [
+          "9723800063",
+          "8005295740",
+          "9723800097",
+          "8003447437",
+          "7475987"
+        ],
+        "emailAddresses": [
+          "resnik_neil@nlgroupmail.com"
+        ],
+        "physicalAddresses": [
+          "4500 Westgrove Suite 356\nAddison, TX 75001"
+        ],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "Securities and investment advisory services are offered solely through Registered Representatives and Investment Adviser Representatives of Equity Services, Inc. Member FINRA/SIPC, One National Life Drive, Montpelier, Vermont 05604, 1-800-344-7437. Creative Financial Professionals and all other entities referenced are not affiliated with Equity Services, Inc., unless otherwise noted. Neil Resnik is a Registered Representative and Investment Adviser Representative of Equity Services, Inc. and offers securities in Texas. Neil is also licensed to offer life insurance and annuities in Texas. This site is not a solicitation of interest in any of these products in any other state. TC7475987(1224)3Privacy Policy"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(208) 392-1721, (866) 275-7770",
+          "migratedValue": "(972) 380-0063",
+          "severity": "critical",
+          "note": "Phone \"(972) 380-0063\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(208) 392-1721, (866) 275-7770",
+          "migratedValue": "(800) 529-5740",
+          "severity": "critical",
+          "note": "Phone \"(800) 529-5740\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(208) 392-1721, (866) 275-7770",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(208) 392-1721, (866) 275-7770",
+          "migratedValue": "(800) 344-7437",
+          "severity": "critical",
+          "note": "Phone \"(800) 344-7437\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(208) 392-1721, (866) 275-7770",
+          "migratedValue": "7475987",
+          "severity": "critical",
+          "note": "Phone \"7475987\" on migrated site not found on original"
+        },
+        {
+          "field": "email",
+          "originalValue": "ladale@sargentgrp.com",
+          "migratedValue": "resnik_neil@nlgroupmail.com",
+          "severity": "critical",
+          "note": "Email \"resnik_neil@nlgroupmail.com\" on migrated site not found on original"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Pancheri Drive, Idaho Falls, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Location, Sargent Insurance, Group\n            Our, Services\n            Our, Qualifications\n            Our, Staff\n            Our, Carriers\n            Click, Free Prescription, Drug Discount, Card\n            Featured, Links\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Newsletters\n            Glossary, Tax Library, Faqs\n           \n          \n          Request, Quote\n           \n            Auto, Policy Change, Request\n            Auto, Card Request, Auto Quote, Request\n            Homeowners, Insurance Quote, Request\n            Life, Request\n           \n          \n          Contact, Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\nThanks, Our Learning, Quote Center, Calculators\n        \n      \n      \n         \n      \n        \n          \n            Disability, Income Insurance, Disability Income, Net Worth, Lifetime Earnings, Life Expectancy, More Calculators, Learning Center, Articles\n                Educate, Glossary\n                  \n                  Financial, Frequently Asked, Questions\n              \n            \n              \n                \n                  Tax, Library\n                \n                Manage, Auto Insurance, Home Insurance, Quotes Powered, Privacy Policy, Website Visitors, Internet Protocol, Identifying Information, Aggregated Statistics, Certain Personally, Business Transfers, If Sargent, Insurance Group, This Privacy, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        },
+        {
+          "field": "company-name",
+          "originalValue": "Insurance solutions to protect the things that matter most. / Sargent Insurance Group",
+          "migratedValue": "Creative Financial\nProfessionals",
+          "severity": "warning",
+          "note": "Company name \"Creative Financial\nProfessionals\" on migrated site may not match original"
+        },
+        {
+          "field": "address",
+          "originalValue": "810 Pancheri Drive\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tIdaho Falls,\n\t\t\t\t\n\t\t\t\t\tID \n\t\t\t\t\t83402",
+          "migratedValue": "4500 Westgrove Suite 356\nAddison, TX 75001",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
+        }
+      ]
+    }
+  }
+}

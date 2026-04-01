@@ -1,0 +1,872 @@
+{
+  "site": {
+    "original": "www.advins.org",
+    "migrated": "https://advins-31030807.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.advins.org",
+    "migratedDomain": "https://advins-31030807.brprodaccount.com/",
+    "capturedAt": "2026-04-01T12:20:00.973Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Personal Insurance Products",
+            "href": "/Personal-Insurance-Products.3.htm"
+          },
+          {
+            "title": "Commercial Insurance Products",
+            "href": "/Commercial-Insurance-Products.5.htm"
+          },
+          {
+            "title": "Specialty Insurance Products",
+            "href": "/Specialty-Insurance-Products.7.htm"
+          },
+          {
+            "title": "Agency Blog",
+            "href": "/http://advins.blogspot.com/"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Insurance Agency",
+            "href": "/Our-Insurance-Agency.2.htm"
+          },
+          {
+            "title": "Our Insurance Agency's Qualifications",
+            "href": "/Our-Insurance-Agencys-Qualifications.4.htm"
+          },
+          {
+            "title": "Access Our Companies",
+            "href": "/Access-Our-Companies.6.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Faqs",
+            "href": "/learning_center/faqs/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.advins.org/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://www.advins.org/Our-Mission-Statement.1.htm",
+            "path": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "text": "Personal Insurance Products",
+            "href": "https://www.advins.org/Personal-Insurance-Products.3.htm",
+            "path": "/Personal-Insurance-Products.3.htm"
+          },
+          {
+            "text": "Commercial Insurance Products",
+            "href": "https://www.advins.org/Commercial-Insurance-Products.5.htm",
+            "path": "/Commercial-Insurance-Products.5.htm"
+          },
+          {
+            "text": "Specialty Insurance Products",
+            "href": "https://www.advins.org/Specialty-Insurance-Products.7.htm",
+            "path": "/Specialty-Insurance-Products.7.htm"
+          },
+          {
+            "text": "Agency Blog",
+            "href": "https://www.advins.org/Agency-Blog.9.htm",
+            "path": "/Agency-Blog.9.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.advins.org/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Insurance Agency",
+            "href": "https://www.advins.org/Our-Insurance-Agency.2.htm",
+            "path": "/Our-Insurance-Agency.2.htm"
+          },
+          {
+            "text": "Our Insurance Agency's Qualifications",
+            "href": "https://www.advins.org/Our-Insurance-Agencys-Qualifications.4.htm",
+            "path": "/Our-Insurance-Agencys-Qualifications.4.htm"
+          },
+          {
+            "text": "Access Our Companies",
+            "href": "https://www.advins.org/Access-Our-Companies.6.htm",
+            "path": "/Access-Our-Companies.6.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=63913",
+            "path": "/tellafriend.cfm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.advins.org/featured_links.htm",
+            "path": "/featured_links.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.advins.org/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.advins.org/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.advins.org/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.advins.org/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.advins.org/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Faqs",
+            "href": "https://www.advins.org/learning_center/faqs/",
+            "path": "/learning_center/faqs"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "#",
+        "path": "/#",
+        "subItems": [
+          {
+            "text": "Auto Policy Change Request",
+            "href": "https://www.advins.org/form.cfm?ID=8&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Property Loss Notice",
+            "href": "https://www.advins.org/form.cfm?ID=9&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Auto Insurance ID Card Request",
+            "href": "https://www.advins.org/form.cfm?ID=10&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Automobile Loss Notice",
+            "href": "https://www.advins.org/form.cfm?ID=11&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Renewal Notice Reminder",
+            "href": "https://www.advins.org/form.cfm?ID=12&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Homeowners Service Request",
+            "href": "https://www.advins.org/form.cfm?ID=103&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Motorcycle Quote Request",
+            "href": "https://www.advins.org/form.cfm?ID=16&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Motor Home Quote Request",
+            "href": "https://www.advins.org/form.cfm?ID=17&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Watercraft Quote Request",
+            "href": "https://www.advins.org/form.cfm?ID=18&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance Quote Request",
+            "href": "https://www.advins.org/form.cfm?ID=102&SSLID=63913",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Quote Your Own Policy",
+            "href": "https://www.agentinsure.net/compare/auto-insurance-home-insurance/advins/quote.aspx",
+            "path": "/compare/auto-insurance-home-insurance/advins/quote.aspx"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.advins.org/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://advins-31030807.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://advins-31030807.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://advins-31030807.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Personal Insurance Products",
+            "href": "https://advins-31030807.brprodaccount.com/personal-insurance-products3",
+            "path": "/personal-insurance-products3"
+          },
+          {
+            "text": "Commercial Insurance Products",
+            "href": "https://advins-31030807.brprodaccount.com/commercial-insurance-products5",
+            "path": "/commercial-insurance-products5"
+          },
+          {
+            "text": "Specialty Insurance Products",
+            "href": "https://advins-31030807.brprodaccount.com/specialty-insurance-products7",
+            "path": "/specialty-insurance-products7"
+          },
+          {
+            "text": "Agency Blog",
+            "href": "http://advins.blogspot.com/",
+            "path": "/"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://advins-31030807.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Insurance Agency",
+            "href": "https://advins-31030807.brprodaccount.com/our-insurance-agency2",
+            "path": "/our-insurance-agency2"
+          },
+          {
+            "text": "Our Insurance Agency's Qualifications",
+            "href": "https://advins-31030807.brprodaccount.com/our-insurance-agencys-qualifications4",
+            "path": "/our-insurance-agencys-qualifications4"
+          },
+          {
+            "text": "Access Our Companies",
+            "href": "https://advins-31030807.brprodaccount.com/our-companies6",
+            "path": "/our-companies6"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://advins-31030807.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://advins-31030807.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://advins-31030807.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://advins-31030807.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://advins-31030807.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://advins-31030807.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://advins-31030807.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Faqs",
+            "href": "https://advins-31030807.brprodaccount.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://advins-31030807.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://advins-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://advins-31030807.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Personal Insurance Products",
+            "brHref": "/Personal-Insurance-Products.3.htm",
+            "migratedText": "Personal Insurance Products",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/personal-insurance-products3",
+            "migratedPath": "/personal-insurance-products3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Commercial Insurance Products",
+            "brHref": "/Commercial-Insurance-Products.5.htm",
+            "migratedText": "Commercial Insurance Products",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/commercial-insurance-products5",
+            "migratedPath": "/commercial-insurance-products5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Specialty Insurance Products",
+            "brHref": "/Specialty-Insurance-Products.7.htm",
+            "migratedText": "Specialty Insurance Products",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/specialty-insurance-products7",
+            "migratedPath": "/specialty-insurance-products7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Agency Blog",
+            "brHref": "/http://advins.blogspot.com/",
+            "migratedText": "Agency Blog",
+            "migratedHref": "http://advins.blogspot.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Insurance Agency",
+            "brHref": "/Our-Insurance-Agency.2.htm",
+            "migratedText": "Our Insurance Agency",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/our-insurance-agency2",
+            "migratedPath": "/our-insurance-agency2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Insurance Agency's Qualifications",
+            "brHref": "/Our-Insurance-Agencys-Qualifications.4.htm",
+            "migratedText": "Our Insurance Agency's Qualifications",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/our-insurance-agencys-qualifications4",
+            "migratedPath": "/our-insurance-agencys-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Access Our Companies",
+            "brHref": "/Access-Our-Companies.6.htm",
+            "migratedText": "Access Our Companies",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/our-companies6",
+            "migratedPath": "/our-companies6"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://advins-31030807.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Faqs",
+            "brHref": "/learning_center/faqs/",
+            "migratedText": "Faqs",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://advins-31030807.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 20,
+      "totalMigratedItems": 20,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 18,
+      "totalBrItems": 20
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://advins-31030807.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://advins-31030807.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Personal Insurance Products",
+            "brHref": "/Personal-Insurance-Products.3.htm",
+            "migratedText": "Personal Insurance Products",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/personal-insurance-products3",
+            "migratedPath": "/personal-insurance-products3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Commercial Insurance Products",
+            "brHref": "/Commercial-Insurance-Products.5.htm",
+            "migratedText": "Commercial Insurance Products",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/commercial-insurance-products5",
+            "migratedPath": "/commercial-insurance-products5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Specialty Insurance Products",
+            "brHref": "/Specialty-Insurance-Products.7.htm",
+            "migratedText": "Specialty Insurance Products",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/specialty-insurance-products7",
+            "migratedPath": "/specialty-insurance-products7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Agency Blog",
+            "brHref": "/Agency-Blog.9.htm",
+            "migratedText": "Agency Blog",
+            "migratedHref": "http://advins.blogspot.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Insurance Agency",
+            "brHref": "/Our-Insurance-Agency.2.htm",
+            "migratedText": "Our Insurance Agency",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/our-insurance-agency2",
+            "migratedPath": "/our-insurance-agency2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Insurance Agency's Qualifications",
+            "brHref": "/Our-Insurance-Agencys-Qualifications.4.htm",
+            "migratedText": "Our Insurance Agency's Qualifications",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/our-insurance-agencys-qualifications4",
+            "migratedPath": "/our-insurance-agencys-qualifications4"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Access Our Companies",
+            "brHref": "/Access-Our-Companies.6.htm",
+            "migratedText": "Access Our Companies",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/our-companies6",
+            "migratedPath": "/our-companies6"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://advins-31030807.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Faqs",
+            "brHref": "/learning_center/faqs",
+            "migratedText": "Faqs",
+            "migratedHref": "https://advins-31030807.brprodaccount.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/#",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://advins-31030807.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 33,
+      "totalMigratedItems": 20,
+      "missing": 2,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 18
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Advantage Insurance Agency LLC, a local Great Falls independent insurance agency located at the Twilite Center on Smelter AVe NE, doing business in Great Falls for 14 years.",
+        "companyNames": [
+          "Advantage Insurance Agency LLC"
+        ],
+        "phoneNumbers": [
+          "(406) 452-2956",
+          "(406) 727-0040"
+        ],
+        "emailAddresses": [
+          "connie@advins.org",
+          "tauna@advins.org"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Advantage Insurance",
+          "Smelter Ave",
+          "Great Falls",
+          "Home\n          \n          About",
+          "Us\n           \n            Our",
+          "Mission Statement",
+          "Personal Insurance",
+          "Products\n            Commercial",
+          "Insurance Products",
+          "Specialty Insurance",
+          "Products\n            Agency",
+          "Blog\n            Our",
+          "Location\n            Our",
+          "Insurance Agency",
+          "Our Insurance",
+          "Qualifications\n            Access",
+          "Our Companies",
+          "Tell A Friend",
+          "Featured Links",
+          "Resources\n           \n            Articles",
+          "Calculators\n            Newsletters",
+          "Glossary\n            Tax",
+          "Library\n            Faqs",
+          "Request A Quote",
+          "Auto Policy",
+          "Change Request",
+          "Property Loss",
+          "Notice\n            Auto",
+          "Card Request",
+          "Automobile Loss",
+          "Notice\n            Renewal",
+          "Notice Reminder",
+          "Homeowners Service",
+          "Request\n            Motorcycle",
+          "Quote Request",
+          "Motor Home",
+          "Watercraft Quote",
+          "Request\n            Life",
+          "Insurance Quote",
+          "Request\n            Quote",
+          "Your Own",
+          "Policy\n           \n          \n          Contact",
+          "Commercial Products",
+          "Referral Rewards",
+          "Insurance Program",
+          "With Age",
+          "Independent Agent",
+          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Loan",
+          "Payoff\n          \n        \n        How",
+          "Mortgage Acceleration",
+          "Lifetime Earnings",
+          "Life Expectancy",
+          "More Calculators",
+          "Site Map"
+        ],
+        "footerText": "\"Choices are Good - Experience the Advantage!\"\n      \n        \n          \n            \n              \n                  Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | Template01022026",
+        "companyNames": [
+          "Advantage Insurance Agency LLC"
+        ],
+        "phoneNumbers": [
+          "4064522956",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "connie@advins.org",
+          "tauna@advins.org"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": "\"Choices are Good - Experience the Advantage!\""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(406) 452-2956, (406) 727-0040",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "person-name",
+          "originalValue": "Advantage Insurance, Smelter Ave, Great Falls, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Personal Insurance, Products\n            Commercial, Insurance Products, Specialty Insurance, Products\n            Agency, Blog\n            Our, Location\n            Our, Insurance Agency, Our Insurance, Qualifications\n            Access, Our Companies, Tell A Friend, Featured Links, Resources\n           \n            Articles, Calculators\n            Newsletters, Glossary\n            Tax, Library\n            Faqs, Request A Quote, Auto Policy, Change Request, Property Loss, Notice\n            Auto, Card Request, Automobile Loss, Notice\n            Renewal, Notice Reminder, Homeowners Service, Request\n            Motorcycle, Quote Request, Motor Home, Watercraft Quote, Request\n            Life, Insurance Quote, Request\n            Quote, Your Own, Policy\n           \n          \n          Contact, Commercial Products, Referral Rewards, Insurance Program, With Age, Independent Agent, Calculators\n        \n      \n      \n         \n      \n        \n          \n            Loan, Payoff\n          \n        \n        How, Mortgage Acceleration, Lifetime Earnings, Life Expectancy, More Calculators, Site Map",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

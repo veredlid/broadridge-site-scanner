@@ -1,0 +1,463 @@
+{
+  "site": {
+    "original": "www.wfswealthmanagement.com",
+    "migrated": "https://wfswealthmanagement-31030752.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.wfswealthmanagement.com",
+    "migratedDomain": "https://wfswealthmanagement-31030752.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:29:42.985Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Mission Statement",
+            "href": "/Our-Mission-Statement.1.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://wfswealthmanagement-31030752.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://wfswealthmanagement-31030752.brprodaccount.com/our-mission-statement1",
+        "path": "/our-mission-statement1",
+        "subItems": [
+          {
+            "text": "Our Mission Statement",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/our-mission-statement1",
+            "path": "/our-mission-statement1"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Firm",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://wfswealthmanagement-31030752.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://wfswealthmanagement-31030752.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://wfswealthmanagement-31030752.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission Statement",
+            "brHref": "/Our-Mission-Statement.1.htm",
+            "migratedText": "Our Mission Statement",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/our-mission-statement1",
+            "migratedPath": "/our-mission-statement1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 14,
+      "totalMigratedItems": 14,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 12,
+      "totalBrItems": 14
+    },
+    "liveIssues": [
+      {
+        "kind": "extra",
+        "migratedText": "Home",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "About Us",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Mission Statement",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/our-mission-statement1",
+        "migratedPath": "/our-mission-statement1",
+        "note": "\"Our Mission Statement\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Location",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Our Location\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Firm",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/our-firm2",
+        "migratedPath": "/our-firm2",
+        "note": "\"Our Firm\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Our Services",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/our-services3",
+        "migratedPath": "/our-services3",
+        "note": "\"Our Services\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Resources",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Articles",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Articles\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Calculators",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/calculators",
+        "migratedPath": "/calculators",
+        "note": "\"Calculators\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Newsletters",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/newsletters",
+        "migratedPath": "/newsletters",
+        "note": "\"Newsletters\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Glossary",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/glossary",
+        "migratedPath": "/glossary",
+        "note": "\"Glossary\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Tax Library",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/tax-library",
+        "migratedPath": "/tax-library",
+        "note": "\"Tax Library\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://wfswealthmanagement-31030752.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "note": "\"Contact Us\" appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 0,
+      "totalMigratedItems": 14,
+      "missing": 0,
+      "extra": 14,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Ward Financial Services, LLC",
+        "companyNames": [
+          "Ward Financial Services, LLC"
+        ],
+        "phoneNumbers": [
+          "(479) 967-1200",
+          "(479) 967-9344"
+        ],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Phil G. Ward",
+          "Bernard Financial",
+          "Financial Services",
+          "Enter Site"
+        ],
+        "footerText": ""
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.wfswealthmanagement.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "1365531",
+          "9184813344",
+          "9723800097",
+          "4799671200",
+          "4799679344"
+        ],
+        "emailAddresses": [
+          "phil.ward@stbernardfinancial.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Securities offered through St. Bernard Financial Services, Inc., 1609 W Main, Russellville, AR 72801, 479-967-1200 Fax - 479-967-9344"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(479) 967-1200, (479) 967-9344",
+          "migratedValue": "1365531",
+          "severity": "critical",
+          "note": "Phone \"1365531\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(479) 967-1200, (479) 967-9344",
+          "migratedValue": "(918) 481-3344",
+          "severity": "critical",
+          "note": "Phone \"(918) 481-3344\" on migrated site not found on original"
+        },
+        {
+          "field": "phone",
+          "originalValue": "(479) 967-1200, (479) 967-9344",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

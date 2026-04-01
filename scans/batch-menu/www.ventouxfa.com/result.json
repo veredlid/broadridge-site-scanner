@@ -1,0 +1,767 @@
+{
+  "site": {
+    "original": "www.ventouxfa.com",
+    "migrated": "https://ventouxfa-31030752.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.ventouxfa.com",
+    "migratedDomain": "https://ventouxfa-31030752.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:52:47.953Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Firm",
+            "href": "/Firm.1.htm"
+          },
+          {
+            "title": "Services",
+            "href": "/Services.2.htm"
+          },
+          {
+            "title": "Qualifications",
+            "href": "/Qualifications.3.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          },
+          {
+            "title": "Tour de Cure Video",
+            "href": "/Tour-de-Cure-Video.8.htm"
+          }
+        ]
+      },
+      {
+        "title": "Client Access",
+        "href": "/javascript:void(0);",
+        "children": [
+          {
+            "title": "Client Access",
+            "href": "/CLIENT-ACCESS-1.4.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": [
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.ventouxfa.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.ventouxfa.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Firm",
+            "href": "https://www.ventouxfa.com/Firm.1.htm",
+            "path": "/Firm.1.htm"
+          },
+          {
+            "text": "Services",
+            "href": "https://www.ventouxfa.com/Services.2.htm",
+            "path": "/Services.2.htm"
+          },
+          {
+            "text": "Qualifications",
+            "href": "https://www.ventouxfa.com/Qualifications.3.htm",
+            "path": "/Qualifications.3.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.ventouxfa.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Tour de Cure Video",
+            "href": "https://www.ventouxfa.com/Tour-de-Cure-Video.8.htm",
+            "path": "/Tour-de-Cure-Video.8.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Client Access",
+        "href": "javascript:void(0);",
+        "path": "void(0);",
+        "subItems": [
+          {
+            "text": "Client Access",
+            "href": "https://www.ventouxfa.com/CLIENT-ACCESS-1.4.htm",
+            "path": "/CLIENT-ACCESS-1.4.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.ventouxfa.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.ventouxfa.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.ventouxfa.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.ventouxfa.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.ventouxfa.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.ventouxfa.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.ventouxfa.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.ventouxfa.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.ventouxfa.com/form.cfm?ID=70&SSLID=3794",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.ventouxfa.com/form.cfm?ID=68&SSLID=3794",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.ventouxfa.com/form.cfm?ID=69&SSLID=3794",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.ventouxfa.com/form.cfm?ID=65&SSLID=3794",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.ventouxfa.com/form.cfm?ID=67&SSLID=3794",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Annuity",
+            "href": "https://www.ventouxfa.com/form.cfm?ID=64&SSLID=3794",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.ventouxfa.com/form.cfm?ID=72&SSLID=3794",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.ventouxfa.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Contact Us",
+            "href": "https://www.ventouxfa.com/contact_us/",
+            "path": "/contact_us"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.ventouxfa.com/form.cfm?ID=73&SSLID=3794",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.ventouxfa.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.ventouxfa.com/tellafriend.cfm?SSLID=3794",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://ventouxfa-31030752.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://ventouxfa-31030752.brprodaccount.com/firm1",
+        "path": "/firm1",
+        "subItems": [
+          {
+            "text": "Firm",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/firm1",
+            "path": "/firm1"
+          },
+          {
+            "text": "Services",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/services2",
+            "path": "/services2"
+          },
+          {
+            "text": "Qualifications",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/qualifications3",
+            "path": "/qualifications3"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          },
+          {
+            "text": "Tour de Cure Video",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/tour-de-cure-video8",
+            "path": "/tour-de-cure-video8"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Client Access",
+        "href": "https://ventouxfa-31030752.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Client Access",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/client-access4",
+            "path": "/client-access4"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://ventouxfa-31030752.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://ventouxfa-31030752.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [
+          {
+            "text": "Our Location",
+            "href": "https://ventouxfa-31030752.brprodaccount.com/location",
+            "path": "/location"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/firm1",
+        "migratedPath": "/firm1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Firm",
+            "brHref": "/Firm.1.htm",
+            "migratedText": "Firm",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/firm1",
+            "migratedPath": "/firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services",
+            "brHref": "/Services.2.htm",
+            "migratedText": "Services",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/services2",
+            "migratedPath": "/services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Qualifications",
+            "brHref": "/Qualifications.3.htm",
+            "migratedText": "Qualifications",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/qualifications3",
+            "migratedPath": "/qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tour de Cure Video",
+            "brHref": "/Tour-de-Cure-Video.8.htm",
+            "migratedText": "Tour de Cure Video",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/tour-de-cure-video8",
+            "migratedPath": "/tour-de-cure-video8"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Client Access",
+        "brHref": "/javascript:void(0);",
+        "migratedText": "Client Access",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Client Access",
+            "brHref": "/CLIENT-ACCESS-1.4.htm",
+            "migratedText": "Client Access",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/client-access4",
+            "migratedPath": "/client-access4"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 18,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 16,
+      "totalBrItems": 18
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/firm1",
+        "migratedPath": "/firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Firm",
+            "brHref": "/Firm.1.htm",
+            "migratedText": "Firm",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/firm1",
+            "migratedPath": "/firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services",
+            "brHref": "/Services.2.htm",
+            "migratedText": "Services",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/services2",
+            "migratedPath": "/services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Qualifications",
+            "brHref": "/Qualifications.3.htm",
+            "migratedText": "Qualifications",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/qualifications3",
+            "migratedPath": "/qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tour de Cure Video",
+            "brHref": "/Tour-de-Cure-Video.8.htm",
+            "migratedText": "Tour de Cure Video",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/tour-de-cure-video8",
+            "migratedPath": "/tour-de-cure-video8"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Client Access",
+        "brHref": "void(0);",
+        "migratedText": "Client Access",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Client Access",
+            "brHref": "/CLIENT-ACCESS-1.4.htm",
+            "migratedText": "Client Access",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/client-access4",
+            "migratedPath": "/client-access4"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/location",
+        "migratedPath": "/location",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Contact Us",
+            "brHref": "/contact_us",
+            "migratedText": "Contact Us",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/location",
+            "migratedPath": "/location",
+            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Information Request",
+            "brHref": "/form.cfm",
+            "note": "Sub-item \"Information Request\" under \"Contact Us\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"Contact Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "extra",
+        "migratedText": "Videos",
+        "migratedHref": "https://ventouxfa-31030752.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 29,
+      "totalMigratedItems": 18,
+      "missing": 4,
+      "extra": 1,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 1,
+      "ok": 17
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Ventoux Financial Advisors, LLC",
+        "companyNames": [
+          "VENTOUX FINANCIAL ADVISORS",
+          "Ventoux Financial Advisors, LLC"
+        ],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "William J. Nedza"
+        ],
+        "footerText": "Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.ventouxfa.com",
+        "companyNames": [],
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik",
+          "William J. Nedza"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "person-name",
+          "originalValue": "William J. Nedza",
+          "migratedValue": "Neil H. Resnik",
+          "severity": "critical",
+          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
+        }
+      ]
+    }
+  }
+}

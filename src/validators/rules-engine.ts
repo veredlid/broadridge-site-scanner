@@ -7,31 +7,70 @@ import type {
 } from '../types/index.js';
 import { PROHIBITED_FORMS, PROHIBITED_MENU_ITEMS, THRESHOLDS, SOCIAL_PLATFORMS } from '../config.js';
 
+type SiteType = 'vanilla' | 'flex' | 'deprecated';
+
+/**
+ * Metadata for a rule check — which site types it applies to.
+ * 'all' means the check runs for every site type.
+ */
+type RuleAppliesTo = SiteType[] | 'all';
+
+/** Wrap a rule result array with site-type applicability info. */
+function applyIf(
+  siteType: SiteType,
+  appliesTo: RuleAppliesTo,
+  results: ValidationResult[]
+): ValidationResult[] {
+  if (appliesTo === 'all') return results;
+  if (appliesTo.includes(siteType)) return results;
+  return [];
+}
+
 export function runAllRules(
   snapshot: SiteSnapshot,
   linkResults: Map<string, LinkValidationResult[]>,
+  siteType: SiteType = 'flex',
   originalSnapshot?: SiteSnapshot
 ): ValidationReport {
   const results: ValidationResult[] = [];
+  const t = siteType; // shorthand
 
+  // ── Per-page checks ──────────────────────────────────────────────────────
   for (const page of snapshot.pages) {
     const originalPage = originalSnapshot?.pages.find((p) => matchPageUrls(p.url, page.url));
     const pageLinks = linkResults.get(page.url) ?? [];
 
-    results.push(...checkProhibitedForms(page));
-    results.push(...checkImageLinks(page, originalPage));
-    results.push(...checkMobileLayout(page));
-    results.push(...checkBrokenLinks(pageLinks, page.url));
-    results.push(...checkProhibitedMenuItems(page));
-    results.push(...checkFooterRules(page));
-    results.push(...checkHeroSection(page));
-    results.push(...checkContactConsistency(page));
-    results.push(...checkMapSection(page, originalPage));
-    results.push(...checkSectionDimensions(page, originalPage));
-    results.push(...checkMenuStructure(page, originalPage));
-    results.push(...checkSocialLinks(page));
-    results.push(...checkCalloutSections(page));
+    // All site types
+    results.push(...applyIf(t, 'all', checkProhibitedForms(page)));
+    results.push(...applyIf(t, 'all', checkMobileLayout(page)));
+    results.push(...applyIf(t, 'all', checkBrokenLinks(pageLinks, page.url)));
+    results.push(...applyIf(t, 'all', checkProhibitedMenuItems(page)));
+    results.push(...applyIf(t, 'all', checkFooterRules(page)));
+    results.push(...applyIf(t, 'all', checkHeroSection(page)));
+    results.push(...applyIf(t, 'all', checkContactConsistency(page)));
+    results.push(...applyIf(t, 'all', checkSocialLinks(page)));
+    results.push(...applyIf(t, 'all', checkDeadCTAs(page)));
+    results.push(...applyIf(t, 'all', checkCrossNavConsistency(page)));
+
+    // Vanilla only: strict 1-1 comparison checks
+    results.push(...applyIf(t, ['vanilla'], checkImageLinks(page, originalPage)));
+    results.push(...applyIf(t, ['vanilla'], checkMapSection(page, originalPage)));
+    results.push(...applyIf(t, ['vanilla'], checkSectionDimensions(page, originalPage)));
+    results.push(...applyIf(t, ['vanilla'], checkMenuStructure(page, originalPage)));
+    results.push(...applyIf(t, ['vanilla'], checkBrokerCheck(page, originalPage)));
+
+    // Flex + Deprecated: template-based checks
+    results.push(...applyIf(t, ['flex', 'deprecated'], checkCalloutSections(page)));
   }
+
+  // ── Cross-page checks (run once on the whole snapshot) ───────────────────
+  results.push(...applyIf(t, 'all', checkHeaderOnEveryPage(snapshot)));
+  results.push(...applyIf(t, 'all', checkFooterOnEveryPage(snapshot)));
+  results.push(...applyIf(t, 'all', checkMenuConsistencyAcrossPages(snapshot)));
+  results.push(...applyIf(t, 'all', checkLogoOnEveryPage(snapshot)));
+  results.push(...applyIf(t, 'all', checkContactInfoAcrossPages(snapshot)));
+  results.push(...applyIf(t, 'all', checkBackToTopOnEveryPage(snapshot)));
+  results.push(...applyIf(t, 'all', checkNavCoverageMatchesScannedPages(snapshot)));
 
   const passed = results.filter((r) => r.passed).length;
   return {
@@ -648,6 +687,520 @@ function checkCalloutSections(page: PageSnapshot): ValidationResult[] {
         section: 'mediaContainer',
       });
     }
+  }
+
+  return results;
+}
+
+// ═══════════════════════════════════════
+//  V55: Broker Check presence
+// ═══════════════════════════════════════
+
+function checkBrokerCheck(page: PageSnapshot, originalPage?: PageSnapshot): ValidationResult[] {
+  const hasBrokerCheck = (p: PageSnapshot): boolean =>
+    p.links.some((l) => l.href.toLowerCase().includes('brokercheck.finra.org')) ||
+    p.sections.some((s) => s.textContent.toLowerCase().includes('brokercheck'));
+
+  const presentOnMigrated = hasBrokerCheck(page);
+
+  // Comparison mode: if original had it, migrated must too
+  if (originalPage) {
+    const presentOnOriginal = hasBrokerCheck(originalPage);
+    if (!presentOnOriginal) return []; // original didn't have it — no requirement
+    return [{
+      ruleId: 'V55',
+      ruleName: 'Broker Check preserved',
+      category: 'Compliance',
+      severity: 'critical',
+      passed: presentOnMigrated,
+      message: presentOnMigrated
+        ? 'BrokerCheck link/widget present on migrated site'
+        : 'BrokerCheck link/widget present on original but MISSING on migrated site',
+      page: page.url,
+      section: 'footerContainer',
+    }];
+  }
+
+  // Single-scan mode: report presence as info
+  if (presentOnMigrated) {
+    return [{
+      ruleId: 'V55',
+      ruleName: 'Broker Check presence',
+      category: 'Compliance',
+      severity: 'info',
+      passed: true,
+      message: 'BrokerCheck link/widget detected',
+      page: page.url,
+      section: 'footerContainer',
+    }];
+  }
+
+  return [];
+}
+
+// ═══════════════════════════════════════
+//  V56: Cross-nav link consistency
+// ═══════════════════════════════════════
+
+function checkCrossNavConsistency(page: PageSnapshot): ValidationResult[] {
+  const results: ValidationResult[] = [];
+
+  const normalizeUrl = (href: string): string =>
+    href.replace(/^https?:\/\/[^/]+/, '').replace(/\/$/, '') || '/';
+
+  const headerLinks = page.links.filter(
+    (l) => l.location === 'headerContainer' || l.location === 'navigationContainer'
+  );
+  const footerLinks = page.links.filter(
+    (l) => l.location === 'footerContainer' || l.location === 'bottomNavigationContainer'
+  );
+
+  for (const headerLink of headerLinks) {
+    if (!headerLink.text.trim()) continue;
+    const matchingFooter = footerLinks.find(
+      (f) => f.text.trim().toLowerCase() === headerLink.text.trim().toLowerCase()
+    );
+    if (!matchingFooter) continue;
+
+    const headerDest = normalizeUrl(headerLink.href);
+    const footerDest = normalizeUrl(matchingFooter.href);
+
+    if (headerDest !== footerDest) {
+      results.push({
+        ruleId: 'V56',
+        ruleName: 'Nav link consistency',
+        category: 'Navigation',
+        severity: 'major',
+        passed: false,
+        message: `"${headerLink.text}" navigates to different URLs: header → "${headerDest}" vs footer → "${footerDest}"`,
+        page: page.url,
+        section: 'navigationContainer',
+        details: { headerLink, matchingFooter },
+      });
+    }
+  }
+
+  if (results.length === 0 && headerLinks.length > 0) {
+    results.push({
+      ruleId: 'V56',
+      ruleName: 'Nav link consistency',
+      category: 'Navigation',
+      severity: 'major',
+      passed: true,
+      message: 'All shared header/footer navigation links point to consistent destinations',
+      page: page.url,
+      section: 'navigationContainer',
+    });
+  }
+
+  return results;
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  CROSS-PAGE CHECKS  (V58–V64)
+//  These receive the full SiteSnapshot and run once per site, not per page.
+// ═══════════════════════════════════════════════════════════════════════════
+
+// ───────────────────────────────────────
+//  V58: Header present on every page
+// ───────────────────────────────────────
+function checkHeaderOnEveryPage(snapshot: SiteSnapshot): ValidationResult[] {
+  const results: ValidationResult[] = [];
+  for (const page of snapshot.pages) {
+    const header = page.sections.find((s) => s.id === 'headerContainer');
+    const ok = header?.isPresent === true && header?.isVisible === true;
+    results.push({
+      ruleId: 'V58',
+      ruleName: 'Header on every page',
+      category: 'Consistency',
+      severity: 'critical',
+      passed: ok,
+      message: ok
+        ? 'Header is present and visible'
+        : 'Header section is missing or hidden',
+      page: page.url,
+      section: 'headerContainer',
+    });
+  }
+  return results;
+}
+
+// ───────────────────────────────────────
+//  V59: Footer with disclaimer on every page
+// ───────────────────────────────────────
+
+/** Compliance keywords that should appear in the footer disclaimer. */
+const DISCLAIMER_KEYWORDS = [
+  'investment', 'advisor', 'securities', 'registered', 'insurance',
+  'sec', 'finra', 'disclosure', 'advisor',
+];
+
+function checkFooterOnEveryPage(snapshot: SiteSnapshot): ValidationResult[] {
+  const results: ValidationResult[] = [];
+  for (const page of snapshot.pages) {
+    const footer = page.sections.find((s) => s.id === 'footerContainer');
+    const footerPresent = footer?.isPresent === true;
+    const text = footer?.textContent?.toLowerCase() ?? '';
+    const hasDisclaimer = DISCLAIMER_KEYWORDS.some((kw) => text.includes(kw));
+
+    if (!footerPresent) {
+      results.push({
+        ruleId: 'V59',
+        ruleName: 'Footer with disclaimer on every page',
+        category: 'Consistency',
+        severity: 'critical',
+        passed: false,
+        message: 'Footer section is missing',
+        page: page.url,
+        section: 'footerContainer',
+      });
+    } else {
+      results.push({
+        ruleId: 'V59',
+        ruleName: 'Footer with disclaimer on every page',
+        category: 'Compliance',
+        severity: 'critical',
+        passed: hasDisclaimer,
+        message: hasDisclaimer
+          ? 'Footer contains compliance disclaimer'
+          : 'Footer is present but no compliance disclaimer text detected',
+        page: page.url,
+        section: 'footerContainer',
+      });
+    }
+  }
+  return results;
+}
+
+// ───────────────────────────────────────
+//  V60: Navigation menu consistent across all pages
+// ───────────────────────────────────────
+function checkMenuConsistencyAcrossPages(snapshot: SiteSnapshot): ValidationResult[] {
+  if (snapshot.pages.length < 2) return [];
+
+  // Use the home page (first page) as the reference menu
+  const referencePage = snapshot.pages[0];
+  const referenceItems = referencePage.menu.items
+    .map((i) => i.text.toLowerCase().trim())
+    .sort()
+    .join('|');
+
+  if (!referenceItems) return []; // No menu on reference page — skip
+
+  const results: ValidationResult[] = [];
+
+  for (const page of snapshot.pages.slice(1)) {
+    const pageItems = page.menu.items
+      .map((i) => i.text.toLowerCase().trim())
+      .sort()
+      .join('|');
+
+    if (!pageItems) {
+      results.push({
+        ruleId: 'V60',
+        ruleName: 'Nav menu consistent across pages',
+        category: 'Consistency',
+        severity: 'major',
+        passed: false,
+        message: `No nav menu extracted on this page (expected: [${referenceItems.replace(/\|/g, ', ')}])`,
+        page: page.url,
+        section: 'navigationContainer',
+      });
+    } else if (pageItems !== referenceItems) {
+      results.push({
+        ruleId: 'V60',
+        ruleName: 'Nav menu consistent across pages',
+        category: 'Consistency',
+        severity: 'major',
+        passed: false,
+        message: `Menu differs from home page — got [${pageItems.replace(/\|/g, ', ')}], expected [${referenceItems.replace(/\|/g, ', ')}]`,
+        page: page.url,
+        section: 'navigationContainer',
+      });
+    } else {
+      results.push({
+        ruleId: 'V60',
+        ruleName: 'Nav menu consistent across pages',
+        category: 'Consistency',
+        severity: 'major',
+        passed: true,
+        message: 'Nav menu matches home page',
+        page: page.url,
+        section: 'navigationContainer',
+      });
+    }
+  }
+
+  return results;
+}
+
+// ───────────────────────────────────────
+//  V61: Company logo / image in header on every page
+// ───────────────────────────────────────
+function checkLogoOnEveryPage(snapshot: SiteSnapshot): ValidationResult[] {
+  const results: ValidationResult[] = [];
+  for (const page of snapshot.pages) {
+    const header = page.sections.find((s) => s.id === 'headerContainer');
+    if (!header?.isPresent) continue; // V58 already flags missing header
+
+    const hasLogoImage = (header.imageCount ?? 0) > 0;
+    // Also accept a text-based logo (heading/text in header)
+    const hasLogoText = (header.headings ?? []).length > 0 || header.textContent.trim().length > 0;
+    const ok = hasLogoImage || hasLogoText;
+
+    results.push({
+      ruleId: 'V61',
+      ruleName: 'Company logo / name in header',
+      category: 'Consistency',
+      severity: 'major',
+      passed: ok,
+      message: ok
+        ? hasLogoImage
+          ? `Header contains ${header.imageCount} image(s) — logo likely present`
+          : 'Header contains text content — text logo likely present'
+        : 'Header has no logo image and no visible text',
+      page: page.url,
+      section: 'headerContainer',
+    });
+  }
+  return results;
+}
+
+// ───────────────────────────────────────
+//  V62: Contact info consistent across all pages
+// ───────────────────────────────────────
+function checkContactInfoAcrossPages(snapshot: SiteSnapshot): ValidationResult[] {
+  const results: ValidationResult[] = [];
+
+  // Collect all phone numbers and emails found across all pages
+  const phones = new Map<string, string[]>(); // phone → [pages]
+  const emails = new Map<string, string[]>();
+
+  for (const page of snapshot.pages) {
+    for (const contact of page.contactInfo) {
+      if (contact.phone) {
+        const normalized = contact.phone.replace(/\D/g, '');
+        if (!phones.has(normalized)) phones.set(normalized, []);
+        phones.get(normalized)!.push(page.url);
+      }
+      if (contact.email) {
+        const normalized = contact.email.toLowerCase().trim();
+        if (!emails.has(normalized)) emails.set(normalized, []);
+        emails.get(normalized)!.push(page.url);
+      }
+    }
+  }
+
+  if (phones.size > 1) {
+    const variants = [...phones.keys()].join(', ');
+    results.push({
+      ruleId: 'V62',
+      ruleName: 'Contact info consistent across pages',
+      category: 'Consistency',
+      severity: 'major',
+      passed: false,
+      message: `Multiple phone numbers found across pages: ${variants}`,
+      page: 'site-wide',
+      section: 'contact',
+      details: Object.fromEntries(phones),
+    });
+  }
+
+  if (emails.size > 1) {
+    const variants = [...emails.keys()].join(', ');
+    results.push({
+      ruleId: 'V62',
+      ruleName: 'Contact info consistent across pages',
+      category: 'Consistency',
+      severity: 'major',
+      passed: false,
+      message: `Multiple email addresses found across pages: ${variants}`,
+      page: 'site-wide',
+      section: 'contact',
+      details: Object.fromEntries(emails),
+    });
+  }
+
+  if (results.length === 0 && (phones.size > 0 || emails.size > 0)) {
+    results.push({
+      ruleId: 'V62',
+      ruleName: 'Contact info consistent across pages',
+      category: 'Consistency',
+      severity: 'major',
+      passed: true,
+      message: `Contact info is consistent across all ${snapshot.pages.length} pages`,
+      page: 'site-wide',
+      section: 'contact',
+    });
+  }
+
+  return results;
+}
+
+// ───────────────────────────────────────
+//  V63: Back-to-top CTA present on every page
+// ───────────────────────────────────────
+const BACK_TO_TOP_PATTERNS = [
+  /back\s*to\s*top/i,
+  /scroll\s*to\s*top/i,
+  /go\s*to\s*top/i,
+  /\^|↑|⬆/,
+];
+
+function checkBackToTopOnEveryPage(snapshot: SiteSnapshot): ValidationResult[] {
+  const results: ValidationResult[] = [];
+  for (const page of snapshot.pages) {
+    const backToTopLink = page.links.find((l) => {
+      const text = l.text.trim();
+      const isAnchorTarget = l.href === '#' || l.href.endsWith('#top') || l.href.endsWith('#');
+      const isTextMatch = BACK_TO_TOP_PATTERNS.some((re) => re.test(text));
+      return isAnchorTarget || isTextMatch;
+    });
+
+    // Also check CTAs
+    const backToTopCta = page.ctas.find((c) =>
+      BACK_TO_TOP_PATTERNS.some((re) => re.test(c.text))
+    );
+
+    const ok = !!(backToTopLink || backToTopCta);
+    results.push({
+      ruleId: 'V63',
+      ruleName: 'Back-to-top CTA present',
+      category: 'Navigation',
+      severity: 'minor',
+      passed: ok,
+      message: ok
+        ? `Back-to-top link found: "${(backToTopLink ?? backToTopCta)?.text}"`
+        : 'No back-to-top link or CTA found on this page',
+      page: page.url,
+      section: 'footerContainer',
+    });
+  }
+  return results;
+}
+
+// ───────────────────────────────────────
+//  V64: All nav sub-pages were actually scanned
+// ───────────────────────────────────────
+function checkNavCoverageMatchesScannedPages(snapshot: SiteSnapshot): ValidationResult[] {
+  if (snapshot.pages.length === 0) return [];
+
+  // Collect all internal nav sub-item URLs from the home page menu
+  const homePage = snapshot.pages.find((p) => p.url === '/' || p.url === '') ?? snapshot.pages[0];
+  const scannedPaths = new Set(
+    snapshot.pages.map((p) => normalizePath(p.url))
+  );
+
+  const results: ValidationResult[] = [];
+  const missingPages: string[] = [];
+
+  for (const item of homePage.menu.items) {
+    for (const sub of item.subItems) {
+      try {
+        const path = normalizePath(sub.href);
+        if (path.startsWith('/') && !scannedPaths.has(path)) {
+          missingPages.push(`"${sub.text}" (${path})`);
+        }
+      } catch {
+        // ignore non-URL sub items (external links, anchors)
+      }
+    }
+    // Also check top-level items that have their own page (href not '#')
+    if (item.href && item.href !== '#') {
+      try {
+        const path = normalizePath(item.href);
+        if (path.startsWith('/') && path !== '/' && !scannedPaths.has(path)) {
+          missingPages.push(`"${item.text}" (${path})`);
+        }
+      } catch {
+        // ignore
+      }
+    }
+  }
+
+  if (missingPages.length > 0) {
+    results.push({
+      ruleId: 'V64',
+      ruleName: 'All nav sub-pages scanned',
+      category: 'Coverage',
+      severity: 'minor',
+      passed: false,
+      message: `${missingPages.length} nav page(s) not included in scan: ${missingPages.join(', ')}`,
+      page: 'site-wide',
+      section: 'navigationContainer',
+      details: missingPages,
+    });
+  } else {
+    results.push({
+      ruleId: 'V64',
+      ruleName: 'All nav sub-pages scanned',
+      category: 'Coverage',
+      severity: 'minor',
+      passed: true,
+      message: `All ${scannedPaths.size} pages discovered in nav were scanned`,
+      page: 'site-wide',
+      section: 'navigationContainer',
+    });
+  }
+
+  return results;
+}
+
+function normalizePath(url: string): string {
+  try {
+    return new URL(url).pathname.replace(/\/$/, '') || '/';
+  } catch {
+    return url.replace(/\/$/, '') || '/';
+  }
+}
+
+// ═══════════════════════════════════════
+//  V57: Dead CTAs (visible, no destination)
+// ═══════════════════════════════════════
+
+const NAV_CTA_KEYWORDS = [
+  'learn more', 'watch now', 'view', 'read more', 'get started',
+  'explore', 'discover', 'see more', 'find out', 'click here',
+  'start', 'go to', 'open', 'launch', 'visit',
+];
+
+function checkDeadCTAs(page: PageSnapshot): ValidationResult[] {
+  const results: ValidationResult[] = [];
+
+  const deadCTAs = page.ctas.filter((cta) => {
+    if (!cta.isVisible) return false;
+    if (cta.href !== null) return false;         // has a destination
+    if (cta.navigatesTo !== null) return false;   // clicked and navigated
+    if (cta.type === 'submit') return false;       // form submit — intentional
+    const textLower = cta.text.toLowerCase();
+    return NAV_CTA_KEYWORDS.some((kw) => textLower.includes(kw));
+  });
+
+  for (const cta of deadCTAs) {
+    results.push({
+      ruleId: 'V57',
+      ruleName: 'No dead CTAs',
+      category: 'CTAs',
+      severity: 'major',
+      passed: false,
+      message: `CTA "${cta.text}" in ${cta.section} has no navigation destination`,
+      page: page.url,
+      section: cta.section,
+      details: cta,
+    });
+  }
+
+  if (deadCTAs.length === 0 && page.ctas.filter((c) => c.isVisible).length > 0) {
+    results.push({
+      ruleId: 'V57',
+      ruleName: 'No dead CTAs',
+      category: 'CTAs',
+      severity: 'major',
+      passed: true,
+      message: `All visible CTAs have navigation destinations`,
+      page: page.url,
+      section: 'all',
+    });
   }
 
   return results;

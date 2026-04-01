@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Menu Check — www.svgfinancial.com</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #1a1a1a; background: #f5f5f5; }
+  .header { background: #1a237e; color: white; padding: 24px 32px; }
+  .header h1 { font-size: 20px; font-weight: 600; margin-bottom: 6px; }
+  .header .meta { font-size: 12px; opacity: 0.7; }
+  .overall-bar { background: #d32f2f; color: white; padding: 8px 32px; font-size: 12px; font-weight: 600; letter-spacing: 1px; display: flex; gap: 32px; }
+  .container { max-width: 1100px; margin: 24px auto; padding: 0 24px; }
+  /* Part tabs */
+  .part { background: white; border-radius: 8px; margin-bottom: 24px; box-shadow: 0 1px 3px rgba(0,0,0,.1); overflow: hidden; }
+  .part-header { padding: 16px 24px; border-bottom: 1px solid #e0e0e0; display: flex; align-items: center; gap: 12px; }
+  .part-badge { padding: 4px 12px; border-radius: 4px; font-size: 12px; font-weight: 700; letter-spacing: .5px; }
+  .part-title { font-size: 16px; font-weight: 600; }
+  .part-subtitle { font-size: 12px; color: #666; margin-top: 2px; }
+  .part-status { margin-left: auto; padding: 4px 12px; border-radius: 4px; font-size: 12px; font-weight: 700; color: white; }
+  .part-body { padding: 20px 24px; }
+  .badge-pass { background: #e8f5e9; color: #2e7d32; }
+  .badge-bug  { background: #ffebee; color: #c62828; }
+  .badge-warn { background: #e3f2fd; color: #1565c0; }
+  .badge-skip { background: #f5f5f5; color: #757575; }
+  /* Summary cards */
+  .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; margin-bottom: 20px; }
+  .summary-card { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 8px; padding: 14px; text-align: center; }
+  .summary-card .num { font-size: 28px; font-weight: 700; }
+  .summary-card .lbl { font-size: 11px; text-transform: uppercase; letter-spacing: .5px; color: #666; margin-top: 4px; }
+  .num-red { color: #d32f2f; } .num-orange { color: #e65100; }
+  .num-blue { color: #1565c0; } .num-green { color: #2e7d32; }
+  /* Issue tables */
+  details { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 6px; margin-bottom: 10px; overflow: hidden; }
+  summary.section-title { padding: 12px 16px; font-weight: 600; font-size: 13px; cursor: pointer; user-select: none; list-style: none; display: flex; align-items: center; gap: 8px; }
+  summary.section-title::-webkit-details-marker { display: none; }
+  summary.section-title .count { background: #e0e0e0; border-radius: 12px; padding: 2px 8px; font-size: 12px; font-weight: 700; }
+  .issue-table { width: 100%; border-collapse: collapse; }
+  .issue-table tr { border-top: 1px solid #f0f0f0; }
+  .issue-table tr:hover { background: #f5f5f5; }
+  .badge-cell { width: 160px; padding: 10px 16px; vertical-align: top; }
+  .detail-cell { padding: 10px 16px; line-height: 1.6; }
+  .badge { display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; white-space: nowrap; }
+  .badge-missing  { background: #ffebee; color: #c62828; }
+  .badge-broken   { background: #ffebee; color: #c62828; }
+  .badge-duplicate    { background: #fff3e0; color: #e65100; }
+  .badge-href-mismatch{ background: #fce4ec; color: #ad1457; }
+  .badge-structure{ background: #e3f2fd; color: #1565c0; }
+  .badge-extra    { background: #e8f5e9; color: #2e7d32; }
+  .badge-ok       { background: #e8f5e9; color: #2e7d32; }
+  code { background: #f5f5f5; border-radius: 3px; padding: 1px 5px; font-size: 13px; }
+  .path { color: #666; font-size: 12px; font-family: monospace; }
+  .label { font-size: 11px; text-transform: uppercase; letter-spacing: .5px; color: #999; }
+  .note { margin-top: 4px; font-size: 12px; color: #555; font-style: italic; }
+  .http { display: inline-block; padding: 1px 6px; border-radius: 3px; font-size: 11px; font-weight: 700; }
+  .http-200 { background: #e8f5e9; color: #2e7d32; }
+  .http-404 { background: #ffebee; color: #c62828; }
+  .http-301, .http-302 { background: #fff8e1; color: #e65100; }
+  /* Raw nav panels */
+  .raw-nav { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 20px; }
+  .raw-nav-box { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 6px; padding: 14px; }
+  .raw-nav-box h3 { font-size: 12px; font-weight: 600; margin-bottom: 8px; color: #444; text-transform: uppercase; letter-spacing: .5px; }
+  .raw-nav-box ul { padding-left: 16px; }
+  .raw-nav-box li { padding: 3px 0; font-size: 13px; }
+  .sub-list { padding-left: 20px; margin-top: 4px; }
+  .sub-list li { font-size: 12px; color: #555; }
+  .muted { color: #bbb; }
+  .skipped-notice { background: #f5f5f5; border: 1px solid #e0e0e0; border-radius: 6px; padding: 20px; text-align: center; color: #757575; font-size: 13px; }
+  @media (max-width: 700px) { .raw-nav { grid-template-columns: 1fr; } .summary-grid { grid-template-columns: repeat(3, 1fr); } }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Menu Check Report — www.svgfinancial.com</h1>
+  <div class="meta">
+    Migrated: https://svgfinancial-31030753.brprodaccount.com/ &nbsp;·&nbsp;
+    Scanned: 4/1/2026, 11:23:34 AM
+  </div>
+</div>
+<div class="overall-bar">
+  <span>Part 1 (BR JSON vs Migrated): STRUCTURE CHANGES</span>
+  <span>Part 2 (Original vs Migrated): PASS</span>
+  <span>Part 3 (Content Identity): MISMATCH</span>
+</div>
+
+<div class="container">
+
+  <!-- ═══ PART 1: BR JSON vs Migrated ═══ -->
+  <div class="part">
+    <div class="part-header">
+      <div>
+        <div style="display:flex;align-items:center;gap:10px">
+          <span class="part-badge badge-warn">PART 1</span>
+          <span class="part-title">BR JSON vs Migrated Site</span>
+          <span class="part-status" style="background:#1565c0">STRUCTURE CHANGES</span>
+        </div>
+        <div class="part-subtitle" style="margin-top:6px">
+          Source of truth: BR Source API navigation spec &nbsp;·&nbsp;
+          Answers: <em>"Was everything in the migration spec actually migrated?"</em>
+        </div>
+      </div>
+    </div>
+    <div class="part-body">
+      
+    <div class="summary-grid">
+      <div class="summary-card"><div class="num">18</div><div class="lbl">BR JSON Items</div></div>
+      <div class="summary-card"><div class="num">15</div><div class="lbl">Migrated Items</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Missing</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Broken Links</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Duplicates</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Href Mismatches</div></div>
+      <div class="summary-card"><div class="num num-blue">2</div><div class="lbl">Structure Changes</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Extra Items</div></div>
+    </div>
+  
+
+      <div class="raw-nav">
+        <div class="raw-nav-box">
+          <h3>BR JSON Navigation (source of truth)</h3>
+          <ul><li><code>Home</code> <span class="path">/./</span></li><li><code>Private Wealth Group</code> <span class="path">/Private-Wealth-Group.3.htm</span><ul class="sub-list"><li><code>Estate Planning</code> <span class="path">/Estate-Planning.4.htm</span></li><li><code>Associates</code> <span class="path">/Associates.9.htm</span></li></ul></li><li><code>1031 Exchanges / DST</code> <span class="path">/1031-Exchanges---DSTs.13.htm</span></li><li><code>Bitcoin/Crypto</code> <span class="path">/Bitcoin-Crypto.16.htm</span><ul class="sub-list"><li><code>Bitcoin</code> <span class="path">/Bitcoin.17.htm</span></li><li><code>Ethereum</code> <span class="path">/Ethereum.18.htm</span></li><li><code>XRP / Ripple</code> <span class="path">/XRP---Ripple.19.htm</span></li></ul></li><li><code>Life Insurance/Annuites</code> <span class="path">/Life-Insurance.7.htm</span><ul class="sub-list"><li><code>Annuites</code> <span class="path">/Annuites.20.htm</span></li><li><code>7702 tax strategies</code> <span class="path">/7702-tax-strategies.15.htm</span></li></ul></li><li><code>Contact Us</code> <span class="path">/contact_us/</span><ul class="sub-list"><li><code>Business Continuity Plan</code> <span class="path">/Business-Continuity-Plan.14.htm</span></li><li><code></code> <span class="path">/</span></li></ul></li><li><code>Custom Section 7</code> <span class="path">/Life-Insurance-Annuites.7.htm</span></li><li><code>Custom Section 13</code> <span class="path">/1031-Exchanges---DST.13.htm</span></li><li><code>Custom Section 15</code> <span class="path">/7702-Tax-Strategies.15.htm</span></li></ul>
+        </div>
+        <div class="raw-nav-box">
+          <h3>Migrated Site Menu (crawled)</h3>
+          <ul><li><code>Home</code> <span class="path">/</span></li><li><code>Private Wealth Group</code> <span class="path">/custom-section-33</span><ul class="sub-list"><li><code>Estate Planning</code> <span class="path">/custom-section-44</span></li><li><code>Associates</code> <span class="path">/our-team</span></li></ul></li><li><code>1031 Exchanges / DST</code> <span class="path">/custom-section-1313</span></li><li><code>Bitcoin/Crypto</code> <span class="path">/custom-section-1616</span><ul class="sub-list"><li><code>Bitcoin</code> <span class="path">/custom-section-1717</span></li><li><code>Ethereum</code> <span class="path">/custom-section-1818</span></li><li><code>XRP / Ripple</code> <span class="path">/custom-section-1919</span></li></ul></li><li><code>Life Insurance/Annuites</code> <span class="path">/custom-section-77</span><ul class="sub-list"><li><code>Annuites</code> <span class="path">/custom-section-2020</span></li><li><code>7702 tax strategies</code> <span class="path">/custom-section-1515</span></li></ul></li><li><code>Contact Us</code> <span class="path">/location</span><ul class="sub-list"><li><code>Business Continuity Plan</code> <span class="path">/custom-section-1414</span></li><li><code></code> <span class="path">/</span></li></ul></li></ul>
+        </div>
+      </div>
+
+      
+      
+    <details open>
+      <summary class="section-title">🔀 Structure Changes (flat→nested or nested→flat) <span class="count">2</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-structure" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-structure">🔀 Structure Change</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Custom Section 7</code> <span class="path">/Life-Insurance-Annuites.7.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Life Insurance/Annuites</code> <span class="path">/custom-section-77</span>
+        <div class="note">"Custom Section 7" has no sub-items in the BR navigation JSON but has 2 sub-items in migrated</div>
+      </td>
+    </tr>
+    
+  
+    <tr class="row-structure" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-structure">🔀 Structure Change</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Custom Section 15</code> <span class="path">/7702-Tax-Strategies.15.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>7702 tax strategies</code> <span class="path">/custom-section-1515</span>
+        <div class="note">"Custom Section 15" is top-level in the BR navigation JSON but nested under "Life Insurance/Annuites" in migrated</div>
+      </td>
+    </tr>
+    
+  </tbody>
+      </table>
+    </details>
+  
+      
+      
+    <details >
+      <summary class="section-title">✅ Matched Items <span class="count">7</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Home</code> <span class="path">/./</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Private Wealth Group</code> <span class="path">/Private-Wealth-Group.3.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Private Wealth Group</code> <span class="path">/custom-section-33</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Estate Planning</code> <span class="path">/Estate-Planning.4.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Estate Planning</code> <span class="path">/custom-section-44</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Associates</code> <span class="path">/Associates.9.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Associates</code> <span class="path">/our-team</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>1031 Exchanges / DST</code> <span class="path">/1031-Exchanges---DSTs.13.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>1031 Exchanges / DST</code> <span class="path">/custom-section-1313</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Bitcoin/Crypto</code> <span class="path">/Bitcoin-Crypto.16.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Bitcoin/Crypto</code> <span class="path">/custom-section-1616</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Bitcoin</code> <span class="path">/Bitcoin.17.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Bitcoin</code> <span class="path">/custom-section-1717</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Ethereum</code> <span class="path">/Ethereum.18.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Ethereum</code> <span class="path">/custom-section-1818</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>XRP / Ripple</code> <span class="path">/XRP---Ripple.19.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>XRP / Ripple</code> <span class="path">/custom-section-1919</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Life Insurance/Annuites</code> <span class="path">/Life-Insurance.7.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Life Insurance/Annuites</code> <span class="path">/custom-section-77</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Annuites</code> <span class="path">/Annuites.20.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Annuites</code> <span class="path">/custom-section-2020</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>7702 tax strategies</code> <span class="path">/7702-tax-strategies.15.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>7702 tax strategies</code> <span class="path">/custom-section-1515</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Contact Us</code> <span class="path">/contact_us/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Contact Us</code> <span class="path">/location</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Business Continuity Plan</code> <span class="path">/Business-Continuity-Plan.14.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Business Continuity Plan</code> <span class="path">/custom-section-1414</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        
+        
+        
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Custom Section 13</code> <span class="path">/1031-Exchanges---DST.13.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>1031 Exchanges / DST</code> <span class="path">/custom-section-1313</span>
+        
+      </td>
+    </tr>
+    
+  </tbody>
+      </table>
+    </details>
+  
+    </div>
+  </div>
+
+  <!-- ═══ PART 2: Original Live Site vs Migrated ═══ -->
+  <div class="part">
+    <div class="part-header">
+      <div>
+        <div style="display:flex;align-items:center;gap:10px">
+          <span class="part-badge badge-pass">PART 2</span>
+          <span class="part-title">Original Live Site vs Migrated Site</span>
+          <span class="part-status" style="background:#2e7d32">PASS</span>
+        </div>
+        <div class="part-subtitle" style="margin-top:6px">
+          Source of truth: crawled menu from <strong>www.svgfinancial.com</strong> &nbsp;·&nbsp;
+          Answers: <em>"Does the migrated site look the same as the original?"</em>
+        </div>
+      </div>
+    </div>
+    <div class="part-body">
+      
+          
+    <div class="summary-grid">
+      <div class="summary-card"><div class="num">15</div><div class="lbl">Original Items</div></div>
+      <div class="summary-card"><div class="num">15</div><div class="lbl">Migrated Items</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Missing</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Broken Links</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Duplicates</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Href Mismatches</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Structure Changes</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Extra Items</div></div>
+    </div>
+  
+
+          <div class="raw-nav">
+            <div class="raw-nav-box">
+              <h3>Original Live Site Menu (crawled)</h3>
+              <ul><li><code>Home</code> <span class="path">/</span></li><li><code>Private Wealth Group</code> <span class="path">/Private-Wealth-Group.3.htm</span><ul class="sub-list"><li><code>Estate Planning</code> <span class="path">/Estate-Planning.4.htm</span></li><li><code>Associates</code> <span class="path">/Associates.9.htm</span></li></ul></li><li><code>1031 Exchanges / DST</code> <span class="path">/1031-Exchanges---DSTs.13.htm</span></li><li><code>Bitcoin/Crypto</code> <span class="path">/Bitcoin-Crypto.16.htm</span><ul class="sub-list"><li><code>Bitcoin</code> <span class="path">/Bitcoin.17.htm</span></li><li><code>Ethereum</code> <span class="path">/Ethereum.18.htm</span></li><li><code>XRP / Ripple</code> <span class="path">/XRP---Ripple.19.htm</span></li></ul></li><li><code>Life Insurance/Annuites</code> <span class="path">/Life-Insurance.7.htm</span><ul class="sub-list"><li><code>Annuites</code> <span class="path">/Annuites.20.htm</span></li><li><code>7702 tax strategies</code> <span class="path">/7702-tax-strategies.15.htm</span></li></ul></li><li><code>Contact Us</code> <span class="path">/contact_us</span><ul class="sub-list"><li><code>Business Continuity Plan</code> <span class="path">/Business-Continuity-Plan.14.htm</span></li><li><code></code> <span class="path">/</span></li></ul></li></ul>
+            </div>
+            <div class="raw-nav-box">
+              <h3>Migrated Site Menu (crawled)</h3>
+              <ul><li><code>Home</code> <span class="path">/</span></li><li><code>Private Wealth Group</code> <span class="path">/custom-section-33</span><ul class="sub-list"><li><code>Estate Planning</code> <span class="path">/custom-section-44</span></li><li><code>Associates</code> <span class="path">/our-team</span></li></ul></li><li><code>1031 Exchanges / DST</code> <span class="path">/custom-section-1313</span></li><li><code>Bitcoin/Crypto</code> <span class="path">/custom-section-1616</span><ul class="sub-list"><li><code>Bitcoin</code> <span class="path">/custom-section-1717</span></li><li><code>Ethereum</code> <span class="path">/custom-section-1818</span></li><li><code>XRP / Ripple</code> <span class="path">/custom-section-1919</span></li></ul></li><li><code>Life Insurance/Annuites</code> <span class="path">/custom-section-77</span><ul class="sub-list"><li><code>Annuites</code> <span class="path">/custom-section-2020</span></li><li><code>7702 tax strategies</code> <span class="path">/custom-section-1515</span></li></ul></li><li><code>Contact Us</code> <span class="path">/location</span><ul class="sub-list"><li><code>Business Continuity Plan</code> <span class="path">/custom-section-1414</span></li><li><code></code> <span class="path">/</span></li></ul></li></ul>
+            </div>
+          </div>
+
+          
+          
+          
+          
+    <details >
+      <summary class="section-title">✅ Matched Items <span class="count">6</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Home</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Private Wealth Group</code> <span class="path">/Private-Wealth-Group.3.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Private Wealth Group</code> <span class="path">/custom-section-33</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Estate Planning</code> <span class="path">/Estate-Planning.4.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Estate Planning</code> <span class="path">/custom-section-44</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Associates</code> <span class="path">/Associates.9.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Associates</code> <span class="path">/our-team</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>1031 Exchanges / DST</code> <span class="path">/1031-Exchanges---DSTs.13.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>1031 Exchanges / DST</code> <span class="path">/custom-section-1313</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Bitcoin/Crypto</code> <span class="path">/Bitcoin-Crypto.16.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Bitcoin/Crypto</code> <span class="path">/custom-section-1616</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Bitcoin</code> <span class="path">/Bitcoin.17.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Bitcoin</code> <span class="path">/custom-section-1717</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Ethereum</code> <span class="path">/Ethereum.18.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Ethereum</code> <span class="path">/custom-section-1818</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>XRP / Ripple</code> <span class="path">/XRP---Ripple.19.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>XRP / Ripple</code> <span class="path">/custom-section-1919</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Life Insurance/Annuites</code> <span class="path">/Life-Insurance.7.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Life Insurance/Annuites</code> <span class="path">/custom-section-77</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Annuites</code> <span class="path">/Annuites.20.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Annuites</code> <span class="path">/custom-section-2020</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>7702 tax strategies</code> <span class="path">/7702-tax-strategies.15.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>7702 tax strategies</code> <span class="path">/custom-section-1515</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Contact Us</code> <span class="path">/contact_us</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Contact Us</code> <span class="path">/location</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Business Continuity Plan</code> <span class="path">/Business-Continuity-Plan.14.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Business Continuity Plan</code> <span class="path">/custom-section-1414</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        
+        
+        
+        
+      </td>
+    </tr>
+    
+  
+  </tbody>
+      </table>
+    </details>
+  
+        
+    </div>
+  </div>
+
+  <!-- ═══ PART 3: Content Identity Check ═══ -->
+  
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-bug">PART 3</span>
+            <span class="part-title">Content Identity Check</span>
+            <span class="part-status" style="background:#d32f2f">MISMATCH</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Compares company name, phone, email, address, and person names between <strong>www.svgfinancial.com</strong> and migrated site
+            &nbsp;·&nbsp; Answers: <em>"Is the migrated site showing the correct company's information?"</em>
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card"><div class="num num-red">2</div><div class="lbl">Critical Mismatches</div></div>
+          <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Warnings</div></div>
+          <div class="summary-card"><div class="num">3</div><div class="lbl">Original Phones</div></div>
+          <div class="summary-card"><div class="num">3</div><div class="lbl">Migrated Phones</div></div>
+          <div class="summary-card"><div class="num">24</div><div class="lbl">Original Names</div></div>
+          <div class="summary-card"><div class="num">0</div><div class="lbl">Migrated Names</div></div>
+        </div>
+
+        <div class="raw-nav">
+          
+    <div class="raw-nav-box">
+      <h3>Original Site Identity</h3>
+      <div style="font-size:12px;line-height:1.8">
+        <div><strong>Page Title:</strong> SVG Financial, since 2007</div>
+        <div><strong>Company Names:</strong> SVG Financial, since 2007</div>
+        <div><strong>Phone Numbers:</strong> (843) 815-6636, (843) 815-4140, (315) 652-4426</div>
+        <div><strong>Emails:</strong> rob@svgfinancial.com</div>
+        <div><strong>Person Names:</strong> Home
+          
+          Private, Us
+          Business, Continuity Plan, Plantation Park, Drive Suite, Robert Star, Financial Advisor, View Flipbooks, View Videos, Calculators
+        
+      
+      
+        
+      
+        
+          
+            Retirement, Plan Early, Distribution
+          
+        
+        Estimate, Mortgage Acceleration, Taxable Equivalent, Yield
+          
+        
+        Calculate, Inflation
+          
+        
+        Estimate, More Calculators, Regitered Investment, Financial Services, Old Liverpool, Star Financial, Broker Check, Site Map, To Top</div>
+        <div><strong>Addresses:</strong> 404 Old Liverpool Rd. Liverpool, NY 13088</div>
+      </div>
+    </div>
+          
+    <div class="raw-nav-box">
+      <h3>Migrated Site Identity</h3>
+      <div style="font-size:12px;line-height:1.8">
+        <div><strong>Page Title:</strong> Home | www.svgfinancial.com</div>
+        <div><strong>Company Names:</strong> <span class="muted">(none found)</span></div>
+        <div><strong>Phone Numbers:</strong> 8438156636, 9723800097, 3156524426</div>
+        <div><strong>Emails:</strong> rob@svgfinancial.com</div>
+        <div><strong>Person Names:</strong> <span class="muted">(none found)</span></div>
+        <div><strong>Addresses:</strong> 29 Plantation Park Drive Suite #804
+
+
+
+
+Bluffton
+
+; 404 Old Liverpool Rd. Liverpool, NY 13088</div>
+      </div>
+    </div>
+        </div>
+
+        
+          <details open>
+            <summary class="section-title">🚨 Content Mismatches <span class="count">2</span></summary>
+            <table class="issue-table"><tbody>
+      <tr>
+        <td class="badge-cell"><span class="badge badge-missing">🚨 CRITICAL</span></td>
+        <td style="padding:10px 16px; font-weight:600">Phone Number</td>
+        <td style="padding:10px 16px">
+          <div><span class="label">Original:</span> <code>(843) 815-6636, (843) 815-4140, (315) 652-4426</code></div>
+          <div><span class="label">Migrated:</span> <code>(972) 380-0097</code></div>
+          <div class="note">Template phone &quot;(972) 380-0097&quot; found on migrated site — not the company's real number</div>
+        </td>
+      </tr>
+      <tr>
+        <td class="badge-cell"><span class="badge badge-missing">🚨 CRITICAL</span></td>
+        <td style="padding:10px 16px; font-weight:600">Physical Address</td>
+        <td style="padding:10px 16px">
+          <div><span class="label">Original:</span> <code>404 Old Liverpool Rd. Liverpool, NY 13088</code></div>
+          <div><span class="label">Migrated:</span> <code>29 Plantation Park Drive Suite #804
+
+
+
+
+Bluffton
+
+</code></div>
+          <div class="note">Physical address on migrated site differs from original</div>
+        </td>
+      </tr></tbody></table>
+          </details>
+        
+      </div>
+    </div>
+
+</div>
+</body>
+</html>

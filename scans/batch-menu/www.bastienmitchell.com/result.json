@@ -1,0 +1,818 @@
+{
+  "site": {
+    "original": "www.bastienmitchell.com",
+    "migrated": "https://bastienmitchell-31030809.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.bastienmitchell.com",
+    "migratedDomain": "https://bastienmitchell-31030809.brprodaccount.com/",
+    "capturedAt": "2026-04-01T07:57:53.768Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.1.htm"
+          },
+          {
+            "title": "Our Associates",
+            "href": "/team.htm"
+          },
+          {
+            "title": "Our Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.2.htm"
+          },
+          {
+            "title": "Our Qualifications",
+            "href": "/Our-Qualifications.3.htm"
+          },
+          {
+            "title": "Senior Living",
+            "href": "/http://www.seniorliving.org"
+          },
+          {
+            "title": "Medicare Today",
+            "href": "/http://www.medicaretoday.org/"
+          },
+          {
+            "title": "Suddenly Senior",
+            "href": "/Suddenly-Senior.7.htm"
+          },
+          {
+            "title": "Medicare",
+            "href": "/Medicare.9.htm"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.bastienmitchell.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.bastienmitchell.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.bastienmitchell.com/Our-Firm.1.htm",
+            "path": "/Our-Firm.1.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.bastienmitchell.com/team.htm",
+            "path": "/team.htm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.bastienmitchell.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.bastienmitchell.com/Our-Services.2.htm",
+            "path": "/Our-Services.2.htm"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://www.bastienmitchell.com/Our-Qualifications.3.htm",
+            "path": "/Our-Qualifications.3.htm"
+          },
+          {
+            "text": "Senior Living",
+            "href": "https://www.bastienmitchell.com/Senior-Living.4.htm",
+            "path": "/Senior-Living.4.htm"
+          },
+          {
+            "text": "Medicare Today",
+            "href": "https://www.bastienmitchell.com/Medicare-Today.5.htm",
+            "path": "/Medicare-Today.5.htm"
+          },
+          {
+            "text": "Suddenly Senior",
+            "href": "https://www.bastienmitchell.com/Suddenly-Senior.7.htm",
+            "path": "/Suddenly-Senior.7.htm"
+          },
+          {
+            "text": "Medicare",
+            "href": "https://www.bastienmitchell.com/Medicare.9.htm",
+            "path": "/Medicare.9.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.bastienmitchell.com/tellafriend.cfm?SSLID=11346",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.bastienmitchell.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.bastienmitchell.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Why Do People Buy Annuities?",
+            "href": "https://www.bastienmitchell.com/Why-Do-People-Buy-Annuities.c1039.htm",
+            "path": "/Why-Do-People-Buy-Annuities.c1039.htm"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.bastienmitchell.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.bastienmitchell.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.bastienmitchell.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Your Estate: Have You Looked at These Legal Documents Lately?",
+            "href": "https://www.bastienmitchell.com/Your-Estate-Have-You-Looked-at-These-Legal-Documents-Lately.c9634.htm",
+            "path": "/Your-Estate-Have-You-Looked-at-These-Legal-Documents-Lately.c9634.htm"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.bastienmitchell.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.bastienmitchell.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "What Is An Annuity?",
+            "href": "https://www.bastienmitchell.com/What-Is-An-Annuity.c5423.htm",
+            "path": "/What-Is-An-Annuity.c5423.htm"
+          },
+          {
+            "text": "Leaving Your Employer? Don’t Forget Your Retirement Savings Plan",
+            "href": "https://www.bastienmitchell.com/Leaving-Your-Employer-Dont-Forget-Your-Retirement-Savings-Plan.c8097.htm",
+            "path": "/Leaving-Your-Employer-Dont-Forget-Your-Retirement-Savings-Plan.c8097.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Market Watch",
+        "href": "https://www.bastienmitchell.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Detailed Quotes",
+            "href": "https://www.bastienmitchell.com/quotes.cfm",
+            "path": "/quotes.cfm"
+          },
+          {
+            "text": "Symbol Lookup",
+            "href": "https://www.bastienmitchell.com/quotes.cfm?sub=lookup",
+            "path": "/quotes.cfm"
+          },
+          {
+            "text": "Multi Quote",
+            "href": "https://www.bastienmitchell.com/quotes.cfm?sub=multi",
+            "path": "/quotes.cfm"
+          },
+          {
+            "text": "Markets at a Glance",
+            "href": "https://www.bastienmitchell.com/markets.cfm",
+            "path": "/markets.cfm"
+          },
+          {
+            "text": "Charting",
+            "href": "https://www.bastienmitchell.com/charts.cfm",
+            "path": "/charts.cfm"
+          },
+          {
+            "text": "Portfolios",
+            "href": "https://www.bastienmitchell.com/portfolio.cfm",
+            "path": "/portfolio.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.bastienmitchell.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Annuity",
+            "href": "https://www.bastienmitchell.com/form.cfm?ID=64&SSLID=11346",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.bastienmitchell.com/form.cfm?ID=65&SSLID=11346",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.bastienmitchell.com/form.cfm?ID=68&SSLID=11346",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.bastienmitchell.com/form.cfm?ID=69&SSLID=11346",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.bastienmitchell.com/form.cfm?ID=72&SSLID=11346",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.bastienmitchell.com/form.cfm?ID=73&SSLID=11346",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.bastienmitchell.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://bastienmitchell-31030809.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://bastienmitchell-31030809.brprodaccount.com/our-firm1",
+        "path": "/our-firm1",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/our-firm1",
+            "path": "/our-firm1"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/our-team",
+            "path": "/our-team"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/our-services2",
+            "path": "/our-services2"
+          },
+          {
+            "text": "Our Qualifications",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/our-qualifications3",
+            "path": "/our-qualifications3"
+          },
+          {
+            "text": "Senior Living",
+            "href": "http://www.seniorliving.org/",
+            "path": "/"
+          },
+          {
+            "text": "Medicare Today",
+            "href": "http://www.medicaretoday.org/",
+            "path": "/"
+          },
+          {
+            "text": "Suddenly Senior",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/suddenly-senior7",
+            "path": "/suddenly-senior7"
+          },
+          {
+            "text": "Medicare",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/",
+            "path": "/"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://bastienmitchell-31030809.brprodaccount.com/articles",
+        "path": "/articles",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://bastienmitchell-31030809.brprodaccount.com/videos",
+            "path": "/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://bastienmitchell-31030809.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Senior Living",
+            "brHref": "/http://www.seniorliving.org",
+            "migratedText": "Senior Living",
+            "migratedHref": "http://www.seniorliving.org/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Medicare Today",
+            "brHref": "/http://www.medicaretoday.org/",
+            "migratedText": "Medicare Today",
+            "migratedHref": "http://www.medicaretoday.org/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Suddenly Senior",
+            "brHref": "/Suddenly-Senior.7.htm",
+            "migratedText": "Suddenly Senior",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/suddenly-senior7",
+            "migratedPath": "/suddenly-senior7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Medicare",
+            "brHref": "/Medicare.9.htm",
+            "migratedText": "Medicare",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/",
+            "migratedPath": "/"
+          }
+        ]
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 18,
+      "totalMigratedItems": 18,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 16,
+      "totalBrItems": 18
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/team.htm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.htm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Qualifications",
+            "brHref": "/Our-Qualifications.3.htm",
+            "migratedText": "Our Qualifications",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-qualifications3",
+            "migratedPath": "/our-qualifications3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Senior Living",
+            "brHref": "/Senior-Living.4.htm",
+            "migratedText": "Senior Living",
+            "migratedHref": "http://www.seniorliving.org/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Medicare Today",
+            "brHref": "/Medicare-Today.5.htm",
+            "migratedText": "Medicare Today",
+            "migratedHref": "http://www.medicaretoday.org/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Suddenly Senior",
+            "brHref": "/Suddenly-Senior.7.htm",
+            "migratedText": "Suddenly Senior",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/suddenly-senior7",
+            "migratedPath": "/suddenly-senior7"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Medicare",
+            "brHref": "/Medicare.9.htm",
+            "migratedText": "Medicare",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/",
+            "migratedPath": "/"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Why Do People Buy Annuities?",
+            "brHref": "/Why-Do-People-Buy-Annuities.c1039.htm",
+            "note": "Sub-item \"Why Do People Buy Annuities?\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Your Estate: Have You Looked at These Legal Documents Lately?",
+            "brHref": "/Your-Estate-Have-You-Looked-at-These-Legal-Documents-Lately.c9634.htm",
+            "note": "Sub-item \"Your Estate: Have You Looked at These Legal Documents Lately?\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "What Is An Annuity?",
+            "brHref": "/What-Is-An-Annuity.c5423.htm",
+            "note": "Sub-item \"What Is An Annuity?\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Leaving Your Employer? Don’t Forget Your Retirement Savings Plan",
+            "brHref": "/Leaving-Your-Employer-Dont-Forget-Your-Retirement-Savings-Plan.c8097.htm",
+            "note": "Sub-item \"Leaving Your Employer? Don’t Forget Your Retirement Savings Plan\" under \"Resources\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Market Watch",
+        "brHref": "/",
+        "note": "\"Market Watch\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 38,
+      "totalMigratedItems": 18,
+      "missing": 8,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 18
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Bastien&Mitchell",
+        "companyNames": [],
+        "phoneNumbers": [
+          "7044837292",
+          "8008274041",
+          "8662535059"
+        ],
+        "emailAddresses": [
+          "associatedinsurance@yahoo.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Site Map Back To Top"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.bastienmitchell.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "7044837292",
+          "8008274041",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "associatedinsurance@yahoo.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Neil H. Resnik"
+        ],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(704) 483-7292, (800) 827-4041, (866) 253-5059",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

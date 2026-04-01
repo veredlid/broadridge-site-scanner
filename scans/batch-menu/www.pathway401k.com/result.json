@@ -1,0 +1,732 @@
+{
+  "site": {
+    "original": "www.pathway401k.com",
+    "migrated": "https://pathway401k-31030757.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.pathway401k.com",
+    "migratedDomain": "https://pathway401k-31030757.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:49:35.025Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/about_us/",
+        "children": [
+          {
+            "title": "Our Mission",
+            "href": "/Our-Mission.2.htm"
+          },
+          {
+            "title": "Our Services",
+            "href": "/Our-Services.3.htm"
+          }
+        ]
+      },
+      {
+        "title": "My Account",
+        "href": "/https://www.accountplanaccess.net/pathway401k/",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/learning_center/",
+        "children": [
+          {
+            "title": "Links",
+            "href": "/Links.1.htm"
+          },
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          }
+        ]
+      },
+      {
+        "title": "Planning Tools",
+        "href": "/Planning-Tools.5.htm",
+        "children": [
+          {
+            "title": "Retirement Planner",
+            "href": "/http://www.webcalcs.com/cgi-bin/calcs/prod/retire.cgi?client=pathway401k&amp;case=401kss"
+          },
+          {
+            "title": "Risk Assessment",
+            "href": "/http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k"
+          },
+          {
+            "title": "Distribution Analyzer",
+            "href": "/http://www.webcalcs.com/cgi-bin/calcs/prod/lumpsum.cgi?client=pathway401k"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.pathway401k.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.pathway401k.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "About Us",
+            "href": "https://www.pathway401k.com/about_us/",
+            "path": "/about_us"
+          },
+          {
+            "text": "Our Mission",
+            "href": "https://www.pathway401k.com/Our-Mission.2.htm",
+            "path": "/Our-Mission.2.htm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.pathway401k.com/Our-Services.3.htm",
+            "path": "/Our-Services.3.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "My Account",
+        "href": "https://www.pathway401k.com/My-Account.9.htm",
+        "path": "/My-Account.9.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.pathway401k.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Resources",
+            "href": "https://www.pathway401k.com/learning_center/",
+            "path": "/learning_center"
+          },
+          {
+            "text": "Links",
+            "href": "https://www.pathway401k.com/Links.1.htm",
+            "path": "/Links.1.htm"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.pathway401k.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.pathway401k.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.pathway401k.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.pathway401k.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.pathway401k.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Planning Tools",
+        "href": "https://www.pathway401k.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Planning Tools",
+            "href": "https://www.pathway401k.com/Planning-Tools.5.htm",
+            "path": "/Planning-Tools.5.htm"
+          },
+          {
+            "text": "Retirement Planner",
+            "href": "http://www.webcalcs.com/cgi-bin/calcs/prod/retire.cgi?client=pathway401k&case=401kss",
+            "path": "/cgi-bin/calcs/prod/retire.cgi"
+          },
+          {
+            "text": "Risk Assessment",
+            "href": "http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k",
+            "path": "/cgi-bin/calcs/prod/risk.cgi"
+          },
+          {
+            "text": "Distribution Analyzer",
+            "href": "http://www.webcalcs.com/cgi-bin/calcs/prod/lumpsum.cgi?client=pathway401k",
+            "path": "/cgi-bin/calcs/prod/lumpsum.cgi"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.pathway401k.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://pathway401k-31030757.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://pathway401k-31030757.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Mission",
+            "href": "https://pathway401k-31030757.brprodaccount.com/our-mission2",
+            "path": "/our-mission2"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://pathway401k-31030757.brprodaccount.com/our-services3",
+            "path": "/our-services3"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "My Account",
+        "href": "https://www.accountplanaccess.net/pathway401k/",
+        "path": "/pathway401k",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://pathway401k-31030757.brprodaccount.com/",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Links",
+            "href": "https://pathway401k-31030757.brprodaccount.com/links1",
+            "path": "/links1"
+          },
+          {
+            "text": "Videos",
+            "href": "https://pathway401k-31030757.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "Articles",
+            "href": "https://pathway401k-31030757.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://pathway401k-31030757.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://pathway401k-31030757.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://pathway401k-31030757.brprodaccount.com/glossary",
+            "path": "/glossary"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Planning Tools",
+        "href": "https://pathway401k-31030757.brprodaccount.com/planning-tools5",
+        "path": "/planning-tools5",
+        "subItems": [
+          {
+            "text": "Retirement Planner",
+            "href": "http://www.webcalcs.com/cgi-bin/calcs/prod/retire.cgi?client=pathway401k&amp;case=401kss",
+            "path": "/cgi-bin/calcs/prod/retire.cgi"
+          },
+          {
+            "text": "Risk Assessment",
+            "href": "http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k",
+            "path": "/cgi-bin/calcs/prod/risk.cgi"
+          },
+          {
+            "text": "Distribution Analyzer",
+            "href": "http://www.webcalcs.com/cgi-bin/calcs/prod/lumpsum.cgi?client=pathway401k",
+            "path": "/cgi-bin/calcs/prod/lumpsum.cgi"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://pathway401k-31030757.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/about_us/",
+        "migratedText": "About Us",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission",
+            "brHref": "/Our-Mission.2.htm",
+            "migratedText": "Our Mission",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/our-mission2",
+            "migratedPath": "/our-mission2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "My Account",
+        "brHref": "/https://www.accountplanaccess.net/pathway401k/",
+        "migratedText": "My Account",
+        "migratedHref": "https://www.accountplanaccess.net/pathway401k/",
+        "migratedPath": "/pathway401k"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/learning_center/",
+        "migratedText": "Resources",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Links",
+            "brHref": "/Links.1.htm",
+            "migratedText": "Links",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/links1",
+            "migratedPath": "/links1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Planning Tools",
+        "brHref": "/Planning-Tools.5.htm",
+        "migratedText": "Planning Tools",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/planning-tools5",
+        "migratedPath": "/planning-tools5",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Planner",
+            "brHref": "/http://www.webcalcs.com/cgi-bin/calcs/prod/retire.cgi?client=pathway401k&amp;case=401kss",
+            "migratedText": "Retirement Planner",
+            "migratedHref": "http://www.webcalcs.com/cgi-bin/calcs/prod/retire.cgi?client=pathway401k&amp;case=401kss",
+            "migratedPath": "/cgi-bin/calcs/prod/retire.cgi"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Risk Assessment",
+            "brHref": "/http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k",
+            "migratedText": "Risk Assessment",
+            "migratedHref": "http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k",
+            "migratedPath": "/cgi-bin/calcs/prod/risk.cgi"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Distribution Analyzer",
+            "brHref": "/http://www.webcalcs.com/cgi-bin/calcs/prod/lumpsum.cgi?client=pathway401k",
+            "migratedText": "Distribution Analyzer",
+            "migratedHref": "http://www.webcalcs.com/cgi-bin/calcs/prod/lumpsum.cgi?client=pathway401k",
+            "migratedPath": "/cgi-bin/calcs/prod/lumpsum.cgi"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "My Account",
+        "migratedHref": "https://www.accountplanaccess.net/pathway401k/",
+        "migratedPath": "/pathway401k",
+        "httpStatus": 404,
+        "note": "\"My Account\" → HTTP 404 (https://www.accountplanaccess.net/pathway401k/)"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Risk Assessment",
+        "migratedHref": "http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k",
+        "migratedPath": "/cgi-bin/calcs/prod/risk.cgi",
+        "httpStatus": 500,
+        "note": "\"Risk Assessment\" → HTTP 500 (http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k)"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 17,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 2,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 17,
+      "totalBrItems": 17
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "About Us",
+            "brHref": "/about_us",
+            "migratedText": "About Us",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"About Us\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Mission",
+            "brHref": "/Our-Mission.2.htm",
+            "migratedText": "Our Mission",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/our-mission2",
+            "migratedPath": "/our-mission2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.3.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/our-services3",
+            "migratedPath": "/our-services3"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "My Account",
+        "brHref": "/My-Account.9.htm",
+        "migratedText": "My Account",
+        "migratedHref": "https://www.accountplanaccess.net/pathway401k/",
+        "migratedPath": "/pathway401k"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/",
+        "migratedPath": "/",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Resources",
+            "brHref": "/learning_center",
+            "migratedText": "Resources",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/",
+            "migratedPath": "/",
+            "note": "\"Resources\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Links",
+            "brHref": "/Links.1.htm",
+            "migratedText": "Links",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/links1",
+            "migratedPath": "/links1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Planning Tools",
+        "brHref": "/",
+        "migratedText": "Planning Tools",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/planning-tools5",
+        "migratedPath": "/planning-tools5",
+        "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Planning Tools",
+            "brHref": "/Planning-Tools.5.htm",
+            "migratedText": "Planning Tools",
+            "migratedHref": "https://pathway401k-31030757.brprodaccount.com/planning-tools5",
+            "migratedPath": "/planning-tools5",
+            "note": "\"Planning Tools\" is a sub-item in the original live site but top-level in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Retirement Planner",
+            "brHref": "/cgi-bin/calcs/prod/retire.cgi",
+            "migratedText": "Retirement Planner",
+            "migratedHref": "http://www.webcalcs.com/cgi-bin/calcs/prod/retire.cgi?client=pathway401k&amp;case=401kss",
+            "migratedPath": "/cgi-bin/calcs/prod/retire.cgi"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Risk Assessment",
+            "brHref": "/cgi-bin/calcs/prod/risk.cgi",
+            "migratedText": "Risk Assessment",
+            "migratedHref": "http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k",
+            "migratedPath": "/cgi-bin/calcs/prod/risk.cgi"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Distribution Analyzer",
+            "brHref": "/cgi-bin/calcs/prod/lumpsum.cgi",
+            "migratedText": "Distribution Analyzer",
+            "migratedHref": "http://www.webcalcs.com/cgi-bin/calcs/prod/lumpsum.cgi?client=pathway401k",
+            "migratedPath": "/cgi-bin/calcs/prod/lumpsum.cgi"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://pathway401k-31030757.brprodaccount.com/location",
+        "migratedPath": "/location"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "My Account",
+        "migratedHref": "https://www.accountplanaccess.net/pathway401k/",
+        "migratedPath": "/pathway401k",
+        "httpStatus": 404,
+        "note": "\"My Account\" → HTTP 404 (https://www.accountplanaccess.net/pathway401k/)"
+      },
+      {
+        "kind": "broken-link",
+        "migratedText": "Risk Assessment",
+        "migratedHref": "http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k",
+        "migratedPath": "/cgi-bin/calcs/prod/risk.cgi",
+        "httpStatus": 500,
+        "note": "\"Risk Assessment\" → HTTP 500 (http://www.webcalcs.com/cgi-bin/calcs/prod/risk.cgi?client=pathway401k)"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 20,
+      "totalMigratedItems": 17,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 2,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 3,
+      "ok": 17
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Pathway Benefit Services",
+        "companyNames": [
+          "Pathway Benefit Services"
+        ],
+        "phoneNumbers": [
+          "6165319191",
+          "6165313267"
+        ],
+        "emailAddresses": [
+          "bullpetz@pathway401k.com",
+          "contributions@pathway401k.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.pathway401k.com",
+        "companyNames": [
+          "Welcome to"
+        ],
+        "phoneNumbers": [
+          "6165319191",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "bullpetz@pathway401k.com",
+          "contributions@pathway401k.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": ""
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(616) 531-9191, (616) 531-3267",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "company-name",
+          "originalValue": "Pathway Benefit Services",
+          "migratedValue": "Welcome to",
+          "severity": "warning",
+          "note": "Company name \"Welcome to\" on migrated site may not match original"
+        }
+      ]
+    }
+  }
+}

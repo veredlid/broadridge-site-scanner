@@ -1,0 +1,517 @@
+{
+  "site": {
+    "original": "www.tinalantypas.com",
+    "migrated": "https://tinalantypas-31030753.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.tinalantypas.com",
+    "migratedDomain": "https://tinalantypas-31030753.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:26:32.441Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Tina L. Antypas",
+            "href": "/Tina-L--Antypas.1.htm"
+          },
+          {
+            "title": "Office Location",
+            "href": "/location.htm"
+          },
+          {
+            "title": "Services",
+            "href": "/Services.2.htm"
+          },
+          {
+            "title": "Fee Structure",
+            "href": "/Fee-Structure.3.htm"
+          },
+          {
+            "title": "Insurance Quotes",
+            "href": "/Insurance-Quotes.5.htm"
+          },
+          {
+            "title": "Featured Links",
+            "href": "/featured_links.htm"
+          }
+        ]
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.tinalantypas.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.tinalantypas.com/about_us/",
+        "path": "/about_us",
+        "subItems": [
+          {
+            "text": "Tina L. Antypas",
+            "href": "https://www.tinalantypas.com/Tina-L--Antypas.1.htm",
+            "path": "/Tina-L--Antypas.1.htm"
+          },
+          {
+            "text": "Office Location",
+            "href": "https://www.tinalantypas.com/location.htm",
+            "path": "/location.htm"
+          },
+          {
+            "text": "Services",
+            "href": "https://www.tinalantypas.com/Services.2.htm",
+            "path": "/Services.2.htm"
+          },
+          {
+            "text": "Fee Structure",
+            "href": "https://www.tinalantypas.com/Fee-Structure.3.htm",
+            "path": "/Fee-Structure.3.htm"
+          },
+          {
+            "text": "Insurance Quotes",
+            "href": "https://www.tinalantypas.com/Insurance-Quotes.5.htm",
+            "path": "/Insurance-Quotes.5.htm"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://www.tinalantypas.com/featured_links.htm",
+            "path": "/featured_links.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.emeraldsecure.com/tellafriend.cfm?SSLID=20199",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.tinalantypas.com/learning_center/",
+        "path": "/learning_center",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.tinalantypas.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.tinalantypas.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.tinalantypas.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.tinalantypas.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.tinalantypas.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.tinalantypas.com/request_quote/",
+        "path": "/request_quote",
+        "subItems": [
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=20199&SN=2647864147",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=20199&SN=2647864147",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=20199&SN=2647864147",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=20199&SN=2647864147",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=20199&SN=2647864147",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "401(k) Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=20199&SN=2647864147",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=20199&SN=2647864147",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.tinalantypas.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://tinalantypas-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Home",
+        "href": "https://tinalantypas-31030753.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://tinalantypas-31030753.brprodaccount.com/tina-l-antypas1",
+        "path": "/tina-l-antypas1",
+        "subItems": [
+          {
+            "text": "Tina L. Antypas",
+            "href": "https://tinalantypas-31030753.brprodaccount.com/tina-l-antypas1",
+            "path": "/tina-l-antypas1"
+          },
+          {
+            "text": "Office Location",
+            "href": "https://tinalantypas-31030753.brprodaccount.com/location",
+            "path": "/location"
+          },
+          {
+            "text": "Services",
+            "href": "https://tinalantypas-31030753.brprodaccount.com/services2",
+            "path": "/services2"
+          },
+          {
+            "text": "Fee Structure",
+            "href": "https://tinalantypas-31030753.brprodaccount.com/fee-structure3",
+            "path": "/fee-structure3"
+          },
+          {
+            "text": "Insurance Quotes",
+            "href": "https://tinalantypas-31030753.brprodaccount.com/insurance-quotes5",
+            "path": "/insurance-quotes5"
+          },
+          {
+            "text": "Featured Links",
+            "href": "https://tinalantypas-31030753.brprodaccount.com/featured-links",
+            "path": "/featured-links"
+          }
+        ],
+        "hasDropdown": true
+      }
+    ],
+    "issues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/tina-l-antypas1",
+        "migratedPath": "/tina-l-antypas1",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /tina-l-antypas1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Tina L. Antypas",
+            "brHref": "/Tina-L--Antypas.1.htm",
+            "migratedText": "Tina L. Antypas",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/tina-l-antypas1",
+            "migratedPath": "/tina-l-antypas1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Office Location",
+            "brHref": "/location.htm",
+            "migratedText": "Office Location",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services",
+            "brHref": "/Services.2.htm",
+            "migratedText": "Services",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/services2",
+            "migratedPath": "/services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Fee Structure",
+            "brHref": "/Fee-Structure.3.htm",
+            "migratedText": "Fee Structure",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/fee-structure3",
+            "migratedPath": "/fee-structure3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Insurance Quotes",
+            "brHref": "/Insurance-Quotes.5.htm",
+            "migratedText": "Insurance Quotes",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/insurance-quotes5",
+            "migratedPath": "/insurance-quotes5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 8,
+      "totalMigratedItems": 9,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 1,
+      "structureChanges": 0,
+      "ok": 7,
+      "totalBrItems": 8
+    },
+    "liveIssues": [
+      {
+        "kind": "duplicate",
+        "migratedText": "Home",
+        "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/",
+        "migratedPath": "/",
+        "note": "\"Home\" appears 2 times in the migrated menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/about_us",
+        "migratedText": "About Us",
+        "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/tina-l-antypas1",
+        "migratedPath": "/tina-l-antypas1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Tina L. Antypas",
+            "brHref": "/Tina-L--Antypas.1.htm",
+            "migratedText": "Tina L. Antypas",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/tina-l-antypas1",
+            "migratedPath": "/tina-l-antypas1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Office Location",
+            "brHref": "/location.htm",
+            "migratedText": "Office Location",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Services",
+            "brHref": "/Services.2.htm",
+            "migratedText": "Services",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/services2",
+            "migratedPath": "/services2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Fee Structure",
+            "brHref": "/Fee-Structure.3.htm",
+            "migratedText": "Fee Structure",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/fee-structure3",
+            "migratedPath": "/fee-structure3"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Insurance Quotes",
+            "brHref": "/Insurance-Quotes.5.htm",
+            "migratedText": "Insurance Quotes",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/insurance-quotes5",
+            "migratedPath": "/insurance-quotes5"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Featured Links",
+            "brHref": "/featured_links.htm",
+            "migratedText": "Featured Links",
+            "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/featured-links",
+            "migratedPath": "/featured-links"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/learning_center",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/request_quote",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 24,
+      "totalMigratedItems": 9,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 1,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 8
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Tina L. Antypas Insurance and Financial Services",
+        "companyNames": [
+          "Tina L. Antypas Insurance and Financial Services"
+        ],
+        "phoneNumbers": [
+          "(818) 606-4778",
+          "(626) 578-0488"
+        ],
+        "emailAddresses": [
+          "tina@tinalantypas.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [
+          "Colorado Blvd",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Tina",
+          "Antypas\n      \n    \n      \n        Office",
+          "Location\n      \n    \n      \n        Services",
+          "Fee Structure",
+          "Insurance Quotes",
+          "Featured Links",
+          "Tell A Friend",
+          "Resources\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n          \n            Articles",
+          "Calculators\n          \n        \n          \n            Flipbooks",
+          "Glossary\n          \n        \n          \n            Videos",
+          "Request A Quote",
+          "Term Care",
+          "Insurance  \n            \n          \n            \n              Group",
+          "Health \n            \n          \n            \n              Life",
+          "Insurance  \n            \n          \n            \n              Individual",
+          "Health \n            \n          \n            \n              Disability",
+          "Income Insurance",
+          "Information Request",
+          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\t\t\t\n\n\nTina",
+          "Financial Services",
+          "Financial Planning",
+          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Cost",
+          "Retirement\n          \n        \n        Use",
+          "Estate Taxes",
+          "Eligibility\n          \n        \n        Use",
+          "More Calculators",
+          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tTina",
+          "Learning Center",
+          "Articles\n                Educate",
+          "Flipbooks\n                \n                  These",
+          "Glossary\n                  \n                  Financial",
+          "Estate Planning",
+          "Executive Benefits",
+          "Life Insurance",
+          "Disability Protection",
+          "Long Term",
+          "Health Insurance",
+          "Site Map"
+        ],
+        "footerText": "Estate Planning  ¨  Executive Benefits  ¨  Life Insurance Solutions  ¨  Disability Protection  ¨  Long Term Care  ¨  Health Insurance       \n  \n      \n        \n          \n            \n              \n                  Site Map"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.tinalantypas.com",
+        "companyNames": [],
+        "phoneNumbers": [
+          "8186064778",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "tina@tinalantypas.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Estate Planning ¨ Executive Benefits ¨ Life Insurance Solutions ¨ Disability Protection ¨ Long Term Care ¨ Health Insurance"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(818) 606-4778, (626) 578-0488",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

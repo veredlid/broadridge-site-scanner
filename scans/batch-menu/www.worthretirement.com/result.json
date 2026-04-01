@@ -1,0 +1,530 @@
+{
+  "site": {
+    "original": "www.worthretirement.com",
+    "migrated": "https://worthretirement-31030751.brprodaccount.com/"
+  },
+  "result": {
+    "originalDomain": "www.worthretirement.com",
+    "migratedDomain": "https://worthretirement-31030751.brprodaccount.com/",
+    "capturedAt": "2026-04-01T08:52:32.778Z",
+    "brNavItems": [
+      {
+        "title": "Home",
+        "href": "/./",
+        "children": []
+      },
+      {
+        "title": "About Us",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Our Firm",
+            "href": "/Our-Firm.2.htm"
+          },
+          {
+            "title": "Our Team",
+            "href": "/team.htm"
+          }
+        ]
+      },
+      {
+        "title": "Our Services",
+        "href": "/Our-Services.3.htm",
+        "children": []
+      },
+      {
+        "title": "Resources",
+        "href": "/#",
+        "children": [
+          {
+            "title": "Videos",
+            "href": "/learning_center/videos/"
+          },
+          {
+            "title": "Calculators",
+            "href": "/learning_center/calculators/"
+          },
+          {
+            "title": "Articles",
+            "href": "/learning_center/research/"
+          },
+          {
+            "title": "Newsletters",
+            "href": "/learning_center/newsletters/"
+          },
+          {
+            "title": "Glossary",
+            "href": "/learning_center/glossary/"
+          },
+          {
+            "title": "Tax Library",
+            "href": "/learning_center/tax_library/"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact_us/",
+        "children": []
+      }
+    ],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.worthretirement.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.worthretirement.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.worthretirement.com/Our-Firm.2.htm",
+            "path": "/Our-Firm.2.htm"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://www.worthretirement.com/team.htm",
+            "path": "/team.htm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Our Services",
+        "href": "https://www.worthretirement.com/Our-Services.3.htm",
+        "path": "/Our-Services.3.htm",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.worthretirement.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://www.worthretirement.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.worthretirement.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.worthretirement.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Articles",
+            "href": "https://www.worthretirement.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.worthretirement.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.worthretirement.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.worthretirement.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.worthretirement.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "migratedItems": [
+      {
+        "text": "Home",
+        "href": "https://worthretirement-31030751.brprodaccount.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://worthretirement-31030751.brprodaccount.com/our-firm2",
+        "path": "/our-firm2",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://worthretirement-31030751.brprodaccount.com/our-firm2",
+            "path": "/our-firm2"
+          },
+          {
+            "text": "Our Team",
+            "href": "https://worthretirement-31030751.brprodaccount.com/our-team",
+            "path": "/our-team"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Our Services",
+        "href": "https://worthretirement-31030751.brprodaccount.com/our-services3",
+        "path": "/our-services3",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "Resources",
+        "href": "https://worthretirement-31030751.brprodaccount.com/videos",
+        "path": "/videos",
+        "subItems": [
+          {
+            "text": "Videos",
+            "href": "https://worthretirement-31030751.brprodaccount.com/videos",
+            "path": "/videos"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://worthretirement-31030751.brprodaccount.com/calculators",
+            "path": "/calculators"
+          },
+          {
+            "text": "Articles",
+            "href": "https://worthretirement-31030751.brprodaccount.com/articles",
+            "path": "/articles"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://worthretirement-31030751.brprodaccount.com/newsletters",
+            "path": "/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://worthretirement-31030751.brprodaccount.com/glossary",
+            "path": "/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://worthretirement-31030751.brprodaccount.com/tax-library",
+            "path": "/tax-library"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://worthretirement-31030751.brprodaccount.com/location",
+        "path": "/location",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
+    "issues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/./",
+        "migratedText": "Home",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "About Us",
+        "brHref": "/#",
+        "migratedText": "About Us",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/our-firm2",
+        "migratedPath": "/our-firm2",
+        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Our Services",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/our-services3",
+        "migratedPath": "/our-services3"
+      },
+      {
+        "kind": "href-mismatch",
+        "brTitle": "Resources",
+        "brHref": "/#",
+        "migratedText": "Resources",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /videos",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos/",
+            "migratedText": "Videos",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators/",
+            "migratedText": "Calculators",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research/",
+            "migratedText": "Articles",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary/",
+            "migratedText": "Glossary",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library/",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us/",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "summary": {
+      "totalSourceItems": 13,
+      "totalMigratedItems": 13,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 2,
+      "structureChanges": 0,
+      "ok": 11,
+      "totalBrItems": 13
+    },
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/our-firm2",
+        "migratedPath": "/our-firm2",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.2.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/our-firm2",
+            "migratedPath": "/our-firm2"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Team",
+            "brHref": "/team.htm",
+            "migratedText": "Our Team",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "migratedText": "Our Services",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/our-services3",
+        "migratedPath": "/our-services3"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/videos",
+        "migratedPath": "/videos",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://worthretirement-31030751.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://worthretirement-31030751.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 14,
+      "totalMigratedItems": 13,
+      "missing": 1,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 13
+    },
+    "originalCrawlFailed": false,
+    "contentCheck": {
+      "originalIdentity": {
+        "pageTitle": "Worth Retirement - Henry Werth, Sioux Falls, SD",
+        "companyNames": [
+          "Worth Retirement",
+          "Worth Retirement - Henry Werth, Sioux Falls, SD"
+        ],
+        "phoneNumbers": [
+          "6055218367"
+        ],
+        "emailAddresses": [
+          "henry@worthretirement.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Worth Retirement 5000 S. Minnesota Ave., Suite L | Sioux Falls, SD 57108 (605) 521-8367 | henry@worthretirement.com #content hr {opacity: 1;} #content .content_list li, #content ul, #content ol, #content p{ font-size: 18px; color: #000;line-height: 1.3; } #footerContainer {background-color:#000; } #content h1 { font-weight: 700;color: #000;/*font-family:georgia, serif;*/ } #content h2, #content .contactMessageHeading, #content .officeName, body.agents_list #content>h1, #cn_container h2 a { font-weight: 600; color:#000;/*font-family:georgia, serif;*/ } #content h3 {color:#000;/*font-family:georgia, serif;*/ } button.slick-prev.slick-arrow, button.slick-next.slick-arrow { background: #3B404680; } #sliderPlay { background: #3B404680;} #sliderPause { background: #3B404680;} .carousel-controls button{ width: 30px; height: 30px; font-size: 10px; } #page-title-contact-strip .page-title, #page-title-contact-strip .page-title h1 { display: none!important;} @media all and (max-width:600px){.clea"
+      },
+      "migratedIdentity": {
+        "pageTitle": "Home | www.worthretirement.com",
+        "companyNames": [
+          "Worth Retirement"
+        ],
+        "phoneNumbers": [
+          "6055218367",
+          "9723800097"
+        ],
+        "emailAddresses": [
+          "henry@worthretirement.com"
+        ],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Worth Retirement5000 S. Minnesota Ave., Suite L | Sioux Falls, SD 57108 (605) 521-8367 | henry@worthretirement.com"
+      },
+      "mismatches": [
+        {
+          "field": "phone",
+          "originalValue": "(605) 521-8367",
+          "migratedValue": "(972) 380-0097",
+          "severity": "critical",
+          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        }
+      ]
+    }
+  }
+}

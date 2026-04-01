@@ -1,3 +1,6 @@
+import type { AccessibilityAudit } from '../crawler/accessibility-extractor.js';
+export type { AccessibilityAudit };
+
 // ═══════════════════════════════════════
 //  Top-Level Snapshot
 // ═══════════════════════════════════════
@@ -16,6 +19,24 @@ export interface SiteMetadata {
   flexXmlFound: boolean;
   pageCount: number;
   scanDurationMs: number;
+  /** Content fidelity comparison results (BR source vs Wix page text) */
+  contentComparisons?: ContentComparisonSummary[];
+}
+
+/** Per-page content fidelity summary stored in the snapshot */
+export interface ContentComparisonSummary {
+  pageUrl: string;
+  pageTitle: string;
+  overallSimilarity: number;
+  allHigh: boolean;
+  fields: Array<{
+    fieldName: string;
+    similarity: number;
+    similarityPct: string;
+    rating: 'high' | 'medium' | 'low';
+    missingKeyTerms: string[];
+    meaningful: boolean;
+  }>;
 }
 
 // ═══════════════════════════════════════
@@ -38,6 +59,23 @@ export interface PageSnapshot {
     tablet: ViewportMetrics;
     mobile: ViewportMetrics;
   };
+  accessibilityAudit: AccessibilityAudit | null;
+  /** True if the page has a visible print button/link (window.print or href contains "print") */
+  hasPrintButton: boolean;
+  /** True if the page has a visible back-to-top button/link (#top, scroll-to-top, etc.) */
+  hasBackToTopButton: boolean;
+  /** JavaScript console errors captured during page load */
+  jsConsoleErrors: string[];
+  /** Wix editor placeholder texts found on the page (e.g. "Footer link 1", "Add paragraph text") */
+  placeholderTexts: Array<{ text: string; location: string }>;
+  /** CTAs/buttons with non-functional href (void, empty, self-loop, or no destination) */
+  invalidCTAs: Array<{ text: string; href: string | null; section: string; reason: string }>;
+  /** tel: and mailto: links with missing or malformed values */
+  invalidContactLinks: Array<{ text: string; href: string; type: 'tel' | 'mailto'; reason: string; location: string }>;
+  /** Carousel/slider control presence — prev/next arrows and pause/play buttons */
+  sliderControls: SliderControlsInfo[];
+  /** Google Maps embeds found on the page with their zoom level */
+  mapEmbeds: MapEmbedInfo[];
 }
 
 // ═══════════════════════════════════════
@@ -182,6 +220,30 @@ export interface ContactInfo {
 }
 
 // ═══════════════════════════════════════
+//  Slider Controls
+// ═══════════════════════════════════════
+
+export interface SliderControlsInfo {
+  /** CSS selector or section id of the carousel container */
+  section: string;
+  hasPrevNext: boolean;
+  hasPausePlay: boolean;
+}
+
+// ═══════════════════════════════════════
+//  Map Embeds
+// ═══════════════════════════════════════
+
+export interface MapEmbedInfo {
+  /** Zoom level extracted from the iframe src (null if not parseable) */
+  zoom: number | null;
+  /** Section/location where the map appears */
+  section: string;
+  /** The full iframe src for debugging */
+  src: string;
+}
+
+// ═══════════════════════════════════════
 //  Layout Metrics (per viewport)
 // ═══════════════════════════════════════
 
@@ -226,10 +288,13 @@ export interface DiffSummary {
   totalChecks: number;
   passed: number;
   failed: number;
+  /** Count of items with verdict === 'bug' — the true regression count after smart filtering */
+  bugs: number;
   contentChanged: number;
   fixed: number;
   regressed: number;
   newIssues: number;
+  expectedChanges: number;
 }
 
 export interface DiffItem {
@@ -240,7 +305,25 @@ export interface DiffItem {
   severity: 'critical' | 'major' | 'minor' | 'info';
   original: unknown;
   migrated: unknown;
-  changeType: 'match' | 'mismatch' | 'content-changed' | 'missing-in-migrated' | 'new-in-migrated' | 'fixed' | 'regressed';
+  changeType: 'match' | 'mismatch' | 'content-changed' | 'missing-in-migrated' | 'new-in-migrated' | 'fixed' | 'regressed' | 'expected-change';
+  /**
+   * Smart verdict — computed by classifyVerdict() in snapshot-differ.
+   * - 'bug'      : genuine regression requiring action (contact mismatch, missing menu, redirect-risk path change)
+   * - 'expected' : known migration artifact (domain swap, Wix template links, HTML structure change)
+   * - 'info'     : informational / editorial change (content edits, new template sections, minor styling)
+   * Optional for backward-compat with old stored comparisons that pre-date this field.
+   */
+  verdict?: 'bug' | 'expected' | 'info';
+  /** Visual evidence: screenshot paths (absolute on disk, converted to web URLs by the server) */
+  evidence?: {
+    originalScreenshot?: string;
+    migratedScreenshot?: string;
+  };
+  /**
+   * Set when the same issue was found on multiple pages and consolidated into one site-wide row.
+   * `page` will be 'site-wide' and this array lists every affected page URL.
+   */
+  affectedPages?: string[];
 }
 
 export interface PageDiff {
@@ -288,9 +371,42 @@ export interface BRSourceResponse {
 
 export interface BRSiteData {
   domain: string;
-  pages: Record<string, { url: string; title: string }>;
-  'user-content-fields': Array<{ id: number; content: string }>;
+  /** Legacy field — may be absent in actual API responses */
+  pages?: Record<string, { url: string; title: string }>;
+  'user-content-fields': Array<{ id: number; name: string; content: string; styledContent?: string }>;
   'Live-Site-Status': string;
+  /** The Wix template this site is being migrated to — used to auto-detect site type */
+  'Target-Theme-Name'?: string;
+  /** The original BR template */
+  'Current-Theme-Name'?: string;
+  /** Navigation structure from the original BR site */
+  'user-navigation'?: Array<{
+    Title: string;
+    Href: string;
+    Id?: string;
+    Children?: Array<{ Title: string; Href: string; CustomSectionID?: string }>;
+  }>;
+  /** Business contact info */
+  'business-info'?: {
+    'business-name'?: string;
+    'business-city'?: string;
+    'business-zip'?: string;
+    'business-street'?: string;
+    'business-phone'?: string;
+    'business-fax'?: string;
+  };
+  /** Custom pages / sub-pages */
+  'user-custom-pages'?: Array<{
+    FieldID: number;
+    FieldName: string;
+    PageTitle: string;
+    'Stripped Title'?: string;
+    Href?: string;
+    SectionStatus: string;
+    navigationStatus: boolean;
+    content?: string;
+    styledContent?: string;
+  }>;
 }
 
 // ═══════════════════════════════════════
@@ -307,6 +423,13 @@ export interface ScanOptions {
   auth?: string;
   output: string;
   csv: boolean;
+  /** Run Chromium in headed (visible) mode for debugging. Implies slowMo. */
+  headed?: boolean;
+  /** Playwright slowMo in ms — automatically set to 400 when headed is true. */
+  slowMo?: number;
+  /** Site type for rule filtering. Auto-detected from BR API if not provided. */
+  siteType?: 'vanilla' | 'flex' | 'deprecated';
+  onProgress?: (message: string, step?: number, total?: number) => void;
 }
 
 export interface CompareOptions {
@@ -326,6 +449,14 @@ export interface CompareSitesOptions {
   auth?: string;
   output: string;
   csv: boolean;
+  /** When true, skip Playwright crawl of original site — build snapshot from BR API data only */
+  skipOriginalCrawl?: boolean;
+  onProgress?: (message: string, step?: number, total?: number) => void;
+}
+
+export interface ScanResult {
+  snapshot: SiteSnapshot;
+  report: ValidationReport;
 }
 
 export type ViewportName = 'desktop' | 'tablet' | 'mobile';
