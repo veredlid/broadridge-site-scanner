@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.glassretirement.com",
     "migratedDomain": "https://glassretirement-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:44:19.173Z",
+    "capturedAt": "2026-04-12T08:42:27.428Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -74,8 +74,8 @@
       },
       {
         "text": "About Us",
-        "href": "https://www.glassretirement.com/about_us/",
-        "path": "/about_us",
+        "href": "https://www.glassretirement.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "The GRS Approach",
@@ -142,8 +142,8 @@
       },
       {
         "text": "Resources",
-        "href": "https://www.glassretirement.com/learning_center/",
-        "path": "/learning_center",
+        "href": "https://www.glassretirement.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -185,37 +185,37 @@
       },
       {
         "text": "Request A Quote",
-        "href": "https://www.glassretirement.com/request_quote/",
-        "path": "/request_quote",
+        "href": "https://www.glassretirement.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=52212&SN=2647945557",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=52212&SN=1913017145",
             "path": "/form.cfm"
           },
           {
             "text": "Long-Term Care Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=52212&SN=2647945557",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=52212&SN=1913017145",
             "path": "/form.cfm"
           },
           {
             "text": "Life Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=52212&SN=2647945557",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=52212&SN=1913017145",
             "path": "/form.cfm"
           },
           {
             "text": "Disability Income Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=52212&SN=2647945557",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=52212&SN=1913017145",
             "path": "/form.cfm"
           },
           {
             "text": "401(k) Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=52212&SN=2647945557",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=52212&SN=1913017145",
             "path": "/form.cfm"
           },
           {
             "text": "Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=52212&SN=2647945557",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=52212&SN=1913017145",
             "path": "/form.cfm"
           }
         ],
@@ -463,7 +463,7 @@
       {
         "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/about_us",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://glassretirement-31030802.brprodaccount.com/the-grs-approach2",
         "migratedPath": "/the-grs-approach2",
@@ -567,13 +567,13 @@
       {
         "kind": "missing",
         "brTitle": "Resources",
-        "brHref": "/learning_center",
+        "brHref": "/",
         "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/request_quote",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -611,79 +611,16 @@
           "401(k) Fiduciary Compliance Guidance Glass Retirement Strategies, Inc."
         ],
         "phoneNumbers": [
-          "(248) 647-2822",
-          "(248) 647-8543"
+          "0254541",
+          "2486472822",
+          "2486478543"
         ],
         "emailAddresses": [],
         "physicalAddresses": [
-          "30400 Telegraph Rd. Suite 445\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tBingham Farms, MI 48025"
+          "30400 Telegraph Rd. Suite "
         ],
-        "personNames": [
-          "Glass Retirement",
-          "Us\n\t\t\t\t\n\t\t\t\t\t Glass",
-          "Retirement Strategies",
-          "Bingham Farms",
-          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n      \n    \n  \n\n    \n      \n        \n          \n            \n\t\n\t \n\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHome",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        The",
-          "Approach\n      \n    \n      \n        Our",
-          "Process\n      \n    \n      \n        Plan",
-          "Options\n      \n    \n      \n        Our",
-          "Credentials\n      \n    \n      \n        Our",
-          "Staff\n      \n    \n      \n        Special",
-          "Services\n      \n    \n      \n        Tell",
-          "Friend\n      \n    \n      \n        Information",
-          "Links\n      \n    \n      \n        Featured",
-          "Insurance\n      \n    \n      \n        Brightscope",
-          "Pension Advisor",
-          "Ratings\n      \n    \n      \n        Membership",
-          "Links\n      \n    \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tResources",
-          "Articles\n          \n        \n          \n            Calculators",
-          "Flipbooks\n          \n        \n          \n            Newsletters",
-          "Glossary\n          \n        \n          \n            Tax",
-          "Library\n          \n        \n          \n            Videos",
-          "Request A Quote",
-          "Annuity \n            \n          \n            \n              Long",
-          "Term Care",
-          "Insurance  \n            \n          \n            \n              Life",
-          "Insurance  \n            \n          \n            \n              Disability",
-          "Income Insurance",
-          "Information Request",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\t\t\t  Glass",
-          "Retirement Security",
-          "Pension Plan",
-          "Expense Benchmarking",
-          "Courier New",
-          "Times New",
-          "Metro Detroit",
-          "Employee Retirement",
-          "Income Security",
-          "Internal Revenue",
-          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Estate",
-          "Taxes\n          \n        \n        Use",
-          "Life Expectancy",
-          "Retirement Portfolio",
-          "Lifespan\n          \n        \n        How",
-          "Long Will",
-          "Your Funds",
-          "More Calculators",
-          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tThe",
-          "Links\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\n\t\t\n\t\n        \n          \n            Learning",
-          "Center\n          \n          \n            \n              \n                Articles",
-          "Newsletters\n                Timely",
-          "Flipbooks\n                \n                  These",
-          "Glossary\n                  \n                  Financial",
-          "Tax Library",
-          "We Make",
-          "Your Retirement",
-          "Life Easier",
-          "Tax Deductible",
-          "Savings Deposits",
-          "Tax Free",
-          "Tax Favored",
-          "Annual Updating",
-          "Site Map"
-        ],
-        "footerText": "We Make Your Retirement Life Easier - Tax Deductible Savings Deposits, Tax Free Gowth, Tax Favored Withdrawals   NOTICE: The SEC normally requires RIAs to file an Annual Updating Amendment to their Form ADV by March 31st of each year. However because of the Coronavirus the SEC has issued an order extendindg the normal deadline and because GRS is unable to meet such deadline of March 31, 2020, we will be relying on the SEC's order extending such deadline to May 14, 2020.\n      \n        \n         "
+        "personNames": [],
+        "footerText": "We Make Your Retirement Life Easier - Tax Deductible Savings Deposits, Tax Free Gowth, Tax Favored Withdrawals NOTICE: The SEC normally requires RIAs to file an Annual Updating Amendment to their Form ADV by March 31st of each year. However because of the Coronavirus the SEC has issued an order extendindg the normal deadline and because GRS is unable to meet such deadline of March 31, 2020, we will be relying on the SEC's order extending such deadline to May 14, 2020. Site Map"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.glassretirement.com",
@@ -707,24 +644,10 @@
       "mismatches": [
         {
           "field": "phone",
-          "originalValue": "(248) 647-2822, (248) 647-8543",
-          "migratedValue": "0254541",
-          "severity": "critical",
-          "note": "Phone \"0254541\" on migrated site not found on original"
-        },
-        {
-          "field": "phone",
-          "originalValue": "(248) 647-2822, (248) 647-8543",
+          "originalValue": "0254541, (248) 647-2822, (248) 647-8543",
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "address",
-          "originalValue": "30400 Telegraph Rd. Suite 445\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tBingham Farms, MI 48025",
-          "migratedValue": "30400 Telegraph Rd. Suite ",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
         }
       ]
     },
@@ -742,6 +665,56 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on glassretirement-31030802.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "Content5",
+            "src": "/files/52212/Herbies Facebook Picture 2 better.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/52212/Herbies Facebook Picture 2 better.jpg\""
+          },
+          {
+            "fieldName": "Our Staff",
+            "src": "/files/52212/Herbies Facebook Picture 2 better.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/52212/Herbies Facebook Picture 2 better.jpg\""
+          }
+        ],
+        "totalImages": 4,
+        "severity": "warning"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

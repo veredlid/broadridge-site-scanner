@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.capstoneforclients.com",
     "migratedDomain": "https://capstoneforclients-31030804.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:36:40.139Z",
+    "capturedAt": "2026-04-12T08:41:16.576Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -99,8 +99,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.capstoneforclients.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Welcome",
@@ -137,8 +137,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.capstoneforclients.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -180,8 +180,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.capstoneforclients.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
@@ -208,9 +208,14 @@
       },
       {
         "text": "Contact Us",
-        "href": "https://www.capstoneforclients.com/contact_us/",
-        "path": "/contact_us",
+        "href": "https://www.capstoneforclients.com/#",
+        "path": "/",
         "subItems": [
+          {
+            "text": "Contact Us",
+            "href": "https://www.capstoneforclients.com/contact_us/",
+            "path": "/contact_us"
+          },
           {
             "text": "Tell A Friend",
             "href": "https://www.capstoneforclients.com/tellafriend.cfm?SSLID=72148",
@@ -221,9 +226,14 @@
       },
       {
         "text": "Account Access",
-        "href": "https://www.capstoneforclients.com/Account-Access.9.htm",
-        "path": "/Account-Access.9.htm",
+        "href": "https://www.capstoneforclients.com/#",
+        "path": "/",
         "subItems": [
+          {
+            "text": "Account Access",
+            "href": "https://www.capstoneforclients.com/Account-Access.9.htm",
+            "path": "/Account-Access.9.htm"
+          },
           {
             "text": "-empty-",
             "href": "https://www.capstoneforclients.com/:void(0);",
@@ -514,13 +524,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/welcome12",
         "migratedPath": "/welcome12",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /welcome12",
         "subIssues": [
           {
             "kind": "ok",
@@ -573,13 +582,12 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -640,17 +648,26 @@
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "ok",
         "brTitle": "Contact Us",
-        "brHref": "/contact_us",
+        "brHref": "/",
         "migratedText": "Contact Us",
         "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/location",
         "migratedPath": "/location",
         "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Contact Us",
+            "brHref": "/contact_us",
+            "migratedText": "Contact Us",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/location",
+            "migratedPath": "/location",
+            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
+          },
           {
             "kind": "missing",
             "brTitle": "Tell A Friend",
@@ -662,11 +679,20 @@
       {
         "kind": "ok",
         "brTitle": "Account Access",
-        "brHref": "/Account-Access.9.htm",
+        "brHref": "/",
         "migratedText": "Account Access",
         "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/client-account-access9",
         "migratedPath": "/client-account-access9",
         "subIssues": [
+          {
+            "kind": "structure-change",
+            "brTitle": "Account Access",
+            "brHref": "/Account-Access.9.htm",
+            "migratedText": "Account Access",
+            "migratedHref": "https://capstoneforclients-31030804.brprodaccount.com/client-account-access9",
+            "migratedPath": "/client-account-access9",
+            "note": "\"Account Access\" is a sub-item in the original live site but top-level in migrated"
+          },
           {
             "kind": "ok",
             "brTitle": "-empty-",
@@ -679,15 +705,15 @@
       }
     ],
     "liveSummary": {
-      "totalSourceItems": 25,
+      "totalSourceItems": 27,
       "totalMigratedItems": 18,
       "missing": 3,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
-      "structureChanges": 0,
-      "ok": 16
+      "hrefMismatches": 0,
+      "structureChanges": 2,
+      "ok": 18
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -697,63 +723,14 @@
           "CAPSTONE INDEPENDENT FIRM"
         ],
         "phoneNumbers": [
-          "(616) 949-7130"
+          "6169497130"
         ],
         "emailAddresses": [
           "rembassy7130@gmail.com"
         ],
         "physicalAddresses": [],
-        "personNames": [
-          "Home\n          \n          About",
-          "Us\n           \n            Welcome",
-          "Our Mission",
-          "Statement\n            Our",
-          "Firm\n            Our",
-          "Services\n            \n            Our",
-          "Qualifications\n            \n            \n            \n            Featured",
-          "Links\n            \n           \n          \n          Resources",
-          "Articles\n            Calculators",
-          "Flipbooks\n            Newsletters",
-          "Glossary\n            Tax",
-          "Library\n            Videos",
-          "Request A Quote",
-          "Annuity \n            Long",
-          "Term Care",
-          "Insurance  \n            Life",
-          "Insurance  \n            Disability",
-          "Income Insurance",
-          "Us\n          Tell",
-          "Embassy Drive",
-          "Grand Rapids",
-          "View Flipbooks",
-          "View Calculators",
-          "Do You",
-          "Know Who",
-          "Your Beneficiaries",
-          "More Videos",
-          "Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters",
-          "Grocery Games",
-          "Help Stretch",
-          "Your Food",
-          "Strengthen Your",
-          "Retirement Strategy",
-          "Look Out",
-          "Observation Care",
-          "More Comfortable",
-          "Retirement \n\t\t\t\t\n\t\t\t\tOnly",
-          "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost",
-          "Retirement\n          \n        \n        Use",
-          "Required Minimum",
-          "Distributions\n          \n        \n        Estimate",
-          "Federal Income",
-          "Tax\n          \n        \n        This",
-          "Estate Taxes",
-          "More Calculators",
-          "Site Map",
-          "To Top"
-        ],
-        "footerText": "Site Map\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBack To Top"
+        "personNames": [],
+        "footerText": "Site Map Back To Top"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.capstoneforclients.com",
@@ -780,13 +757,6 @@
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Home\n          \n          About, Us\n           \n            Welcome, Our Mission, Statement\n            Our, Firm\n            Our, Services\n            \n            Our, Qualifications\n            \n            \n            \n            Featured, Links\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Life, Insurance  \n            Disability, Income Insurance, Us\n          Tell, Embassy Drive, Grand Rapids, View Flipbooks, View Calculators, Do You, Know Who, Your Beneficiaries, More Videos, Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters, Grocery Games, Help Stretch, Your Food, Strengthen Your, Retirement Strategy, Look Out, Observation Care, More Comfortable, Retirement \n\t\t\t\t\n\t\t\t\tOnly, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost, Retirement\n          \n        \n        Use, Required Minimum, Distributions\n          \n        \n        Estimate, Federal Income, Tax\n          \n        \n        This, Estate Taxes, More Calculators, Site Map, To Top",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
     },
@@ -804,6 +774,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on capstoneforclients-31030804.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 16,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

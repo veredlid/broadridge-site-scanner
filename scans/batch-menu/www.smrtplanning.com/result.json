@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.smrtplanning.com",
     "migratedDomain": "https://smrtplanning-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:25:17.634Z",
+    "capturedAt": "2026-04-12T08:38:30.108Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -665,6 +665,24 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on smrtplanning-31030754.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [],
+        "templateCount": 0,
+        "totalCount": 0,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 5,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.milehighinvestments.net",
     "migratedDomain": "https://milehighinvestments-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:49:00.120Z",
+    "capturedAt": "2026-04-12T08:43:24.167Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -529,32 +529,17 @@
           "Airman Tax Prep & Financial Services"
         ],
         "phoneNumbers": [
-          "(720) 244-2095",
-          "(800) 314-6949"
+          "7202442095",
+          "8003146949"
         ],
         "emailAddresses": [
-          "david@airmantax.com"
+          "David@AirmanTax.com"
         ],
         "physicalAddresses": [],
         "personNames": [
-          "David Sinclair",
-          "Mile High",
-          "Contact Info",
-          "Home\n          \n                Our",
-          "Mission Statement",
-          "Our Location",
-          "Our Firm",
-          "Our Services",
-          "Our Qualifications",
-          "Resources\n          \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n    \n       \n      Mile",
-          "High Investments",
-          "New York",
-          "New Hampshire",
-          "Registered Investment",
-          "Investments Products",
-          "Value\n      \n        \n          \n            \n              \n                  Site"
+          "David Sinclair"
         ],
-        "footerText": "Mile High Investments, LLC is currently registered to transact financial advisory business in New York, New Hampshire, Florida & Massachusetts. Mile High Investments, LLC may transact business in any other state if excluded from registration, exempted, or becomes registered, according to state investment advisor requirements.Mile High Investments, LLC is a Registered Investment Adviser. Information presented is for educational purposes only and does not intend to make an offer or solicitation fo"
+        "footerText": "Mile High Investments, LLC is currently registered to transact financial advisory business in New York, New Hampshire, Florida & Massachusetts. Mile High Investments, LLC may transact business in any other state if excluded from registration, exempted, or becomes registered, according to state investment advisor requirements.Mile High Investments, LLC is a Registered Investment Adviser. Information presented is for educational purposes only and does not intend to make an offer or solicitation for the sale or purchase of any securities. Past performance is not indicative of future results. Investments involve risk and unless otherwise stated, are not guarantedd. Be sure to first consult with a qualified financial advisor and/or tax professional before implementing any strategy discussed here.Nothing in this web site is an offer or solicitation to buy or sell securities, or a recommendation of any particular security.Everything in this web site should only be considered in the context of"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.milehighinvestments.net",
@@ -624,7 +609,7 @@
         },
         {
           "field": "person-name",
-          "originalValue": "David Sinclair, Mile High, Contact Info, Home\n          \n                Our, Mission Statement, Our Location, Our Firm, Our Services, Our Qualifications, Resources\n          \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n    \n       \n      Mile, High Investments, New York, New Hampshire, Registered Investment, Investments Products, Value\n      \n        \n          \n            \n              \n                  Site",
+          "originalValue": "David Sinclair",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
@@ -652,6 +637,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on milehighinvestments-31030758.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 54,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

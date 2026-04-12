@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.pbfsi.com",
     "migratedDomain": "https://pbfsi-31030756.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:14:29.434Z",
+    "capturedAt": "2026-04-12T08:31:17.035Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -969,6 +969,49 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on pbfsi-31030756.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "YouTube",
+            "href": "http://www.youtube.com/watch?v=ZKHftmGWoEM",
+            "isTemplate": false,
+            "details": "YouTube: http://www.youtube.com/watch?v=ZKHftmGWoEM"
+          },
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 4,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 7,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

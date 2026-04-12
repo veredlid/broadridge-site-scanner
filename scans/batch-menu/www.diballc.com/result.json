@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.diballc.com",
     "migratedDomain": "https://diballc-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:39:49.353Z",
+    "capturedAt": "2026-04-12T08:41:40.485Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -369,27 +369,14 @@
         "pageTitle": "",
         "companyNames": [],
         "phoneNumbers": [
-          "(763) 971-9230",
-          "(763) 971-8040"
+          "7639719230",
+          "7639718040"
         ],
         "emailAddresses": [
           "nmanning@srbis.com"
         ],
-        "physicalAddresses": [
-          "11300 86th Avenue NorthMaple Grove,  MN 55369"
-        ],
-        "personNames": [
-          "Diversified Insurance",
-          "Brokerage Alliance",
-          "Contact Info",
-          "Our Mission",
-          "Statement\n              \n                Core",
-          "Carriers\n              \n                Sweet",
-          "Spot\n              \n                Our",
-          "Team\n              \n                  Our",
-          "Location\n                \n              \n            Resources",
-          "Site Map"
-        ],
+        "physicalAddresses": [],
+        "personNames": [],
         "footerText": "Site Map"
       },
       "migratedIdentity": {
@@ -415,13 +402,6 @@
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Diversified Insurance, Brokerage Alliance, Contact Info, Our Mission, Statement\n              \n                Core, Carriers\n              \n                Sweet, Spot\n              \n                Our, Team\n              \n                  Our, Location\n                \n              \n            Resources, Site Map",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
     },
@@ -439,6 +419,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on diballc-31030808.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 12,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

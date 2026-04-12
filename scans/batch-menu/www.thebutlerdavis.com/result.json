@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.thebutlerdavis.com",
     "migratedDomain": "https://thebutlerdavis-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:53:27.509Z",
+    "capturedAt": "2026-04-12T08:43:52.547Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -182,400 +182,105 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://thebutlerdavis-31030753.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://thebutlerdavis-31030753.brprodaccount.com/our-mission-statement1",
-        "path": "/our-mission-statement1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Meet J W  Davis",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/",
-            "path": "/"
-          },
-          {
-            "text": "Our Firm",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/our-qualifications4",
-            "path": "/our-qualifications4"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Our Services",
-        "href": "https://thebutlerdavis-31030753.brprodaccount.com/our-services3",
-        "path": "/our-services3",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "In The Know",
-        "href": "https://thebutlerdavis-31030753.brprodaccount.com/in-the-know5",
-        "path": "/in-the-know5",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Resources",
-        "href": "https://thebutlerdavis-31030753.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://thebutlerdavis-31030753.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://thebutlerdavis-31030753.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Meet J W  Davis",
-            "brHref": "/J-W--Davis.e1249888.htm",
-            "migratedText": "Meet J W  Davis",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Services",
         "brHref": "/Our-Services.3.htm",
-        "migratedText": "Our Services",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-services3",
-        "migratedPath": "/our-services3"
+        "note": "\"Our Services\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "In The Know",
         "brHref": "/In-The-Know.5.htm",
-        "migratedText": "In The Know",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/in-the-know5",
-        "migratedPath": "/in-the-know5"
+        "note": "\"In The Know\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 16,
-      "totalMigratedItems": 16,
-      "missing": 0,
-      "extra": 0,
-      "brokenLinks": 0,
-      "duplicates": 0,
-      "hrefMismatches": 2,
-      "structureChanges": 0,
-      "ok": 14,
-      "totalBrItems": 16
-    },
-    "liveIssues": [
-      {
-        "kind": "ok",
-        "brTitle": "Home",
-        "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/",
-        "migratedPath": "/"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "About Us",
-        "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Meet J W  Davis",
-            "brHref": "/J-W--Davis.e1249888.htm",
-            "migratedText": "Meet J W  Davis",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Our Services",
-        "brHref": "/Our-Services.3.htm",
-        "migratedText": "Our Services",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/our-services3",
-        "migratedPath": "/our-services3"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "In The Know",
-        "brHref": "/In-The-Know.5.htm",
-        "migratedText": "In The Know",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/in-the-know5",
-        "migratedPath": "/in-the-know5"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Resources",
-        "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Contact Us",
-        "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://thebutlerdavis-31030753.brprodaccount.com/location",
-        "migratedPath": "/location"
-      }
-    ],
-    "liveSummary": {
-      "totalSourceItems": 17,
-      "totalMigratedItems": 16,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 6,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 16
+      "ok": 0,
+      "totalBrItems": 16
+    },
+    "liveIssues": [
+      {
+        "kind": "missing",
+        "brTitle": "Home",
+        "brHref": "/",
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "note": "\"Our Services\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "In The Know",
+        "brHref": "/In-The-Know.5.htm",
+        "note": "\"In The Know\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 0,
+      "missing": 6,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -596,46 +301,35 @@
         "personNames": [],
         "footerText": "Butler-Davis Financial Group, LLC 1123 Elm Street NW Second Floor, Covington, GA 30014 Phone: 678-942-6610 | Fax: 888-908-1862 jw@thebutlerdavis.com Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.thebutlerdavis.com",
-        "companyNames": [
-          "\"Your Future, Our Focus\""
-        ],
-        "phoneNumbers": [
-          "6789426610",
-          "9723800097",
-          "8889081862"
-        ],
-        "emailAddresses": [
-          "jw@thebutlerdavis.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [],
-        "footerText": "Butler-Davis Financial Group, LLC 1123 Elm Street NW Second Floor, Covington, GA 30014 Phone: 678-942-6610 | Fax: 888-908-1862 jw@thebutlerdavis.com"
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(678) 942-6610, (888) 908-1862",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://thebutlerdavis-31030753.brprodaccount.com/",
         "hostname": "thebutlerdavis-31030753.brprodaccount.com",
         "hasCustomDomain": false,
         "details": "No custom domain — still on thebutlerdavis-31030753.brprodaccount.com",
+        "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/120503/JW Davis.png",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/120503/JW Davis.png\""
+          }
+        ],
+        "totalImages": 5,
         "severity": "warning"
       }
     }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.focalpointfinancialservices.com",
     "migratedDomain": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:15:07.399Z",
+    "capturedAt": "2026-04-12T08:31:18.717Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -97,863 +97,89 @@
         "children": []
       }
     ],
-    "originalItems": [
-      {
-        "text": "Home",
-        "href": "https://www.focalpointfinancialservices.com/#",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Home",
-            "href": "https://www.focalpointfinancialservices.com/",
-            "path": "/"
-          },
-          {
-            "text": "Should You Pay Off Debt or Save for Retirement?",
-            "href": "https://www.focalpointfinancialservices.com/#",
-            "path": "/"
-          },
-          {
-            "text": "Should You Pay Off Debt or Save for Retirement?",
-            "href": "https://www.focalpointfinancialservices.com/Should-You-Pay-Off-Debt-or-Save-for-Retirement.c7160.htm",
-            "path": "/Should-You-Pay-Off-Debt-or-Save-for-Retirement.c7160.htm"
-          },
-          {
-            "text": "The Basics of Social Security Retirement Benefits",
-            "href": "https://www.focalpointfinancialservices.com/The-Basics-of-Social-Security-Retirement-Benefits.c8207.htm",
-            "path": "/The-Basics-of-Social-Security-Retirement-Benefits.c8207.htm"
-          },
-          {
-            "text": "The Pros and Cons of a Big Tax Refund",
-            "href": "https://www.focalpointfinancialservices.com/The-Pros-and-Cons-of-a-Big-Tax-Refund.c8670.htm",
-            "path": "/The-Pros-and-Cons-of-a-Big-Tax-Refund.c8670.htm"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "About Us",
-        "href": "https://www.focalpointfinancialservices.com/#",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Jason's Team",
-            "href": "https://www.focalpointfinancialservices.com/Jasons-Team.1.htm",
-            "path": "/Jasons-Team.1.htm"
-          },
-          {
-            "text": "Products",
-            "href": "https://www.focalpointfinancialservices.com/Products.4.htm",
-            "path": "/Products.4.htm"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://www.focalpointfinancialservices.com/location.htm",
-            "path": "/location.htm"
-          },
-          {
-            "text": "Tell A Friend",
-            "href": "https://www.focalpointfinancialservices.com/tellafriend.cfm?SSLID=20586",
-            "path": "/tellafriend.cfm"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://www.focalpointfinancialservices.com/Featured-Links.6.htm",
-            "path": "/Featured-Links.6.htm"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Required Minimum Distributions",
-        "href": "https://www.focalpointfinancialservices.com/learning_center/calculators/required_minimum_distributions",
-        "path": "/learning_center/calculators/required_minimum_distributions",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Education",
-        "href": "https://www.focalpointfinancialservices.com/#",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Financial Planning: Helping You See the Big Picture",
-            "href": "https://www.focalpointfinancialservices.com/#",
-            "path": "/"
-          },
-          {
-            "text": "Financial Planning: Helping You See the Big Picture",
-            "href": "https://www.focalpointfinancialservices.com/Financial-Planning-Helping-You-See-the-Big-Picture.c8210.htm",
-            "path": "/Financial-Planning-Helping-You-See-the-Big-Picture.c8210.htm"
-          },
-          {
-            "text": "What Key Estate Planning Tools Should I Know About?",
-            "href": "https://www.focalpointfinancialservices.com/What-Key-Estate-Planning-Tools-Should-I-Know-About.c109.htm",
-            "path": "/What-Key-Estate-Planning-Tools-Should-I-Know-About.c109.htm"
-          },
-          {
-            "text": "Four Things Investors Should Know About Stock Splits",
-            "href": "https://www.focalpointfinancialservices.com/Four-Things-Investors-Should-Know-About-Stock-Splits.c9699.htm",
-            "path": "/Four-Things-Investors-Should-Know-About-Stock-Splits.c9699.htm"
-          },
-          {
-            "text": "Videos",
-            "href": "https://www.focalpointfinancialservices.com/#",
-            "path": "/"
-          },
-          {
-            "text": "Videos",
-            "href": "https://www.focalpointfinancialservices.com/learning_center/videos/",
-            "path": "/learning_center/videos"
-          },
-          {
-            "text": "Should You Pay Off Debt or Save for Retirement?",
-            "href": "https://www.focalpointfinancialservices.com/Should-You-Pay-Off-Debt-or-Save-for-Retirement.c7160.htm",
-            "path": "/Should-You-Pay-Off-Debt-or-Save-for-Retirement.c7160.htm"
-          },
-          {
-            "text": "The Basics of Social Security Retirement Benefits",
-            "href": "https://www.focalpointfinancialservices.com/The-Basics-of-Social-Security-Retirement-Benefits.c8207.htm",
-            "path": "/The-Basics-of-Social-Security-Retirement-Benefits.c8207.htm"
-          },
-          {
-            "text": "Articles",
-            "href": "https://www.focalpointfinancialservices.com/#",
-            "path": "/"
-          },
-          {
-            "text": "Articles",
-            "href": "https://www.focalpointfinancialservices.com/learning_center/research/",
-            "path": "/learning_center/research"
-          },
-          {
-            "text": "Just Your Average Millionaire",
-            "href": "https://www.focalpointfinancialservices.com/Just-Your-Average-Millionaire.c10273.htm",
-            "path": "/Just-Your-Average-Millionaire.c10273.htm"
-          },
-          {
-            "text": "HOT TOPIC: The Fed Finally Cut Interest Rates",
-            "href": "https://www.focalpointfinancialservices.com/HOT-TOPIC-The-Fed-Finally-Cut-Interest-Rates.c10289.htm",
-            "path": "/HOT-TOPIC-The-Fed-Finally-Cut-Interest-Rates.c10289.htm"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://www.focalpointfinancialservices.com/#",
-            "path": "/"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://www.focalpointfinancialservices.com/learning_center/newsletters/",
-            "path": "/learning_center/newsletters"
-          },
-          {
-            "text": "Working While Receiving Social Security Benefits",
-            "href": "https://www.focalpointfinancialservices.com/Working-While-Receiving-Social-Security-Benefits.c9696.htm",
-            "path": "/Working-While-Receiving-Social-Security-Benefits.c9696.htm"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://www.focalpointfinancialservices.com/#",
-            "path": "/"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://www.focalpointfinancialservices.com/learning_center/calculators/",
-            "path": "/learning_center/calculators"
-          },
-          {
-            "text": "Car Affordability",
-            "href": "https://www.focalpointfinancialservices.com/learning_center/calculators/car_affordability",
-            "path": "/learning_center/calculators/car_affordability"
-          },
-          {
-            "text": "Credit Card Debt",
-            "href": "https://www.focalpointfinancialservices.com/learning_center/calculators/credit_card_debt",
-            "path": "/learning_center/calculators/credit_card_debt"
-          },
-          {
-            "text": "Flipbooks",
-            "href": "https://www.focalpointfinancialservices.com/learning_center/flipbooks/",
-            "path": "/learning_center/flipbooks"
-          },
-          {
-            "text": "Higher Education: College Saving and Funding Strategies",
-            "href": "https://www.focalpointfinancialservices.com/files/flipbooks/college-saving",
-            "path": "/files/flipbooks/college-saving"
-          },
-          {
-            "text": "Time to Get Tax-Savvy: Managing Your Tax Burden",
-            "href": "https://www.focalpointfinancialservices.com/files/flipbooks/tax-savvy",
-            "path": "/files/flipbooks/tax-savvy"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://www.focalpointfinancialservices.com/learning_center/glossary/",
-            "path": "/learning_center/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://www.focalpointfinancialservices.com/learning_center/tax_library/",
-            "path": "/learning_center/tax_library"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://www.focalpointfinancialservices.com/contact_us/",
-        "path": "/contact_us",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Should You Pay Off Debt or Save for Retirement?",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/should-you-pay-off-debt-or-save-for-retirement%3F",
-            "path": "/video/should-you-pay-off-debt-or-save-for-retirement%3F"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "About Us",
-        "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/our-team",
-        "path": "/our-team",
-        "subItems": [
-          {
-            "text": "Jason's Team",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Products",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-            "path": "/"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/featured-links",
-            "path": "/featured-links"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Required Minimum Distributions",
-        "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/calculator/required-minimum-distributions",
-        "path": "/calculator/required-minimum-distributions",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Education",
-        "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/financial-planning%3A-helping-you-see-the-big-picture",
-        "path": "/video/financial-planning%3A-helping-you-see-the-big-picture",
-        "subItems": [
-          {
-            "text": "Financial Planning: Helping You See the Big Picture",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/financial-planning%3A-helping-you-see-the-big-picture",
-            "path": "/video/financial-planning%3A-helping-you-see-the-big-picture"
-          },
-          {
-            "text": "Videos",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/videos",
-            "path": "/videos"
-          },
-          {
-            "text": "The Basics of Social Security Retirement Benefits",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/the-basics-of-social-security-retirement-benefits",
-            "path": "/video/the-basics-of-social-security-retirement-benefits"
-          },
-          {
-            "text": "Articles",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Higher Education: College Saving and Funding Strategies",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-            "path": "/"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://focalpointfinancialservices-31030802.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "originalItems": [],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Should You Pay Off Debt or Save for Retirement?",
-            "brHref": "/Should-You-Pay-Off-Debt-or-Save-for-Retirement.c7160.htm",
-            "migratedText": "Should You Pay Off Debt or Save for Retirement?",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/should-you-pay-off-debt-or-save-for-retirement%3F",
-            "migratedPath": "/video/should-you-pay-off-debt-or-save-for-retirement%3F"
-          }
-        ]
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Jason's Team",
-            "brHref": "/Jasons-Team.1.htm",
-            "migratedText": "Jason's Team",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Products",
-            "brHref": "/Products.4.htm",
-            "migratedText": "Products",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/Featured-Links.6.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Required Minimum Distributions",
         "brHref": "/learning_center/calculators/required_minimum_distributions",
-        "migratedText": "Required Minimum Distributions",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/calculator/required-minimum-distributions",
-        "migratedPath": "/calculator/required-minimum-distributions"
+        "note": "\"Required Minimum Distributions\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Education",
         "brHref": "/#",
-        "migratedText": "Education",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/financial-planning%3A-helping-you-see-the-big-picture",
-        "migratedPath": "/video/financial-planning%3A-helping-you-see-the-big-picture",
-        "note": "\"Education\" should be a dropdown (/#) but migrated links to /video/financial-planning%3A-helping-you-see-the-big-picture",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Financial Planning: Helping You See the Big Picture",
-            "brHref": "/Financial-Planning-Helping-You-See-the-Big-Picture.c8210.htm",
-            "migratedText": "Financial Planning: Helping You See the Big Picture",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/financial-planning%3A-helping-you-see-the-big-picture",
-            "migratedPath": "/video/financial-planning%3A-helping-you-see-the-big-picture"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "The Basics of Social Security Retirement Benefits",
-            "brHref": "/The-Basics-of-Social-Security-Retirement-Benefits.c8207.htm",
-            "migratedText": "The Basics of Social Security Retirement Benefits",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/the-basics-of-social-security-retirement-benefits",
-            "migratedPath": "/video/the-basics-of-social-security-retirement-benefits"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Higher Education: College Saving and Funding Strategies",
-            "brHref": "/files/flipbooks/college-saving",
-            "migratedText": "Higher Education: College Saving and Funding Strategies",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Time to Get Tax-Savvy: Managing Your Tax Burden",
-            "brHref": "/files/flipbooks/tax-savvy",
-            "note": "Sub-item \"Time to Get Tax-Savvy: Managing Your Tax Burden\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          }
-        ]
+        "note": "\"Education\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 20,
-      "totalMigratedItems": 19,
-      "missing": 1,
-      "extra": 0,
-      "brokenLinks": 0,
-      "duplicates": 0,
-      "hrefMismatches": 2,
-      "structureChanges": 0,
-      "ok": 17,
-      "totalBrItems": 20
-    },
-    "liveIssues": [
-      {
-        "kind": "ok",
-        "brTitle": "Home",
-        "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Home",
-            "brHref": "/",
-            "migratedText": "Home",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-            "migratedPath": "/",
-            "note": "\"Home\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Should You Pay Off Debt or Save for Retirement?",
-            "brHref": "/",
-            "migratedText": "Should You Pay Off Debt or Save for Retirement?",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/should-you-pay-off-debt-or-save-for-retirement%3F",
-            "migratedPath": "/video/should-you-pay-off-debt-or-save-for-retirement%3F"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Should You Pay Off Debt or Save for Retirement?",
-            "brHref": "/Should-You-Pay-Off-Debt-or-Save-for-Retirement.c7160.htm",
-            "migratedText": "Should You Pay Off Debt or Save for Retirement?",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/should-you-pay-off-debt-or-save-for-retirement%3F",
-            "migratedPath": "/video/should-you-pay-off-debt-or-save-for-retirement%3F"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "The Basics of Social Security Retirement Benefits",
-            "brHref": "/The-Basics-of-Social-Security-Retirement-Benefits.c8207.htm",
-            "note": "Sub-item \"The Basics of Social Security Retirement Benefits\" under \"Home\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "The Pros and Cons of a Big Tax Refund",
-            "brHref": "/The-Pros-and-Cons-of-a-Big-Tax-Refund.c8670.htm",
-            "note": "Sub-item \"The Pros and Cons of a Big Tax Refund\" under \"Home\" is missing in migrated"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "About Us",
-        "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Jason's Team",
-            "brHref": "/Jasons-Team.1.htm",
-            "migratedText": "Jason's Team",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Products",
-            "brHref": "/Products.4.htm",
-            "migratedText": "Products",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/Featured-Links.6.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Required Minimum Distributions",
-        "brHref": "/learning_center/calculators/required_minimum_distributions",
-        "migratedText": "Required Minimum Distributions",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/calculator/required-minimum-distributions",
-        "migratedPath": "/calculator/required-minimum-distributions"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Education",
-        "brHref": "/",
-        "migratedText": "Education",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/financial-planning%3A-helping-you-see-the-big-picture",
-        "migratedPath": "/video/financial-planning%3A-helping-you-see-the-big-picture",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Financial Planning: Helping You See the Big Picture",
-            "brHref": "/",
-            "migratedText": "Financial Planning: Helping You See the Big Picture",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/financial-planning%3A-helping-you-see-the-big-picture",
-            "migratedPath": "/video/financial-planning%3A-helping-you-see-the-big-picture"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Financial Planning: Helping You See the Big Picture",
-            "brHref": "/Financial-Planning-Helping-You-See-the-Big-Picture.c8210.htm",
-            "migratedText": "Financial Planning: Helping You See the Big Picture",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/financial-planning%3A-helping-you-see-the-big-picture",
-            "migratedPath": "/video/financial-planning%3A-helping-you-see-the-big-picture"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "What Key Estate Planning Tools Should I Know About?",
-            "brHref": "/What-Key-Estate-Planning-Tools-Should-I-Know-About.c109.htm",
-            "note": "Sub-item \"What Key Estate Planning Tools Should I Know About?\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Four Things Investors Should Know About Stock Splits",
-            "brHref": "/Four-Things-Investors-Should-Know-About-Stock-Splits.c9699.htm",
-            "note": "Sub-item \"Four Things Investors Should Know About Stock Splits\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/",
-            "migratedText": "Videos",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Should You Pay Off Debt or Save for Retirement?",
-            "brHref": "/Should-You-Pay-Off-Debt-or-Save-for-Retirement.c7160.htm",
-            "note": "Sub-item \"Should You Pay Off Debt or Save for Retirement?\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "The Basics of Social Security Retirement Benefits",
-            "brHref": "/The-Basics-of-Social-Security-Retirement-Benefits.c8207.htm",
-            "migratedText": "The Basics of Social Security Retirement Benefits",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/video/the-basics-of-social-security-retirement-benefits",
-            "migratedPath": "/video/the-basics-of-social-security-retirement-benefits"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/",
-            "migratedText": "Articles",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Just Your Average Millionaire",
-            "brHref": "/Just-Your-Average-Millionaire.c10273.htm",
-            "note": "Sub-item \"Just Your Average Millionaire\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "HOT TOPIC: The Fed Finally Cut Interest Rates",
-            "brHref": "/HOT-TOPIC-The-Fed-Finally-Cut-Interest-Rates.c10289.htm",
-            "note": "Sub-item \"HOT TOPIC: The Fed Finally Cut Interest Rates\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Working While Receiving Social Security Benefits",
-            "brHref": "/Working-While-Receiving-Social-Security-Benefits.c9696.htm",
-            "note": "Sub-item \"Working While Receiving Social Security Benefits\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Car Affordability",
-            "brHref": "/learning_center/calculators/car_affordability",
-            "note": "Sub-item \"Car Affordability\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Credit Card Debt",
-            "brHref": "/learning_center/calculators/credit_card_debt",
-            "note": "Sub-item \"Credit Card Debt\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Higher Education: College Saving and Funding Strategies",
-            "brHref": "/files/flipbooks/college-saving",
-            "migratedText": "Higher Education: College Saving and Funding Strategies",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Time to Get Tax-Savvy: Managing Your Tax Burden",
-            "brHref": "/files/flipbooks/tax-savvy",
-            "note": "Sub-item \"Time to Get Tax-Savvy: Managing Your Tax Burden\" under \"Education\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Contact Us",
-        "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://focalpointfinancialservices-31030802.brprodaccount.com/location",
-        "migratedPath": "/location"
-      }
-    ],
-    "liveSummary": {
-      "totalSourceItems": 39,
-      "totalMigratedItems": 19,
-      "missing": 13,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 1,
-      "ok": 25
+      "structureChanges": 0,
+      "ok": 0,
+      "totalBrItems": 20
+    },
+    "liveIssues": [],
+    "liveSummary": {
+      "totalSourceItems": 0,
+      "totalMigratedItems": 0,
+      "missing": 0,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
       "originalIdentity": {
-        "pageTitle": "Focal Point Financial Services",
+        "pageTitle": "Under Construction",
         "companyNames": [
-          "Focal Point Financial Services"
+          "We're sorry...",
+          "Under Construction"
         ],
-        "phoneNumbers": [
-          "6514267375",
-          "6514266004"
-        ],
-        "emailAddresses": [
-          "jason@focalpointfinancial.com"
-        ],
+        "phoneNumbers": [],
+        "emailAddresses": [],
         "physicalAddresses": [],
         "personNames": [],
-        "footerText": "The information being provided is strictly as a courtesy. When you link to any of the websites provided here, you are leaving this website. We make no representation as to the completeness or accuracy of information provided at these websites. The company is not liable for any direct or indirect technical or system issues or any consequences arising out of your access to or your use of third-party technologies, websites, information, and programs made available through this website. When you access one of these websites, you are leaving our web site and assume total responsibility and risk for your use of the websites you are linking to. Site Map"
+        "footerText": ""
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.focalpointfinancialservices.com",
-        "companyNames": [],
-        "phoneNumbers": [
-          "6514267375",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "jason@focalpointfinancial.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "The information being provided is strictly as a courtesy. When you link to any of the websites provided here, you are leaving this website. We make no representation as to the completeness or accuracy of information provided at these websites. The company is not liable for any direct or indirect technical or system issues or any consequences arising out of your access to or your use of third-party technologies, websites, information, and programs made available through this website. When you access one of these websites, you are leaving our web site and assume total responsibility and risk for your use of the websites you are linking to."
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(651) 426-7375, (651) 426-6004",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://focalpointfinancialservices-31030802.brprodaccount.com/",
@@ -961,6 +187,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on focalpointfinancialservices-31030802.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 10,
+        "severity": "ok"
       }
     }
   }

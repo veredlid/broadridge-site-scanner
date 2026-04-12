@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.ssgretirement.com",
     "migratedDomain": "https://ssgretirement-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:52:15.221Z",
+    "capturedAt": "2026-04-12T08:43:42.220Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -81,8 +81,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.ssgretirement.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our SSG Process",
@@ -114,8 +114,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.ssgretirement.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -157,8 +157,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.ssgretirement.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
@@ -435,13 +435,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://ssgretirement-31030754.brprodaccount.com/our-ssg-process1",
         "migratedPath": "/our-ssg-process1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-ssg-process1",
         "subIssues": [
           {
             "kind": "ok",
@@ -484,13 +483,12 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://ssgretirement-31030754.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -551,7 +549,7 @@
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -570,9 +568,9 @@
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 12
+      "ok": 14
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -583,91 +581,15 @@
           "SSG Retirement"
         ],
         "phoneNumbers": [
-          "(949) 429-4282",
-          "(949) 544-0179"
+          "9494294282",
+          "9495440179"
         ],
         "emailAddresses": [
           "info@ssgfs.com"
         ],
         "physicalAddresses": [],
-        "personNames": [
-          "Insurance Services",
-          "Retirement Planning",
-          "Help You",
-          "Reach Your",
-          "Secure Strategic",
-          "Goals \n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact",
-          "Enterprise \n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tAliso",
-          "Home\n          \n          About",
-          "Us\n           \n            Our",
-          "Process\n            Our",
-          "Founder\n            Our",
-          "Services\n            Our",
-          "Location\n            Tell",
-          "Friend\n            \n           \n          \n          Resources",
-          "Articles\n            Calculators",
-          "Flipbooks\n            Newsletters",
-          "Glossary\n            Tax",
-          "Library\n            Videos",
-          "Request A Quote",
-          "Annuity \n            Long",
-          "Term Care",
-          "Insurance  \n            Group",
-          "Health \n            Life",
-          "Insurance  \n            Individual",
-          "Health \n            Disability",
-          "Income Insurance",
-          "Information Request",
-          "Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFuture",
-          "Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity",
-          "Goals \n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tFinancial",
-          "Goals \n\t\t\n\t\t\t\t\t\tDoesn",
-          "Financial Wellness",
-          "Stress Test",
-          "Performance Analysisof",
-          "Retirement Plan",
-          "An Alternative",
-          "Haphazard Retirement",
-          "Strategic Goals",
-          "Uncle Sam",
-          "System Can",
-          "Big Mistakes",
-          "Your Wealth",
-          "Opinion Consultation",
-          "Solutions Financial",
-          "Neither Lifetime",
-          "Proud Members",
-          "International Association",
-          "Registered Financial",
-          "The Better",
-          "Business Bureau",
-          "Rated          \n       Please",
-          "Insurance License",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tConvertible",
-          "Bonds Straddle",
-          "Line Between",
-          "Fixed Income",
-          "Potential Growth",
-          "Playing Fair",
-          "New Consumer",
-          "Airline Passengers",
-          "Keeping Cool",
-          "Volatile Markets",
-          "The Iran",
-          "Your Portfolio",
-          "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Savings",
-          "Accumulation\n          \n        \n        Estimate",
-          "Waiting\n          \n        \n        Estimate",
-          "Self Insurance",
-          "Estate Taxes",
-          "More Calculators",
-          "Investment Advisory",
-          "Registered Investment",
-          "Privacy Policy",
-          "Site Map"
-        ],
-        "footerText": "Investment Advisory Services offered through LIFETIME FINANCIAL INC, a Registered Investment Advisor. Insurance and other financial products are sold separately through SSG Solutions Financial & Insurance Services LLC. Neither Lifetime Financial, Inc nor SSG Solutions FIS LLC, provide any specific tax or legal advice. For specific recommendations please consult with a qualified, licensed tax or legal advisor as only guidance is provided in these areas. Past performance is no guarantee of future "
+        "personNames": [],
+        "footerText": "Investment Advisory Services offered through LIFETIME FINANCIAL INC, a Registered Investment Advisor. Insurance and other financial products are sold separately through SSG Solutions Financial & Insurance Services LLC. Neither Lifetime Financial, Inc nor SSG Solutions FIS LLC, provide any specific tax or legal advice. For specific recommendations please consult with a qualified, licensed tax or legal advisor as only guidance is provided in these areas. Past performance is no guarantee of future results and your results can and will vary. Investments are subject to risk, including market and interest rate fluctuations. Investors can and do lose money and unless otherwise noted investments are not guaranteed. Information provided is for educational purposes only and is not intended for the sale or purchase of any specific securities product, service or investment strategy. BE SURE TO FIRST CONSULT WITH A QUALIFIED FINANCIAL ADVISER, TAX PROFESSIONAL, OR ATTORNEY BEFORE IMPLEMENTING ANY S"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.ssgretirement.com",
@@ -694,13 +616,6 @@
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Insurance Services, Retirement Planning, Help You, Reach Your, Secure Strategic, Goals \n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, Enterprise \n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tAliso, Home\n          \n          About, Us\n           \n            Our, Process\n            Our, Founder\n            Our, Services\n            Our, Location\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFuture, Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity, Goals \n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tFinancial, Goals \n\t\t\n\t\t\t\t\t\tDoesn, Financial Wellness, Stress Test, Performance Analysisof, Retirement Plan, An Alternative, Haphazard Retirement, Strategic Goals, Uncle Sam, System Can, Big Mistakes, Your Wealth, Opinion Consultation, Solutions Financial, Neither Lifetime, Proud Members, International Association, Registered Financial, The Better, Business Bureau, Rated          \n       Please, Insurance License, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tConvertible, Bonds Straddle, Line Between, Fixed Income, Potential Growth, Playing Fair, New Consumer, Airline Passengers, Keeping Cool, Volatile Markets, The Iran, Your Portfolio, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Savings, Accumulation\n          \n        \n        Estimate, Waiting\n          \n        \n        Estimate, Self Insurance, Estate Taxes, More Calculators, Investment Advisory, Registered Investment, Privacy Policy, Site Map",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
     },
@@ -718,6 +633,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on ssgretirement-31030754.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 24,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

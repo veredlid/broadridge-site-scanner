@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.rodadkins.com",
     "migratedDomain": "https://rodadkins-31030755.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:24:01.754Z",
+    "capturedAt": "2026-04-12T08:37:43.391Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -575,6 +575,140 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on rodadkins-31030755.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "Content7",
+            "src": "/files/14167/6-7-06 sue and i in our backyard.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/6-7-06 sue and i in our backyard.jpg\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/14167/Sound Doctrine Band.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Sound Doctrine Band.JPG\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/14167/Chuck Starnes Bedrock.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Chuck Starnes Bedrock.JPG\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/14167/Injoying festivities.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Injoying festivities.JPG\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/14167/Steve Clark.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Steve Clark.JPG\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/14167/Jerry Karen Cooper.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Jerry Karen Cooper.JPG\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/14167/Ken Bortz.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Ken Bortz.JPG\""
+          },
+          {
+            "fieldName": "Directions",
+            "src": "/files/14167/6-15-06 wc downtown west.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/6-15-06 wc downtown west.jpg\""
+          },
+          {
+            "fieldName": "Directions",
+            "src": "/files/14167/6-15-06 wc downtown west.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/6-15-06 wc downtown west.jpg\""
+          },
+          {
+            "fieldName": "2010 Year in Review",
+            "src": "/files/14167/6-7-06 sue and i in our backyard.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/6-7-06 sue and i in our backyard.jpg\""
+          },
+          {
+            "fieldName": "Festival",
+            "src": "/files/14167/Sound Doctrine Band.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Sound Doctrine Band.JPG\""
+          },
+          {
+            "fieldName": "Festival",
+            "src": "/files/14167/Chuck Starnes Bedrock.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Chuck Starnes Bedrock.JPG\""
+          },
+          {
+            "fieldName": "Festival",
+            "src": "/files/14167/Injoying festivities.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Injoying festivities.JPG\""
+          },
+          {
+            "fieldName": "Festival",
+            "src": "/files/14167/Steve Clark.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Steve Clark.JPG\""
+          },
+          {
+            "fieldName": "Festival",
+            "src": "/files/14167/Jerry Karen Cooper.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Jerry Karen Cooper.JPG\""
+          },
+          {
+            "fieldName": "Festival",
+            "src": "/files/14167/Ken Bortz.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/14167/Ken Bortz.JPG\""
+          }
+        ],
+        "totalImages": 17,
+        "severity": "critical"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

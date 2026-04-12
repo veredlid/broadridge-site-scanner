@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.dencoconsultants.com",
     "migratedDomain": "https://dencoconsultants-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:15:06.684Z",
+    "capturedAt": "2026-04-12T08:31:19.529Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -242,424 +242,63 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://dencoconsultants-31030803.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://dencoconsultants-31030803.brprodaccount.com/our-mission-statement1",
-        "path": "/our-mission-statement1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Our Firm",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/our-qualifications4",
-            "path": "/our-qualifications4"
-          },
-          {
-            "text": "Group Insurance",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/group-insurance5",
-            "path": "/group-insurance5"
-          },
-          {
-            "text": "Individual and Family Coverage",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/individual-and-family-coverage6",
-            "path": "/individual-and-family-coverage6"
-          },
-          {
-            "text": "No Cost HR Library",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/no-cost-hr-library7",
-            "path": "/no-cost-hr-library7"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://dencoconsultants-31030803.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://dencoconsultants-31030803.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://dencoconsultants-31030803.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Group Insurance",
-            "brHref": "/Group-Insurance.5.htm",
-            "migratedText": "Group Insurance",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/group-insurance5",
-            "migratedPath": "/group-insurance5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Individual and Family Coverage",
-            "brHref": "/Individual-and-Family-Coverage.6.htm",
-            "migratedText": "Individual and Family Coverage",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/individual-and-family-coverage6",
-            "migratedPath": "/individual-and-family-coverage6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "No Cost HR Library",
-            "brHref": "/No-Cost-HR-Library.7.htm",
-            "migratedText": "No Cost HR Library",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/no-cost-hr-library7",
-            "migratedPath": "/no-cost-hr-library7"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 18,
-      "totalMigratedItems": 18,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 16,
+      "ok": 0,
       "totalBrItems": 18
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Group Insurance",
-            "brHref": "/Group-Insurance.5.htm",
-            "migratedText": "Group Insurance",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/group-insurance5",
-            "migratedPath": "/group-insurance5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Individual and Family Coverage",
-            "brHref": "/Individual-and-Family-Coverage.6.htm",
-            "migratedText": "Individual and Family Coverage",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/individual-and-family-coverage6",
-            "migratedPath": "/individual-and-family-coverage6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "No Cost HR Library",
-            "brHref": "/No-Cost-HR-Library.7.htm",
-            "migratedText": "No Cost HR Library",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/no-cost-hr-library7",
-            "migratedPath": "/no-cost-hr-library7"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -668,24 +307,22 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://dencoconsultants-31030803.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 28,
-      "totalMigratedItems": 18,
-      "missing": 3,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 18
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -706,41 +343,17 @@
         "personNames": [],
         "footerText": "DenCo Consultants is not licensed to sell securities. This information is for informational purposes only. Site Map"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.dencoconsultants.com",
-        "companyNames": [
-          "DenCo Consultants"
-        ],
-        "phoneNumbers": [
-          "3037798188",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "doug@dencoconsultants.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "DenCo Consultants is not licensed to sell securities. This information is for informational purposes only."
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(303) 779-8188, (303) 773-0820",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://dencoconsultants-31030803.brprodaccount.com/",
@@ -748,6 +361,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on dencoconsultants-31030803.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 12,
+        "severity": "ok"
       }
     }
   }

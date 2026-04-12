@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "trust.cnb.bank",
     "migratedDomain": "https://trustcnb-31030809.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:07:47.522Z",
+    "capturedAt": "2026-04-12T08:26:35.628Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -185,402 +185,117 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://trustcnb-31030809.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://trustcnb-31030809.brprodaccount.com/our-team",
-        "path": "/our-team",
-        "subItems": [
-          {
-            "text": "Meet Our Team",
-            "href": "https://trustcnb-31030809.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Our Mission Statement",
-            "href": "https://trustcnb-31030809.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Firm",
-            "href": "https://trustcnb-31030809.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Our Services",
-        "href": "https://trustcnb-31030809.brprodaccount.com/our-services3",
-        "path": "/our-services3",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Resources",
-        "href": "https://trustcnb-31030809.brprodaccount.com/videos",
-        "path": "/videos",
-        "subItems": [
-          {
-            "text": "Videos",
-            "href": "https://trustcnb-31030809.brprodaccount.com/videos",
-            "path": "/videos"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://trustcnb-31030809.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://trustcnb-31030809.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Articles",
-            "href": "https://trustcnb-31030809.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://trustcnb-31030809.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://trustcnb-31030809.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://trustcnb-31030809.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Account Login",
-        "href": "https://login2.fisglobal.com/idp/0397a/?ClientID=palui",
-        "path": "/idp/0397a",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "CNB Bank",
-        "href": "https://www.cnb.bank/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Meet Our Team",
-            "brHref": "/team.htm",
-            "migratedText": "Meet Our Team",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Services",
         "brHref": "/Our-Services.3.htm",
-        "migratedText": "Our Services",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-services3",
-        "migratedPath": "/our-services3"
+        "note": "\"Our Services\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/videos",
-        "migratedPath": "/videos",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /videos",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Account Login",
         "brHref": "/https://login2.fisglobal.com/idp/0397a/?ClientID=palui",
-        "migratedText": "Account Login",
-        "migratedHref": "https://login2.fisglobal.com/idp/0397a/?ClientID=palui",
-        "migratedPath": "/idp/0397a"
+        "note": "\"Account Login\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "CNB Bank",
         "brHref": "/https://www.cnb.bank/",
-        "migratedText": "CNB Bank",
-        "migratedHref": "https://www.cnb.bank/",
-        "migratedPath": "/"
+        "note": "\"CNB Bank\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 16,
-      "totalMigratedItems": 16,
-      "missing": 0,
-      "extra": 0,
-      "brokenLinks": 0,
-      "duplicates": 0,
-      "hrefMismatches": 2,
-      "structureChanges": 0,
-      "ok": 14,
-      "totalBrItems": 16
-    },
-    "liveIssues": [
-      {
-        "kind": "ok",
-        "brTitle": "Home",
-        "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/",
-        "migratedPath": "/"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "About Us",
-        "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Meet Our Team",
-            "brHref": "/team.htm",
-            "migratedText": "Meet Our Team",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Our Services",
-        "brHref": "/Our-Services.3.htm",
-        "migratedText": "Our Services",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/our-services3",
-        "migratedPath": "/our-services3"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Resources",
-        "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/videos",
-        "migratedPath": "/videos",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://trustcnb-31030809.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Contact Us",
-        "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://trustcnb-31030809.brprodaccount.com/location",
-        "migratedPath": "/location"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Account Login",
-        "brHref": "/idp/0397a",
-        "migratedText": "Account Login",
-        "migratedHref": "https://login2.fisglobal.com/idp/0397a/?ClientID=palui",
-        "migratedPath": "/idp/0397a"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "CNB Bank",
-        "brHref": "/",
-        "migratedText": "CNB Bank",
-        "migratedHref": "https://www.cnb.bank/",
-        "migratedPath": "/"
-      }
-    ],
-    "liveSummary": {
-      "totalSourceItems": 17,
-      "totalMigratedItems": 16,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 7,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 16
+      "ok": 0,
+      "totalBrItems": 16
+    },
+    "liveIssues": [
+      {
+        "kind": "missing",
+        "brTitle": "Home",
+        "brHref": "/",
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Services",
+        "brHref": "/Our-Services.3.htm",
+        "note": "\"Our Services\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Account Login",
+        "brHref": "/idp/0397a",
+        "note": "\"Account Login\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "CNB Bank",
+        "brHref": "/",
+        "note": "\"CNB Bank\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 0,
+      "missing": 7,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -600,40 +315,17 @@
         "personNames": [],
         "footerText": "*Not Insured by FDIC or any Federal Government Agency. Subject to Investment Risk, May Lose Principal Amount. Not a Deposit of or Guaranteed by the Bank or any Bank Affiliate. Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | trust.cnb.bank",
-        "companyNames": [
-          "CNB Trust"
-        ],
-        "phoneNumbers": [
-          "4111569",
-          "3042587360",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "ceverett@cnb.bank"
-        ],
-        "physicalAddresses": [],
-        "personNames": [],
-        "footerText": "*Not Insured by FDIC or any Federal Government Agency. Subject to Investment Risk, May Lose Principal Amount. Not a Deposit of or Guaranteed by the Bank or any Bank Affiliate."
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "4111569, (304) 258-7360",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://trustcnb-31030809.brprodaccount.com/",
@@ -641,6 +333,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on trustcnb-31030809.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 27,
+        "severity": "ok"
       }
     }
   }

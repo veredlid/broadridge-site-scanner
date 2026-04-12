@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.finewealthmanagement.com",
     "migratedDomain": "https://finewealthmanagement-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:18:06.102Z",
+    "capturedAt": "2026-04-12T08:33:15.049Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -172,381 +172,81 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://finewealthmanagement-31030802.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://finewealthmanagement-31030802.brprodaccount.com/our-mission-statement1",
-        "path": "/our-mission-statement1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Our Firm",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Dedication",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/our-dedication4",
-            "path": "/our-dedication4"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://finewealthmanagement-31030802.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://finewealthmanagement-31030802.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://finewealthmanagement-31030802.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Dedication",
-            "brHref": "/Our-Dedication.4.htm",
-            "migratedText": "Our Dedication",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-dedication4",
-            "migratedPath": "/our-dedication4"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 15,
-      "totalMigratedItems": 15,
-      "missing": 0,
-      "extra": 0,
-      "brokenLinks": 0,
-      "duplicates": 0,
-      "hrefMismatches": 2,
-      "structureChanges": 0,
-      "ok": 13,
-      "totalBrItems": 15
-    },
-    "liveIssues": [
-      {
-        "kind": "ok",
-        "brTitle": "Home",
-        "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/",
-        "migratedPath": "/"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "About Us",
-        "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Dedication",
-            "brHref": "/Our-Dedication.4.htm",
-            "migratedText": "Our Dedication",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/our-dedication4",
-            "migratedPath": "/our-dedication4"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Resources",
-        "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Contact Us",
-        "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://finewealthmanagement-31030802.brprodaccount.com/location",
-        "migratedPath": "/location"
-      }
-    ],
-    "liveSummary": {
-      "totalSourceItems": 17,
-      "totalMigratedItems": 15,
-      "missing": 2,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 15
+      "ok": 0,
+      "totalBrItems": 15
+    },
+    "liveIssues": [
+      {
+        "kind": "missing",
+        "brTitle": "Home",
+        "brHref": "/",
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 17,
+      "totalMigratedItems": 0,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -568,50 +268,17 @@
         "personNames": [],
         "footerText": "Site Map"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.finewealthmanagement.com",
-        "companyNames": [
-          "Fine Wealth Management"
-        ],
-        "phoneNumbers": [
-          "5615692288",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "comments@finewealthmanagement.com"
-        ],
-        "physicalAddresses": [
-          "433 Plaza Real\n\n\n\n\nSuite 275\n\n\n\n\nBoca Raton\n\n"
-        ],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": ""
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(561) 569-2288, (716) 242-0427",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "address",
-          "originalValue": "433 Plaza Real\nSuite 275\nBoca Raton, FL 33432",
-          "migratedValue": "433 Plaza Real\n\n\n\n\nSuite 275\n\n\n\n\nBoca Raton\n\n",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://finewealthmanagement-31030802.brprodaccount.com/",
@@ -619,6 +286,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on finewealthmanagement-31030802.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 10,
+        "severity": "ok"
       }
     }
   }

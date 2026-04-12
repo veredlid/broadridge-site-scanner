@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.empbenguy.com",
     "migratedDomain": "https://empbenguy-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:41:12.211Z",
+    "capturedAt": "2026-04-12T08:41:42.005Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -106,255 +106,93 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://empbenguy-31030803.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Home",
-        "href": "https://empbenguy-31030803.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://empbenguy-31030803.brprodaccount.com/about-us1",
-        "path": "/about-us1",
-        "subItems": [
-          {
-            "text": "About Us",
-            "href": "https://empbenguy-31030803.brprodaccount.com/about-us1",
-            "path": "/about-us1"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://empbenguy-31030803.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Products",
-            "href": "https://empbenguy-31030803.brprodaccount.com/products8",
-            "path": "/products8"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://empbenguy-31030803.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Your Role",
-            "href": "https://empbenguy-31030803.brprodaccount.com/your-role4",
-            "path": "/your-role4"
-          },
-          {
-            "text": "Education Center",
-            "href": "https://empbenguy-31030803.brprodaccount.com/education-center5",
-            "path": "/education-center5"
-          },
-          {
-            "text": "Business Solutions",
-            "href": "https://empbenguy-31030803.brprodaccount.com/business-solutions6",
-            "path": "/business-solutions6"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/about-us1",
-        "migratedPath": "/about-us1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /about-us1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "About Us",
-            "brHref": "/About-Us.1.htm",
-            "migratedText": "About Us",
-            "migratedHref": "https://empbenguy-31030803.brprodaccount.com/about-us1",
-            "migratedPath": "/about-us1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://empbenguy-31030803.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Products",
-            "brHref": "/Products.8.htm",
-            "migratedText": "Products",
-            "migratedHref": "https://empbenguy-31030803.brprodaccount.com/products8",
-            "migratedPath": "/products8"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://empbenguy-31030803.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Your Role",
-            "brHref": "/Your-Role.4.htm",
-            "migratedText": "Your Role",
-            "migratedHref": "https://empbenguy-31030803.brprodaccount.com/your-role4",
-            "migratedPath": "/your-role4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Education Center",
-            "brHref": "/Education-Center.5.htm",
-            "migratedText": "Education Center",
-            "migratedHref": "https://empbenguy-31030803.brprodaccount.com/education-center5",
-            "migratedPath": "/education-center5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business Solutions",
-            "brHref": "/Business-Solutions.6.htm",
-            "migratedText": "Business Solutions",
-            "migratedHref": "https://empbenguy-31030803.brprodaccount.com/business-solutions6",
-            "migratedPath": "/business-solutions6"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 9,
-      "totalMigratedItems": 10,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 2,
       "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
-      "hrefMismatches": 1,
+      "duplicates": 0,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 8,
+      "ok": 0,
       "totalBrItems": 9
     },
     "liveIssues": [
       {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/index.cfm",
-        "migratedText": "Home",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/About-Us.1.htm",
-        "migratedText": "About Us",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/about-us1",
-        "migratedPath": "/about-us1",
-        "note": "\"About Us\" has no sub-items in the original live site but has 7 sub-items in migrated"
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Our Location",
         "brHref": "/location.cfm",
-        "migratedText": "Our Location",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "note": "\"Our Location\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Our Location\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Products",
         "brHref": "/Products.8.htm",
-        "migratedText": "Products",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/products8",
-        "migratedPath": "/products8",
-        "note": "\"Products\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Products\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Our Services",
         "brHref": "/Our-Services.3.htm",
-        "migratedText": "Our Services",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/our-services3",
-        "migratedPath": "/our-services3",
-        "note": "\"Our Services\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Our Services\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Your Role",
         "brHref": "/Your-Role.4.htm",
-        "migratedText": "Your Role",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/your-role4",
-        "migratedPath": "/your-role4",
-        "note": "\"Your Role\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Your Role\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Education Center",
         "brHref": "/Education-Center.5.htm",
-        "migratedText": "Education Center",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/education-center5",
-        "migratedPath": "/education-center5",
-        "note": "\"Education Center\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Education Center\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/resources.cfm",
         "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Business Solutions",
-        "migratedHref": "https://empbenguy-31030803.brprodaccount.com/business-solutions6",
-        "migratedPath": "/business-solutions6",
-        "note": "\"Business Solutions\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 8,
-      "totalMigratedItems": 10,
-      "missing": 1,
-      "extra": 1,
+      "totalMigratedItems": 0,
+      "missing": 8,
+      "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
+      "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 6,
-      "ok": 1
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -364,83 +202,31 @@
           "EMPLOYEE BENEFITS BROKERAGE SERVICE  RETIREMENT BENEFITS BROKERAGE SERVICE"
         ],
         "phoneNumbers": [
-          "(973) 586-1434",
-          "(973) 983-9796"
+          "9735861434",
+          "9739839796"
         ],
         "emailAddresses": [
           "roland@empbenguy.com"
         ],
         "physicalAddresses": [
-          "148 Franklin Rd.Denville,  NJ 07834"
+          "148 Franklin Rd.\nDenville, NJ 07834"
         ],
         "personNames": [
-          "Contact Info",
-          "Home\n          \n                About",
-          "Us\n              \n                  Our",
-          "Location\n                \n                Products",
-          "Our Services",
-          "Your Role",
-          "Education Center",
-          "Resources\n          \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n    \n       \n      Providing",
-          "Roland J. Basinski",
-          "Additional Pages",
-          "Business Solutions",
-          "Site Map"
+          "Roland J. Basinski"
         ],
         "footerText": "Site Map"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.empbenguy.com",
-        "companyNames": [
-          "EMPLOYEE BENEFITS BROKERAGE SERVICE  RETIREMENT BENEFITS BROKERAGE SERVICE"
-        ],
-        "phoneNumbers": [
-          "9735861434",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "roland@empbenguy.com"
-        ],
-        "physicalAddresses": [
-          "148 Franklin Rd.\n\n\n\n\nDenville\n\n"
-        ],
-        "personNames": [
-          "Neil H. Resnik",
-          "Roland J. Basinski"
-        ],
-        "footerText": ""
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(973) 586-1434, (973) 983-9796",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Contact Info, Home\n          \n                About, Us\n              \n                  Our, Location\n                \n                Products, Our Services, Your Role, Education Center, Resources\n          \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n    \n       \n      Providing, Roland J. Basinski, Additional Pages, Business Solutions, Site Map",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
-        },
-        {
-          "field": "address",
-          "originalValue": "148 Franklin Rd.Denville,  NJ 07834",
-          "migratedValue": "148 Franklin Rd.\n\n\n\n\nDenville\n\n",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://empbenguy-31030803.brprodaccount.com/",
@@ -448,6 +234,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on empbenguy-31030803.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 20,
+        "severity": "ok"
       }
     }
   }

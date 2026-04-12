@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.afgplanning.com",
     "migratedDomain": "https://afgplanning-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:29:10.859Z",
+    "capturedAt": "2026-04-12T08:39:35.670Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -133,8 +133,8 @@
       },
       {
         "text": "Tools",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.afgplanning.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -187,406 +187,105 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://afgplanning-31030807.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "How We Help",
-        "href": "https://afgplanning-31030807.brprodaccount.com/how-we-help5",
-        "path": "/how-we-help5",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Retirement Plan Services",
-        "href": "https://afgplanning-31030807.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Retirement Plans We Service",
-            "href": "https://afgplanning-31030807.brprodaccount.com/retirement-plans-we-service8",
-            "path": "/retirement-plans-we-service8"
-          },
-          {
-            "text": "Plan Management",
-            "href": "https://afgplanning-31030807.brprodaccount.com/plan-management9",
-            "path": "/plan-management9"
-          },
-          {
-            "text": "Investment Services",
-            "href": "https://afgplanning-31030807.brprodaccount.com/investment-services10",
-            "path": "/investment-services10"
-          },
-          {
-            "text": "Participant Services",
-            "href": "https://afgplanning-31030807.brprodaccount.com/participant-services11",
-            "path": "/participant-services11"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Wealth Management",
-        "href": "https://afgplanning-31030807.brprodaccount.com/wealth-management12",
-        "path": "/wealth-management12",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Tools",
-        "href": "https://afgplanning-31030807.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://afgplanning-31030807.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Videos",
-            "href": "https://afgplanning-31030807.brprodaccount.com/videos",
-            "path": "/videos"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://afgplanning-31030807.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://afgplanning-31030807.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://afgplanning-31030807.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://afgplanning-31030807.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://afgplanning-31030807.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "How We Help",
         "brHref": "/How-We-Help.5.htm",
-        "migratedText": "How We Help",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/how-we-help5",
-        "migratedPath": "/how-we-help5"
+        "note": "\"How We Help\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Retirement Plan Services",
         "brHref": "/javascript:void(0);",
-        "migratedText": "Retirement Plan Services",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Retirement Plans We Service",
-            "brHref": "/Retirement-Plans-We-Service.8.htm",
-            "migratedText": "Retirement Plans We Service",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/retirement-plans-we-service8",
-            "migratedPath": "/retirement-plans-we-service8"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Plan Management",
-            "brHref": "/Plan-Management.9.htm",
-            "migratedText": "Plan Management",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/plan-management9",
-            "migratedPath": "/plan-management9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Investment Services",
-            "brHref": "/Investment-Services.10.htm",
-            "migratedText": "Investment Services",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/investment-services10",
-            "migratedPath": "/investment-services10"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Participant Services",
-            "brHref": "/Participant-Services.11.htm",
-            "migratedText": "Participant Services",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/participant-services11",
-            "migratedPath": "/participant-services11"
-          }
-        ]
+        "note": "\"Retirement Plan Services\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Wealth Management",
         "brHref": "/Wealth-Management.12.htm",
-        "migratedText": "Wealth Management",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/wealth-management12",
-        "migratedPath": "/wealth-management12"
+        "note": "\"Wealth Management\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Tools",
         "brHref": "/#",
-        "migratedText": "Tools",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Tools\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          }
-        ]
+        "note": "\"Tools\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 16,
-      "totalMigratedItems": 16,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 6,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 1,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 15,
+      "ok": 0,
       "totalBrItems": 16
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "How We Help",
         "brHref": "/How-We-Help.5.htm",
-        "migratedText": "How We Help",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/how-we-help5",
-        "migratedPath": "/how-we-help5"
+        "note": "\"How We Help\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Retirement Plan Services",
         "brHref": "void(0);",
-        "migratedText": "Retirement Plan Services",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Retirement Plans We Service",
-            "brHref": "/Retirement-Plans-We-Service.8.htm",
-            "migratedText": "Retirement Plans We Service",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/retirement-plans-we-service8",
-            "migratedPath": "/retirement-plans-we-service8"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Plan Management",
-            "brHref": "/Plan-Management.9.htm",
-            "migratedText": "Plan Management",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/plan-management9",
-            "migratedPath": "/plan-management9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Investment Services",
-            "brHref": "/Investment-Services.10.htm",
-            "migratedText": "Investment Services",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/investment-services10",
-            "migratedPath": "/investment-services10"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Participant Services",
-            "brHref": "/Participant-Services.11.htm",
-            "migratedText": "Participant Services",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/participant-services11",
-            "migratedPath": "/participant-services11"
-          }
-        ]
+        "note": "\"Retirement Plan Services\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Wealth Management",
         "brHref": "/Wealth-Management.12.htm",
-        "migratedText": "Wealth Management",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/wealth-management12",
-        "migratedPath": "/wealth-management12"
+        "note": "\"Wealth Management\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Tools",
-        "brHref": "/#",
-        "migratedText": "Tools",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Tools\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Tools\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://afgplanning-31030807.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"Tools\" is missing in migrated"
-          }
-        ]
+        "brHref": "/",
+        "note": "\"Tools\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://afgplanning-31030807.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 18,
-      "totalMigratedItems": 16,
-      "missing": 2,
+      "totalMigratedItems": 0,
+      "missing": 6,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 1,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 15
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -596,69 +295,23 @@
           "Atlas Fiduciary Services, Inc.",
           "Atlas Financial Group LLC"
         ],
-        "phoneNumbers": [
-          "(844) 637-4015",
-          "(603) 737-0319"
-        ],
-        "emailAddresses": [
-          "jheise@afscentral.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Home\n          \n          How",
-          "Services\n          Wealth",
-          "Flipbooks\n            \n            Glossary",
-          "Friend\n            \n           \n          \n          \n          \n          Contact",
-          "Atlas Fiduciary",
-          "State Street",
-          "Retirement Plan",
-          "Learn More",
-          "Our Dedicated",
-          "Individual Wealth",
-          "Advisory Group",
-          "Closer Look",
-          "Target Date",
-          "More Videos",
-          "Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tNewsletters",
-          "Consider Munis",
-          "Free Income",
-          "The Fed",
-          "Lowers Rates",
-          "Economic Balancing",
-          "Life Insurance",
-          "Two \n\t\t\t\t\n\t\t\t\tSurvivorship",
-          "Key Retirement",
-          "Tax Numbers",
-          "More Newsletters",
-          "Certified Financial",
-          "Planner Board",
-          "Standards Inc",
-          "Registered Investment",
-          "John R Heise",
-          "Investment Advisor",
-          "Site Map",
-          "To Top"
-        ],
-        "footerText": "Certified Financial Planner Board of Standards Inc. owns the certification marks CFP®, CERTIFIED FINANCIAL PLANNER™ and  in the U.S., which it awards to individuals who successfully complete CFP Board’s initial and ongoing certification requirements.Investment advisory services through Atlas Fiduciary Services, Inc., a Registered Investment Adviser.  John R Heise, Investment Advisor Representative.  \n\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSite Map\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n"
-      },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.afgplanning.com",
-        "companyNames": [],
         "phoneNumbers": [],
         "emailAddresses": [],
         "physicalAddresses": [],
         "personNames": [],
-        "footerText": "Certified Financial Planner Board of Standards Inc. owns the certification marks CFP®, CERTIFIED FINANCIAL PLANNER™ and in the U.S., which it awards to individuals who successfully complete CFP Board’s initial and ongoing certification requirements.Investment advisory services through Atlas Fiduciary Services, Inc., a Registered Investment Adviser. John R Heise, Investment Advisor Representative."
+        "footerText": "Certified Financial Planner Board of Standards Inc. owns the certification marks CFP®, CERTIFIED FINANCIAL PLANNER™ and in the U.S., which it awards to individuals who successfully complete CFP Board’s initial and ongoing certification requirements.Investment advisory services through Atlas Fiduciary Services, Inc., a Registered Investment Adviser. John R Heise, Investment Advisor Representative. Site Map Back To Top"
       },
-      "mismatches": []
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://afgplanning-31030807.brprodaccount.com/",
@@ -666,6 +319,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on afgplanning-31030807.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 46,
+        "severity": "ok"
       }
     }
   }

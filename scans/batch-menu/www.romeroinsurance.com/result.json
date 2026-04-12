@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.romeroinsurance.com",
     "migratedDomain": "https://romeroinsurance-31030755.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:50:39.273Z",
+    "capturedAt": "2026-04-12T08:43:14.288Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -85,8 +85,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.romeroinsurance.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our Mission Statement",
@@ -123,8 +123,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.romeroinsurance.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -166,8 +166,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.romeroinsurance.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
@@ -215,421 +215,87 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://romeroinsurance-31030755.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://romeroinsurance-31030755.brprodaccount.com/our-mission-statement1",
-        "path": "/our-mission-statement1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Associates",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/our-qualifications4",
-            "path": "/our-qualifications4"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://romeroinsurance-31030755.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://romeroinsurance-31030755.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://romeroinsurance-31030755.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "migratedText": "Our Associates",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
-        "migratedPath": "/location"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "Our Location",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "httpStatus": 502,
-        "note": "\"Our Location\" → HTTP 502 (https://romeroinsurance-31030755.brprodaccount.com/location)"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "httpStatus": 502,
-        "note": "\"Contact Us\" → HTTP 502 (https://romeroinsurance-31030755.brprodaccount.com/location)"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 15,
-      "totalMigratedItems": 15,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
-      "brokenLinks": 2,
+      "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 13,
+      "ok": 0,
       "totalBrItems": 15
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
-        "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "migratedText": "Our Associates",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
-        "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
-        "migratedPath": "/location"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "Our Location",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "httpStatus": 502,
-        "note": "\"Our Location\" → HTTP 502 (https://romeroinsurance-31030755.brprodaccount.com/location)"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://romeroinsurance-31030755.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "httpStatus": 502,
-        "note": "\"Contact Us\" → HTTP 502 (https://romeroinsurance-31030755.brprodaccount.com/location)"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 25,
-      "totalMigratedItems": 15,
-      "missing": 3,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
-      "brokenLinks": 2,
+      "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 13
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -640,140 +306,34 @@
           "Romero Insurance"
         ],
         "phoneNumbers": [
-          "(707) 431-3710",
-          "(707) 230-1170"
-        ],
-        "emailAddresses": [
-          "rromero@romeroinsurance.com"
-        ],
-        "physicalAddresses": [
-          "1336 Range Avenue\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tSanta Rosa,\n\t\t\t\t\n\t\t\t\t\tCA \n\t\t\t\t\t95401"
-        ],
-        "personNames": [
-          "Romero Financial",
-          "Insurance Services",
-          "Santa Rosa",
-          "Sonoma County",
-          "Bar Association",
-          "Home\n          \n          About",
-          "Us\n           \n            Our",
-          "Mission Statement",
-          "Our Associates",
-          "Our Location",
-          "Our Services",
-          "Our Qualifications",
-          "Tell A Friend",
-          "Resources\n           \n            Articles",
-          "Calculators\n            Flipbooks",
-          "Newsletters\n            Glossary",
-          "Tax Library",
-          "Videos\n           \n          \n          Request",
-          "Quote\n           \n            Annuity",
-          "Term Care",
-          "Insurance  \n            Group",
-          "Health \n            Life",
-          "Insurance  \n            Individual",
-          "Health \n            Disability",
-          "Income Insurance",
-          "Information Request",
-          "Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tFounded",
-          "Apply Online",
-          "Individual Health",
-          "Learning Center",
-          "How Savers",
-          "Spenders Can",
-          "New Tax",
-          "One Big",
-          "Beautiful Bill",
-          "Retroactive Social",
-          "Security Benefits",
-          "Turn Back",
-          "Time \n\t\t\t\t\n\t\t\t\tBeneficiaries",
-          "Social Security",
-          "Cash Balance",
-          "Plans Help",
-          "Some Business",
-          "Owners Supersize",
-          "Retirement Savings",
-          "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Roth",
-          "Conversion\n          \n        \n        This",
-          "Deferred Savings",
-          "Estate Taxes",
-          "Net Worth",
-          "More Calculators",
-          "Articles\n                Educate",
-          "Newsletters\n                Timely",
-          "Flipbooks\n                \n                  These",
-          "Glossary\n                  \n                  Financial",
-          "Principal Financial",
-          "Richard G. Romero",
-          "Principal National",
-          "Life Insurance",
-          "New York",
-          "Principal Life",
-          "Insurance Company",
-          "Preferred Product",
-          "Des Moines",
-          "Financial Representative",
-          "Site Map"
-        ],
-        "footerText": "JD is an educational degree and the holder does not provide legal services on behalf of the companies of the Principal Financial Group®.Richard G. Romero is licensed in California (Ins. Lic. #0467064) to offer life, disability, health and fixed annuities products.This site is not a solicitation of interest in any of these products in any other state.IMPORTANT CONSUMER INFORMATION: Richard G. Romero may only transact business in a particular state after licensure or satisfying qualifications requ"
-      },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.romeroinsurance.com",
-        "companyNames": [
-          "Romero Financial & Insurance Services"
-        ],
-        "phoneNumbers": [
           "7074313710",
-          "9723800097",
+          "7072301170",
           "0467064"
         ],
         "emailAddresses": [
           "rromero@romeroinsurance.com"
         ],
         "physicalAddresses": [
-          "6942 Cliff Ave.\n\n\n\n\nBodega Bay\n\n"
+          "1336 Range Avenue\nSanta Rosa, CA 95401"
         ],
         "personNames": [
-          "More Calculators",
+          "Lrning Center",
           "Principal National",
           "Richard G. Romero"
         ],
         "footerText": "JD is an educational degree and the holder does not provide legal services on behalf of the companies of the Principal Financial Group®.Richard G. Romero is licensed in California (Ins. Lic. #0467064) to offer life, disability, health and fixed annuities products.This site is not a solicitation of interest in any of these products in any other state.IMPORTANT CONSUMER INFORMATION: Richard G. Romero may only transact business in a particular state after licensure or satisfying qualifications requirements of that state, or only if they are excluded or exempted from the state's registration requirements.Insurance products from the Principal Financial Group® are issued by Principal National Life Insurance Company (except in New York), Principal Life Insurance Company and the companies available through the Preferred Product Network, Inc. Principal National, Principal Life and the Preferred Product Network are members of the Principal Financial Group®, Des Moines, IA 50392. Richard G. Romer"
       },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(707) 431-3710, (707) 230-1170",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "phone",
-          "originalValue": "(707) 431-3710, (707) 230-1170",
-          "migratedValue": "0467064",
-          "severity": "critical",
-          "note": "Phone \"0467064\" on migrated site not found on original"
-        },
-        {
-          "field": "address",
-          "originalValue": "1336 Range Avenue\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tSanta Rosa,\n\t\t\t\t\n\t\t\t\t\tCA \n\t\t\t\t\t95401",
-          "migratedValue": "6942 Cliff Ave.\n\n\n\n\nBodega Bay\n\n",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://romeroinsurance-31030755.brprodaccount.com/",
@@ -781,6 +341,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on romeroinsurance-31030755.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 8,
+        "severity": "ok"
       }
     }
   }

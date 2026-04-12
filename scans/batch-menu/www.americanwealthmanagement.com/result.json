@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.americanwealthmanagement.com",
     "migratedDomain": "https://americanwealthmanagement-31030806.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:10:39.805Z",
+    "capturedAt": "2026-04-12T08:28:18.837Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -316,628 +316,75 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://americanwealthmanagement-31030806.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://americanwealthmanagement-31030806.brprodaccount.com/the-firm1",
-        "path": "/the-firm1",
-        "subItems": [
-          {
-            "text": "The Firm",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/the-firm1",
-            "path": "/the-firm1"
-          },
-          {
-            "text": "Our Associates",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Affiliated Offices",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/affiliated-office",
-            "path": "/affiliated-office"
-          },
-          {
-            "text": "Headquarters",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Privacy Policy",
-            "href": "http://www.emeraldhost.net/files/15580/Privacy%20Act%205-2010.pdf",
-            "path": "/files/15580/Privacy%20Act%205-2010.pdf"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/our-services2",
-            "path": "/our-services2"
-          },
-          {
-            "text": "Institutional Investors",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/institutional-investors3",
-            "path": "/institutional-investors3"
-          },
-          {
-            "text": "Legal Disclaimer",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/legal-disclaimer6",
-            "path": "/legal-disclaimer6"
-          },
-          {
-            "text": "Business Continuity Plan",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/business-continuity-plan7",
-            "path": "/business-continuity-plan7"
-          },
-          {
-            "text": "Employment & Affiliation Opportunities",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/employment-affiliation-opportunities8",
-            "path": "/employment-affiliation-opportunities8"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/featured-links",
-            "path": "/featured-links"
-          },
-          {
-            "text": "Privacy Policy",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/privacy-policy5",
-            "path": "/privacy-policy5"
-          },
-          {
-            "text": "Hot Topics",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/pspan-stylecolorff0000hot-topicsspanp13",
-            "path": "/pspan-stylecolorff0000hot-topicsspanp13"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "2026 ADV",
-        "href": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "path": "/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "subItems": [
-          {
-            "text": "ADV",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-            "path": "/files/15580/AWM%20ADV%2010-1-25.pdf"
-          },
-          {
-            "text": "ADV Part IIA",
-            "href": "https://503c1eb9-d41a-4637-bc50-a5fe2d7b073f.usrfiles.com/ugd/4f907f_a4ab5131c8d1453da9797b898a99a20f.pdf",
-            "path": "/ugd/4f907f_a4ab5131c8d1453da9797b898a99a20f.pdf"
-          },
-          {
-            "text": "ADV Part IIB",
-            "href": "https://503c1eb9-d41a-4637-bc50-a5fe2d7b073f.usrfiles.com/ugd/4f907f_966bfa914997413bbef76384485b2635.pdf",
-            "path": "/ugd/4f907f_966bfa914997413bbef76384485b2635.pdf"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://americanwealthmanagement-31030806.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Videos",
-            "href": "https://americanwealthmanagement-31030806.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://americanwealthmanagement-31030806.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/the-firm1",
-        "migratedPath": "/the-firm1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /the-firm1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "The Firm",
-            "brHref": "/The-Firm.1.htm",
-            "migratedText": "The Firm",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/the-firm1",
-            "migratedPath": "/the-firm1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "migratedText": "Our Associates",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Affiliated Offices",
-            "brHref": "/affiliated-offices.htm",
-            "migratedText": "Affiliated Offices",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/affiliated-office",
-            "migratedPath": "/affiliated-office"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Headquarters",
-            "brHref": "/location.htm",
-            "migratedText": "Headquarters",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Privacy Policy",
-            "brHref": "/http://www.emeraldhost.net/files/15580/Privacy%20Act%205-2010.pdf",
-            "migratedText": "Privacy Policy",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/privacy-policy5",
-            "migratedPath": "/privacy-policy5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.2.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/our-services2",
-            "migratedPath": "/our-services2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Institutional Investors",
-            "brHref": "/Institutional-Investors.3.htm",
-            "migratedText": "Institutional Investors",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/institutional-investors3",
-            "migratedPath": "/institutional-investors3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Legal Disclaimer",
-            "brHref": "/Legal-Disclaimer.6.htm",
-            "migratedText": "Legal Disclaimer",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/legal-disclaimer6",
-            "migratedPath": "/legal-disclaimer6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business Continuity Plan",
-            "brHref": "/Business-Continuity-Plan.7.htm",
-            "migratedText": "Business Continuity Plan",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/business-continuity-plan7",
-            "migratedPath": "/business-continuity-plan7"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Employment &amp; Affiliation Opportunities",
-            "brHref": "/Employment-and-Affiliation-Opportunities.8.htm",
-            "migratedText": "Employment & Affiliation Opportunities",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/employment-affiliation-opportunities8",
-            "migratedPath": "/employment-affiliation-opportunities8"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Energy Stat of the Week - J. Marshall Adkins",
-            "brHref": "/Energy-Stat-of-the-Week---J--Marshall-Adkins.12.htm",
-            "note": "Sub-item \"Energy Stat of the Week - J. Marshall Adkins\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Privacy Policy",
-            "brHref": "/Privacy-Policy.5.htm",
-            "migratedText": "Privacy Policy",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/privacy-policy5",
-            "migratedPath": "/privacy-policy5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Hot Topics",
-            "brHref": "/Hot-Topics.13.htm",
-            "migratedText": "Hot Topics",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/pspan-stylecolorff0000hot-topicsspanp13",
-            "migratedPath": "/pspan-stylecolorff0000hot-topicsspanp13"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "2026 ADV",
         "brHref": "/#",
-        "migratedText": "2026 ADV",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "migratedPath": "/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "note": "\"2026 ADV\" should be a dropdown (/#) but migrated links to /files/15580/AWM%20ADV%2010-1-25.pdf",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "ADV",
-            "brHref": "/files/15580/AWM ADV Pt 1 AU 3.6.2027.pdf",
-            "migratedText": "ADV",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-            "migratedPath": "/files/15580/AWM%20ADV%2010-1-25.pdf"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "ADV PART IIA",
-            "brHref": "/files/15580/ADV_Part_2A American Wealth Management, Inc..pdf",
-            "migratedText": "ADV Part IIA",
-            "migratedHref": "https://503c1eb9-d41a-4637-bc50-a5fe2d7b073f.usrfiles.com/ugd/4f907f_a4ab5131c8d1453da9797b898a99a20f.pdf",
-            "migratedPath": "/ugd/4f907f_a4ab5131c8d1453da9797b898a99a20f.pdf"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "ADV PART IIB",
-            "brHref": "/files/15580/ADV_Part_2B_Supplements AWM.pdf",
-            "migratedText": "ADV Part IIB",
-            "migratedHref": "https://503c1eb9-d41a-4637-bc50-a5fe2d7b073f.usrfiles.com/ugd/4f907f_966bfa914997413bbef76384485b2635.pdf",
-            "migratedPath": "/ugd/4f907f_966bfa914997413bbef76384485b2635.pdf"
-          }
-        ]
+        "note": "\"2026 ADV\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/location",
-        "migratedPath": "/location"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "2026 ADV",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "migratedPath": "/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "httpStatus": 404,
-        "note": "\"2026 ADV\" → HTTP 404 (https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf)"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "ADV",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "migratedPath": "/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "httpStatus": 404,
-        "note": "\"ADV\" → HTTP 404 (https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf)"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 27,
-      "totalMigratedItems": 26,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
-      "brokenLinks": 2,
+      "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 3,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 23,
+      "ok": 0,
       "totalBrItems": 27
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/the-firm1",
-        "migratedPath": "/the-firm1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "The Firm",
-            "brHref": "/The-Firm.1.htm",
-            "migratedText": "The Firm",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/the-firm1",
-            "migratedPath": "/the-firm1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "migratedText": "Our Associates",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Affiliated Offices",
-            "brHref": "/affiliated-offices.htm",
-            "migratedText": "Affiliated Offices",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/affiliated-office",
-            "migratedPath": "/affiliated-office"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Headquarters",
-            "brHref": "/location.htm",
-            "migratedText": "Headquarters",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Privacy Policy",
-            "brHref": "/Privacy-Policy.9.htm",
-            "migratedText": "Privacy Policy",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/privacy-policy5",
-            "migratedPath": "/privacy-policy5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.2.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/our-services2",
-            "migratedPath": "/our-services2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Institutional Investors",
-            "brHref": "/Institutional-Investors.3.htm",
-            "migratedText": "Institutional Investors",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/institutional-investors3",
-            "migratedPath": "/institutional-investors3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Legal Disclaimer",
-            "brHref": "/Legal-Disclaimer.6.htm",
-            "migratedText": "Legal Disclaimer",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/legal-disclaimer6",
-            "migratedPath": "/legal-disclaimer6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business Continuity Plan",
-            "brHref": "/Business-Continuity-Plan.7.htm",
-            "migratedText": "Business Continuity Plan",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/business-continuity-plan7",
-            "migratedPath": "/business-continuity-plan7"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Employment & Affiliation Opportunities",
-            "brHref": "/Employment-and-Affiliation-Opportunities.8.htm",
-            "migratedText": "Employment & Affiliation Opportunities",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/employment-affiliation-opportunities8",
-            "migratedPath": "/employment-affiliation-opportunities8"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Energy Stat of the Week - J. Marshall Adkins",
-            "brHref": "/Energy-Stat-of-the-Week---J--Marshall-Adkins.12.htm",
-            "note": "Sub-item \"Energy Stat of the Week - J. Marshall Adkins\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Privacy Policy",
-            "brHref": "/Privacy-Policy.5.htm",
-            "migratedText": "Privacy Policy",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/privacy-policy5",
-            "migratedPath": "/privacy-policy5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Hot Topics",
-            "brHref": "/Hot-Topics.13.htm",
-            "migratedText": "Hot Topics",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/pspan-stylecolorff0000hot-topicsspanp13",
-            "migratedPath": "/pspan-stylecolorff0000hot-topicsspanp13"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "2026 ADV",
         "brHref": "/",
-        "migratedText": "2026 ADV",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "migratedPath": "/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "ADV",
-            "brHref": "/files/15580/AWM%20ADV%20Pt%201%20AU%203.6.2027.pdf",
-            "migratedText": "ADV",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-            "migratedPath": "/files/15580/AWM%20ADV%2010-1-25.pdf"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "ADV PART IIA",
-            "brHref": "/files/15580/ADV_Part_2A%20American%20Wealth%20Management,%20Inc..pdf",
-            "migratedText": "ADV Part IIA",
-            "migratedHref": "https://503c1eb9-d41a-4637-bc50-a5fe2d7b073f.usrfiles.com/ugd/4f907f_a4ab5131c8d1453da9797b898a99a20f.pdf",
-            "migratedPath": "/ugd/4f907f_a4ab5131c8d1453da9797b898a99a20f.pdf"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "ADV PART IIB",
-            "brHref": "/files/15580/ADV_Part_2B_Supplements%20AWM.pdf",
-            "migratedText": "ADV Part IIB",
-            "migratedHref": "https://503c1eb9-d41a-4637-bc50-a5fe2d7b073f.usrfiles.com/ugd/4f907f_966bfa914997413bbef76384485b2635.pdf",
-            "migratedPath": "/ugd/4f907f_966bfa914997413bbef76384485b2635.pdf"
-          }
-        ]
+        "note": "\"2026 ADV\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -952,40 +399,22 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/location",
-        "migratedPath": "/location"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "2026 ADV",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "migratedPath": "/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "httpStatus": 404,
-        "note": "\"2026 ADV\" → HTTP 404 (https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf)"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "ADV",
-        "migratedHref": "https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "migratedPath": "/files/15580/AWM%20ADV%2010-1-25.pdf",
-        "httpStatus": 404,
-        "note": "\"ADV\" → HTTP 404 (https://americanwealthmanagement-31030806.brprodaccount.com/files/15580/AWM%20ADV%2010-1-25.pdf)"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 34,
-      "totalMigratedItems": 26,
-      "missing": 5,
+      "totalMigratedItems": 0,
+      "missing": 7,
       "extra": 0,
-      "brokenLinks": 2,
+      "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 26
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -1006,46 +435,17 @@
         "personNames": [],
         "footerText": "Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.americanwealthmanagement.com",
-        "companyNames": [],
-        "phoneNumbers": [
-          "7703928741",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "gavinborzello@awminc.biz"
-        ],
-        "physicalAddresses": [
-          "3480 Preston Ridge Rd Suite 500\n\n\n\n\nAlpharetta\n\n"
-        ],
-        "personNames": [],
-        "footerText": ""
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(770) 392-8741",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "address",
-          "originalValue": "3480 Preston Ridge Rd Suite 500\nAlpharetta, GA 30005",
-          "migratedValue": "3480 Preston Ridge Rd Suite 500\n\n\n\n\nAlpharetta\n\n",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://americanwealthmanagement-31030806.brprodaccount.com/",
@@ -1053,6 +453,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on americanwealthmanagement-31030806.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 2,
+        "severity": "ok"
       }
     }
   }

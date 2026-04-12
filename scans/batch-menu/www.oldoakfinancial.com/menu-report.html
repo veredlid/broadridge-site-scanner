@@ -75,7 +75,7 @@
   <h1>Menu Check Report — www.oldoakfinancial.com</h1>
   <div class="meta">
     Migrated: https://oldoakfinancial-31030757.brprodaccount.com/ &nbsp;·&nbsp;
-    Scanned: 4/1/2026, 5:20:21 PM
+    Scanned: 4/12/2026, 11:35:15 AM
   </div>
 </div>
 <div class="overall-bar">
@@ -84,6 +84,9 @@
   <span>Part 3 (Content Identity): MISMATCH</span>
   <span>Part 4 (BrokerCheck): WRONG TYPE</span>
   <span>Part 5 (Domain): NOT CONNECTED</span>
+  <span>Part 6 (Social): PASS</span>
+  <span>Part 7 (Images): PASS</span>
+  <span>Part 8 (Subtitle): PASS</span>
 </div>
 
 <div class="container">
@@ -800,6 +803,90 @@
         <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
           <span style="color:#e65100;font-weight:600">&#9888;</span> No custom domain — still on oldoakfinancial-31030757.brprodaccount.com
         </div>
+      </div>
+    </div>
+
+    
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-pass">PART 6</span>
+            <span class="part-title">Template Social Links</span>
+            <span class="part-status" style="background:#2e7d32">PASS</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Detects social media links pointing to generic/template URLs
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card"><div class="num">3</div><div class="lbl">Social Links</div></div>
+          <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Template/Default</div></div>
+        </div>
+        
+          <table style="width:100%;border-collapse:collapse;font-size:13px;margin-top:8px">
+            <thead><tr style="background:#f5f5f5"><th style="padding:6px 10px;text-align:left;border-bottom:2px solid #ddd">Platform</th><th style="padding:6px 10px;text-align:left;border-bottom:2px solid #ddd">URL</th><th style="padding:6px 10px;text-align:center;border-bottom:2px solid #ddd">Status</th></tr></thead>
+            <tbody>
+              
+                <tr style="border-bottom:1px solid #eee">
+                  <td style="padding:6px 10px">Facebook</td>
+                  <td style="padding:6px 10px;word-break:break-all;max-width:400px"><a href="https://www.facebook.com/WixStudio" target="_blank">https://www.facebook.com/WixStudio</a></td>
+                  <td style="padding:6px 10px;text-align:center"><span style="color:#2e7d32">&#10003; OK</span></td>
+                </tr>
+                <tr style="border-bottom:1px solid #eee">
+                  <td style="padding:6px 10px">Twitter/X</td>
+                  <td style="padding:6px 10px;word-break:break-all;max-width:400px"><a href="https://twitter.com/WixStudio" target="_blank">https://twitter.com/WixStudio</a></td>
+                  <td style="padding:6px 10px;text-align:center"><span style="color:#2e7d32">&#10003; OK</span></td>
+                </tr>
+                <tr style="border-bottom:1px solid #eee">
+                  <td style="padding:6px 10px">LinkedIn</td>
+                  <td style="padding:6px 10px;word-break:break-all;max-width:400px"><a href="https://www.linkedin.com/company/wix-com" target="_blank">https://www.linkedin.com/company/wix-com</a></td>
+                  <td style="padding:6px 10px;text-align:center"><span style="color:#2e7d32">&#10003; OK</span></td>
+                </tr>
+            </tbody>
+          </table>
+      </div>
+    </div>
+    
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-pass">PART 7</span>
+            <span class="part-title">BR JSON Image URLs</span>
+            <span class="part-status" style="background:#2e7d32">PASS</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Validates image src paths in BR source JSON (double slashes, missing prefixes)
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card"><div class="num">16</div><div class="lbl">Images Scanned</div></div>
+          <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Issues Found</div></div>
+        </div>
+        <div style="padding:8px;color:#2e7d32">&#10003; All image URLs look valid</div>
+      </div>
+    </div>
+    
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-pass">PART 8</span>
+            <span class="part-title">Subtitle / Tagline</span>
+            <span class="part-status" style="background:#2e7d32">PASS</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Checks if the hero subtitle still shows template default text
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div style="padding:8px;color:#888">No hero subtitle found on page</div>
       </div>
     </div>
 

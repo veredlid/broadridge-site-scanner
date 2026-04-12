@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.vinnybarone.com",
     "migratedDomain": "https://vinnybarone-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:11:02.247Z",
+    "capturedAt": "2026-04-12T08:28:42.732Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -192,318 +192,63 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://vinnybarone-31030807.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://vinnybarone-31030807.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Meet Vincent M. Barone",
-            "href": "https://vinnybarone-31030807.brprodaccount.com/",
-            "path": "/"
-          },
-          {
-            "text": "Services",
-            "href": "https://vinnybarone-31030807.brprodaccount.com/services1",
-            "path": "/services1"
-          },
-          {
-            "text": "Qualifications",
-            "href": "https://vinnybarone-31030807.brprodaccount.com/qualifications2",
-            "path": "/qualifications2"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://vinnybarone-31030807.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://vinnybarone-31030807.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://vinnybarone-31030807.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://vinnybarone-31030807.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://vinnybarone-31030807.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://vinnybarone-31030807.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://vinnybarone-31030807.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://vinnybarone-31030807.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Meet Vincent M. Barone",
-            "brHref": "/Vincent-M--Barone.e90109.htm",
-            "migratedText": "Meet Vincent M. Barone",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Services",
-            "brHref": "/Services.1.htm",
-            "migratedText": "Services",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/services1",
-            "migratedPath": "/services1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Qualifications",
-            "brHref": "/Qualifications.2.htm",
-            "migratedText": "Qualifications",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/qualifications2",
-            "migratedPath": "/qualifications2"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 13,
-      "totalMigratedItems": 13,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 1,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 12,
+      "ok": 0,
       "totalBrItems": 13
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Meet Vincent M. Barone",
-            "brHref": "/Vincent-M--Barone.e90109.htm",
-            "migratedText": "Meet Vincent M. Barone",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Services",
-            "brHref": "/Services.1.htm",
-            "migratedText": "Services",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/services1",
-            "migratedPath": "/services1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Qualifications",
-            "brHref": "/Qualifications.2.htm",
-            "migratedText": "Qualifications",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/qualifications2",
-            "migratedPath": "/qualifications2"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -512,24 +257,22 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://vinnybarone-31030807.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 22,
-      "totalMigratedItems": 13,
-      "missing": 3,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 13
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -548,39 +291,17 @@
         "personNames": [],
         "footerText": "Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.vinnybarone.com",
-        "companyNames": [],
-        "phoneNumbers": [
-          "9177474339",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "vinnybarone@outlook.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": ""
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(917) 747-4339",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://vinnybarone-31030807.brprodaccount.com/",
@@ -588,6 +309,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on vinnybarone-31030807.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 0,
+        "severity": "ok"
       }
     }
   }

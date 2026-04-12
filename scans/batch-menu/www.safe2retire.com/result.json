@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.safe2retire.com",
     "migratedDomain": "https://safe2retire-31030755.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:23:43.728Z",
+    "capturedAt": "2026-04-12T08:37:18.725Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -291,24 +291,17 @@
         "personNames": [],
         "footerText": "Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "",
-        "companyNames": [],
-        "phoneNumbers": [],
-        "emailAddresses": [],
-        "physicalAddresses": [],
-        "personNames": [],
-        "footerText": ""
-      },
-      "mismatches": []
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://safe2retire-31030755.brprodaccount.com/",
@@ -316,6 +309,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on safe2retire-31030755.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 14,
+        "severity": "ok"
       }
     }
   }

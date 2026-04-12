@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.goldenfinancial.net",
     "migratedDomain": "https://goldenfinancial-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:45:22.983Z",
+    "capturedAt": "2026-04-12T08:42:53.327Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -113,8 +113,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.goldenfinancial.net/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Golden Financial Mission Statement",
@@ -186,8 +186,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.goldenfinancial.net/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -229,8 +229,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.goldenfinancial.net/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
@@ -611,13 +611,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://goldenfinancial-31030801.brprodaccount.com/our-mission-statement1",
         "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
         "subIssues": [
           {
             "kind": "ok",
@@ -724,13 +723,12 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://goldenfinancial-31030801.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -791,7 +789,7 @@
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -810,9 +808,9 @@
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 20
+      "ok": 22
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -823,72 +821,14 @@
           "Golden Financial"
         ],
         "phoneNumbers": [
-          "(817) 456-2948"
+          "8174562948"
         ],
         "emailAddresses": [
           "vmason@goldenfinancial.net"
         ],
         "physicalAddresses": [],
-        "personNames": [
-          "Home\n          \n          About",
-          "Us\n           \n            Golden",
-          "Financial Mission",
-          "Statement\n            Our",
-          "Location\n            Our",
-          "Firm\n            Our",
-          "Services\n            Our",
-          "Qualifications\n            Our",
-          "Profiles\n            National",
-          "Ethics Association",
-          "Professional Profiles",
-          "Million Dollar",
-          "Round Table",
-          "Better Business",
-          "Request Additional",
-          "Information\n            Senior",
-          "Prom\n            Tell",
-          "Friend\n            \n           \n          \n          Resources",
-          "Articles\n            Calculators",
-          "Flipbooks\n            Newsletters",
-          "Glossary\n            Tax",
-          "Library\n            Videos",
-          "Request A Quote",
-          "Annuity \n            Long",
-          "Term Care",
-          "Insurance  \n            Group",
-          "Health \n            Life",
-          "Insurance  \n            Individual",
-          "Health \n            Disability",
-          "Income Insurance",
-          "Information Request",
-          "Exchange Ave",
-          "Fort Worth",
-          "View Calculators",
-          "View Flipbooks",
-          "Golden Financial",
-          "Vanessa Mason",
-          "Chartered Senior",
-          "Financial Planner",
-          "Government Employees",
-          "Federal Government",
-          "Government Organization",
-          "As Retirement",
-          "Social Security",
-          "As Investment",
-          "Advisor Representatives",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost",
-          "Retirement\n          \n        \n        Use",
-          "Retirement Portfolio",
-          "Lifespan\n          \n        \n        How",
-          "Long Will",
-          "Your Funds",
-          "Retirement Plan",
-          "Early Distribution",
-          "More Calculators",
-          "Site Map",
-          "To Top"
-        ],
-        "footerText": "Site Map\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBack To Top"
+        "personNames": [],
+        "footerText": "Site Map Back To Top"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.goldenfinancial.net",
@@ -915,13 +855,6 @@
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Home\n          \n          About, Us\n           \n            Golden, Financial Mission, Statement\n            Our, Location\n            Our, Firm\n            Our, Services\n            Our, Qualifications\n            Our, Profiles\n            National, Ethics Association, Professional Profiles, Million Dollar, Round Table, Better Business, Request Additional, Information\n            Senior, Prom\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Exchange Ave, Fort Worth, View Calculators, View Flipbooks, Golden Financial, Vanessa Mason, Chartered Senior, Financial Planner, Government Employees, Federal Government, Government Organization, As Retirement, Social Security, As Investment, Advisor Representatives, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost, Retirement\n          \n        \n        Use, Retirement Portfolio, Lifespan\n          \n        \n        How, Long Will, Your Funds, Retirement Plan, Early Distribution, More Calculators, Site Map, To Top",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
     },
@@ -939,6 +872,80 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on goldenfinancial-31030801.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "Content5",
+            "src": "/files/36106/JIMBETTYWEBSITE resize.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/36106/JIMBETTYWEBSITE resize.JPG\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/36106/NEA best.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/36106/NEA best.jpg\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/36106/NEA handshake.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/36106/NEA handshake.jpg\""
+          },
+          {
+            "fieldName": "Our Profiles",
+            "src": "/files/36106/JIMBETTYWEBSITE resize.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/36106/JIMBETTYWEBSITE resize.JPG\""
+          },
+          {
+            "fieldName": "National Ethics Association",
+            "src": "/files/36106/NEA best.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/36106/NEA best.jpg\""
+          },
+          {
+            "fieldName": "National Ethics Association",
+            "src": "/files/36106/NEA handshake.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/36106/NEA handshake.jpg\""
+          }
+        ],
+        "totalImages": 64,
+        "severity": "critical"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

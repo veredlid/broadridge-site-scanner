@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.santafewealth.com",
     "migratedDomain": "https://santafewealth-31030755.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:22:57.650Z",
+    "capturedAt": "2026-04-12T08:36:39.387Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -252,382 +252,69 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://santafewealth-31030755.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://santafewealth-31030755.brprodaccount.com/our-mission-statement1",
-        "path": "/our-mission-statement1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://santafewealth-31030755.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Firm",
-            "href": "https://santafewealth-31030755.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://santafewealth-31030755.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "About Donald J. Haskell",
-            "href": "https://santafewealth-31030755.brprodaccount.com/about-donald-j-haskell4",
-            "path": "/about-donald-j-haskell4"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://santafewealth-31030755.brprodaccount.com/featured-links",
-            "path": "/featured-links"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://santafewealth-31030755.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Blog",
-            "href": "https://santafewealth-31030755.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://santafewealth-31030755.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://santafewealth-31030755.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://santafewealth-31030755.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://santafewealth-31030755.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://santafewealth-31030755.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://santafewealth-31030755.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Account Access",
-        "href": "https://www.ewealthmanager.com/ewmLogin/account/login",
-        "path": "/ewmLogin/account/login",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://santafewealth-31030755.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://santafewealth-31030755.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "About Donald J. Haskell",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "About Donald J. Haskell",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/about-donald-j-haskell4",
-            "migratedPath": "/about-donald-j-haskell4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://santafewealth-31030755.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Blog",
-            "brHref": "/Blog.7.htm",
-            "migratedText": "Blog",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "note": "Sub-item \"Articles\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://santafewealth-31030755.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Account Access",
         "brHref": "/https://www.ewealthmanager.com/ewmLogin/account/login",
-        "migratedText": "Account Access",
-        "migratedHref": "https://www.ewealthmanager.com/ewmLogin/account/login",
-        "migratedPath": "/ewmLogin/account/login"
+        "note": "\"Account Access\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 17,
-      "totalMigratedItems": 16,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 14,
+      "ok": 0,
       "totalBrItems": 17
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://santafewealth-31030755.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://santafewealth-31030755.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "About Donald J. Haskell",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "About Donald J. Haskell",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/about-donald-j-haskell4",
-            "migratedPath": "/about-donald-j-haskell4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://santafewealth-31030755.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Blog",
-            "brHref": "/Blog.7.htm",
-            "migratedText": "Blog",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "note": "Sub-item \"Articles\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -636,49 +323,28 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://santafewealth-31030755.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Contact Us",
-            "brHref": "/contact_us",
-            "migratedText": "Contact Us",
-            "migratedHref": "https://santafewealth-31030755.brprodaccount.com/location",
-            "migratedPath": "/location",
-            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"Contact Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Account Access",
         "brHref": "/Account-Access.6.htm",
-        "migratedText": "Account Access",
-        "migratedHref": "https://www.ewealthmanager.com/ewmLogin/account/login",
-        "migratedPath": "/ewmLogin/account/login"
+        "note": "\"Account Access\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 30,
-      "totalMigratedItems": 16,
-      "missing": 4,
+      "totalMigratedItems": 0,
+      "missing": 6,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 1,
-      "ok": 16
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -703,44 +369,17 @@
         ],
         "footerText": "Investment Advisory Services offered through Santa Fe' Wealth Management, Inc \"A Registered Investment Advisory Firm\". DISCLAIMER: This web-site is for informational purposes only and does not constitute a complete description of our investment services or performance. This web-site is in no way a solicitation or offer to sell securities or investment advisory services except, where applicable, in states where we are registered or where an exemption or exclusion from such registration exists. Information throughout this site, whether stock quotes, charts, articles, or any other statement or statements regarding market or other financial information, is obtained from sources which we, and our suppliers believe reliable, but we do not warrant or guarantee the timeliness or accuracy of this information. Nothing on this web-site should be interpreted to state or imply that past results are an indication of future performance. Neither we or our information providers shall be liable for any "
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.santafewealth.com",
-        "companyNames": [
-          "Donald J. Haskell CLU®, ChFC®, RIA"
-        ],
-        "phoneNumbers": [
-          "6199775223",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "haskelld@santafewealth.com"
-        ],
-        "physicalAddresses": [
-          "5755 Oberlin Dr. Suite "
-        ],
-        "personNames": [
-          "Donald J. Haskell",
-          "Donald Haskell"
-        ],
-        "footerText": "Investment Advisory Services offered through Santa Fe' Wealth Management, Inc \"A Registered Investment Advisory Firm\". DISCLAIMER: This web-site is for informational purposes only and does not constitute a complete description of our investment services or performance. This web-site is in no way a solicitation or offer to sell securities or investment advisory services except, where applicable, in states where we are registered or where an exemption or exclusion from such registration exists. Information throughout this site, whether stock quotes, charts, articles, or any other statement or statements regarding market or other financial information, is obtained from sources which we, and our suppliers believe reliable, but we do not warrant or guarantee the timeliness or accuracy of this information. Nothing on this web-site should be interpreted to state or imply that past results are an indication of future performance. Neither we or our information providers shall be liable for any "
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(619) 977-5223",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://santafewealth-31030755.brprodaccount.com/",
@@ -748,6 +387,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on santafewealth-31030755.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 10,
+        "severity": "ok"
       }
     }
   }

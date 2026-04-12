@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.kcbaron.com",
     "migratedDomain": "https://kcbaron-31030759.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:15:32.405Z",
+    "capturedAt": "2026-04-12T08:31:30.548Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -235,245 +235,31 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://kcbaron-31030759.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://kcbaron-31030759.brprodaccount.com/about-strategic-wealth-innovations1",
-        "path": "/about-strategic-wealth-innovations1",
-        "subItems": [
-          {
-            "text": "About Strategic Wealth innovations",
-            "href": "https://kcbaron-31030759.brprodaccount.com/about-strategic-wealth-innovations1",
-            "path": "/about-strategic-wealth-innovations1"
-          },
-          {
-            "text": "My Services",
-            "href": "https://kcbaron-31030759.brprodaccount.com/my-services4",
-            "path": "/my-services4"
-          },
-          {
-            "text": "Your Role",
-            "href": "https://kcbaron-31030759.brprodaccount.com/your-role5",
-            "path": "/your-role5"
-          },
-          {
-            "text": "Education Center",
-            "href": "https://kcbaron-31030759.brprodaccount.com/education-center6",
-            "path": "/education-center6"
-          },
-          {
-            "text": "Business Solutions",
-            "href": "https://kcbaron-31030759.brprodaccount.com/business-solutions7",
-            "path": "/business-solutions7"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://kcbaron-31030759.brprodaccount.com/featured-links",
-            "path": "/featured-links"
-          },
-          {
-            "text": "Newsletters By Mail",
-            "href": "https://kcbaron-31030759.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://kcbaron-31030759.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://kcbaron-31030759.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://kcbaron-31030759.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://kcbaron-31030759.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://kcbaron-31030759.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://kcbaron-31030759.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://kcbaron-31030759.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://kcbaron-31030759.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://kcbaron-31030759.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://kcbaron-31030759.brprodaccount.com/about-strategic-wealth-innovations1",
-        "migratedPath": "/about-strategic-wealth-innovations1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /about-strategic-wealth-innovations1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "About Strategic Wealth innovations",
-            "brHref": "/About-National-Life-Group.1.htm",
-            "migratedText": "About Strategic Wealth innovations",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/about-strategic-wealth-innovations1",
-            "migratedPath": "/about-strategic-wealth-innovations1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "My Services",
-            "brHref": "/My-Services.4.htm",
-            "migratedText": "My Services",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/my-services4",
-            "migratedPath": "/my-services4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Your Role",
-            "brHref": "/Your-Role.5.htm",
-            "migratedText": "Your Role",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/your-role5",
-            "migratedPath": "/your-role5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Education Center",
-            "brHref": "/Education-Center.6.htm",
-            "migratedText": "Education Center",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/education-center6",
-            "migratedPath": "/education-center6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business Solutions",
-            "brHref": "/Business-Solutions.7.htm",
-            "migratedText": "Business Solutions",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/business-solutions7",
-            "migratedPath": "/business-solutions7"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters By Mail",
-            "brHref": "/signup.cfm?SSLID=39409",
-            "migratedText": "Newsletters By Mail",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://kcbaron-31030759.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://kcbaron-31030759.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -502,212 +288,52 @@
     ],
     "summary": {
       "totalSourceItems": 21,
-      "totalMigratedItems": 17,
-      "missing": 4,
-      "extra": 0,
-      "brokenLinks": 0,
-      "duplicates": 0,
-      "hrefMismatches": 2,
-      "structureChanges": 0,
-      "ok": 15,
-      "totalBrItems": 21
-    },
-    "liveIssues": [
-      {
-        "kind": "ok",
-        "brTitle": "Home",
-        "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://kcbaron-31030759.brprodaccount.com/",
-        "migratedPath": "/"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "About Us",
-        "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://kcbaron-31030759.brprodaccount.com/about-strategic-wealth-innovations1",
-        "migratedPath": "/about-strategic-wealth-innovations1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "About Strategic Wealth innovations",
-            "brHref": "/About-National-Life-Group.1.htm",
-            "migratedText": "About Strategic Wealth innovations",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/about-strategic-wealth-innovations1",
-            "migratedPath": "/about-strategic-wealth-innovations1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "My Services",
-            "brHref": "/My-Services.4.htm",
-            "migratedText": "My Services",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/my-services4",
-            "migratedPath": "/my-services4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Your Role",
-            "brHref": "/Your-Role.5.htm",
-            "migratedText": "Your Role",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/your-role5",
-            "migratedPath": "/your-role5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Education Center",
-            "brHref": "/Education-Center.6.htm",
-            "migratedText": "Education Center",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/education-center6",
-            "migratedPath": "/education-center6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business Solutions",
-            "brHref": "/",
-            "migratedText": "Business Solutions",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/business-solutions7",
-            "migratedPath": "/business-solutions7"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business Solutions",
-            "brHref": "/Business-Solutions.7.htm",
-            "migratedText": "Business Solutions",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/business-solutions7",
-            "migratedPath": "/business-solutions7"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Products",
-            "brHref": "/Products.2.htm",
-            "note": "Sub-item \"Products\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Charitable Giving / Donar Advised Fund",
-            "brHref": "/Charitable-Giving---Donar-Advised-Fund.9.htm",
-            "note": "Sub-item \"Charitable Giving / Donar Advised Fund\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Premium Finance",
-            "brHref": "/Premium-Finance.8.htm",
-            "note": "Sub-item \"Premium Finance\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Private Placement Life Insurance (PPLI)",
-            "brHref": "/Private-Placement-Life-Insurance-andlparPPLIandrpar.10.htm",
-            "note": "Sub-item \"Private Placement Life Insurance (PPLI)\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters By Mail",
-            "brHref": "/signup.cfm",
-            "migratedText": "Newsletters By Mail",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Resources",
-        "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://kcbaron-31030759.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://kcbaron-31030759.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Contact Us",
-        "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://kcbaron-31030759.brprodaccount.com/location",
-        "migratedPath": "/location"
-      }
-    ],
-    "liveSummary": {
-      "totalSourceItems": 24,
-      "totalMigratedItems": 17,
-      "missing": 6,
+      "totalMigratedItems": 0,
+      "missing": 8,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 18
+      "ok": 0,
+      "totalBrItems": 21
+    },
+    "liveIssues": [
+      {
+        "kind": "missing",
+        "brTitle": "Home",
+        "brHref": "/",
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 24,
+      "totalMigratedItems": 0,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -725,28 +351,17 @@
         "personNames": [],
         "footerText": "#footerContainer { background-color: #38813A; } Contact Info Melville NY / Boca Raton FL Phone: (877) 97- Strategic Kbaron@StrategicWealthInnovations.com Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.kcbaron.com",
-        "companyNames": [],
-        "phoneNumbers": [],
-        "emailAddresses": [
-          "Kbaron@StrategicWealthInnovations.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "Contact Info Melville NY / Boca Raton FL Phone: (877) 97- Strategic Kbaron@StrategicWealthInnovations.com"
-      },
-      "mismatches": []
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://kcbaron-31030759.brprodaccount.com/",
@@ -754,6 +369,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on kcbaron-31030759.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 33,
+        "severity": "ok"
       }
     }
   }

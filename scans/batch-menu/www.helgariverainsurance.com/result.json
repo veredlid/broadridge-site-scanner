@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.helgariverainsurance.com",
     "migratedDomain": "https://helgariverainsurance-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:18:29.431Z",
+    "capturedAt": "2026-04-12T08:33:53.443Z",
     "brNavItems": [
       {
         "title": "About Us",
@@ -223,358 +223,51 @@
         "hasDropdown": true
       }
     ],
-    "migratedItems": [
-      {
-        "text": "About Us",
-        "href": "https://helgariverainsurance-31030801.brprodaccount.com/our-mission-statement1",
-        "path": "/our-mission-statement1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Firm",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/our-qualifications4",
-            "path": "/our-qualifications4"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://helgariverainsurance-31030801.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://helgariverainsurance-31030801.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [
-          {
-            "text": "Our Location",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Subscribe to Emails",
-            "href": "https://helgariverainsurance-31030801.brprodaccount.com/",
-            "path": "/"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Blog",
-            "brHref": "/blog.htm",
-            "note": "Sub-item \"Blog\" under \"Resources\" is missing in migrated"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Subscribe to Emails",
-            "brHref": "/Subscribe-to-Emails.10.htm",
-            "migratedText": "Subscribe to Emails",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/",
-            "migratedPath": "/"
-          }
-        ]
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 16,
-      "totalMigratedItems": 15,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 3,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 13,
+      "ok": 0,
       "totalBrItems": 16
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Blog",
-            "brHref": "/blog.htm",
-            "note": "Sub-item \"Blog\" under \"Resources\" is missing in migrated"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -583,57 +276,22 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Contact Us",
-            "brHref": "/contact_us",
-            "migratedText": "Contact Us",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/location",
-            "migratedPath": "/location",
-            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Subscribe to Emails",
-            "brHref": "/Subscribe-to-Emails.10.htm",
-            "migratedText": "Subscribe to Emails",
-            "migratedHref": "https://helgariverainsurance-31030801.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Information Request",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"Information Request\" under \"Contact Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 26,
-      "totalMigratedItems": 15,
-      "missing": 5,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 1,
-      "ok": 15
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -654,46 +312,17 @@
         "personNames": [],
         "footerText": "Legal Disclosure & Client Transparency Professional insurance guidance serving individuals and businesses throughout Puerto Rico. Helga Rivera Insurance is a licensed insurance agency in Puerto Rico providing personal insurance, commercial insurance, and life insurance solutions. We do not provide investment, tax, legal, or retirement advice. The information presented on this website is for general educational and informational purposes only and should not be interpreted as individualized financial, tax, or legal guidance. Any references to tax-related matters are not intended or written to be used for the purpose of avoiding penalties under applicable laws. Individuals and business owners in Puerto Rico are encouraged to consult with a qualified tax advisor, attorney, or licensed professional regarding their specific financial circumstances. Content provided on this website is based on publicly available sources believed to be reliable; however, Helga Rivera Insurance does not guarant"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.helgariverainsurance.com",
-        "companyNames": [
-          "Helga Rivera Insurance"
-        ],
-        "phoneNumbers": [
-          "4697263776",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "hrivera@helgariverainsurance.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [],
-        "footerText": "Helga Rivera Insurance does not provide investment, tax, legal, or retirement advice or recommendations. The information presented here is for general informational and educational purposes only and is not tailored to any individual’s specific circumstances.Tax-related information is not intended or written to be used for the purpose of avoiding penalties that may be imposed by law. Taxpayers are advised to seek independent guidance from a qualified tax professional based on their individual situation.These materials are based on publicly available information from sources believed to be reliable; however, Helga Rivera Insurance cannot guarantee the accuracy or completeness of this information. The content in these materials is subject to change at any time and without prior notice.By providing this information, Helga Rivera Insurance aims to inform and educate. It is not intended to serve as advice or a recommendation. For specific questions or concerns, please consult a qualified pro"
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "9695375, (787) 425-4691, (787) 545-7722",
-          "migratedValue": "(469) 726-3776",
-          "severity": "critical",
-          "note": "Phone \"(469) 726-3776\" on migrated site not found on original"
-        },
-        {
-          "field": "phone",
-          "originalValue": "9695375, (787) 425-4691, (787) 545-7722",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://helgariverainsurance-31030801.brprodaccount.com/",
@@ -701,6 +330,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on helgariverainsurance-31030801.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 18,
+        "severity": "ok"
       }
     }
   }

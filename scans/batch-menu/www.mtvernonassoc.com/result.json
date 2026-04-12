@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.mtvernonassoc.com",
     "migratedDomain": "https://mtvernonassoc-31030757.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:49:52.915Z",
+    "capturedAt": "2026-04-12T08:43:09.165Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -93,8 +93,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.mtvernonassoc.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our Firm",
@@ -141,8 +141,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.mtvernonassoc.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -190,425 +190,81 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://mtvernonassoc-31030757.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://mtvernonassoc-31030757.brprodaccount.com/our-firm2",
-        "path": "/our-firm2",
-        "subItems": [
-          {
-            "text": "Our Firm",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          },
-          {
-            "text": "Our Process",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/our-process7",
-            "path": "/our-process7"
-          },
-          {
-            "text": "Equity Management",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/equity-management8",
-            "path": "/equity-management8"
-          },
-          {
-            "text": "Fixed Income Management",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/fixed-income-management9",
-            "path": "/fixed-income-management9"
-          },
-          {
-            "text": "Who We Are",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Contact Us",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Latest ADV, Part 2-Brochures, Part 3-Relationship Summary",
-            "href": "http://www.adviserinfo.sec.gov/%28S%28hsofj3jiisospbdi3ulno3o0%29%29/iapd/content/viewform/adv/sections/iapd_AdvIdentifyingInfoSection.aspx?ORG_PK=107099&RGLTR_PK=50000&STATE_CD=&FLNG_PK=030EC8F80008015D05B2485003940245056C8CC0",
-            "path": "/%28S%28hsofj3jiisospbdi3ulno3o0%29%29/iapd/content/viewform/adv/sections/iapd_AdvIdentifyingInfoSection.aspx"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://mtvernonassoc-31030757.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://mtvernonassoc-31030757.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://mtvernonassoc-31030757.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/our-firm2",
-        "migratedPath": "/our-firm2",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm2",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Process",
-            "brHref": "/Our-Process.7.htm",
-            "migratedText": "Our Process",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/our-process7",
-            "migratedPath": "/our-process7"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Equity Management",
-            "brHref": "/Equity-Management.8.htm",
-            "migratedText": "Equity Management",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/equity-management8",
-            "migratedPath": "/equity-management8"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Fixed Income Management",
-            "brHref": "/Fixed-Income-Management.9.htm",
-            "migratedText": "Fixed Income Management",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/fixed-income-management9",
-            "migratedPath": "/fixed-income-management9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Who We Are",
-            "brHref": "/Who-We-Are.4.htm",
-            "migratedText": "Who We Are",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Contact Us",
-            "brHref": "/location.htm",
-            "migratedText": "Contact Us",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Latest ADV, Part 2-Brochures, Part 3-Relationship Summary",
-            "brHref": "/http://www.adviserinfo.sec.gov/%28S%28hsofj3jiisospbdi3ulno3o0%29%29/iapd/content/viewform/adv/sections/iapd_AdvIdentifyingInfoSection.aspx?ORG_PK=107099&RGLTR_PK=50000&STATE_CD=&FLNG_PK=030EC8F80008015D05B2485003940245056C8CC0",
-            "migratedText": "Latest ADV, Part 2-Brochures, Part 3-Relationship Summary",
-            "migratedHref": "http://www.adviserinfo.sec.gov/%28S%28hsofj3jiisospbdi3ulno3o0%29%29/iapd/content/viewform/adv/sections/iapd_AdvIdentifyingInfoSection.aspx?ORG_PK=107099&RGLTR_PK=50000&STATE_CD=&FLNG_PK=030EC8F80008015D05B2485003940245056C8CC0",
-            "migratedPath": "/%28S%28hsofj3jiisospbdi3ulno3o0%29%29/iapd/content/viewform/adv/sections/iapd_AdvIdentifyingInfoSection.aspx"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 17,
-      "totalMigratedItems": 17,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 15,
+      "ok": 0,
       "totalBrItems": 17
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
-        "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/our-firm2",
-        "migratedPath": "/our-firm2",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm2",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Process",
-            "brHref": "/Our-Process.7.htm",
-            "migratedText": "Our Process",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/our-process7",
-            "migratedPath": "/our-process7"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Equity Management",
-            "brHref": "/Equity-Management.8.htm",
-            "migratedText": "Equity Management",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/equity-management8",
-            "migratedPath": "/equity-management8"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Fixed Income Management",
-            "brHref": "/Fixed-Income-Management.9.htm",
-            "migratedText": "Fixed Income Management",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/fixed-income-management9",
-            "migratedPath": "/fixed-income-management9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Who We Are",
-            "brHref": "/Who-We-Are.4.htm",
-            "migratedText": "Who We Are",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Contact Us",
-            "brHref": "/location.htm",
-            "migratedText": "Contact Us",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Latest ADV, Part 2-Brochures, Part 3-Relationship Summary",
-            "brHref": "/Latest-ADV,-Part-2-Brochures,-Part-3-Relationship-Summary.5.htm",
-            "migratedText": "Latest ADV, Part 2-Brochures, Part 3-Relationship Summary",
-            "migratedHref": "http://www.adviserinfo.sec.gov/%28S%28hsofj3jiisospbdi3ulno3o0%29%29/iapd/content/viewform/adv/sections/iapd_AdvIdentifyingInfoSection.aspx?ORG_PK=107099&RGLTR_PK=50000&STATE_CD=&FLNG_PK=030EC8F80008015D05B2485003940245056C8CC0",
-            "migratedPath": "/%28S%28hsofj3jiisospbdi3ulno3o0%29%29/iapd/content/viewform/adv/sections/iapd_AdvIdentifyingInfoSection.aspx"
-          }
-        ]
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
-        "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://mtvernonassoc-31030757.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 19,
-      "totalMigratedItems": 17,
-      "missing": 2,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 15
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -618,64 +274,8 @@
           "Mount Vernon Associates, Inc."
         ],
         "phoneNumbers": [
-          "(410) 377-9780",
-          "(410) 244-8730"
-        ],
-        "emailAddresses": [
-          "info@mtvernonassoc.com"
-        ],
-        "physicalAddresses": [
-          "575 South Charles Street, Suite 401\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tBaltimore,\n\t\t\t\t\n\t\t\t\t\tMD \n\t\t\t\t\t21201"
-        ],
-        "personNames": [
-          "Uncovering Opportunistic",
-          "Value\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact",
-          "South Charles",
-          "Home\n          \n          About",
-          "Us\n           \n            Our",
-          "Firm\n            Our",
-          "Process\n            Equity",
-          "Management\n            Fixed",
-          "Income Management",
-          "We Are",
-          "Us\n            Tell",
-          "Friend\n            Latest",
-          "Relationship Summary",
-          "Resources\n           \n            Articles",
-          "Calculators\n            Flipbooks",
-          "Newsletters\n            Glossary",
-          "Tax Library",
-          "Videos\n           \n          \n          Contact",
-          "Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n  \n    Uncovering",
-          "Opportunistic Value",
-          "Mount Vernon",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tStrategies",
-          "Smarter Giving",
-          "Top Tax",
-          "Financials \n\t\t\t\t\n\t\t\t\tCondominiums",
-          "New Tax",
-          "One Big",
-          "Beautiful Bill",
-          "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Required",
-          "Minimum Distributions",
-          "Lifetime Earnings",
-          "Retirement Plan",
-          "Early Distribution",
-          "Federal Income",
-          "Tax\n          \n        \n        This",
-          "More Calculators",
-          "Privacy Policy",
-          "Site Map"
-        ],
-        "footerText": "Privacy Policy\n              \n            \n              \n                  Site Map"
-      },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.mtvernonassoc.com",
-        "companyNames": [],
-        "phoneNumbers": [
           "4103779780",
-          "9723800097"
+          "4102448730"
         ],
         "emailAddresses": [
           "info@mtvernonassoc.com"
@@ -683,42 +283,20 @@
         "physicalAddresses": [
           "575 South Charles Street, Suite "
         ],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "Privacy Policy"
+        "personNames": [],
+        "footerText": "Privacy Policy Site Map"
       },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(410) 377-9780, (410) 244-8730",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Uncovering Opportunistic, Value\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, South Charles, Home\n          \n          About, Us\n           \n            Our, Firm\n            Our, Process\n            Equity, Management\n            Fixed, Income Management, We Are, Us\n            Tell, Friend\n            Latest, Relationship Summary, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Contact, Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n  \n    Uncovering, Opportunistic Value, Mount Vernon, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tStrategies, Smarter Giving, Top Tax, Financials \n\t\t\t\t\n\t\t\t\tCondominiums, New Tax, One Big, Beautiful Bill, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Required, Minimum Distributions, Lifetime Earnings, Retirement Plan, Early Distribution, Federal Income, Tax\n          \n        \n        This, More Calculators, Privacy Policy, Site Map",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
-        },
-        {
-          "field": "address",
-          "originalValue": "575 South Charles Street, Suite 401\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tBaltimore,\n\t\t\t\t\n\t\t\t\t\tMD \n\t\t\t\t\t21201",
-          "migratedValue": "575 South Charles Street, Suite ",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://mtvernonassoc-31030757.brprodaccount.com/",
@@ -726,6 +304,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on mtvernonassoc-31030757.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 16,
+        "severity": "ok"
       }
     }
   }

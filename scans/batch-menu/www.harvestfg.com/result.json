@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.harvestfg.com",
     "migratedDomain": "https://harvestfg-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:46:08.543Z",
+    "capturedAt": "2026-04-12T08:42:57.610Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -85,8 +85,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.harvestfg.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "What We Do",
@@ -123,8 +123,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.harvestfg.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -166,8 +166,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.harvestfg.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Information Request",
@@ -422,13 +422,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://harvestfg-31030801.brprodaccount.com/what-we-do1",
         "migratedPath": "/what-we-do1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /what-we-do1",
         "subIssues": [
           {
             "kind": "ok",
@@ -479,13 +478,12 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://harvestfg-31030801.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -546,7 +544,7 @@
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -565,9 +563,9 @@
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 13
+      "ok": 15
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -577,47 +575,16 @@
           "Harvest Financial Group"
         ],
         "phoneNumbers": [
-          "(804) 788-4100",
-          "(804) 740-0257"
+          "2023233",
+          "8047884100",
+          "8047400257"
         ],
         "emailAddresses": [
           "info@harvestfg.com"
         ],
         "physicalAddresses": [],
-        "personNames": [
-          "Westerre Parkway",
-          "Google Maps",
-          "Home\n          \n          About",
-          "Us\n           \n            What",
-          "Do\n            Investment",
-          "Process\n            Investment",
-          "Methodology\n            Meet",
-          "Advisors\n            Our",
-          "Location\n            Tell",
-          "Friend\n            \n           \n          \n          Resources",
-          "Articles\n            Calculators",
-          "Flipbooks\n            Newsletters",
-          "Glossary\n            Tax",
-          "Library\n            Videos",
-          "Request A Quote",
-          "Information Request",
-          "Family \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFuture",
-          "Recreation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tProsperity",
-          "Simple Philosophy",
-          "At Harvest",
-          "Investment Methodology",
-          "Unbiased Investment",
-          "Harvest Financial",
-          "Many Investment",
-          "Learning Center",
-          "Articles\n                Educate",
-          "Newsletters\n                Timely",
-          "Flipbooks\n                \n                  These",
-          "Glossary\n                  \n                  Financial",
-          "Tax Library",
-          "Site Map"
-        ],
-        "footerText": "Harvest Financial Group, LLC (Harvest Financial), is an independent, fee-only, registered investment advisory firm, (RIA), located in Richmond, VA. The firm is also a registered investment advisory firm in the state of California.  The presence of this website on the Internet shall not be directly or indirectly interpreted as a solicitation of investment advisory services to persons of another jurisdiction unless otherwise permitted by statute. Follow-up or individualized responses to consumers "
+        "personNames": [],
+        "footerText": "Harvest Financial Group, LLC (Harvest Financial), is an independent, fee-only, registered investment advisory firm, (RIA), located in Richmond, VA. The firm is also a registered investment advisory firm in the state of California. The presence of this website on the Internet shall not be directly or indirectly interpreted as a solicitation of investment advisory services to persons of another jurisdiction unless otherwise permitted by statute. Follow-up or individualized responses to consumers in a particular state by our firm in the rendering of personalized investment advice for compensation shall not be made without our first complying with jurisdiction requirements or pursuant to applicable state exemption. For information concerning the status or disciplinary history of a broker-dealer, investment adviser, or their representatives, a consumer should contact their state securities administrator. Site Map"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.harvestfg.com",
@@ -638,7 +605,7 @@
       "mismatches": [
         {
           "field": "phone",
-          "originalValue": "(804) 788-4100, (804) 740-0257",
+          "originalValue": "2023233, (804) 788-4100, (804) 740-0257",
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
@@ -666,6 +633,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on harvestfg-31030801.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 6,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

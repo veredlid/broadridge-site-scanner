@@ -139,13 +139,22 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
   const p3Critical = p3Bugs.filter((b) => b.severity === 'critical');
   const sitesWithContentMismatch = new Set(p3Critical.map((b) => b.site)).size;
 
-  // Site health stats (Parts 4-5)
+  // Site health stats (Parts 4-8)
   const sitesWithBrokerCheck = succeeded.filter((r) => r.result!.siteHealth?.brokerCheck.found).length;
   const sitesWithWrongBrokerCheck = succeeded.filter((r) =>
     r.result!.siteHealth?.brokerCheck.found && r.result!.siteHealth.brokerCheck.type !== 'svg'
   ).length;
   const sitesWithoutCustomDomain = succeeded.filter((r) =>
     r.result!.siteHealth && !r.result!.siteHealth.domainCheck.hasCustomDomain
+  ).length;
+  const sitesWithTemplateSocial = succeeded.filter((r) =>
+    (r.result!.siteHealth?.templateSocial?.templateCount ?? 0) > 0
+  ).length;
+  const sitesWithImageIssues = succeeded.filter((r) =>
+    (r.result!.siteHealth?.imageValidation?.issues.length ?? 0) > 0
+  ).length;
+  const sitesWithTemplateSubtitle = succeeded.filter((r) =>
+    r.result!.siteHealth?.templateSubtitle?.isTemplate === true
   ).length;
 
   // ── Build site rows ──────────────────────────────────────────────────────
@@ -154,7 +163,7 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
       ? path.basename(path.dirname(r.reportPath)) + '/menu-report.html'
       : '';
     if (r.error) {
-      return { domain: r.site.original, reportFile, p1Status: 'ERROR', p2Status: 'ERROR', p3Status: 'ERROR', p4Status: 'ERROR', p5Status: 'ERROR', p1Bugs: 0, p2Bugs: 0, p3Critical: 0, totalBugs: 0, malformedHrefs: 0, status: 'error' as const, error: r.error };
+      return { domain: r.site.original, reportFile, p1Status: 'ERROR', p2Status: 'ERROR', p3Status: 'ERROR', p4Status: 'ERROR', p5Status: 'ERROR', p6Status: 'ERROR', p7Status: 'ERROR', p8Status: 'ERROR', p1Bugs: 0, p2Bugs: 0, p3Critical: 0, totalBugs: 0, malformedHrefs: 0, status: 'error' as const, error: r.error };
     }
     const res = r.result!;
     const p1 = bugCount(res, 1);
@@ -167,9 +176,15 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
     const p4Status = !bc?.found ? 'N/A' : bc.type === 'svg' ? 'SVG' : 'NON-SVG';
     const dc = res.siteHealth?.domainCheck;
     const p5Status = dc?.hasCustomDomain ? 'YES' : 'NO';
+    const ts = res.siteHealth?.templateSocial;
+    const p6Status = !ts ? 'N/A' : ts.templateCount > 0 ? `${ts.templateCount} TPL` : 'OK';
+    const iv = res.siteHealth?.imageValidation;
+    const p7Status = !iv ? 'N/A' : iv.issues.length > 0 ? `${iv.issues.length} BAD` : 'OK';
+    const tSub = res.siteHealth?.templateSubtitle;
+    const p8Status = !tSub ? 'N/A' : tSub.isTemplate ? 'TEMPLATE' : 'OK';
     const totalBugs = p1 + (p2 ?? 0);
     const status = (totalBugs > 0 || cm.critical > 0) ? 'bugs' as const : p2Status === 'SKIP' ? 'skip' as const : 'pass' as const;
-    return { domain: r.site.original, reportFile, p1Status, p2Status, p3Status, p4Status, p5Status, p1Bugs: p1, p2Bugs: p2 ?? 0, p3Critical: cm.critical, totalBugs, malformedHrefs: countMalformedHrefs(res), status };
+    return { domain: r.site.original, reportFile, p1Status, p2Status, p3Status, p4Status, p5Status, p6Status, p7Status, p8Status, p1Bugs: p1, p2Bugs: p2 ?? 0, p3Critical: cm.critical, totalBugs, malformedHrefs: countMalformedHrefs(res), status };
   });
 
   // Sort: bugs first (by count desc), then pass alphabetical, skip at bottom
@@ -191,6 +206,9 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
         <td><span class="st st-fail">ERROR</span></td>
         <td><span class="st st-skip">—</span></td>
         <td><span class="st st-skip">—</span></td>
+        <td><span class="st st-skip">—</span></td>
+        <td><span class="st st-skip">—</span></td>
+        <td><span class="st st-skip">—</span></td>
         <td class="tc">—</td>
         <td>—</td></tr>`;
     }
@@ -198,6 +216,9 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
     const p3Cls = r.p3Status === 'MISMATCH' ? 'st-bugs' : r.p3Status === 'WARN' ? 'st-changes' : r.p3Status === 'SKIP' ? 'st-skip' : 'st-pass';
     const p4Cls = r.p4Status === 'SVG' ? 'st-pass' : r.p4Status === 'NON-SVG' ? 'st-bugs' : 'st-skip';
     const p5Cls = r.p5Status === 'YES' ? 'st-pass' : 'st-bugs';
+    const p6Cls = r.p6Status === 'OK' ? 'st-pass' : r.p6Status === 'N/A' ? 'st-skip' : 'st-bugs';
+    const p7Cls = r.p7Status === 'OK' ? 'st-pass' : r.p7Status === 'N/A' ? 'st-skip' : 'st-changes';
+    const p8Cls = r.p8Status === 'OK' ? 'st-pass' : r.p8Status === 'N/A' ? 'st-skip' : 'st-bugs';
     return `<tr class="${hasBugs ? 'tr-bug' : ''}" data-domain="${escHtml(r.domain)}" data-status="${r.status}">
       <td class="cell-domain"><a href="${r.reportFile}">${escHtml(r.domain)}</a></td>
       <td><span class="st st-${r.p1Status.toLowerCase()}">${r.p1Status}</span>${r.p1Bugs > 0 ? ` <span class="bub">${r.p1Bugs}</span>` : ''}</td>
@@ -205,6 +226,9 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
       <td><span class="st ${p3Cls}">${r.p3Status}</span>${r.p3Critical > 0 ? ` <span class="bub">${r.p3Critical}</span>` : ''}</td>
       <td><span class="st ${p4Cls}">${r.p4Status}</span></td>
       <td><span class="st ${p5Cls}">${r.p5Status === 'YES' ? 'DOMAIN' : 'NO DOMAIN'}</span></td>
+      <td><span class="st ${p6Cls}">${r.p6Status}</span></td>
+      <td><span class="st ${p7Cls}">${r.p7Status}</span></td>
+      <td><span class="st ${p8Cls}">${r.p8Status}</span></td>
       <td class="tc">${hasBugs ? `<span class="bub bub-total">${r.totalBugs}</span>` : '<span class="muted">—</span>'}</td>
       <td class="tc"><a href="${r.reportFile}" class="link-report">View →</a></td>
     </tr>`;
@@ -391,6 +415,9 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
     <div class="hstat"><div class="n ${sitesWithContentMismatch > 0 ? 'nr' : 'ng'}">${sitesWithContentMismatch}</div><div class="l">Content Mix-ups</div></div>
     <div class="hstat"><div class="n ${sitesWithWrongBrokerCheck > 0 ? 'nr' : 'ng'}">${sitesWithWrongBrokerCheck}</div><div class="l">Wrong BrokerCheck</div></div>
     <div class="hstat"><div class="n ${sitesWithoutCustomDomain > 0 ? 'na' : 'ng'}">${sitesWithoutCustomDomain}</div><div class="l">No Domain</div></div>
+    <div class="hstat"><div class="n ${sitesWithTemplateSocial > 0 ? 'nr' : 'ng'}">${sitesWithTemplateSocial}</div><div class="l">Templ. Social</div></div>
+    <div class="hstat"><div class="n ${sitesWithImageIssues > 0 ? 'na' : 'ng'}">${sitesWithImageIssues}</div><div class="l">Bad Images</div></div>
+    <div class="hstat"><div class="n ${sitesWithTemplateSubtitle > 0 ? 'nr' : 'ng'}">${sitesWithTemplateSubtitle}</div><div class="l">Templ. Subtitle</div></div>
   </div>
 </div>
 
@@ -411,7 +438,10 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
       <strong>${skippedSites}</strong> skipped Part 2 (SSL) &nbsp;·&nbsp;
       <strong style="color:var(--red)">${sitesWithContentMismatch}</strong> content mix-ups &nbsp;·&nbsp;
       <strong style="color:var(--red)">${sitesWithWrongBrokerCheck}</strong> wrong BrokerCheck &nbsp;·&nbsp;
-      <strong style="color:var(--orange)">${sitesWithoutCustomDomain}</strong> no custom domain
+      <strong style="color:var(--orange)">${sitesWithoutCustomDomain}</strong> no custom domain &nbsp;·&nbsp;
+      <strong style="color:var(--red)">${sitesWithTemplateSocial}</strong> template social &nbsp;·&nbsp;
+      <strong style="color:var(--orange)">${sitesWithImageIssues}</strong> bad images &nbsp;·&nbsp;
+      <strong style="color:var(--red)">${sitesWithTemplateSubtitle}</strong> template subtitle
       ${failed.length > 0 ? `&nbsp;·&nbsp; <strong style="color:var(--orange)">${failed.length} scan errors</strong>` : ''}
     </div>
     <div class="toolbar">
@@ -425,14 +455,17 @@ export function generateIndexReport(results: BatchResult[], outputDir: string): 
     <div class="table-scroll">
       <table id="table-all">
         <thead><tr>
-          <th style="min-width:200px">Original Domain</th>
-          <th style="min-width:100px">P1 — BR JSON</th>
-          <th style="min-width:100px">P2 — Live Site</th>
-          <th style="min-width:100px">P3 — Content</th>
-          <th style="min-width:90px">P4 — BrokerCheck</th>
-          <th style="min-width:90px">P5 — Domain</th>
-          <th style="width:70px; text-align:center">Total Issues</th>
-          <th style="width:55px"></th>
+          <th style="min-width:180px">Original Domain</th>
+          <th style="min-width:80px">P1 — JSON</th>
+          <th style="min-width:80px">P2 — Live</th>
+          <th style="min-width:80px">P3 — Content</th>
+          <th style="min-width:75px">P4 — Broker</th>
+          <th style="min-width:75px">P5 — Domain</th>
+          <th style="min-width:65px">P6 — Social</th>
+          <th style="min-width:65px">P7 — Images</th>
+          <th style="min-width:70px">P8 — Subtitle</th>
+          <th style="width:60px; text-align:center">Issues</th>
+          <th style="width:50px"></th>
         </tr></thead>
         <tbody id="tbody-all">${allSiteRows}</tbody>
       </table>

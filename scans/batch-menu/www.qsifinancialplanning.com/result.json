@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.qsifinancialplanning.com",
     "migratedDomain": "https://qsifinancialplanning-31030756.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:24:34.729Z",
+    "capturedAt": "2026-04-12T08:37:53.153Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -228,403 +228,63 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://qsifinancialplanning-31030756.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://qsifinancialplanning-31030756.brprodaccount.com/about-us1",
-        "path": "/about-us1",
-        "subItems": [
-          {
-            "text": "About Us",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/about-us1",
-            "path": "/about-us1"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/our-services2",
-            "path": "/our-services2"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/our-qualifications3",
-            "path": "/our-qualifications3"
-          },
-          {
-            "text": "Corporate Brochure",
-            "href": "https://4e238c23-e775-495e-98a7-69922e8bd466.usrfiles.com/ugd/4f907f_aa1fdbc7597346e3aea33b7440119c5a.pdf",
-            "path": "/ugd/4f907f_aa1fdbc7597346e3aea33b7440119c5a.pdf"
-          },
-          {
-            "text": "Employment Opportunities",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/employment-opportunities5",
-            "path": "/employment-opportunities5"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/featured-links",
-            "path": "/featured-links"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://qsifinancialplanning-31030756.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://qsifinancialplanning-31030756.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://qsifinancialplanning-31030756.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/about-us1",
-        "migratedPath": "/about-us1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /about-us1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "About Us",
-            "brHref": "/About-Us.1.htm",
-            "migratedText": "About Us",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/about-us1",
-            "migratedPath": "/about-us1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.2.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/our-services2",
-            "migratedPath": "/our-services2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.3.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/our-qualifications3",
-            "migratedPath": "/our-qualifications3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Corporate Brochure",
-            "brHref": "/https://admin2.emeraldconnect.com/files/17103/QSI%20Brochure%20&%20FINRA%20ADV%20Part%202~005.pdf",
-            "migratedText": "Corporate Brochure",
-            "migratedHref": "https://4e238c23-e775-495e-98a7-69922e8bd466.usrfiles.com/ugd/4f907f_aa1fdbc7597346e3aea33b7440119c5a.pdf",
-            "migratedPath": "/ugd/4f907f_aa1fdbc7597346e3aea33b7440119c5a.pdf"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Employment Opportunities",
-            "brHref": "/Employment-Opportunities.5.htm",
-            "migratedText": "Employment Opportunities",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/employment-opportunities5",
-            "migratedPath": "/employment-opportunities5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 17,
-      "totalMigratedItems": 17,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 15,
+      "ok": 0,
       "totalBrItems": 17
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/about-us1",
-        "migratedPath": "/about-us1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "About Us",
-            "brHref": "/About-Us.1.htm",
-            "migratedText": "About Us",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/about-us1",
-            "migratedPath": "/about-us1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.2.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/our-services2",
-            "migratedPath": "/our-services2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.3.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/our-qualifications3",
-            "migratedPath": "/our-qualifications3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Corporate Brochure",
-            "brHref": "/Corporate-Brochure.4.htm",
-            "migratedText": "Corporate Brochure",
-            "migratedHref": "https://4e238c23-e775-495e-98a7-69922e8bd466.usrfiles.com/ugd/4f907f_aa1fdbc7597346e3aea33b7440119c5a.pdf",
-            "migratedPath": "/ugd/4f907f_aa1fdbc7597346e3aea33b7440119c5a.pdf"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Employment Opportunities",
-            "brHref": "/Employment-Opportunities.5.htm",
-            "migratedText": "Employment Opportunities",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/employment-opportunities5",
-            "migratedPath": "/employment-opportunities5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -633,24 +293,22 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://qsifinancialplanning-31030756.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 26,
-      "totalMigratedItems": 17,
-      "missing": 3,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 17
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -671,42 +329,17 @@
         "personNames": [],
         "footerText": "Securities are offered through Northwest Investment Advisors, Inc. Member FINRA, SIPC. Quantum Solutions, Inc. and its Investment Advisory Services are offered independent of Northwest Investment Advisors, Inc. and any of its subsidiaries or affiliates.We are registered to sell Securities in the following states: Arizona, California, Washington. We are licensed to sell Insurance Products in the following states: Washington Privacy Policy Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.qsifinancialplanning.com",
-        "companyNames": [
-          "Quantum Solutions, Inc"
-        ],
-        "phoneNumbers": [
-          "5169247",
-          "3604910757",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "qsi123@msn.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "Securities are offered through Northwest Investment Advisors, Inc. Member FINRA, SIPC. Quantum Solutions, Inc. and its Investment Advisory Services are offered independent of Northwest Investment Advisors, Inc. and any of its subsidiaries or affiliates.We are registered to sell Securities in the following states: Arizona, California, Virginia, Washington. We are licensed to sell Insurance Products in the following states: Washington Privacy Policy Site Map"
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "5169247, (360) 491-0757, (360) 491-4932",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://qsifinancialplanning-31030756.brprodaccount.com/",
@@ -714,6 +347,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on qsifinancialplanning-31030756.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 2,
+        "severity": "ok"
       }
     }
   }

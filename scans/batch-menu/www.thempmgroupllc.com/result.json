@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.thempmgroupllc.com",
     "migratedDomain": "https://thempmgroupllc-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:09:06.897Z",
+    "capturedAt": "2026-04-12T08:27:57.404Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -690,6 +690,236 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on thempmgroupllc-31030753.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "Content10",
+            "src": "/files/6799/Baby with Mother.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Baby with Mother.jpg\""
+          },
+          {
+            "fieldName": "Content10",
+            "src": "/files/6799/Man on Crutches.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Man on Crutches.jpg\""
+          },
+          {
+            "fieldName": "Content10",
+            "src": "/files/6799/Cancer Ribbon.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Cancer Ribbon.jpg\""
+          },
+          {
+            "fieldName": "Content10",
+            "src": "/files/6799/Kids Soccar.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Kids Soccar.jpg\""
+          },
+          {
+            "fieldName": "Content11",
+            "src": "/files/6799/Cancer Ribbon.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Cancer Ribbon.jpg\""
+          },
+          {
+            "fieldName": "Content11",
+            "src": "/files/6799/Kids Soccar.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Kids Soccar.jpg\""
+          },
+          {
+            "fieldName": "Content11",
+            "src": "/files/6799/Baby with Mother.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Baby with Mother.jpg\""
+          },
+          {
+            "fieldName": "Content11",
+            "src": "/files/6799/Man on Crutches.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Man on Crutches.jpg\""
+          },
+          {
+            "fieldName": "Content12",
+            "src": "/files/6799/Cancer Ribbon.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Cancer Ribbon.jpg\""
+          },
+          {
+            "fieldName": "Content12",
+            "src": "/files/6799/Kids Soccar.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Kids Soccar.jpg\""
+          },
+          {
+            "fieldName": "Content12",
+            "src": "/files/6799/Baby with Mother.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Baby with Mother.jpg\""
+          },
+          {
+            "fieldName": "Content12",
+            "src": "/files/6799/Man on Crutches.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Man on Crutches.jpg\""
+          },
+          {
+            "fieldName": "Content20",
+            "src": "/files/6799/Cancer Ribbon.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Cancer Ribbon.jpg\""
+          },
+          {
+            "fieldName": "Content20",
+            "src": "/files/6799/Kids Soccar.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Kids Soccar.jpg\""
+          },
+          {
+            "fieldName": "Content20",
+            "src": "/files/6799/Baby with Mother.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Baby with Mother.jpg\""
+          },
+          {
+            "fieldName": "Content20",
+            "src": "/files/6799/Man on Crutches.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Man on Crutches.jpg\""
+          },
+          {
+            "fieldName": "UK Employee Voluntary Benefits",
+            "src": "/files/6799/Baby with Mother.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Baby with Mother.jpg\""
+          },
+          {
+            "fieldName": "UK Employee Voluntary Benefits",
+            "src": "/files/6799/Man on Crutches.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Man on Crutches.jpg\""
+          },
+          {
+            "fieldName": "UK Employee Voluntary Benefits",
+            "src": "/files/6799/Cancer Ribbon.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Cancer Ribbon.jpg\""
+          },
+          {
+            "fieldName": "UK Employee Voluntary Benefits",
+            "src": "/files/6799/Kids Soccar.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Kids Soccar.jpg\""
+          },
+          {
+            "fieldName": "2025 UK Open Enrollment",
+            "src": "/files/6799/Cancer Ribbon.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Cancer Ribbon.jpg\""
+          },
+          {
+            "fieldName": "2025 UK Open Enrollment",
+            "src": "/files/6799/Kids Soccar.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Kids Soccar.jpg\""
+          },
+          {
+            "fieldName": "2025 UK Open Enrollment",
+            "src": "/files/6799/Baby with Mother.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Baby with Mother.jpg\""
+          },
+          {
+            "fieldName": "2025 UK Open Enrollment",
+            "src": "/files/6799/Man on Crutches.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Man on Crutches.jpg\""
+          },
+          {
+            "fieldName": "Custom Section 12",
+            "src": "/files/6799/Cancer Ribbon.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Cancer Ribbon.jpg\""
+          },
+          {
+            "fieldName": "Custom Section 12",
+            "src": "/files/6799/Kids Soccar.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Kids Soccar.jpg\""
+          },
+          {
+            "fieldName": "Custom Section 12",
+            "src": "/files/6799/Baby with Mother.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Baby with Mother.jpg\""
+          },
+          {
+            "fieldName": "Custom Section 12",
+            "src": "/files/6799/Man on Crutches.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Man on Crutches.jpg\""
+          },
+          {
+            "fieldName": "2024 UK Benefits Open Enrollment",
+            "src": "/files/6799/Cancer Ribbon.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Cancer Ribbon.jpg\""
+          },
+          {
+            "fieldName": "2024 UK Benefits Open Enrollment",
+            "src": "/files/6799/Kids Soccar.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Kids Soccar.jpg\""
+          },
+          {
+            "fieldName": "2024 UK Benefits Open Enrollment",
+            "src": "/files/6799/Baby with Mother.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Baby with Mother.jpg\""
+          },
+          {
+            "fieldName": "2024 UK Benefits Open Enrollment",
+            "src": "/files/6799/Man on Crutches.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/6799/Man on Crutches.jpg\""
+          }
+        ],
+        "totalImages": 390,
+        "severity": "critical"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

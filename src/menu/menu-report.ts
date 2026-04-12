@@ -1,7 +1,7 @@
 import { writeFileSync } from 'fs';
 import type { MenuCheckResult, MenuItemIssue, IssueKind, MenuSectionSummary } from './menu-checker.js';
 import type { ContentCheckResult, ContentMismatch } from './content-checker.js';
-import type { SiteHealthResult, BrokerCheckResult, DomainCheckResult } from './site-health-checker.js';
+import type { SiteHealthResult, BrokerCheckResult, DomainCheckResult, TemplateSocialResult, ImageValidationResult, TemplateSubtitleResult } from './site-health-checker.js';
 
 function kindLabel(kind: IssueKind): string {
   switch (kind) {
@@ -248,6 +248,117 @@ function renderContentCheck(contentCheck: ContentCheckResult | undefined, origin
     </div>`;
 }
 
+function renderTemplateSocial(result: TemplateSocialResult | undefined): string {
+  if (!result) return '';
+  const badge = result.severity === 'ok' ? 'badge-pass' : 'badge-fail';
+  const color = result.severity === 'ok' ? '#2e7d32' : '#c62828';
+  const label = result.severity === 'ok' ? 'PASS' : `${result.templateCount} TEMPLATE`;
+  return `
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge ${badge}">PART 6</span>
+            <span class="part-title">Template Social Links</span>
+            <span class="part-status" style="background:${color}">${escHtml(label)}</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Detects social media links pointing to generic/template URLs
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card"><div class="num">${result.totalCount}</div><div class="lbl">Social Links</div></div>
+          <div class="summary-card"><div class="num ${result.templateCount > 0 ? 'num-red' : 'num-green'}">${result.templateCount}</div><div class="lbl">Template/Default</div></div>
+        </div>
+        ${result.links.length > 0 ? `
+          <table style="width:100%;border-collapse:collapse;font-size:13px;margin-top:8px">
+            <thead><tr style="background:#f5f5f5"><th style="padding:6px 10px;text-align:left;border-bottom:2px solid #ddd">Platform</th><th style="padding:6px 10px;text-align:left;border-bottom:2px solid #ddd">URL</th><th style="padding:6px 10px;text-align:center;border-bottom:2px solid #ddd">Status</th></tr></thead>
+            <tbody>
+              ${result.links.map((l) => `
+                <tr style="border-bottom:1px solid #eee">
+                  <td style="padding:6px 10px">${escHtml(l.platform)}</td>
+                  <td style="padding:6px 10px;word-break:break-all;max-width:400px"><a href="${escHtml(l.href)}" target="_blank">${escHtml(l.href.length > 60 ? l.href.substring(0, 60) + '...' : l.href)}</a></td>
+                  <td style="padding:6px 10px;text-align:center">${l.isTemplate ? '<span style="color:#c62828;font-weight:600">&#10007; Template</span>' : '<span style="color:#2e7d32">&#10003; OK</span>'}</td>
+                </tr>`).join('')}
+            </tbody>
+          </table>` : '<div style="padding:8px;color:#888">No social media links found</div>'}
+      </div>
+    </div>`;
+}
+
+function renderImageValidation(result: ImageValidationResult | undefined): string {
+  if (!result) return '';
+  const badge = result.severity === 'ok' ? 'badge-pass' : result.severity === 'critical' ? 'badge-fail' : 'badge-warn';
+  const color = result.severity === 'ok' ? '#2e7d32' : result.severity === 'critical' ? '#c62828' : '#e65100';
+  const label = result.severity === 'ok' ? 'PASS' : `${result.issues.length} ISSUE${result.issues.length !== 1 ? 'S' : ''}`;
+  return `
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge ${badge}">PART 7</span>
+            <span class="part-title">BR JSON Image URLs</span>
+            <span class="part-status" style="background:${color}">${escHtml(label)}</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Validates image src paths in BR source JSON (double slashes, missing prefixes)
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card"><div class="num">${result.totalImages}</div><div class="lbl">Images Scanned</div></div>
+          <div class="summary-card"><div class="num ${result.issues.length > 0 ? 'num-red' : 'num-green'}">${result.issues.length}</div><div class="lbl">Issues Found</div></div>
+        </div>
+        ${result.issues.length > 0 ? `
+          <table style="width:100%;border-collapse:collapse;font-size:13px;margin-top:8px">
+            <thead><tr style="background:#f5f5f5"><th style="padding:6px 10px;text-align:left;border-bottom:2px solid #ddd">Field</th><th style="padding:6px 10px;text-align:left;border-bottom:2px solid #ddd">Issue</th><th style="padding:6px 10px;text-align:left;border-bottom:2px solid #ddd">Details</th></tr></thead>
+            <tbody>
+              ${result.issues.map((i) => `
+                <tr style="border-bottom:1px solid #eee">
+                  <td style="padding:6px 10px">${escHtml(i.fieldName)}</td>
+                  <td style="padding:6px 10px"><span style="background:#fce4ec;color:#c62828;padding:2px 6px;border-radius:3px;font-size:11px">${escHtml(i.issue)}</span></td>
+                  <td style="padding:6px 10px;word-break:break-all;max-width:400px">${escHtml(i.details)}</td>
+                </tr>`).join('')}
+            </tbody>
+          </table>` : '<div style="padding:8px;color:#2e7d32">&#10003; All image URLs look valid</div>'}
+      </div>
+    </div>`;
+}
+
+function renderTemplateSubtitle(result: TemplateSubtitleResult | undefined): string {
+  if (!result) return '';
+  const badge = result.severity === 'ok' ? 'badge-pass' : 'badge-fail';
+  const color = result.severity === 'ok' ? '#2e7d32' : '#c62828';
+  const label = result.isTemplate ? 'TEMPLATE DETECTED' : 'PASS';
+  return `
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge ${badge}">PART 8</span>
+            <span class="part-title">Subtitle / Tagline</span>
+            <span class="part-status" style="background:${color}">${escHtml(label)}</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Checks if the hero subtitle still shows template default text
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        ${result.found ? `
+          <div style="padding:12px 16px;background:${result.isTemplate ? '#fce4ec' : '#e8f5e9'};border:1px solid ${result.isTemplate ? '#ef9a9a' : '#a5d6a7'};border-radius:6px;font-size:14px">
+            ${result.isTemplate
+              ? `<span style="color:#c62828;font-weight:600">&#10007;</span> Template subtitle: <strong>"${escHtml(result.migratedSubtitle)}"</strong>`
+              : `<span style="color:#2e7d32;font-weight:600">&#10003;</span> Subtitle: "${escHtml(result.migratedSubtitle.substring(0, 120))}"`
+            }
+          </div>` : '<div style="padding:8px;color:#888">No hero subtitle found on page</div>'}
+      </div>
+    </div>`;
+}
+
 function renderSiteHealth(siteHealth: SiteHealthResult | undefined): string {
   if (!siteHealth) return '';
 
@@ -343,7 +454,11 @@ function renderSiteHealth(siteHealth: SiteHealthResult | undefined): string {
           }
         </div>
       </div>
-    </div>`;
+    </div>
+
+    ${renderTemplateSocial(siteHealth.templateSocial)}
+    ${renderImageValidation(siteHealth.imageValidation)}
+    ${renderTemplateSubtitle(siteHealth.templateSubtitle)}`;
 }
 
 function escHtml(s: string): string {
@@ -374,17 +489,26 @@ export function generateMenuHtmlReport(result: MenuCheckResult, outputPath: stri
   const p3Color = !contentCheck || contentCheck.error ? '#757575' : p3Critical > 0 ? '#d32f2f' : p3Warning > 0 ? '#e65100' : '#2e7d32';
   const p3Label = !contentCheck || contentCheck.error ? 'SKIPPED' : p3Critical > 0 ? 'MISMATCH' : p3Warning > 0 ? 'WARNINGS' : 'PASS';
 
-  // Parts 4-5 status
+  // Parts 4-8 status
   const p4Label = !siteHealth?.brokerCheck.found ? 'N/A'
     : siteHealth.brokerCheck.severity === 'ok' ? 'SVG OK'
     : siteHealth.brokerCheck.severity === 'critical' ? 'WRONG TYPE' : 'CHECK';
   const p5Label = siteHealth?.domainCheck.hasCustomDomain ? 'CONNECTED' : 'NOT CONNECTED';
+  const p6Label = !siteHealth?.templateSocial ? 'N/A'
+    : siteHealth.templateSocial.templateCount > 0 ? `${siteHealth.templateSocial.templateCount} TEMPLATE` : 'PASS';
+  const p7Label = !siteHealth?.imageValidation ? 'N/A'
+    : siteHealth.imageValidation.issues.length > 0 ? `${siteHealth.imageValidation.issues.length} ISSUES` : 'PASS';
+  const p8Label = !siteHealth?.templateSubtitle ? 'N/A'
+    : siteHealth.templateSubtitle.isTemplate ? 'TEMPLATE' : 'PASS';
 
   // Overall worst status
   const hasBrokerCheckBug = siteHealth?.brokerCheck.found && siteHealth.brokerCheck.severity === 'critical';
-  const overallColor = (bugCount(summary) > 0 || bugCount(liveSummary) > 0 || p3Critical > 0 || hasBrokerCheckBug)
+  const hasTemplateSocial = (siteHealth?.templateSocial?.templateCount ?? 0) > 0;
+  const hasImageIssues = (siteHealth?.imageValidation?.issues.length ?? 0) > 0;
+  const hasTemplateSubtitle = siteHealth?.templateSubtitle?.isTemplate ?? false;
+  const overallColor = (bugCount(summary) > 0 || bugCount(liveSummary) > 0 || p3Critical > 0 || hasBrokerCheckBug || hasTemplateSocial || hasTemplateSubtitle)
     ? '#d32f2f'
-    : (summary.structureChanges > 0 || liveSummary.structureChanges > 0 || p3Warning > 0 || !siteHealth?.domainCheck.hasCustomDomain)
+    : (summary.structureChanges > 0 || liveSummary.structureChanges > 0 || p3Warning > 0 || !siteHealth?.domainCheck.hasCustomDomain || hasImageIssues)
       ? '#1565c0'
       : '#2e7d32';
 
@@ -502,6 +626,9 @@ export function generateMenuHtmlReport(result: MenuCheckResult, outputPath: stri
   <span>Part 3 (Content Identity): ${p3Label}</span>
   <span>Part 4 (BrokerCheck): ${p4Label}</span>
   <span>Part 5 (Domain): ${p5Label}</span>
+  <span>Part 6 (Social): ${p6Label}</span>
+  <span>Part 7 (Images): ${p7Label}</span>
+  <span>Part 8 (Subtitle): ${p8Label}</span>
 </div>
 
 <div class="container">

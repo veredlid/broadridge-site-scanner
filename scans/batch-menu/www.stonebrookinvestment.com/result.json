@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.stonebrookinvestment.com",
     "migratedDomain": "https://stonebrookinvestment-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:53:40.967Z",
+    "capturedAt": "2026-04-12T08:44:02.390Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -70,8 +70,8 @@
       },
       {
         "text": "About Us",
-        "href": "https://www.stonebrookinvestment.com/about_us/",
-        "path": "/about_us",
+        "href": "https://www.stonebrookinvestment.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Schwab  Account Login",
@@ -128,8 +128,8 @@
       },
       {
         "text": "Resources",
-        "href": "https://www.stonebrookinvestment.com/learning_center/",
-        "path": "/learning_center",
+        "href": "https://www.stonebrookinvestment.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -390,7 +390,7 @@
       {
         "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/about_us",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://stonebrookinvestment-31030753.brprodaccount.com/featured-links",
         "migratedPath": "/featured-links",
@@ -480,7 +480,7 @@
       {
         "kind": "missing",
         "brTitle": "Resources",
-        "brHref": "/learning_center",
+        "brHref": "/",
         "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -509,62 +509,14 @@
           "Stonebrook Investment"
         ],
         "phoneNumbers": [
-          "(703) 587-8683"
+          "7035878683"
         ],
         "emailAddresses": [],
         "physicalAddresses": [
-          "12020 Sunrise Valley Drive, Suite 100\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tReston, VA 20191"
+          "12020 Sunrise Valley Drive, Suite "
         ],
-        "personNames": [
-          "Sunrise Valley",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Schwab",
-          "Account Login",
-          "Schwab Account",
-          "Protection\n      \n    \n      \n        Our",
-          "Firm\n      \n    \n      \n        Services",
-          "We Provide",
-          "Our Clients",
-          "Complimentary Portfolio",
-          "Review\n      \n    \n      \n        Our",
-          "Investment Process",
-          "The Portfolio",
-          "Manager\n      \n    \n      \n        Goal",
-          "Specific Investments",
-          "Office Locations",
-          "Independent Advisor",
-          "Resources\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n          \n            Articles",
-          "Calculators\n          \n        \n          \n            Flipbooks",
-          "Newsletters\n          \n        \n          \n            Glossary",
-          "Tax Library",
-          "Videos\n          \n        \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tContact",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t  Charles",
-          "Mark Burkhardt",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tFine",
-          "Sector Funds",
-          "Financials \n\t\t\t\t\n\t\t\t\tCondominiums",
-          "Tariffs Drive",
-          "Market Volatility",
-          "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Estate",
-          "Taxes\n          \n        \n        Use",
-          "Taxable Equivalent",
-          "Yield\n          \n        \n        Calculate",
-          "Federal Income",
-          "Tax\n          \n        \n        This",
-          "Waiting\n          \n        \n        Estimate",
-          "More Calculators",
-          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSchwab",
-          "Learning Center",
-          "Articles\n                Educate",
-          "Newsletters\n                Timely",
-          "Flipbooks\n                \n                  These",
-          "Glossary\n                  \n                  Financial",
-          "United States",
-          "Stonebrook Investment",
-          "Charles Schwab",
-          "Site Map"
-        ],
-        "footerText": "This website is for informational purposes only and does not constitute a complete description of our investment services or performance. This website is in no way a solicitation or offer to sell securities or investment advisory services except, where applicable, in states where we are registered or where an exemption or exclusion from such registrations exist. The products and/or services described by this website are intended to be made available only to persons residing in the United States."
+        "personNames": [],
+        "footerText": "This website is for informational purposes only and does not constitute a complete description of our investment services or performance. This website is in no way a solicitation or offer to sell securities or investment advisory services except, where applicable, in states where we are registered or where an exemption or exclusion from such registrations exist. The products and/or services described by this website are intended to be made available only to persons residing in the United States. This website should not be considered a solicitation or an offering of any Stonebrook Investment LLC services to investors residing outside the U.S. Information throughout this site, whether stock quotes, charts, articles, calculators or any other statement or statements regarding market or other financial information, is obtained from sources which we, and our suppliers, believe to be reliable, but we do not warrant or guarantee the timeliness or accuracy of this information. Nothing on this w"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.stonebrookinvestment.com",
@@ -589,13 +541,6 @@
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "address",
-          "originalValue": "12020 Sunrise Valley Drive, Suite 100\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tReston, VA 20191",
-          "migratedValue": "12020 Sunrise Valley Drive, Suite ",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
         }
       ]
     },
@@ -613,6 +558,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on stonebrookinvestment-31030753.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 0,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

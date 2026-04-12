@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.brosnanfinancial.com",
     "migratedDomain": "https://brosnanfinancial-31030805.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:35:16.458Z",
+    "capturedAt": "2026-04-12T08:40:40.682Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -89,8 +89,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.brosnanfinancial.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our Firm",
@@ -132,8 +132,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.brosnanfinancial.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -175,8 +175,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.brosnanfinancial.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
@@ -474,13 +474,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://brosnanfinancial-31030805.brprodaccount.com/our-firm1",
         "migratedPath": "/our-firm1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm1",
         "subIssues": [
           {
             "kind": "ok",
@@ -539,13 +538,12 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://brosnanfinancial-31030805.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -606,7 +604,7 @@
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -625,9 +623,9 @@
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 14
+      "ok": 16
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -638,48 +636,14 @@
           "Brosnan & Associates Financial & Insurance Services, LLC"
         ],
         "phoneNumbers": [
-          "(949) 387-3019",
-          "(949) 682-2105"
+          "9493873019",
+          "9496822105"
         ],
         "emailAddresses": [
           "info@brosnanfinancial.com"
         ],
         "physicalAddresses": [],
-        "personNames": [
-          "Associates\n      \n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact",
-          "Park Plaza",
-          "Home\n          \n          About",
-          "Us\n           \n            Our",
-          "Firm\n            Our",
-          "Services\n            Our",
-          "Associates\n            Our",
-          "Location\n            Affiliated",
-          "Offices\n            Featured",
-          "Links\n            Tell",
-          "Friend\n            \n           \n          \n          Resources",
-          "Articles\n            Calculators",
-          "Flipbooks\n            Newsletters",
-          "Glossary\n            Tax",
-          "Library\n            Videos",
-          "Request A Quote",
-          "Annuity \n            Long",
-          "Term Care",
-          "Insurance  \n            Group",
-          "Health \n            Life",
-          "Insurance  \n            Individual",
-          "Health \n            Disability",
-          "Income Insurance",
-          "Information Request",
-          "Retirement Confidence",
-          "Our Mission",
-          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Disability",
-          "Disability Income",
-          "Waiting\n          \n        \n        Estimate",
-          "Self Insurance",
-          "Life Insurance",
-          "More Calculators",
-          "Site Map"
-        ],
+        "personNames": [],
         "footerText": "Site Map"
       },
       "migratedIdentity": {
@@ -722,6 +686,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on brosnanfinancial-31030805.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 4,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

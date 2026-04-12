@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.rginvestmentstrategies.com",
     "migratedDomain": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:25:25.547Z",
+    "capturedAt": "2026-04-12T08:38:26.018Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -80,294 +80,51 @@
       }
     ],
     "originalItems": [],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Our Philosophy",
-            "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-            "path": "/"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://rginvestmentstrategies-31030755.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Philosophy",
-            "brHref": "/Our-Philosophy.1.htm",
-            "migratedText": "Our Philosophy",
-            "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "note": "Sub-item \"Our Services\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "note": "Sub-item \"Our Firm\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "note": "Sub-item \"Our Qualifications\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Allbridge Solutions",
-            "brHref": "/Allbridge-Solutions.5.htm",
-            "note": "Sub-item \"Allbridge Solutions\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Money Guide Pro - Financial Planning Website Access",
-            "brHref": "/Money-Guide-Pro---Financial-Planning-Website-Access.6.htm",
-            "note": "Sub-item \"Money Guide Pro - Financial Planning Website Access\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 16,
-      "totalMigratedItems": 11,
-      "missing": 5,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 1,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 10,
+      "ok": 0,
       "totalBrItems": 16
     },
-    "liveIssues": [
-      {
-        "kind": "extra",
-        "migratedText": "Home",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "About Us",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Philosophy",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Our Philosophy\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Resources",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Articles",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Articles\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Calculators",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/calculators",
-        "migratedPath": "/calculators",
-        "note": "\"Calculators\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Newsletters",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/newsletters",
-        "migratedPath": "/newsletters",
-        "note": "\"Newsletters\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Glossary",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/glossary",
-        "migratedPath": "/glossary",
-        "note": "\"Glossary\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Tax Library",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/tax-library",
-        "migratedPath": "/tax-library",
-        "note": "\"Tax Library\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Videos",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/videos",
-        "migratedPath": "/videos",
-        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://rginvestmentstrategies-31030755.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "note": "\"Contact Us\" appears in the migrated menu but is not in the original live site"
-      }
-    ],
+    "liveIssues": [],
     "liveSummary": {
       "totalSourceItems": 0,
-      "totalMigratedItems": 11,
+      "totalMigratedItems": 0,
       "missing": 0,
-      "extra": 11,
+      "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
@@ -388,34 +145,17 @@
         "personNames": [],
         "footerText": ""
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.rginvestmentstrategies.com",
-        "companyNames": [],
-        "phoneNumbers": [
-          "9723800097"
-        ],
-        "emailAddresses": [],
-        "physicalAddresses": [],
-        "personNames": [],
-        "footerText": ""
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(none found)",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://rginvestmentstrategies-31030755.brprodaccount.com/",
@@ -423,6 +163,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on rginvestmentstrategies-31030755.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 0,
+        "severity": "ok"
       }
     }
   }

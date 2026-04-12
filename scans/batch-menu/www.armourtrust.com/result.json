@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.armourtrust.com",
     "migratedDomain": "https://armourtrust-31030806.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:07:01.491Z",
+    "capturedAt": "2026-04-12T08:26:15.814Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -927,6 +927,24 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on armourtrust-31030806.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [],
+        "templateCount": 0,
+        "totalCount": 0,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 201,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "sytc-mass.pfyfn.com",
     "migratedDomain": "https://sytc-masspfyfn-31030809.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:10:27.074Z",
+    "capturedAt": "2026-04-12T08:28:49.362Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -166,63 +166,63 @@
       },
       {
         "text": "Annuity",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=7096&SN=1910283835",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=7096&SN=2599440899",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Long-Term Care Insurance",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=7096&SN=1910283835",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=7096&SN=2599440899",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Group Health",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=7096&SN=1910283835",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=7096&SN=2599440899",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Life Insurance",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=7096&SN=1910283835",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=7096&SN=2599440899",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Individual Health",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=7096&SN=1910283835",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=7096&SN=2599440899",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Disability Income Insurance",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=7096&SN=1910283835",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=7096&SN=2599440899",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Mortgage Qualification",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=71&SSLID=7096&SN=1910283835",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=71&SSLID=7096&SN=2599440899",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "401(k) Information Request",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=7096&SN=1910283835",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=7096&SN=2599440899",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
       },
       {
         "text": "Information Request",
-        "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=7096&SN=1910283835",
+        "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=7096&SN=2599440899",
         "path": "/form.cfm",
         "subItems": [],
         "hasDropdown": false
@@ -628,6 +628,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on sytc-masspfyfn-31030809.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 0,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

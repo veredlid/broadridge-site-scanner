@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.hodnettinsurance.com",
     "migratedDomain": "https://hodnettinsurance-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:16:46.425Z",
+    "capturedAt": "2026-04-12T08:32:32.721Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -156,346 +156,81 @@
         "hasDropdown": true
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://hodnettinsurance-31030801.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Quote and Apply",
-        "href": "https://hodnettinsurance-31030801.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Health Insurance - Quote/Apply Online",
-            "href": "https://hodnettinsurance-31030801.brprodaccount.com/health-insurance5",
-            "path": "/health-insurance5"
-          },
-          {
-            "text": "Dental & Vision - Quote/Apply Online",
-            "href": "https://hodnettinsurance-31030801.brprodaccount.com/dental-vision-insurance9",
-            "path": "/dental-vision-insurance9"
-          },
-          {
-            "text": "Life Insurance",
-            "href": "https://hodnettinsurance-31030801.brprodaccount.com/life-insurance6",
-            "path": "/life-insurance6"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://hodnettinsurance-31030801.brprodaccount.com/glossary",
-        "path": "/glossary",
-        "subItems": [
-          {
-            "text": "Glossary",
-            "href": "https://hodnettinsurance-31030801.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://hodnettinsurance-31030801.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://hodnettinsurance-31030801.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://hodnettinsurance-31030801.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [
-          {
-            "text": "About Us",
-            "href": "https://hodnettinsurance-31030801.brprodaccount.com/about-us2",
-            "path": "/about-us2"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://hodnettinsurance-31030801.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://hodnettinsurance-31030801.brprodaccount.com/location",
-            "path": "/location"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Quote and Apply",
         "brHref": "/javascript:void(0);",
-        "migratedText": "Quote and Apply",
-        "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Health Insurance - Quote/Apply Online",
-            "brHref": "/Health-Insurance---Quote-Apply-Online.5.htm",
-            "migratedText": "Health Insurance - Quote/Apply Online",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/health-insurance5",
-            "migratedPath": "/health-insurance5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Dental &amp; Vision - Quote/Apply Online",
-            "brHref": "/Dental-and-Vision---Quote-Apply-Online.9.htm",
-            "migratedText": "Dental & Vision - Quote/Apply Online",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/dental-vision-insurance9",
-            "migratedPath": "/dental-vision-insurance9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Life Insurance",
-            "brHref": "/Life-Insurance.6.htm",
-            "migratedText": "Life Insurance",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/life-insurance6",
-            "migratedPath": "/life-insurance6"
-          }
-        ]
+        "note": "\"Quote and Apply\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/glossary",
-        "migratedPath": "/glossary",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /glossary",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "About Us",
-            "brHref": "/About-Us.2.htm",
-            "migratedText": "About Us",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/about-us2",
-            "migratedPath": "/about-us2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/location",
-            "migratedPath": "/location"
-          }
-        ]
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 13,
-      "totalMigratedItems": 13,
-      "missing": 0,
-      "extra": 0,
-      "brokenLinks": 0,
-      "duplicates": 0,
-      "hrefMismatches": 1,
-      "structureChanges": 0,
-      "ok": 12,
-      "totalBrItems": 13
-    },
-    "liveIssues": [
-      {
-        "kind": "ok",
-        "brTitle": "Home",
-        "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/",
-        "migratedPath": "/"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Quote and Apply",
-        "brHref": "void(0);",
-        "migratedText": "Quote and Apply",
-        "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Health Insurance - Quote/Apply Online",
-            "brHref": "/Health-Insurance---Quote-Apply-Online.5.htm",
-            "migratedText": "Health Insurance - Quote/Apply Online",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/health-insurance5",
-            "migratedPath": "/health-insurance5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Dental & Vision - Quote/Apply Online",
-            "brHref": "/Dental-and-Vision---Quote-Apply-Online.9.htm",
-            "migratedText": "Dental & Vision - Quote/Apply Online",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/dental-vision-insurance9",
-            "migratedPath": "/dental-vision-insurance9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Life Insurance",
-            "brHref": "/Life-Insurance.6.htm",
-            "migratedText": "Life Insurance",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/life-insurance6",
-            "migratedPath": "/life-insurance6"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Resources",
-        "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/glossary",
-        "migratedPath": "/glossary",
-        "subIssues": [
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Contact Us",
-        "brHref": "/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Contact Us",
-            "brHref": "/contact_us",
-            "migratedText": "Contact Us",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/location",
-            "migratedPath": "/location",
-            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "About Us",
-            "brHref": "/About-Us.2.htm",
-            "migratedText": "About Us",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/about-us2",
-            "migratedPath": "/about-us2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://hodnettinsurance-31030801.brprodaccount.com/location",
-            "migratedPath": "/location"
-          }
-        ]
-      }
-    ],
-    "liveSummary": {
-      "totalSourceItems": 15,
-      "totalMigratedItems": 13,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 1,
-      "ok": 13
+      "structureChanges": 0,
+      "ok": 0,
+      "totalBrItems": 13
+    },
+    "liveIssues": [
+      {
+        "kind": "missing",
+        "brTitle": "Home",
+        "brHref": "/",
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Quote and Apply",
+        "brHref": "void(0);",
+        "note": "\"Quote and Apply\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 15,
+      "totalMigratedItems": 0,
+      "missing": 4,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -517,50 +252,17 @@
         "personNames": [],
         "footerText": "Serving all of El Dorado County including: Diamond Springs, Placerville, Camino, Pollock Pines, Somerset, Mt. Aukum, Grizzly Flat, El Dorado, Shingle Springs, Cameron Park, El Dorado Hills, Georgetown, Rescue, Cool, Pleasant Valley, Coloma, Garden Valley, Lotus, Pilot Hill, and Kyburz. Also parts of Amador County and Sacramento County. Specializing in: Health / Medical Insurance, Dental Insurance, Vision Insurance, Life Insurance (Term, Universal, Whole), Disability Insurance, Long Term Care. Privacy Policy Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.hodnettinsurance.com",
-        "companyNames": [
-          "Hodnett Insurance Services"
-        ],
-        "phoneNumbers": [
-          "5306220592",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "hodins@comcast.net"
-        ],
-        "physicalAddresses": [
-          "4242 Fowler Lane Suite 201\n\n\n\n\nDiamond Springs\n\n"
-        ],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "Serving all of El Dorado County including: Diamond Springs, Placerville, Camino, Pollock Pines, Somerset, Mt. Aukum, Grizzly Flat, El Dorado, Shingle Springs, Cameron Park, El Dorado Hills, Georgetown, Rescue, Cool, Pleasant Valley, Coloma, Garden Valley, Lotus, Pilot Hill, and Kyburz. Also parts of Amador County and Sacramento County. Specializing in: Health / Medical Insurance, Dental Insurance, Vision Insurance, Life Insurance (Term, Universal, Whole), Disability Insurance, Long Term Care. Privacy Policy"
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(530) 622-0592, (530) 622-1853",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "address",
-          "originalValue": "4242 Fowler Lane Suite 201\nDiamond Springs, CA 95619",
-          "migratedValue": "4242 Fowler Lane Suite 201\n\n\n\n\nDiamond Springs\n\n",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://hodnettinsurance-31030801.brprodaccount.com/",
@@ -568,6 +270,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on hodnettinsurance-31030801.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 10,
+        "severity": "ok"
       }
     }
   }

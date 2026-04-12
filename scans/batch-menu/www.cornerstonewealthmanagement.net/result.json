@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.cornerstonewealthmanagement.net",
     "migratedDomain": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:38:57.090Z",
+    "capturedAt": "2026-04-12T08:41:28.973Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -130,375 +130,93 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Home",
-        "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-firm2",
-        "path": "/our-firm2",
-        "subItems": [
-          {
-            "text": "Our Firm",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-qualifications4",
-            "path": "/our-qualifications4"
-          },
-          {
-            "text": "Retirement Planning",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/retirement-planning5",
-            "path": "/retirement-planning5"
-          },
-          {
-            "text": "Academic Investment Principles",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/academic-investment-principles6",
-            "path": "/academic-investment-principles6"
-          },
-          {
-            "text": "Our Mission Statement",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Physicians",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-77",
-            "path": "/custom-section-77"
-          },
-          {
-            "text": "Dentists",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-88",
-            "path": "/custom-section-88"
-          },
-          {
-            "text": "Resident Physicians",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-99",
-            "path": "/custom-section-99"
-          },
-          {
-            "text": "Business Owners",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/business-owners10",
-            "path": "/business-owners10"
-          },
-          {
-            "text": "CPA's",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-1111",
-            "path": "/custom-section-1111"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Coaches Corner",
-            "href": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/coaches-corner12",
-            "path": "/coaches-corner12"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-firm2",
-        "migratedPath": "/our-firm2",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm2",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Retirement Planning",
-            "brHref": "/Retirement-Planning.5.htm",
-            "migratedText": "Retirement Planning",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/retirement-planning5",
-            "migratedPath": "/retirement-planning5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Academic Investment Principles",
-            "brHref": "/Academic-Investment-Principles.6.htm",
-            "migratedText": "Academic Investment Principles",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/academic-investment-principles6",
-            "migratedPath": "/academic-investment-principles6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Physicians",
-            "brHref": "/Physicians.7.htm",
-            "migratedText": "Physicians",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-77",
-            "migratedPath": "/custom-section-77"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Dentists",
-            "brHref": "/Dentists.8.htm",
-            "migratedText": "Dentists",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-88",
-            "migratedPath": "/custom-section-88"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Resident Physicians",
-            "brHref": "/Resident-Physicians.9.htm",
-            "migratedText": "Resident Physicians",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-99",
-            "migratedPath": "/custom-section-99"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business Owners",
-            "brHref": "/Business-Owners.10.htm",
-            "migratedText": "Business Owners",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/business-owners10",
-            "migratedPath": "/business-owners10"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "CPA's",
-            "brHref": "/CPAs.11.htm",
-            "migratedText": "CPA's",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-1111",
-            "migratedPath": "/custom-section-1111"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Coaches Corner",
-            "brHref": "/Coaches-Corner.12.htm",
-            "migratedText": "Coaches Corner",
-            "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/coaches-corner12",
-            "migratedPath": "/coaches-corner12"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 15,
-      "totalMigratedItems": 16,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 2,
       "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
-      "hrefMismatches": 1,
+      "duplicates": 0,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 14,
+      "ok": 0,
       "totalBrItems": 15
     },
     "liveIssues": [
       {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/index.cfm",
-        "migratedText": "Home",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Our Firm",
         "brHref": "/Our-Firm.2.htm",
-        "migratedText": "Our Firm",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-firm2",
-        "migratedPath": "/our-firm2",
-        "note": "\"Our Firm\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Our Firm\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Our Qualifications",
         "brHref": "/Our-Qualifications.4.htm",
-        "migratedText": "Our Qualifications",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-qualifications4",
-        "migratedPath": "/our-qualifications4",
-        "note": "\"Our Qualifications\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Our Qualifications\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Retirement Planning",
         "brHref": "/Retirement-Planning.5.htm",
-        "migratedText": "Retirement Planning",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/retirement-planning5",
-        "migratedPath": "/retirement-planning5",
-        "note": "\"Retirement Planning\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Retirement Planning\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Academic Investment Principles",
         "brHref": "/Academic-Investment-Principles.6.htm",
-        "migratedText": "Academic Investment Principles",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/academic-investment-principles6",
-        "migratedPath": "/academic-investment-principles6",
-        "note": "\"Academic Investment Principles\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Academic Investment Principles\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Our Mission Statement",
         "brHref": "/Our-Mission-Statement.1.htm",
-        "migratedText": "Our Mission Statement",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"Our Mission Statement\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Our Mission Statement\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "structure-change",
+        "kind": "missing",
         "brTitle": "Physicians",
         "brHref": "/Physicians.7.htm",
-        "migratedText": "Physicians",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-77",
-        "migratedPath": "/custom-section-77",
-        "note": "\"Physicians\" is top-level in the original live site but nested under \"About Us\" in migrated"
+        "note": "\"Physicians\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/resources.cfm",
         "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "About Us",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-firm2",
-        "migratedPath": "/our-firm2",
-        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Dentists",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-88",
-        "migratedPath": "/custom-section-88",
-        "note": "\"Dentists\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Business Owners",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/business-owners10",
-        "migratedPath": "/business-owners10",
-        "note": "\"Business Owners\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "CPA's",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/custom-section-1111",
-        "migratedPath": "/custom-section-1111",
-        "note": "\"CPA's\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Services",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/our-services3",
-        "migratedPath": "/our-services3",
-        "note": "\"Our Services\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Location",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "note": "\"Our Location\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Coaches Corner",
-        "migratedHref": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/coaches-corner12",
-        "migratedPath": "/coaches-corner12",
-        "note": "\"Coaches Corner\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 8,
-      "totalMigratedItems": 16,
-      "missing": 1,
-      "extra": 7,
+      "totalMigratedItems": 0,
+      "missing": 8,
+      "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
+      "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 6,
-      "ok": 1
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -507,76 +225,31 @@
         "companyNames": [
           "Cornerstone Wealth Management"
         ],
-        "phoneNumbers": [],
-        "emailAddresses": [
-          "gary.kinder@cornerstonewealthmanagement.net"
-        ],
-        "physicalAddresses": [
-          "4115 Regal Stone LaneSugar Land,  TX 77479"
-        ],
-        "personNames": [
-          "Contact Info",
-          "Regal Stone",
-          "Home\n          \n                Our",
-          "Firm\n              \n                Our",
-          "Qualifications\n              \n                Retirement",
-          "Planning\n              \n                Academic",
-          "Investment Principles",
-          "Our Mission",
-          "Statement\n              \n                Physicians",
-          "Resources\n          \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n    \n       \n      \n      Welcome",
-          "At Cornerstone",
-          "Wealth Management",
-          "Additional Pages",
-          "Dentists\n                  \n                    Resident",
-          "Physicians\n                  \n                    Business",
-          "Our Services",
-          "Our Location",
-          "Coaches Corner",
-          "Site Map"
-        ],
-        "footerText": "Site Map"
-      },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.cornerstonewealthmanagement.net",
-        "companyNames": [],
         "phoneNumbers": [
-          "7138822324",
-          "9723800097"
+          "7138822324"
         ],
         "emailAddresses": [
           "Gary.Kinder@cornerstonewealthmanagement.net"
         ],
         "physicalAddresses": [
-          "4115 Regal Stone Lane\n\n\n\n\nSugar Land\n\n"
+          "4115 Regal Stone Lane\nSugar Land, TX 77479"
         ],
-        "personNames": [],
-        "footerText": ""
+        "personNames": [
+          "Physicians\nBusiness Owners"
+        ],
+        "footerText": "Site Map"
       },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(none found)",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "address",
-          "originalValue": "4115 Regal Stone LaneSugar Land,  TX 77479",
-          "migratedValue": "4115 Regal Stone Lane\n\n\n\n\nSugar Land\n\n",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://cornerstonewealthmanagement-31030803.brprodaccount.com/",
@@ -584,6 +257,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on cornerstonewealthmanagement-31030803.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 33,
+        "severity": "ok"
       }
     }
   }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.virjiinvestments.com",
     "migratedDomain": "https://virjiinvestments-31030752.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:57:04.276Z",
+    "capturedAt": "2026-04-12T08:44:35.722Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -89,8 +89,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.virjiinvestments.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Why Invest?",
@@ -132,8 +132,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.virjiinvestments.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -175,8 +175,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.virjiinvestments.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "401(k) Information Request",
@@ -444,13 +444,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/why-invest1",
         "migratedPath": "/why-invest1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /why-invest1",
         "subIssues": [
           {
             "kind": "ok",
@@ -509,13 +508,12 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://virjiinvestments-31030752.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -576,7 +574,7 @@
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -595,9 +593,9 @@
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 14
+      "ok": 16
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -608,59 +606,13 @@
           "Virji Investments"
         ],
         "phoneNumbers": [
-          "(321) 275-5050",
-          "(321) 275-5126"
+          "3212755050",
+          "3212755126"
         ],
         "emailAddresses": [],
         "physicalAddresses": [],
-        "personNames": [
-          "Virji Investments",
-          "Inc\n      Securing",
-          "The Future",
-          "Earned\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact",
-          "International Pkwy",
-          "Lake Mary",
-          "Home\n          \n          About",
-          "Us\n           \n            Why",
-          "Why Virji",
-          "Our Team",
-          "Client Log",
-          "Newsletter\n            Our",
-          "Location\n            Tell",
-          "Friend\n            \n           \n          \n          Resources",
-          "Articles\n            Calculators",
-          "Flipbooks\n            Newsletters",
-          "Glossary\n            Tax",
-          "Library\n            Videos",
-          "Request A Quote",
-          "Information Request",
-          "Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive",
-          "Securing The",
-          "Future You",
-          "Earned\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tSecuring",
-          "At Virji",
-          "Independent Advice",
-          "Investment Strategies",
-          "Personalized Service",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tHow",
-          "Spenders Can",
-          "Debt After",
-          "What Happens",
-          "Debt When",
-          "Someone Dies",
-          "Have You",
-          "Retirement Savings",
-          "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost",
-          "Retirement\n          \n        \n        Use",
-          "Conversion\n          \n        \n        This",
-          "Savings Goals",
-          "Eligibility\n          \n        \n        Use",
-          "More Calculators",
-          "Disclosure Brochure",
-          "Site Map"
-        ],
-        "footerText": "Virji Investments, Inc. is registered as an investment advisor with the State of Florida, California, Illinois, Texas and Indiana.  All information contained herein is for informational purposes only and does not constitute a solicitation or offer to sell securities or investment advisory services.  Such an offer can only be made in States where Virji Investments, Inc. is registered or where an exception form such registration is available, and no new account will be accepted unless and until al"
+        "personNames": [],
+        "footerText": "Virji Investments, Inc. is registered as an investment advisor with the State of Florida, California, Illinois, Texas and Indiana. All information contained herein is for informational purposes only and does not constitute a solicitation or offer to sell securities or investment advisory services. Such an offer can only be made in States where Virji Investments, Inc. is registered or where an exception form such registration is available, and no new account will be accepted unless and until all local regulations have been satisfied. If you are a resident of the State of Florida, California, Illinois, Texas or Indiana and are interested in our services, please e-mail us or call and request our Disclosure Brochure (Part II of the Form ADV); which provides detailed information about Virji Investments, Inc. and any inherent risks that may be associated with our services. Site Map"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.virjiinvestments.com",
@@ -685,13 +637,6 @@
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Virji Investments, Inc\n      Securing, The Future, Earned\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, International Pkwy, Lake Mary, Home\n          \n          About, Us\n           \n            Why, Why Virji, Our Team, Client Log, Newsletter\n            Our, Location\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Information Request, Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive, Securing The, Future You, Earned\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tSecuring, At Virji, Independent Advice, Investment Strategies, Personalized Service, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tHow, Spenders Can, Debt After, What Happens, Debt When, Someone Dies, Have You, Retirement Savings, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cost, Retirement\n          \n        \n        Use, Conversion\n          \n        \n        This, Savings Goals, Eligibility\n          \n        \n        Use, More Calculators, Disclosure Brochure, Site Map",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
     },
@@ -709,6 +654,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on virjiinvestments-31030752.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 26,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

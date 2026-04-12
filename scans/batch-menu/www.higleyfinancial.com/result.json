@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.higleyfinancial.com",
     "migratedDomain": "https://higleyfinancial-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:14:59.929Z",
+    "capturedAt": "2026-04-12T08:31:27.183Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -229,505 +229,105 @@
         "hasDropdown": true
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://higleyfinancial-31030801.brprodaccount.com/vision-values1",
-        "path": "/vision-values1",
-        "subItems": [
-          {
-            "text": "Vision & Values",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/vision-values1",
-            "path": "/vision-values1"
-          },
-          {
-            "text": "Our Approach",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/our-approach2",
-            "path": "/our-approach2"
-          },
-          {
-            "text": "About Me",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/our-team",
-            "path": "/our-team"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Our Services",
-        "href": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Personal",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/personal3",
-            "path": "/personal3"
-          },
-          {
-            "text": "Business",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/business7",
-            "path": "/business7"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Financial Wellness",
-        "href": "https://connect.emaplan.com/333",
-        "path": "/333",
-        "subItems": [
-          {
-            "text": "Wellness Tool",
-            "href": "https://connect.emaplan.com/333",
-            "path": "/333"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Our Newsletters",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Financial Articles",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Financial Videos",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/videos",
-            "path": "/videos"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Client Login",
-        "href": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Planning Log-in",
-            "href": "https://wealth.emaplan.com/ema/pershing/higleyfinancial",
-            "path": "/ema/pershing/higleyfinancial"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Contact Our Team",
-            "href": "https://higleyfinancial-31030801.brprodaccount.com/location",
-            "path": "/location"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/vision-values1",
-        "migratedPath": "/vision-values1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /vision-values1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Vision &amp; Values",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Vision & Values",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/vision-values1",
-            "migratedPath": "/vision-values1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Approach",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Approach",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/our-approach2",
-            "migratedPath": "/our-approach2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "About Me",
-            "brHref": "/team.htm",
-            "migratedText": "About Me",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Services",
         "brHref": "/",
-        "migratedText": "Our Services",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Personal",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Personal",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/personal3",
-            "migratedPath": "/personal3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business",
-            "brHref": "/Business.7.htm",
-            "migratedText": "Business",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/business7",
-            "migratedPath": "/business7"
-          }
-        ]
+        "note": "\"Our Services\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Financial Wellness",
         "brHref": "/#",
-        "migratedText": "Financial Wellness",
-        "migratedHref": "https://connect.emaplan.com/333",
-        "migratedPath": "/333",
-        "note": "\"Financial Wellness\" should be a dropdown (/#) but migrated links to /333",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Wellness Tool",
-            "brHref": "/https://connect.emaplan.com/333",
-            "migratedText": "Wellness Tool",
-            "migratedHref": "https://connect.emaplan.com/333",
-            "migratedPath": "/333"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Our Newsletters",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Financial Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Financial Articles",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Financial Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Financial Videos",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          }
-        ]
+        "note": "\"Financial Wellness\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Client Login",
         "brHref": "/",
-        "migratedText": "Client Login",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Planning Log-in",
-            "brHref": "/https://wealth.emaplan.com/ema/pershing/higleyfinancial",
-            "migratedText": "Planning Log-in",
-            "migratedHref": "https://wealth.emaplan.com/ema/pershing/higleyfinancial",
-            "migratedPath": "/ema/pershing/higleyfinancial"
-          }
-        ]
+        "note": "\"Client Login\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Contact Our Team",
-            "brHref": "/contact_us/",
-            "migratedText": "Contact Our Team",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/location",
-            "migratedPath": "/location"
-          }
-        ]
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 20,
-      "totalMigratedItems": 20,
-      "missing": 0,
-      "extra": 0,
-      "brokenLinks": 0,
-      "duplicates": 0,
-      "hrefMismatches": 2,
-      "structureChanges": 0,
-      "ok": 18,
-      "totalBrItems": 20
-    },
-    "liveIssues": [
-      {
-        "kind": "ok",
-        "brTitle": "Home",
-        "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "migratedPath": "/"
-      },
-      {
-        "kind": "ok",
-        "brTitle": "About Us",
-        "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/vision-values1",
-        "migratedPath": "/vision-values1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Vision & Values",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Vision & Values",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/vision-values1",
-            "migratedPath": "/vision-values1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Approach",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Approach",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/our-approach2",
-            "migratedPath": "/our-approach2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "About Me",
-            "brHref": "/team.htm",
-            "migratedText": "About Me",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Our Services",
-        "brHref": "/",
-        "migratedText": "Our Services",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Personal",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Personal",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/personal3",
-            "migratedPath": "/personal3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business",
-            "brHref": "/Business.7.htm",
-            "migratedText": "Business",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/business7",
-            "migratedPath": "/business7"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Financial Wellness",
-        "brHref": "/",
-        "migratedText": "Financial Wellness",
-        "migratedHref": "https://connect.emaplan.com/333",
-        "migratedPath": "/333",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Wellness Tool",
-            "brHref": "/Wellness-Tool.11.htm",
-            "migratedText": "Wellness Tool",
-            "migratedHref": "https://connect.emaplan.com/333",
-            "migratedPath": "/333"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Our Newsletters",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Financial Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Financial Articles",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Financial Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Financial Videos",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Financial Wellness\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Client Login",
-        "brHref": "/",
-        "migratedText": "Client Login",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Planning Log-in",
-            "brHref": "/Planning-Log-in.9.htm",
-            "migratedText": "Planning Log-in",
-            "migratedHref": "https://wealth.emaplan.com/ema/pershing/higleyfinancial",
-            "migratedPath": "/ema/pershing/higleyfinancial"
-          }
-        ]
-      },
-      {
-        "kind": "ok",
-        "brTitle": "Contact Us",
-        "brHref": "/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Contact Our Team",
-            "brHref": "/contact_us",
-            "migratedText": "Contact Our Team",
-            "migratedHref": "https://higleyfinancial-31030801.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"Contact Us\" is missing in migrated"
-          }
-        ]
-      }
-    ],
-    "liveSummary": {
-      "totalSourceItems": 22,
-      "totalMigratedItems": 20,
-      "missing": 2,
+      "totalMigratedItems": 0,
+      "missing": 6,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 20
+      "ok": 0,
+      "totalBrItems": 20
+    },
+    "liveIssues": [
+      {
+        "kind": "missing",
+        "brTitle": "Home",
+        "brHref": "/",
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Our Services",
+        "brHref": "/",
+        "note": "\"Our Services\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Financial Wellness",
+        "brHref": "/",
+        "note": "\"Financial Wellness\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Client Login",
+        "brHref": "/",
+        "note": "\"Client Login\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Contact Us",
+        "brHref": "/",
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
+      }
+    ],
+    "liveSummary": {
+      "totalSourceItems": 22,
+      "totalMigratedItems": 0,
+      "missing": 6,
+      "extra": 0,
+      "brokenLinks": 0,
+      "duplicates": 0,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -747,39 +347,17 @@
         "personNames": [],
         "footerText": "Higley Financial, LLC @ www.higleyfinancial.com is headquartered in Portland, Oregon. Questions call 503-747-8601. Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.higleyfinancial.com",
-        "companyNames": [
-          "Shawn O. Higley CPFA, CRPC, NQPA, CTFA, AIF"
-        ],
-        "phoneNumbers": [
-          "5037478601",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "shawn@higleyfinancial.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [],
-        "footerText": "Higley Financial, LLC @ www.higleyfinancial.com is headquartered in Portland, Oregon. Questions call 503-747-8601."
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(503) 747-8601",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://higleyfinancial-31030801.brprodaccount.com/",
@@ -787,6 +365,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on higleyfinancial-31030801.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 10,
+        "severity": "ok"
       }
     }
   }

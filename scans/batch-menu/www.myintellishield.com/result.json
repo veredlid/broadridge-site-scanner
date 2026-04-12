@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.myintellishield.com",
     "migratedDomain": "https://myintellishield-31030757.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:19:37.128Z",
+    "capturedAt": "2026-04-12T08:34:36.097Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -220,361 +220,63 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://myintellishield-31030757.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://myintellishield-31030757.brprodaccount.com/our-mission-as-holistic-advisor1",
-        "path": "/our-mission-as-holistic-advisor1",
-        "subItems": [
-          {
-            "text": "Our Mission - Process - Commitment",
-            "href": "https://myintellishield-31030757.brprodaccount.com/our-mission-as-holistic-advisor1",
-            "path": "/our-mission-as-holistic-advisor1"
-          },
-          {
-            "text": "IntelliShield Medicare",
-            "href": "https://myintellishield-31030757.brprodaccount.com/intellishield-medicare-planning4",
-            "path": "/intellishield-medicare-planning4"
-          },
-          {
-            "text": "Long Term Care Choices",
-            "href": "https://myintellishield-31030757.brprodaccount.com/choices-in-long-term-care6",
-            "path": "/choices-in-long-term-care6"
-          },
-          {
-            "text": "Life Insurance Designs",
-            "href": "https://myintellishield-31030757.brprodaccount.com/custom-section-55",
-            "path": "/custom-section-55"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://myintellishield-31030757.brprodaccount.com/featured-links",
-            "path": "/featured-links"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://myintellishield-31030757.brprodaccount.com/location",
-            "path": "/location"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://myintellishield-31030757.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://myintellishield-31030757.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://myintellishield-31030757.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://myintellishield-31030757.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://myintellishield-31030757.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://myintellishield-31030757.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://myintellishield-31030757.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://myintellishield-31030757.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://myintellishield-31030757.brprodaccount.com/our-mission-as-holistic-advisor1",
-        "migratedPath": "/our-mission-as-holistic-advisor1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-as-holistic-advisor1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission - Process - Commitment",
-            "brHref": "/Our-Mission---Process---Commitment.1.htm",
-            "migratedText": "Our Mission - Process - Commitment",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/our-mission-as-holistic-advisor1",
-            "migratedPath": "/our-mission-as-holistic-advisor1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "IntelliShield Medicare",
-            "brHref": "/IntelliShield-Medicare.4.htm",
-            "migratedText": "IntelliShield Medicare",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/intellishield-medicare-planning4",
-            "migratedPath": "/intellishield-medicare-planning4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Long Term Care Choices",
-            "brHref": "/Long-Term-Care-Choices.6.htm",
-            "migratedText": "Long Term Care Choices",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/choices-in-long-term-care6",
-            "migratedPath": "/choices-in-long-term-care6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Life Insurance Designs",
-            "brHref": "/Life-Insurance-Designs.5.htm",
-            "migratedText": "Life Insurance Designs",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/custom-section-55",
-            "migratedPath": "/custom-section-55"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/location",
-            "migratedPath": "/location"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://myintellishield-31030757.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://myintellishield-31030757.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 15,
-      "totalMigratedItems": 15,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 13,
+      "ok": 0,
       "totalBrItems": 15
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://myintellishield-31030757.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://myintellishield-31030757.brprodaccount.com/our-mission-as-holistic-advisor1",
-        "migratedPath": "/our-mission-as-holistic-advisor1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission - Process - Commitment",
-            "brHref": "/Our-Mission---Process---Commitment.1.htm",
-            "migratedText": "Our Mission - Process - Commitment",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/our-mission-as-holistic-advisor1",
-            "migratedPath": "/our-mission-as-holistic-advisor1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "IntelliShield Medicare",
-            "brHref": "/IntelliShield-Medicare.4.htm",
-            "migratedText": "IntelliShield Medicare",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/intellishield-medicare-planning4",
-            "migratedPath": "/intellishield-medicare-planning4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Long Term Care Choices",
-            "brHref": "/Long-Term-Care-Choices.6.htm",
-            "migratedText": "Long Term Care Choices",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/choices-in-long-term-care6",
-            "migratedPath": "/choices-in-long-term-care6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Life Insurance Designs",
-            "brHref": "/Life-Insurance-Designs.5.htm",
-            "migratedText": "Life Insurance Designs",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/custom-section-55",
-            "migratedPath": "/custom-section-55"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/location",
-            "migratedPath": "/location"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://myintellishield-31030757.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://myintellishield-31030757.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -583,24 +285,22 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://myintellishield-31030757.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 26,
-      "totalMigratedItems": 15,
-      "missing": 3,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 15
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -621,40 +321,17 @@
         "personNames": [],
         "footerText": "David Topor uses this website to market, educate and offer insurance products to his clients. IntelliShiled is marketing DBA, is listed as an outside business activity and is separtate from IntelliPlan Inc., David Topor's advisory services.David Topor offers Investment Advisory Services through Gradient Advisors, LLC (Arden Hills, MN 877-885-0508), a SEC Registered Investment Advisor. Gradient Advisors LLC and its advisors do not render tax, legal, or accounting advice. IntelliPlan Inc. is not a registered advisor and is not an affiliate of Gradient Advisors, LLC. Insurance products and services are offered through David Topor (DBA IntelliShiled) independent agent. David Topor, IntelliPlan Inc. and Gradient Advisors, LLC are not affiliated with or endorsed by the Social Security Administration or any government agency. All written content on this site is for information purposes only. Opinions expressed herein are solely those of David Topor, and our editorial staff. Material presented"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.myintellishield.com",
-        "companyNames": [],
-        "phoneNumbers": [
-          "8654411794",
-          "9723800097",
-          "8778850508"
-        ],
-        "emailAddresses": [
-          "DavidTopor@MyIntelliplan.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "David Topor uses this website to market, educate and offer insurance products to his clients. IntelliShiled is marketing DBA, is listed as an outside business activity and is separtate from IntelliPlan Inc., David Topor's advisory services.David Topor offers Investment Advisory Services through Gradient Advisors, LLC (Arden Hills, MN 877-885-0508), a SEC Registered Investment Advisor. Gradient Advisors LLC and its advisors do not render tax, legal, or accounting advice. IntelliPlan Inc. is not a registered advisor and is not an affiliate of Gradient Advisors, LLC. Insurance products and services are offered through David Topor (DBA IntelliShiled) independent agent. David Topor, IntelliPlan Inc. and Gradient Advisors, LLC are not affiliated with or endorsed by the Social Security Administration or any government agency. All written content on this site is for information purposes only. Opinions expressed herein are solely those of David Topor, and our editorial staff. Material presented"
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(865) 441-1794, (865) 332-3949, (877) 885-0508",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://myintellishield-31030757.brprodaccount.com/",
@@ -662,6 +339,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on myintellishield-31030757.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 45,
+        "severity": "ok"
       }
     }
   }

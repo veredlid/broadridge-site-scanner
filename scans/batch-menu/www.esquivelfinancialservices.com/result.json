@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.esquivelfinancialservices.com",
     "migratedDomain": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:42:01.039Z",
+    "capturedAt": "2026-04-12T08:41:53.340Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -50,8 +50,8 @@
       },
       {
         "text": "About Us",
-        "href": "https://www.esquivelfinancialservices.com/about_us/",
-        "path": "/about_us",
+        "href": "https://www.esquivelfinancialservices.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our Firm",
@@ -88,8 +88,8 @@
       },
       {
         "text": "Resources",
-        "href": "https://www.esquivelfinancialservices.com/learning_center/",
-        "path": "/learning_center",
+        "href": "https://www.esquivelfinancialservices.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -131,42 +131,42 @@
       },
       {
         "text": "Request A Quote",
-        "href": "https://www.esquivelfinancialservices.com/request_quote/",
-        "path": "/request_quote",
+        "href": "https://www.esquivelfinancialservices.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=18591&SN=1910288447",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=18591&SN=1913016962",
             "path": "/form.cfm"
           },
           {
             "text": "Long-Term Care Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=18591&SN=1910288447",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=18591&SN=1913016962",
             "path": "/form.cfm"
           },
           {
             "text": "Group Health",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=18591&SN=1910288447",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=18591&SN=1913016962",
             "path": "/form.cfm"
           },
           {
             "text": "Life Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=18591&SN=1910288447",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=18591&SN=1913016962",
             "path": "/form.cfm"
           },
           {
             "text": "Individual Health",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=18591&SN=1910288447",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=18591&SN=1913016962",
             "path": "/form.cfm"
           },
           {
             "text": "Disability Income Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=18591&SN=1910288447",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=18591&SN=1913016962",
             "path": "/form.cfm"
           },
           {
             "text": "401(k) Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=18591&SN=1910288447",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=18591&SN=1913016962",
             "path": "/form.cfm"
           }
         ],
@@ -180,216 +180,56 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Home",
-        "href": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Our Firm",
-            "href": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-            "path": "/"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://esquivelfinancialservices-31030803.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://esquivelfinancialservices-31030803.brprodaccount.com/our-services2",
-            "path": "/our-services2"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://esquivelfinancialservices-31030803.brprodaccount.com/our-qualifications3",
-            "path": "/our-qualifications3"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://esquivelfinancialservices-31030803.brprodaccount.com/featured-links",
-            "path": "/featured-links"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.1.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.2.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/our-services2",
-            "migratedPath": "/our-services2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.3.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/our-qualifications3",
-            "migratedPath": "/our-qualifications3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 7,
-      "totalMigratedItems": 8,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 2,
       "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
+      "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 7,
+      "ok": 0,
       "totalBrItems": 7
     },
     "liveIssues": [
       {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
-        "brHref": "/about_us",
-        "migratedText": "About Us",
-        "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.1.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.2.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/our-services2",
-            "migratedPath": "/our-services2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.3.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/our-qualifications3",
-            "migratedPath": "/our-qualifications3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://esquivelfinancialservices-31030803.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
         "brTitle": "Resources",
-        "brHref": "/learning_center",
+        "brHref": "/",
         "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/request_quote",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -401,14 +241,14 @@
     ],
     "liveSummary": {
       "totalSourceItems": 25,
-      "totalMigratedItems": 8,
-      "missing": 4,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
+      "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 7
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -418,136 +258,27 @@
           "Esquivel Financial Services"
         ],
         "phoneNumbers": [
-          "(714) 834-1617",
-          "(714) 242-1901"
+          "7056631",
+          "7148341617",
+          "7142421901"
         ],
         "emailAddresses": [],
         "physicalAddresses": [
-          "2677 North Main Street, Suite 825\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSanta Ana, CA 92705"
-        ],
-        "personNames": [
-          "Esquivel Financial",
-          "Services\n      \n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\tContact",
-          "Us\n\t\t\t\t\n\t\t\t\t\t               Esquivel",
-          "Financial Services",
-          "North Main",
-          "Santa Ana",
-          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n      \n    \n  \n\n    \n      \n        \n          \n            \n\t\n\t \n\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHome",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Our",
-          "Firm\n      \n    \n      \n        Our",
-          "Location\n      \n    \n      \n        Our",
-          "Services\n      \n    \n      \n        Our",
-          "Qualifications\n      \n    \n      \n        Featured",
-          "Links\n      \n    \n      \n        Tell",
-          "Friend\n      \n    \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tResources",
-          "Articles\n          \n        \n          \n            Calculators",
-          "Flipbooks\n          \n        \n          \n            Newsletters",
-          "Glossary\n          \n        \n          \n            Tax",
-          "Library\n          \n        \n          \n            Videos",
-          "Request A Quote",
-          "Annuity \n            \n          \n            \n              Long",
-          "Term Care",
-          "Insurance  \n            \n          \n            \n              Group",
-          "Health \n            \n          \n            \n              Life",
-          "Insurance  \n            \n          \n            \n              Individual",
-          "Health \n            \n          \n            \n              Disability",
-          "Income Insurance",
-          "Information Request",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\t\t\t Welcome",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRetroactive",
-          "Social Security",
-          "Turn Back",
-          "Time \n\t\t\t\t\n\t\t\t\tBeneficiaries",
-          "New Tax",
-          "One Big",
-          "Beautiful Bill",
-          "How Savers",
-          "Spenders Can",
-          "No More",
-          "Groundhog Day",
-          "Your Finances",
-          "Financial Wellness",
-          "Checkup \n\t\t\t\t\n\t\t\t\tFinancial",
-          "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Long",
-          "Self Insurance",
-          "Home Affordability",
-          "Taxable Equivalent",
-          "Yield\n          \n        \n        Calculate",
-          "Federal Income",
-          "Tax\n          \n        \n        This",
-          "More Calculators",
-          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tOur",
-          "Friend\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\n\t\t\n\t\n        \n          \n            Learning",
-          "Center\n          \n          \n            \n              \n                Articles",
-          "Newsletters\n                Timely",
-          "Flipbooks\n                \n                  These",
-          "Glossary\n                  \n                  Financial",
-          "Tax Library",
-          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n  \n\n      \n      \n  \n    \n\n      \n  \t\t\tThis",
-          "Ameritas Investment",
-          "Site Map"
-        ],
-        "footerText": "This is not an offer of securities in any jurisdiction, nor is it specifically directed to a resident of any jurisdiction. As with any security, request a prospectus from your registered representative. Read it carefully before you invest or send money. Securities products are limited to residents of California.A representative from Esquivel Financial Services (EFS) will contact you to provide requested information.Securities offered through Ameritas Investment, Corp. (AIC) member FINRA, SIPC.Es"
-      },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.esquivelfinancialservices.com",
-        "companyNames": [
-          "Esquivel Financial Services"
-        ],
-        "phoneNumbers": [
-          "7056631",
-          "7148341617",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "lionel@esquivelfinancialservices.com"
-        ],
-        "physicalAddresses": [
           "2677 North Main Street, Suite "
         ],
-        "personNames": [
-          "Home\nAbout Us"
-        ],
-        "footerText": "This is not an offer of securities in any jurisdiction, nor is it specifically directed to a resident of any jurisdiction. As with any security, request a prospectus from your registered representative. Read it carefully before you invest or send money. Securities products are limited to residents of California.A representative from Esquivel Financial Services (EFS) will contact you to provide requested information.Securities offered through Ameritas Investment, Corp. (AIC) member FINRA, SIPC.Esquivel Financial Services, (EFS) and Ameritas Investment, Corp. (AIC) are not affiliated."
+        "personNames": [],
+        "footerText": "This is not an offer of securities in any jurisdiction, nor is it specifically directed to a resident of any jurisdiction. As with any security, request a prospectus from your registered representative. Read it carefully before you invest or send money. Securities products are limited to residents of California.A representative from Esquivel Financial Services (EFS) will contact you to provide requested information.Securities offered through Ameritas Investment, Corp. (AIC) member FINRA, SIPC.Esquivel Financial Services, (EFS) and Ameritas Investment, Corp. (AIC) are not affiliated. Site Map"
       },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(714) 834-1617, (714) 242-1901",
-          "migratedValue": "7056631",
-          "severity": "critical",
-          "note": "Phone \"7056631\" on migrated site not found on original"
-        },
-        {
-          "field": "phone",
-          "originalValue": "(714) 834-1617, (714) 242-1901",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Esquivel Financial, Services\n      \n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\tContact, Us\n\t\t\t\t\n\t\t\t\t\t               Esquivel, Financial Services, North Main, Santa Ana, Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n      \n    \n  \n\n    \n      \n        \n          \n            \n\t\n\t \n\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHome, Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Our, Firm\n      \n    \n      \n        Our, Location\n      \n    \n      \n        Our, Services\n      \n    \n      \n        Our, Qualifications\n      \n    \n      \n        Featured, Links\n      \n    \n      \n        Tell, Friend\n      \n    \n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tResources, Articles\n          \n        \n          \n            Calculators, Flipbooks\n          \n        \n          \n            Newsletters, Glossary\n          \n        \n          \n            Tax, Library\n          \n        \n          \n            Videos, Request A Quote, Annuity \n            \n          \n            \n              Long, Term Care, Insurance  \n            \n          \n            \n              Group, Health \n            \n          \n            \n              Life, Insurance  \n            \n          \n            \n              Individual, Health \n            \n          \n            \n              Disability, Income Insurance, Information Request, Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\t\t\t Welcome, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRetroactive, Social Security, Turn Back, Time \n\t\t\t\t\n\t\t\t\tBeneficiaries, New Tax, One Big, Beautiful Bill, How Savers, Spenders Can, No More, Groundhog Day, Your Finances, Financial Wellness, Checkup \n\t\t\t\t\n\t\t\t\tFinancial, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Long, Self Insurance, Home Affordability, Taxable Equivalent, Yield\n          \n        \n        Calculate, Federal Income, Tax\n          \n        \n        This, More Calculators, Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tOur, Friend\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\n\t\t\n\t\n        \n          \n            Learning, Center\n          \n          \n            \n              \n                Articles, Newsletters\n                Timely, Flipbooks\n                \n                  These, Glossary\n                  \n                  Financial, Tax Library, Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n  \n\n      \n      \n  \n    \n\n      \n  \t\t\tThis, Ameritas Investment, Site Map",
-          "migratedValue": "Home\nAbout Us",
-          "severity": "critical",
-          "note": "Person \"Home\nAbout Us\" appears on migrated site but not on original"
-        },
-        {
-          "field": "address",
-          "originalValue": "2677 North Main Street, Suite 825\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSanta Ana, CA 92705",
-          "migratedValue": "2677 North Main Street, Suite ",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "unknown",
-        "details": "BrokerCheck banner detected but could not confirm SVG type",
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
         "severity": "warning"
       },
       "domainCheck": {
@@ -555,6 +286,36 @@
         "hostname": "esquivelfinancialservices-31030803.brprodaccount.com",
         "hasCustomDomain": false,
         "details": "No custom domain — still on esquivelfinancialservices-31030803.brprodaccount.com",
+        "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/18591/Licoln Towne Center 2~003.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/18591/Licoln Towne Center 2~003.jpg\""
+          },
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/18591/Licoln Towne Center 2~003.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/18591/Licoln Towne Center 2~003.jpg\""
+          },
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/18591/Licoln Towne Center 2~003.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/18591/Licoln Towne Center 2~003.jpg\""
+          },
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/18591/Licoln Towne Center 2~003.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/18591/Licoln Towne Center 2~003.jpg\""
+          }
+        ],
+        "totalImages": 6,
         "severity": "warning"
       }
     }

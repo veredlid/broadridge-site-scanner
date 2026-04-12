@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.diversifiedplanners.com",
     "migratedDomain": "https://diversifiedplanners-31030803.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:16:27.722Z",
+    "capturedAt": "2026-04-12T08:32:19.525Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -677,6 +677,24 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on diversifiedplanners-31030803.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [],
+        "templateCount": 0,
+        "totalCount": 0,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 12,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

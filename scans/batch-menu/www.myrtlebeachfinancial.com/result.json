@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.myrtlebeachfinancial.com",
     "migratedDomain": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:19:17.460Z",
+    "capturedAt": "2026-04-12T08:34:25.712Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -365,274 +365,49 @@
         "hasDropdown": true
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Tax Library",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/glossary",
-            "path": "/glossary"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Compare your rate",
-        "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/free-ira-book-by-mail8",
-        "path": "/free-ira-book-by-mail8",
-        "subItems": [
-          {
-            "text": "HGTV",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/hgtv10",
-            "path": "/hgtv10"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Required Minimum Distributions",
-        "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/required-minimum-distributions",
-        "path": "/calculator/required-minimum-distributions",
-        "subItems": [
-          {
-            "text": "Required Minimum Distributions",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/required-minimum-distributions",
-            "path": "/calculator/required-minimum-distributions"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "A Tiered Investment Strategy",
-        "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/a-tiered-investment-strategy",
-        "path": "/video/a-tiered-investment-strategy",
-        "subItems": [
-          {
-            "text": "Do You Know Who Your Beneficiaries Are?",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/do-you-know-who-your-beneficiaries-are%3F",
-            "path": "/video/do-you-know-who-your-beneficiaries-are%3F"
-          },
-          {
-            "text": "Cost of Retirement",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/cost-of-retirement",
-            "path": "/calculator/cost-of-retirement"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Leaving Your Employer? Don’t Forget Your Retirement Savings Plan",
-        "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "What Is an IRA Rollover?",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/article/what-is-an-ira-rollover%3F",
-            "path": "/article/what-is-an-ira-rollover%3F"
-          },
-          {
-            "text": "Why Do People Buy Annuities?",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/article/why-do-people-buy-annuities%3F",
-            "path": "/article/why-do-people-buy-annuities%3F"
-          },
-          {
-            "text": "What Is a 1035 Exchange?",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/article/what-is-a-1035-exchange%3F",
-            "path": "/article/what-is-a-1035-exchange%3F"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "The Social Security Statement Gets a Makeover",
-        "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "The Basics of Social Security Retirement Benefits",
-            "href": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/the-basics-of-social-security-retirement-benefits",
-            "path": "/video/the-basics-of-social-security-retirement-benefits"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          }
-        ]
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Compare your rate",
         "brHref": "/-Avoid-IRA-mistakes.8.htm",
-        "migratedText": "Compare your rate",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/free-ira-book-by-mail8",
-        "migratedPath": "/free-ira-book-by-mail8",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "HGTV",
-            "brHref": "/HGTV.10.htm",
-            "migratedText": "HGTV",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/hgtv10",
-            "migratedPath": "/hgtv10"
-          }
-        ]
+        "note": "\"Compare your rate\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Required Minimum Distributions",
         "brHref": "/learning_center/calculators/required_minimum_distributions",
-        "migratedText": "Required Minimum Distributions",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/required-minimum-distributions",
-        "migratedPath": "/calculator/required-minimum-distributions",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Required Minimum Distributions",
-            "brHref": "/learning_center/calculators/required_minimum_distributions",
-            "migratedText": "Required Minimum Distributions",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/required-minimum-distributions",
-            "migratedPath": "/calculator/required-minimum-distributions"
-          }
-        ]
+        "note": "\"Required Minimum Distributions\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "A Tiered Investment Strategy",
         "brHref": "/A-Tiered-Investment-Strategy.c9802.htm",
-        "migratedText": "A Tiered Investment Strategy",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/a-tiered-investment-strategy",
-        "migratedPath": "/video/a-tiered-investment-strategy",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Do You Know Who Your Beneficiaries Are?",
-            "brHref": "/Do-You-Know-Who-Your-Beneficiaries-Are.c4707.htm",
-            "migratedText": "Do You Know Who Your Beneficiaries Are?",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/do-you-know-who-your-beneficiaries-are%3F",
-            "migratedPath": "/video/do-you-know-who-your-beneficiaries-are%3F"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Cost of Retirement",
-            "brHref": "/learning_center/calculators/cost_of_retirement",
-            "migratedText": "Cost of Retirement",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/cost-of-retirement",
-            "migratedPath": "/calculator/cost-of-retirement"
-          }
-        ]
+        "note": "\"A Tiered Investment Strategy\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Leaving Your Employer? Don’t Forget Your Retirement Savings Plan",
         "brHref": "/Leaving-Your-Employer-Dont-Forget-Your-Retirement-Savings-Plan.c9889.htm",
-        "migratedText": "Leaving Your Employer? Don’t Forget Your Retirement Savings Plan",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "What Is an IRA Rollover?",
-            "brHref": "/What-Is-an-IRA-Rollover.c1034.htm",
-            "migratedText": "What Is an IRA Rollover?",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/article/what-is-an-ira-rollover%3F",
-            "migratedPath": "/article/what-is-an-ira-rollover%3F"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Why Do People Buy Annuities?",
-            "brHref": "/Why-Do-People-Buy-Annuities.c1039.htm",
-            "migratedText": "Why Do People Buy Annuities?",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/article/why-do-people-buy-annuities%3F",
-            "migratedPath": "/article/why-do-people-buy-annuities%3F"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "What Is a 1035 Exchange?",
-            "brHref": "/What-Is-a-1035-Exchange.c1042.htm",
-            "migratedText": "What Is a 1035 Exchange?",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/article/what-is-a-1035-exchange%3F",
-            "migratedPath": "/article/what-is-a-1035-exchange%3F"
-          }
-        ]
+        "note": "\"Leaving Your Employer? Don’t Forget Your Retirement Savings Plan\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "The Social Security Statement Gets a Makeover",
         "brHref": "/The-Social-Security-Statement-Gets-a-Makeover.c9882.htm",
-        "migratedText": "The Social Security Statement Gets a Makeover",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "The Basics of Social Security Retirement Benefits",
-            "brHref": "/The-Basics-of-Social-Security-Retirement-Benefits.c8207.htm",
-            "migratedText": "The Basics of Social Security Retirement Benefits",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/the-basics-of-social-security-retirement-benefits",
-            "migratedPath": "/video/the-basics-of-social-security-retirement-benefits"
-          }
-        ]
+        "note": "\"The Social Security Statement Gets a Makeover\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -643,346 +418,58 @@
     ],
     "summary": {
       "totalSourceItems": 19,
-      "totalMigratedItems": 18,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 8,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 18,
+      "ok": 0,
       "totalBrItems": 19
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Home",
-            "brHref": "/",
-            "migratedText": "Home",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-            "migratedPath": "/",
-            "note": "\"Home\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          }
-        ]
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Contact Us",
-            "brHref": "/contact_us",
-            "migratedText": "Contact Us",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/location",
-            "migratedPath": "/location",
-            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Information Request",
-            "brHref": "/",
-            "note": "Sub-item \"Information Request\" under \"Contact Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Information Request",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"Information Request\" under \"Contact Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "What Key Estate Planning Tools Should I Know About?",
-            "brHref": "/What-Key-Estate-Planning-Tools-Should-I-Know-About.c109.htm",
-            "note": "Sub-item \"What Key Estate Planning Tools Should I Know About?\" under \"Contact Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "What Are the Pitfalls of Probate?",
-            "brHref": "/What-Are-the-Pitfalls-of-Probate.c111.htm",
-            "note": "Sub-item \"What Are the Pitfalls of Probate?\" under \"Contact Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Compare your rate",
         "brHref": "/",
-        "migratedText": "Compare your rate",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/free-ira-book-by-mail8",
-        "migratedPath": "/free-ira-book-by-mail8",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Compare your rate",
-            "brHref": "/-Avoid-IRA-mistakes.8.htm",
-            "migratedText": "Compare your rate",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/free-ira-book-by-mail8",
-            "migratedPath": "/free-ira-book-by-mail8",
-            "note": "\"Compare your rate\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "HGTV",
-            "brHref": "/",
-            "migratedText": "HGTV",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/hgtv10",
-            "migratedPath": "/hgtv10"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "HGTV",
-            "brHref": "/HGTV.10.htm",
-            "migratedText": "HGTV",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/hgtv10",
-            "migratedPath": "/hgtv10"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Federal Income Tax",
-            "brHref": "/learning_center/calculators/federal_income_tax",
-            "note": "Sub-item \"Federal Income Tax\" under \"Compare your rate\" is missing in migrated"
-          }
-        ]
+        "note": "\"Compare your rate\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Required Minimum Distributions",
         "brHref": "/",
-        "migratedText": "Required Minimum Distributions",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/required-minimum-distributions",
-        "migratedPath": "/calculator/required-minimum-distributions",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Required Minimum Distributions",
-            "brHref": "/learning_center/calculators/required_minimum_distributions",
-            "migratedText": "Required Minimum Distributions",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/required-minimum-distributions",
-            "migratedPath": "/calculator/required-minimum-distributions"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Required Minimum Distributions",
-            "brHref": "/",
-            "migratedText": "Required Minimum Distributions",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/required-minimum-distributions",
-            "migratedPath": "/calculator/required-minimum-distributions"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Required Minimum Distributions",
-            "brHref": "/learning_center/calculators/required_minimum_distributions",
-            "migratedText": "Required Minimum Distributions",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/required-minimum-distributions",
-            "migratedPath": "/calculator/required-minimum-distributions"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Retirement Plan Early Distribution",
-            "brHref": "/learning_center/calculators/retirement_plan_early_distribution",
-            "note": "Sub-item \"Retirement Plan Early Distribution\" under \"Required Minimum Distributions\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "What Are My Retirement Planning Options?",
-            "brHref": "/What-Are-My-Retirement-Planning-Options.c96.htm",
-            "note": "Sub-item \"What Are My Retirement Planning Options?\" under \"Required Minimum Distributions\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "How Can I Control the Distribution of My Estate?",
-            "brHref": "/How-Can-I-Control-the-Distribution-of-My-Estate.c114.htm",
-            "note": "Sub-item \"How Can I Control the Distribution of My Estate?\" under \"Required Minimum Distributions\" is missing in migrated"
-          }
-        ]
+        "note": "\"Required Minimum Distributions\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "A Tiered Investment Strategy",
         "brHref": "/",
-        "migratedText": "A Tiered Investment Strategy",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/a-tiered-investment-strategy",
-        "migratedPath": "/video/a-tiered-investment-strategy",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "A Tiered Investment Strategy",
-            "brHref": "/A-Tiered-Investment-Strategy.c9802.htm",
-            "migratedText": "A Tiered Investment Strategy",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/a-tiered-investment-strategy",
-            "migratedPath": "/video/a-tiered-investment-strategy",
-            "note": "\"A Tiered Investment Strategy\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Do You Know Who Your Beneficiaries Are?",
-            "brHref": "/",
-            "migratedText": "Do You Know Who Your Beneficiaries Are?",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/do-you-know-who-your-beneficiaries-are%3F",
-            "migratedPath": "/video/do-you-know-who-your-beneficiaries-are%3F"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Do You Know Who Your Beneficiaries Are?",
-            "brHref": "/Do-You-Know-Who-Your-Beneficiaries-Are.c4707.htm",
-            "migratedText": "Do You Know Who Your Beneficiaries Are?",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/do-you-know-who-your-beneficiaries-are%3F",
-            "migratedPath": "/video/do-you-know-who-your-beneficiaries-are%3F"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Financial Protection: Using Insurance to Help Manage Life’s Risks",
-            "brHref": "/files/flipbooks/insurance",
-            "note": "Sub-item \"Financial Protection: Using Insurance to Help Manage Life’s Risks\" under \"A Tiered Investment Strategy\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "How Can a Living Trust Help Me Control My Estate?",
-            "brHref": "/How-Can-a-Living-Trust-Help-Me-Control-My-Estate.c110.htm",
-            "note": "Sub-item \"How Can a Living Trust Help Me Control My Estate?\" under \"A Tiered Investment Strategy\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Life Insurance",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"Life Insurance\" under \"A Tiered Investment Strategy\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Cost of Retirement",
-            "brHref": "/",
-            "migratedText": "Cost of Retirement",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/cost-of-retirement",
-            "migratedPath": "/calculator/cost-of-retirement"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Cost of Retirement",
-            "brHref": "/learning_center/calculators/cost_of_retirement",
-            "migratedText": "Cost of Retirement",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/calculator/cost-of-retirement",
-            "migratedPath": "/calculator/cost-of-retirement"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Retirement Portfolio Lifespan",
-            "brHref": "/learning_center/calculators/retirement_portfolio_lifespan",
-            "note": "Sub-item \"Retirement Portfolio Lifespan\" under \"A Tiered Investment Strategy\" is missing in migrated"
-          }
-        ]
+        "note": "\"A Tiered Investment Strategy\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Leaving Your Employer? Don’t Forget Your Retirement Savings Plan",
         "brHref": "/",
-        "migratedText": "Leaving Your Employer? Don’t Forget Your Retirement Savings Plan",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Leaving Your Employer? Don’t Forget Your Retirement Savings Plan",
-            "brHref": "/Leaving-Your-Employer-Dont-Forget-Your-Retirement-Savings-Plan.c9889.htm",
-            "migratedText": "Leaving Your Employer? Don’t Forget Your Retirement Savings Plan",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-            "migratedPath": "/",
-            "note": "\"Leaving Your Employer? Don’t Forget Your Retirement Savings Plan\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "What Is an IRA Rollover?",
-            "brHref": "/What-Is-an-IRA-Rollover.c1034.htm",
-            "migratedText": "What Is an IRA Rollover?",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/article/what-is-an-ira-rollover%3F",
-            "migratedPath": "/article/what-is-an-ira-rollover%3F"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "401(k) Information Request",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"401(k) Information Request\" under \"Leaving Your Employer? Don’t Forget Your Retirement Savings Plan\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Why Do People Buy Annuities?",
-            "brHref": "/Why-Do-People-Buy-Annuities.c1039.htm",
-            "migratedText": "Why Do People Buy Annuities?",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/article/why-do-people-buy-annuities%3F",
-            "migratedPath": "/article/why-do-people-buy-annuities%3F"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "What Is a 1035 Exchange?",
-            "brHref": "/What-Is-a-1035-Exchange.c1042.htm",
-            "migratedText": "What Is a 1035 Exchange?",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/article/what-is-a-1035-exchange%3F",
-            "migratedPath": "/article/what-is-a-1035-exchange%3F"
-          }
-        ]
+        "note": "\"Leaving Your Employer? Don’t Forget Your Retirement Savings Plan\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "The Social Security Statement Gets a Makeover",
         "brHref": "/",
-        "migratedText": "The Social Security Statement Gets a Makeover",
-        "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "The Social Security Statement Gets a Makeover",
-            "brHref": "/The-Social-Security-Statement-Gets-a-Makeover.c9882.htm",
-            "migratedText": "The Social Security Statement Gets a Makeover",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
-            "migratedPath": "/",
-            "note": "\"The Social Security Statement Gets a Makeover\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "The Basics of Social Security Retirement Benefits",
-            "brHref": "/The-Basics-of-Social-Security-Retirement-Benefits.c8207.htm",
-            "migratedText": "The Basics of Social Security Retirement Benefits",
-            "migratedHref": "https://myrtlebeachfinancial-31030757.brprodaccount.com/video/the-basics-of-social-security-retirement-benefits",
-            "migratedPath": "/video/the-basics-of-social-security-retirement-benefits"
-          }
-        ]
+        "note": "\"The Social Security Statement Gets a Makeover\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -993,14 +480,14 @@
     ],
     "liveSummary": {
       "totalSourceItems": 48,
-      "totalMigratedItems": 18,
-      "missing": 14,
+      "totalMigratedItems": 0,
+      "missing": 8,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 6,
-      "ok": 23
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -1020,41 +507,17 @@
         "personNames": [],
         "footerText": "By using this site, you agree with:Mrytle Beach Financial does NOT offer tax or Legal advice. Nothing contained within this site is a offer or meant to be an offer to buy or sell any type of security. Not FDIC Insured. Privacy Policy Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.myrtlebeachfinancial.com",
-        "companyNames": [
-          "Qualified Income Planning and IRA Services"
-        ],
-        "phoneNumbers": [
-          "8435049545",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "Jeff@mbfinco.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "By using this site, you agree with: Mrytle Beach Financial does NOT offer tax or Legal advice. Nothing contained within this site is a offer or meant to be an offer to buy or sell any type of security. Not FDIC Insured. Privacy Policy"
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(843) 504-9545",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://myrtlebeachfinancial-31030757.brprodaccount.com/",
@@ -1062,6 +525,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on myrtlebeachfinancial-31030757.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 86,
+        "severity": "ok"
       }
     }
   }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.prairiefs.com",
     "migratedDomain": "https://prairiefs-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:08:09.357Z",
+    "capturedAt": "2026-04-12T08:26:49.899Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -634,6 +634,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on prairiefs-31030808.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 25,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

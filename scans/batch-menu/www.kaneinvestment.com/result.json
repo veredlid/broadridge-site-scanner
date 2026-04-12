@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.kaneinvestment.com",
     "migratedDomain": "https://broadridgeprod.wixstudio.com/0kd7tbawnwo0uuirpac5",
-    "capturedAt": "2026-04-01T14:07:21.756Z",
+    "capturedAt": "2026-04-12T08:26:21.908Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -711,6 +711,80 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on broadridgeprod.wixstudio.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "OurFirm",
+            "src": "/files/38713/Ship In Harbor.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/38713/Ship In Harbor.jpg\""
+          },
+          {
+            "fieldName": "OurQualifications",
+            "src": "/files/38713/Our Services with M.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/38713/Our Services with M.jpg\""
+          },
+          {
+            "fieldName": "OurServices",
+            "src": "/files/38713/Sunset Beach.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/38713/Sunset Beach.jpg\""
+          },
+          {
+            "fieldName": "Our Mission Statement",
+            "src": "/files/38713/Ship In Harbor.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/38713/Ship In Harbor.jpg\""
+          },
+          {
+            "fieldName": "Our Services",
+            "src": "/files/38713/Our Services with M.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/38713/Our Services with M.jpg\""
+          },
+          {
+            "fieldName": "Our Firm",
+            "src": "/files/38713/Sunset Beach.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/38713/Sunset Beach.jpg\""
+          }
+        ],
+        "totalImages": 7,
+        "severity": "critical"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

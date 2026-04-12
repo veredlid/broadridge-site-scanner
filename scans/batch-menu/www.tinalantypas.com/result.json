@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.tinalantypas.com",
     "migratedDomain": "https://tinalantypas-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:56:07.796Z",
+    "capturedAt": "2026-04-12T08:44:11.386Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -54,8 +54,8 @@
       },
       {
         "text": "About Us",
-        "href": "https://www.tinalantypas.com/about_us/",
-        "path": "/about_us",
+        "href": "https://www.tinalantypas.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Tina L. Antypas",
@@ -97,8 +97,8 @@
       },
       {
         "text": "Resources",
-        "href": "https://www.tinalantypas.com/learning_center/",
-        "path": "/learning_center",
+        "href": "https://www.tinalantypas.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -130,42 +130,42 @@
       },
       {
         "text": "Request A Quote",
-        "href": "https://www.tinalantypas.com/request_quote/",
-        "path": "/request_quote",
+        "href": "https://www.tinalantypas.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Long-Term Care Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=20199&SN=2647947479",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=20199&SN=1913018037",
             "path": "/form.cfm"
           },
           {
             "text": "Group Health",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=20199&SN=2647947479",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=20199&SN=1913018037",
             "path": "/form.cfm"
           },
           {
             "text": "Life Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=20199&SN=2647947479",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=20199&SN=1913018037",
             "path": "/form.cfm"
           },
           {
             "text": "Individual Health",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=20199&SN=2647947479",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=69&SSLID=20199&SN=1913018037",
             "path": "/form.cfm"
           },
           {
             "text": "Disability Income Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=20199&SN=2647947479",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=20199&SN=1913018037",
             "path": "/form.cfm"
           },
           {
             "text": "401(k) Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=20199&SN=2647947479",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=20199&SN=1913018037",
             "path": "/form.cfm"
           },
           {
             "text": "Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=20199&SN=2647947479",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=20199&SN=1913018037",
             "path": "/form.cfm"
           }
         ],
@@ -340,7 +340,7 @@
       {
         "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/about_us",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://tinalantypas-31030753.brprodaccount.com/tina-l-antypas1",
         "migratedPath": "/tina-l-antypas1",
@@ -404,13 +404,13 @@
       {
         "kind": "missing",
         "brTitle": "Resources",
-        "brHref": "/learning_center",
+        "brHref": "/",
         "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/request_quote",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -439,55 +439,17 @@
           "Tina L. Antypas Insurance and Financial Services"
         ],
         "phoneNumbers": [
-          "(818) 606-4778",
-          "(626) 578-0488"
+          "8186064778",
+          "6265780488"
         ],
         "emailAddresses": [
           "tina@tinalantypas.com"
         ],
         "physicalAddresses": [],
         "personNames": [
-          "Colorado Blvd",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Tina",
-          "Antypas\n      \n    \n      \n        Office",
-          "Location\n      \n    \n      \n        Services",
-          "Fee Structure",
-          "Insurance Quotes",
-          "Featured Links",
-          "Tell A Friend",
-          "Resources\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n          \n            Articles",
-          "Calculators\n          \n        \n          \n            Flipbooks",
-          "Glossary\n          \n        \n          \n            Videos",
-          "Request A Quote",
-          "Term Care",
-          "Insurance  \n            \n          \n            \n              Group",
-          "Health \n            \n          \n            \n              Life",
-          "Insurance  \n            \n          \n            \n              Individual",
-          "Health \n            \n          \n            \n              Disability",
-          "Income Insurance",
-          "Information Request",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\t\t\t\n\n\nTina",
-          "Financial Services",
-          "Financial Planning",
-          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Cost",
-          "Retirement\n          \n        \n        Use",
-          "Estate Taxes",
-          "Eligibility\n          \n        \n        Use",
-          "More Calculators",
-          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tTina",
-          "Learning Center",
-          "Articles\n                Educate",
-          "Flipbooks\n                \n                  These",
-          "Glossary\n                  \n                  Financial",
-          "Estate Planning",
-          "Executive Benefits",
-          "Life Insurance",
-          "Disability Protection",
-          "Long Term",
-          "Health Insurance",
-          "Site Map"
+          "Tina L. Antypas"
         ],
-        "footerText": "Estate Planning  ¨  Executive Benefits  ¨  Life Insurance Solutions  ¨  Disability Protection  ¨  Long Term Care  ¨  Health Insurance       \n  \n      \n        \n          \n            \n              \n                  Site Map"
+        "footerText": "Estate Planning ¨ Executive Benefits ¨ Life Insurance Solutions ¨ Disability Protection ¨ Long Term Care ¨ Health Insurance Site Map"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.tinalantypas.com",
@@ -527,6 +489,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on tinalantypas-31030753.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 2,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

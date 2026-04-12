@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.belikoveandgraves.com",
     "migratedDomain": "https://belikoveandgraves-31030806.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:32:54.663Z",
+    "capturedAt": "2026-04-12T08:40:09.469Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -71,7 +71,136 @@
         "children": []
       }
     ],
-    "originalItems": [],
+    "originalItems": [
+      {
+        "text": "Home",
+        "href": "https://www.belikoveandgraves.com/",
+        "path": "/",
+        "subItems": [],
+        "hasDropdown": false
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.belikoveandgraves.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Our Firm",
+            "href": "https://www.belikoveandgraves.com/Our-Firm.1.htm",
+            "path": "/Our-Firm.1.htm"
+          },
+          {
+            "text": "Our Associates",
+            "href": "https://www.belikoveandgraves.com/agents.cfm",
+            "path": "/agents.cfm"
+          },
+          {
+            "text": "Our Location",
+            "href": "https://www.belikoveandgraves.com/location.cfm",
+            "path": "/location.cfm"
+          },
+          {
+            "text": "Our Services",
+            "href": "https://www.belikoveandgraves.com/Our-Services.2.htm",
+            "path": "/Our-Services.2.htm"
+          },
+          {
+            "text": "Tell A Friend",
+            "href": "https://www.belikoveandgraves.com/tellafriend.cfm?SSLID=65540",
+            "path": "/tellafriend.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Resources",
+        "href": "https://www.belikoveandgraves.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.belikoveandgraves.com/learning_center/research/",
+            "path": "/learning_center/research"
+          },
+          {
+            "text": "Calculators",
+            "href": "https://www.belikoveandgraves.com/learning_center/calculators/",
+            "path": "/learning_center/calculators"
+          },
+          {
+            "text": "Flipbooks",
+            "href": "https://www.belikoveandgraves.com/learning_center/flipbooks/",
+            "path": "/learning_center/flipbooks"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://www.belikoveandgraves.com/learning_center/newsletters/",
+            "path": "/learning_center/newsletters"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://www.belikoveandgraves.com/learning_center/glossary/",
+            "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Tax Library",
+            "href": "https://www.belikoveandgraves.com/learning_center/tax_library/",
+            "path": "/learning_center/tax_library"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.belikoveandgraves.com/learning_center/videos/",
+            "path": "/learning_center/videos"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Request A Quote",
+        "href": "https://www.belikoveandgraves.com/#",
+        "path": "/",
+        "subItems": [
+          {
+            "text": "Long-Term Care Insurance",
+            "href": "https://www.belikoveandgraves.com/form.cfm?ID=65&SSLID=65540",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Group Health",
+            "href": "https://www.belikoveandgraves.com/form.cfm?ID=67&SSLID=65540",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Life Insurance",
+            "href": "https://www.belikoveandgraves.com/form.cfm?ID=68&SSLID=65540",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Individual Health",
+            "href": "https://www.belikoveandgraves.com/form.cfm?ID=69&SSLID=65540",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Disability Income Insurance",
+            "href": "https://www.belikoveandgraves.com/form.cfm?ID=70&SSLID=65540",
+            "path": "/form.cfm"
+          },
+          {
+            "text": "Information Request",
+            "href": "https://www.belikoveandgraves.com/form.cfm?ID=73&SSLID=65540",
+            "path": "/form.cfm"
+          }
+        ],
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.belikoveandgraves.com/contact_us/",
+        "path": "/contact_us",
+        "subItems": [],
+        "hasDropdown": false
+      }
+    ],
     "migratedItems": [
       {
         "text": "Home",
@@ -286,22 +415,174 @@
       "ok": 12,
       "totalBrItems": 14
     },
-    "liveIssues": [],
+    "liveIssues": [
+      {
+        "kind": "ok",
+        "brTitle": "Home",
+        "brHref": "/",
+        "migratedText": "Home",
+        "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/",
+        "migratedPath": "/"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "About Us",
+        "brHref": "/",
+        "migratedText": "About Us",
+        "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/our-firm1",
+        "migratedPath": "/our-firm1",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Our Firm",
+            "brHref": "/Our-Firm.1.htm",
+            "migratedText": "Our Firm",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/our-firm1",
+            "migratedPath": "/our-firm1"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Associates",
+            "brHref": "/agents.cfm",
+            "migratedText": "Our Associates",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/our-team",
+            "migratedPath": "/our-team"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Location",
+            "brHref": "/location.cfm",
+            "migratedText": "Our Location",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/location",
+            "migratedPath": "/location"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Our Services",
+            "brHref": "/Our-Services.2.htm",
+            "migratedText": "Our Services",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/our-services2",
+            "migratedPath": "/our-services2"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Tell A Friend",
+            "brHref": "/tellafriend.cfm",
+            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
+          }
+        ]
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Resources",
+        "brHref": "/",
+        "migratedText": "Resources",
+        "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/articles",
+        "migratedPath": "/articles",
+        "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/learning_center/research",
+            "migratedText": "Articles",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Calculators",
+            "brHref": "/learning_center/calculators",
+            "migratedText": "Calculators",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/calculators",
+            "migratedPath": "/calculators"
+          },
+          {
+            "kind": "missing",
+            "brTitle": "Flipbooks",
+            "brHref": "/learning_center/flipbooks",
+            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
+            "brHref": "/learning_center/newsletters",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Glossary",
+            "brHref": "/learning_center/glossary",
+            "migratedText": "Glossary",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/glossary",
+            "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Tax Library",
+            "brHref": "/learning_center/tax_library",
+            "migratedText": "Tax Library",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/tax-library",
+            "migratedPath": "/tax-library"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/learning_center/videos",
+            "migratedText": "Videos",
+            "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/videos",
+            "migratedPath": "/videos"
+          }
+        ]
+      },
+      {
+        "kind": "missing",
+        "brTitle": "Request A Quote",
+        "brHref": "/",
+        "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
+      },
+      {
+        "kind": "ok",
+        "brTitle": "Contact Us",
+        "brHref": "/contact_us",
+        "migratedText": "Contact Us",
+        "migratedHref": "https://belikoveandgraves-31030806.brprodaccount.com/location",
+        "migratedPath": "/location"
+      }
+    ],
     "liveSummary": {
-      "totalSourceItems": 0,
+      "totalSourceItems": 23,
       "totalMigratedItems": 14,
-      "missing": 0,
+      "missing": 3,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 0
+      "ok": 14
     },
-    "originalCrawlFailed": true,
-    "originalCrawlError": "Playwright: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"http://www.belikoveandgraves.com/\" | Fetch: fetch failed",
+    "originalCrawlFailed": false,
     "contentCheck": {
-      "originalIdentity": null,
+      "originalIdentity": {
+        "pageTitle": "Belikove & Graves Insurance & Financial Services",
+        "companyNames": [
+          "Belikove & Graves Insurance and Financial Services",
+          "Belikove & Graves Insurance & Financial Services"
+        ],
+        "phoneNumbers": [
+          "2403872182",
+          "2403889347"
+        ],
+        "emailAddresses": [
+          "jim@belikoveandgraves.com"
+        ],
+        "physicalAddresses": [
+          "4811 Cumberland Ave\nChevy Chase, MD 20815"
+        ],
+        "personNames": [],
+        "footerText": "Site Map"
+      },
       "migratedIdentity": {
         "pageTitle": "Home | www.belikoveandgraves.com",
         "companyNames": [
@@ -323,10 +604,17 @@
       "mismatches": [
         {
           "field": "phone",
-          "originalValue": "(original not available)",
+          "originalValue": "(240) 387-2182, (240) 388-9347",
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
+        },
+        {
+          "field": "address",
+          "originalValue": "4811 Cumberland Ave\nChevy Chase, MD 20815",
+          "migratedValue": "4811 Cumberland Ave\n\n\n\n\nChevy Chase\n\n",
+          "severity": "critical",
+          "note": "Physical address on migrated site differs from original"
         }
       ]
     },
@@ -344,6 +632,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on belikoveandgraves-31030806.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 0,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

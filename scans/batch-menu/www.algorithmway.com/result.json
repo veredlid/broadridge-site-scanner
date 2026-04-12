@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.algorithmway.com",
     "migratedDomain": "https://algorithmway-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:30:16.412Z",
+    "capturedAt": "2026-04-12T08:39:43.099Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -301,23 +301,11 @@
           "Julia Parks and AlgorithmWay"
         ],
         "phoneNumbers": [
-          "(803) 348-2307"
+          "8033482307"
         ],
         "emailAddresses": [],
         "physicalAddresses": [],
-        "personNames": [
-          "Julia W. Parks",
-          "Chief Creative",
-          "Officer\n    \n    \n  \n\n\t\t\t\n\t\t\t\tContact",
-          "Home\n          \n                Our",
-          "Mission Statement",
-          "Our Location",
-          "Our Firm",
-          "Our Services",
-          "Our Qualifications",
-          "Contact Info",
-          "Site Map"
-        ],
+        "personNames": [],
         "footerText": "Site Map"
       },
       "migratedIdentity": {
@@ -341,13 +329,6 @@
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Julia W. Parks, Chief Creative, Officer\n    \n    \n  \n\n\t\t\t\n\t\t\t\tContact, Home\n          \n                Our, Mission Statement, Our Location, Our Firm, Our Services, Our Qualifications, Contact Info, Site Map",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
     },
@@ -365,6 +346,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on algorithmway-31030807.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 8,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.thefinancialgrouponline.com",
     "migratedDomain": "https://thefinancialgrouponline-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:11:39.188Z",
+    "capturedAt": "2026-04-12T08:29:29.190Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -638,6 +638,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on thefinancialgrouponline-31030807.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 8,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.bastienmitchell.com",
     "migratedDomain": "https://bastienmitchell-31030809.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:31:34.492Z",
+    "capturedAt": "2026-04-12T08:40:09.304Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -97,8 +97,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.bastienmitchell.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our Firm",
@@ -155,9 +155,14 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.bastienmitchell.com/#",
+        "path": "/",
         "subItems": [
+          {
+            "text": "Articles",
+            "href": "https://www.bastienmitchell.com/#",
+            "path": "/"
+          },
           {
             "text": "Articles",
             "href": "https://www.bastienmitchell.com/learning_center/research/",
@@ -180,6 +185,11 @@
           },
           {
             "text": "Newsletters",
+            "href": "https://www.bastienmitchell.com/#",
+            "path": "/"
+          },
+          {
+            "text": "Newsletters",
             "href": "https://www.bastienmitchell.com/learning_center/newsletters/",
             "path": "/learning_center/newsletters"
           },
@@ -192,6 +202,11 @@
             "text": "Glossary",
             "href": "https://www.bastienmitchell.com/learning_center/glossary/",
             "path": "/learning_center/glossary"
+          },
+          {
+            "text": "Videos",
+            "href": "https://www.bastienmitchell.com/#",
+            "path": "/"
           },
           {
             "text": "Videos",
@@ -212,47 +227,9 @@
         "hasDropdown": true
       },
       {
-        "text": "Market Watch",
-        "href": "#",
-        "path": "/#",
-        "subItems": [
-          {
-            "text": "Detailed Quotes",
-            "href": "https://www.bastienmitchell.com/quotes.cfm",
-            "path": "/quotes.cfm"
-          },
-          {
-            "text": "Symbol Lookup",
-            "href": "https://www.bastienmitchell.com/quotes.cfm?sub=lookup",
-            "path": "/quotes.cfm"
-          },
-          {
-            "text": "Multi Quote",
-            "href": "https://www.bastienmitchell.com/quotes.cfm?sub=multi",
-            "path": "/quotes.cfm"
-          },
-          {
-            "text": "Markets at a Glance",
-            "href": "https://www.bastienmitchell.com/markets.cfm",
-            "path": "/markets.cfm"
-          },
-          {
-            "text": "Charting",
-            "href": "https://www.bastienmitchell.com/charts.cfm",
-            "path": "/charts.cfm"
-          },
-          {
-            "text": "Portfolios",
-            "href": "https://www.bastienmitchell.com/portfolio.cfm",
-            "path": "/portfolio.cfm"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.bastienmitchell.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
@@ -571,13 +548,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/our-firm1",
         "migratedPath": "/our-firm1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-firm1",
         "subIssues": [
           {
             "kind": "ok",
@@ -660,14 +636,21 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
+          {
+            "kind": "ok",
+            "brTitle": "Articles",
+            "brHref": "/",
+            "migratedText": "Articles",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/articles",
+            "migratedPath": "/articles"
+          },
           {
             "kind": "ok",
             "brTitle": "Articles",
@@ -699,6 +682,14 @@
           {
             "kind": "ok",
             "brTitle": "Newsletters",
+            "brHref": "/",
+            "migratedText": "Newsletters",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/newsletters",
+            "migratedPath": "/newsletters"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Newsletters",
             "brHref": "/learning_center/newsletters",
             "migratedText": "Newsletters",
             "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/newsletters",
@@ -717,6 +708,14 @@
             "migratedText": "Glossary",
             "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/glossary",
             "migratedPath": "/glossary"
+          },
+          {
+            "kind": "ok",
+            "brTitle": "Videos",
+            "brHref": "/",
+            "migratedText": "Videos",
+            "migratedHref": "https://bastienmitchell-31030809.brprodaccount.com/videos",
+            "migratedPath": "/videos"
           },
           {
             "kind": "ok",
@@ -742,14 +741,8 @@
       },
       {
         "kind": "missing",
-        "brTitle": "Market Watch",
-        "brHref": "/#",
-        "note": "\"Market Watch\" is in the original live site but not found in the migrated site menu"
-      },
-      {
-        "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -762,15 +755,15 @@
       }
     ],
     "liveSummary": {
-      "totalSourceItems": 38,
+      "totalSourceItems": 34,
       "totalMigratedItems": 18,
-      "missing": 8,
+      "missing": 7,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 16
+      "ok": 21
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -778,69 +771,16 @@
         "pageTitle": "Bastien&Mitchell",
         "companyNames": [],
         "phoneNumbers": [
-          "(704) 483-7292",
-          "(800) 827-4041",
-          "(866) 253-5059"
+          "7044837292",
+          "8008274041",
+          "8662535059"
         ],
         "emailAddresses": [
           "associatedinsurance@yahoo.com"
         ],
         "physicalAddresses": [],
-        "personNames": [
-          "Home\n          \n          About",
-          "Us\n           \n            Our",
-          "Firm\n            Our",
-          "Associates\n            Our",
-          "Location\n            Our",
-          "Services\n            Our",
-          "Qualifications\n            Senior",
-          "Living\n            Medicare",
-          "Today\n            \n            Suddenly",
-          "Senior\n            \n            Medicare",
-          "Tell A Friend",
-          "Do People",
-          "Buy Annuities",
-          "Calculators\n            Flipbooks",
-          "Have You",
-          "These Legal",
-          "Documents Lately",
-          "An Annuity",
-          "Leaving Your",
-          "Forget Your",
-          "Retirement Savings",
-          "Plan\n           \n          \n          Market",
-          "Watch\n           \n            Detailed",
-          "Quotes\n            Symbol",
-          "Lookup\n            Multi",
-          "Quote\n            Markets",
-          "Glance\n            Charting",
-          "Portfolios\n           \n          \n          Request",
-          "Quote\n           \n            Annuity",
-          "Term Care",
-          "Insurance  \n            Life",
-          "Insurance  \n            Individual",
-          "Information Request",
-          "View Flipbooks",
-          "View Calculators",
-          "Providing Fiducial",
-          "Seniors Assets",
-          "Lifestyles\n\t\t \n\t\t\t\t\t\t Today",
-          "At Bastien",
-          "The Basics",
-          "Social Security",
-          "Retirement Benefits",
-          "More Videos",
-          "Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n    \n      \n        \n          Calculators",
-          "Retirement Plan",
-          "Early Distribution",
-          "Required Minimum",
-          "Distributions\n          \n        \n        Estimate",
-          "Home Affordability",
-          "More Calculators",
-          "Site Map",
-          "To Top"
-        ],
-        "footerText": "Site Map\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBack To Top"
+        "personNames": [],
+        "footerText": "Site Map Back To Top"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.bastienmitchell.com",
@@ -866,13 +806,6 @@
           "migratedValue": "(972) 380-0097",
           "severity": "critical",
           "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Home\n          \n          About, Us\n           \n            Our, Firm\n            Our, Associates\n            Our, Location\n            Our, Services\n            Our, Qualifications\n            Senior, Living\n            Medicare, Today\n            \n            Suddenly, Senior\n            \n            Medicare, Tell A Friend, Do People, Buy Annuities, Calculators\n            Flipbooks, Have You, These Legal, Documents Lately, An Annuity, Leaving Your, Forget Your, Retirement Savings, Plan\n           \n          \n          Market, Watch\n           \n            Detailed, Quotes\n            Symbol, Lookup\n            Multi, Quote\n            Markets, Glance\n            Charting, Portfolios\n           \n          \n          Request, Quote\n           \n            Annuity, Term Care, Insurance  \n            Life, Insurance  \n            Individual, Information Request, View Flipbooks, View Calculators, Providing Fiducial, Seniors Assets, Lifestyles\n\t\t \n\t\t\t\t\t\t Today, At Bastien, The Basics, Social Security, Retirement Benefits, More Videos, Transcript\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\n    \n      \n        \n          Calculators, Retirement Plan, Early Distribution, Required Minimum, Distributions\n          \n        \n        Estimate, Home Affordability, More Calculators, Site Map, To Top",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         }
       ]
     },
@@ -890,6 +823,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on bastienmitchell-31030809.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 0,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

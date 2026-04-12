@@ -75,15 +75,18 @@
   <h1>Menu Check Report — www.donaldcash.com</h1>
   <div class="meta">
     Migrated: https://donaldcash-31030803.brprodaccount.com/ &nbsp;·&nbsp;
-    Scanned: 4/1/2026, 5:40:29 PM
+    Scanned: 4/12/2026, 11:41:59 AM
   </div>
 </div>
 <div class="overall-bar">
   <span>Part 1 (BR JSON vs Migrated): BUGS FOUND</span>
-  <span>Part 2 (Original vs Migrated): PASS</span>
-  <span>Part 3 (Content Identity): MISMATCH</span>
+  <span>Part 2 (Original vs Migrated): BUGS FOUND</span>
+  <span>Part 3 (Content Identity): PASS</span>
   <span>Part 4 (BrokerCheck): WRONG TYPE</span>
   <span>Part 5 (Domain): NOT CONNECTED</span>
+  <span>Part 6 (Social): PASS</span>
+  <span>Part 7 (Images): PASS</span>
+  <span>Part 8 (Subtitle): PASS</span>
 </div>
 
 <div class="container">
@@ -330,9 +333,9 @@
     <div class="part-header">
       <div>
         <div style="display:flex;align-items:center;gap:10px">
-          <span class="part-badge badge-pass">PART 2</span>
+          <span class="part-badge badge-bug">PART 2</span>
           <span class="part-title">Original Live Site vs Migrated Site</span>
-          <span class="part-status" style="background:#2e7d32">PASS</span>
+          <span class="part-status" style="background:#d32f2f">BUGS FOUND</span>
         </div>
         <div class="part-subtitle" style="margin-top:6px">
           Source of truth: crawled menu from <strong>www.donaldcash.com</strong> &nbsp;·&nbsp;
@@ -344,21 +347,21 @@
       
           
     <div class="summary-grid">
-      <div class="summary-card"><div class="num">0</div><div class="lbl">Original Items</div></div>
+      <div class="summary-card"><div class="num">26</div><div class="lbl">Original Items</div></div>
       <div class="summary-card"><div class="num">16</div><div class="lbl">Migrated Items</div></div>
-      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Missing</div></div>
+      <div class="summary-card"><div class="num num-red">3</div><div class="lbl">Missing</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Broken Links</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Duplicates</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Href Mismatches</div></div>
       <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Structure Changes</div></div>
-      <div class="summary-card"><div class="num num-blue">16</div><div class="lbl">Extra Items</div></div>
+      <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Extra Items</div></div>
     </div>
   
 
           <div class="raw-nav">
             <div class="raw-nav-box">
               <h3>Original Live Site Menu (crawled)</h3>
-              <ul></ul>
+              <ul><li><code>Home</code> <span class="path">/</span></li><li><code>About Us</code> <span class="path">/</span><ul class="sub-list"><li><code>Our Mission Statement</code> <span class="path">/Our-Mission-Statement.1.htm</span></li><li><code>Our Location</code> <span class="path">/location.htm</span></li><li><code>Our Firm</code> <span class="path">/Our-Firm.2.htm</span></li><li><code>Our Services</code> <span class="path">/Our-Services.3.htm</span></li><li><code>About Don</code> <span class="path">/About-Don.4.htm</span></li><li><code>Tell A Friend</code> <span class="path">/tellafriend.cfm</span></li></ul></li><li><code>Resources</code> <span class="path">/</span><ul class="sub-list"><li><code>Articles</code> <span class="path">/learning_center/research</span></li><li><code>Calculators</code> <span class="path">/learning_center/calculators</span></li><li><code>Flipbooks</code> <span class="path">/learning_center/flipbooks</span></li><li><code>Newsletters</code> <span class="path">/learning_center/newsletters</span></li><li><code>Glossary</code> <span class="path">/learning_center/glossary</span></li><li><code>Tax Library</code> <span class="path">/learning_center/tax_library</span></li><li><code>Videos</code> <span class="path">/learning_center/videos</span></li></ul></li><li><code>Request A Quote</code> <span class="path">/</span><ul class="sub-list"><li><code>Long-Term Care Insurance</code> <span class="path">/form.cfm</span></li><li><code>Group Health</code> <span class="path">/form.cfm</span></li><li><code>Life Insurance</code> <span class="path">/form.cfm</span></li><li><code>Individual Health</code> <span class="path">/form.cfm</span></li><li><code>Disability Income Insurance</code> <span class="path">/form.cfm</span></li><li><code>401(k) Information Request</code> <span class="path">/form.cfm</span></li><li><code>Information Request</code> <span class="path">/form.cfm</span></li></ul></li><li><code>Contact Us</code> <span class="path">/contact_us</span></li><li><code>Podcast</code> <span class="path">/</span></li></ul>
             </div>
             <div class="raw-nav-box">
               <h3>Migrated Site Menu (crawled)</h3>
@@ -367,184 +370,61 @@
           </div>
 
           
-          
-          
-    <details >
-      <summary class="section-title">➕ Extra Items (in migrated, not on original) <span class="count">16</span></summary>
+    <details open>
+      <summary class="section-title">❌ Bugs — Missing Items & Broken Links <span class="count">3</span></summary>
       <table class="issue-table">
         <tbody>
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
       <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span>
-        <div class="note">"Home" appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
+        <span class="label">Source:</span> <code>About Us</code> <span class="path">/</span>
+        <br>
         <span class="label">Migrated:</span> <code>About Us</code> <span class="path">/our-mission-statement1</span>
-        <div class="note">"About Us" appears in the migrated menu but is not in the original live site</div>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Tell A Friend</code> <span class="path">/tellafriend.cfm</span>
+        
+        
+        <div class="note">Sub-item "Tell A Friend" under "About Us" is missing in migrated</div>
       </td>
     </tr>
     
   
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Our Mission Statement</code> <span class="path">/our-mission-statement1</span>
-        <div class="note">"Our Mission Statement" (under "About Us") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
   
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
       <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Our Location</code> <span class="path">/location</span>
-        <div class="note">"Our Location" (under "About Us") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Our Firm</code> <span class="path">/our-firm2</span>
-        <div class="note">"Our Firm" (under "About Us") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Our Services</code> <span class="path">/our-services3</span>
-        <div class="note">"Our Services" (under "About Us") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>About Don</code> <span class="path">/about-donald-w-cash4</span>
-        <div class="note">"About Don" (under "About Us") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
+        <span class="label">Source:</span> <code>Resources</code> <span class="path">/</span>
+        <br>
         <span class="label">Migrated:</span> <code>Resources</code> <span class="path">/articles</span>
-        <div class="note">"Resources" appears in the migrated menu but is not in the original live site</div>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Flipbooks</code> <span class="path">/learning_center/flipbooks</span>
+        
+        
+        <div class="note">Sub-item "Flipbooks" under "Resources" is missing in migrated</div>
       </td>
     </tr>
     
   
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Articles</code> <span class="path">/articles</span>
-        <div class="note">"Articles" (under "Resources") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
   
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
+    <tr class="row-missing" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
       <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Request A Quote</code> <span class="path">/</span>
         
         
-        <span class="label">Migrated:</span> <code>Calculators</code> <span class="path">/calculators</span>
-        <div class="note">"Calculators" (under "Resources") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Newsletters</code> <span class="path">/newsletters</span>
-        <div class="note">"Newsletters" (under "Resources") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Glossary</code> <span class="path">/glossary</span>
-        <div class="note">"Glossary" (under "Resources") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Tax Library</code> <span class="path">/tax-library</span>
-        <div class="note">"Tax Library" (under "Resources") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Videos</code> <span class="path">/videos</span>
-        <div class="note">"Videos" (under "Resources") appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Contact Us</code> <span class="path">/location</span>
-        <div class="note">"Contact Us" appears in the migrated menu but is not in the original live site</div>
-      </td>
-    </tr>
-    
-  
-    <tr class="row-extra" style="--indent:0px">
-      <td class="badge-cell"><span class="badge badge-extra">➕ Extra</span></td>
-      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
-        
-        
-        <span class="label">Migrated:</span> <code>Podcast</code> <span class="path">/videos</span>
-        <div class="note">"Podcast" appears in the migrated menu but is not in the original live site</div>
+        <div class="note">"Request A Quote" is in the original live site but not found in the migrated site menu</div>
       </td>
     </tr>
     
@@ -553,6 +433,213 @@
     </details>
   
           
+          
+          
+    <details >
+      <summary class="section-title">✅ Matched Items <span class="count">5</span></summary>
+      <table class="issue-table">
+        <tbody>
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Home</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Home</code> <span class="path">/</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>About Us</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>About Us</code> <span class="path">/our-mission-statement1</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Mission Statement</code> <span class="path">/Our-Mission-Statement.1.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Mission Statement</code> <span class="path">/our-mission-statement1</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Location</code> <span class="path">/location.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Location</code> <span class="path">/location</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Firm</code> <span class="path">/Our-Firm.2.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Firm</code> <span class="path">/our-firm2</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Our Services</code> <span class="path">/Our-Services.3.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Our Services</code> <span class="path">/our-services3</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>About Don</code> <span class="path">/About-Don.4.htm</span>
+        <br>
+        <span class="label">Migrated:</span> <code>About Don</code> <span class="path">/about-donald-w-cash4</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Tell A Friend</code> <span class="path">/tellafriend.cfm</span>
+        
+        
+        <div class="note">Sub-item "Tell A Friend" under "About Us" is missing in migrated</div>
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Resources</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Resources</code> <span class="path">/articles</span>
+        
+      </td>
+    </tr>
+    
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Articles</code> <span class="path">/learning_center/research</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Articles</code> <span class="path">/articles</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Calculators</code> <span class="path">/learning_center/calculators</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Calculators</code> <span class="path">/calculators</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-missing" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-missing">❌ Missing</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Flipbooks</code> <span class="path">/learning_center/flipbooks</span>
+        
+        
+        <div class="note">Sub-item "Flipbooks" under "Resources" is missing in migrated</div>
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Newsletters</code> <span class="path">/learning_center/newsletters</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Newsletters</code> <span class="path">/newsletters</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Glossary</code> <span class="path">/learning_center/glossary</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Glossary</code> <span class="path">/glossary</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Tax Library</code> <span class="path">/learning_center/tax_library</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Tax Library</code> <span class="path">/tax-library</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:24px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 24px)">
+        <span class="label">Source:</span> <code>Videos</code> <span class="path">/learning_center/videos</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Videos</code> <span class="path">/videos</span>
+        
+      </td>
+    </tr>
+    
+  
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Contact Us</code> <span class="path">/contact_us</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Contact Us</code> <span class="path">/location</span>
+        
+      </td>
+    </tr>
+    
+  
+    <tr class="row-ok" style="--indent:0px">
+      <td class="badge-cell"><span class="badge badge-ok">✅ OK</span></td>
+      <td class="detail-cell" style="padding-left:calc(16px + 0px)">
+        <span class="label">Source:</span> <code>Podcast</code> <span class="path">/</span>
+        <br>
+        <span class="label">Migrated:</span> <code>Podcast</code> <span class="path">/videos</span>
+        
+      </td>
+    </tr>
+    
+  </tbody>
+      </table>
+    </details>
+  
         
     </div>
   </div>
@@ -563,9 +650,9 @@
       <div class="part-header">
         <div>
           <div style="display:flex;align-items:center;gap:10px">
-            <span class="part-badge badge-bug">PART 3</span>
+            <span class="part-badge badge-pass">PART 3</span>
             <span class="part-title">Content Identity Check</span>
-            <span class="part-status" style="background:#d32f2f">MISMATCH</span>
+            <span class="part-status" style="background:#2e7d32">PASS</span>
           </div>
           <div class="part-subtitle" style="margin-top:6px">
             Compares company name, phone, email, address, and person names between <strong>www.donaldcash.com</strong> and migrated site
@@ -575,11 +662,11 @@
       </div>
       <div class="part-body">
         <div class="summary-grid">
-          <div class="summary-card"><div class="num num-red">1</div><div class="lbl">Critical Mismatches</div></div>
+          <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Critical Mismatches</div></div>
           <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Warnings</div></div>
           <div class="summary-card"><div class="num">0</div><div class="lbl">Original Phones</div></div>
           <div class="summary-card"><div class="num">0</div><div class="lbl">Migrated Phones</div></div>
-          <div class="summary-card"><div class="num">5</div><div class="lbl">Original Names</div></div>
+          <div class="summary-card"><div class="num">0</div><div class="lbl">Original Names</div></div>
           <div class="summary-card"><div class="num">1</div><div class="lbl">Migrated Names</div></div>
         </div>
 
@@ -592,7 +679,7 @@
         <div><strong>Company Names:</strong> Donald W. Cash - CPA, CFP®</div>
         <div><strong>Phone Numbers:</strong> <span class="muted">(none found)</span></div>
         <div><strong>Emails:</strong> <span class="muted">(none found)</span></div>
-        <div><strong>Person Names:</strong> Donald W. Cash, New Jersey, Insurance Services, Insurance Advisors, Enter Site</div>
+        <div><strong>Person Names:</strong> <span class="muted">(none found)</span></div>
         <div><strong>Addresses:</strong> <span class="muted">(none found)</span></div>
       </div>
     </div>
@@ -611,19 +698,9 @@
         </div>
 
         
-          <details open>
-            <summary class="section-title">🚨 Content Mismatches <span class="count">1</span></summary>
-            <table class="issue-table"><tbody>
-      <tr>
-        <td class="badge-cell"><span class="badge badge-missing">🚨 CRITICAL</span></td>
-        <td style="padding:10px 16px; font-weight:600">Person Name</td>
-        <td style="padding:10px 16px">
-          <div><span class="label">Original:</span> <code>Donald W. Cash, New Jersey, Insurance Services, Insurance Advisors, Enter Site</code></div>
-          <div><span class="label">Migrated:</span> <code>Neil H. Resnik</code></div>
-          <div class="note">Person &quot;Neil H. Resnik&quot; appears on migrated site but not on original</div>
-        </td>
-      </tr></tbody></table>
-          </details>
+          <div style="padding:20px;text-align:center;color:#2e7d32;font-weight:600">
+            ✓ All identity markers match between original and migrated sites
+          </div>
         
       </div>
     </div>
@@ -694,6 +771,69 @@
         <div style="padding:12px 16px;background:#fafafa;border:1px solid #e0e0e0;border-radius:6px;font-size:13px">
           <span style="color:#e65100;font-weight:600">&#9888;</span> No custom domain — still on donaldcash-31030803.brprodaccount.com
         </div>
+      </div>
+    </div>
+
+    
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-pass">PART 6</span>
+            <span class="part-title">Template Social Links</span>
+            <span class="part-status" style="background:#2e7d32">PASS</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Detects social media links pointing to generic/template URLs
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card"><div class="num">0</div><div class="lbl">Social Links</div></div>
+          <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Template/Default</div></div>
+        </div>
+        <div style="padding:8px;color:#888">No social media links found</div>
+      </div>
+    </div>
+    
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-pass">PART 7</span>
+            <span class="part-title">BR JSON Image URLs</span>
+            <span class="part-status" style="background:#2e7d32">PASS</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Validates image src paths in BR source JSON (double slashes, missing prefixes)
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div class="summary-grid">
+          <div class="summary-card"><div class="num">10</div><div class="lbl">Images Scanned</div></div>
+          <div class="summary-card"><div class="num num-green">0</div><div class="lbl">Issues Found</div></div>
+        </div>
+        <div style="padding:8px;color:#2e7d32">&#10003; All image URLs look valid</div>
+      </div>
+    </div>
+    
+    <div class="part">
+      <div class="part-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:10px">
+            <span class="part-badge badge-pass">PART 8</span>
+            <span class="part-title">Subtitle / Tagline</span>
+            <span class="part-status" style="background:#2e7d32">PASS</span>
+          </div>
+          <div class="part-subtitle" style="margin-top:6px">
+            Checks if the hero subtitle still shows template default text
+          </div>
+        </div>
+      </div>
+      <div class="part-body">
+        <div style="padding:8px;color:#888">No hero subtitle found on page</div>
       </div>
     </div>
 

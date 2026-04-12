@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.ventouxfa.com",
     "migratedDomain": "https://ventouxfa-31030752.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:26:03.197Z",
+    "capturedAt": "2026-04-12T08:38:57.545Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -777,6 +777,24 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on ventouxfa-31030752.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [],
+        "templateCount": 0,
+        "totalCount": 0,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 4,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

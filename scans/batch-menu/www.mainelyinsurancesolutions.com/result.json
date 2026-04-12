@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.mainelyinsurancesolutions.com",
     "migratedDomain": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:18:35.357Z",
+    "capturedAt": "2026-04-12T08:33:41.226Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -213,451 +213,81 @@
         "hasDropdown": true
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-mission-statement1",
-        "path": "/our-mission-statement1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Firm",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-qualifications4",
-            "path": "/our-qualifications4"
-          },
-          {
-            "text": "Product Education",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/product-education5",
-            "path": "/product-education5"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Learning Center",
-        "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/newsletters",
-        "path": "/newsletters",
-        "subItems": [
-          {
-            "text": "Newsletters",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Articles",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [
-          {
-            "text": "Our Location",
-            "href": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/location",
-            "path": "/location"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Product Education",
-            "brHref": "/Product-Education.5.htm",
-            "migratedText": "Product Education",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/product-education5",
-            "migratedPath": "/product-education5"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Learning Center",
         "brHref": "/#",
-        "migratedText": "Learning Center",
-        "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/newsletters",
-        "migratedPath": "/newsletters",
-        "note": "\"Learning Center\" should be a dropdown (/#) but migrated links to /newsletters",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Learning Center\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/location",
-            "migratedPath": "/location"
-          }
-        ]
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 16,
-      "totalMigratedItems": 16,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 14,
+      "ok": 0,
       "totalBrItems": 16
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Product Education",
-            "brHref": "/Product-Education.5.htm",
-            "migratedText": "Product Education",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/product-education5",
-            "migratedPath": "/product-education5"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Learning Center",
         "brHref": "/",
-        "migratedText": "Learning Center",
-        "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/newsletters",
-        "migratedPath": "/newsletters",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Learning Center\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          }
-        ]
+        "note": "\"Learning Center\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Contact Us",
-            "brHref": "/contact_us",
-            "migratedText": "Contact Us",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/location",
-            "migratedPath": "/location",
-            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"Contact Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Request A Quote",
-            "brHref": "/",
-            "note": "Sub-item \"Request A Quote\" under \"Contact Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Annuity",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"Annuity\" under \"Contact Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Long-Term Care Insurance",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"Long-Term Care Insurance\" under \"Contact Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Life Insurance",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"Life Insurance\" under \"Contact Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Individual Health",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"Individual Health\" under \"Contact Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Information Request",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"Information Request\" under \"Contact Us\" is missing in migrated"
-          }
-        ]
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Videos",
-        "migratedHref": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/videos",
-        "migratedPath": "/videos",
-        "note": "\"Videos\" (under \"Learning Center\") appears in the migrated menu but is not in the original live site"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 24,
-      "totalMigratedItems": 16,
-      "missing": 8,
-      "extra": 1,
+      "totalMigratedItems": 0,
+      "missing": 4,
+      "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 1,
-      "ok": 15
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -679,50 +309,17 @@
         "personNames": [],
         "footerText": "We do not offer every Medicare plan available in your area . Currently we represent 3 of 8 organizations which offer 34 products in youre area.. Any information we provide is limited to those plans we do offer in your area. Please contact Medicare.gov or 1-800-Medicare, or your local State Health Insurance Program to get information on all you options. Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.mainelyinsurancesolutions.com",
-        "companyNames": [
-          "Mainely Insurance Solutions"
-        ],
-        "phoneNumbers": [
-          "2072329374",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "mainelyinsurancesolutions@gmail.com"
-        ],
-        "physicalAddresses": [
-          "2013 Twin Rock Ln\n\n\n\n\nCarrabassett Valley\n\n"
-        ],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "We do not offer every Medicare plan available in your area . Currently we represent 3 of 8 organizations which offer 34 products in youre area.. Any information we provide is limited to those plans we do offer in your area. Please contact Medicare.gov or 1-800-Medicare, or your local State Health Insurance Program to get information on all you options."
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(207) 232-9374, (207) 692-1038",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "address",
-          "originalValue": "2013 Twin Rock Ln\nCarrabassett Valley, ME 04947",
-          "migratedValue": "2013 Twin Rock Ln\n\n\n\n\nCarrabassett Valley\n\n",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://mainelyinsurancesolutions-31030758.brprodaccount.com/",
@@ -730,6 +327,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on mainelyinsurancesolutions-31030758.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 11,
+        "severity": "ok"
       }
     }
   }

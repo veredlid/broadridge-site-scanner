@@ -21,7 +21,7 @@ import { analyzeMenu } from '../crawler/menu-analyzer.js';
 import { fetchAndParse } from '../crawler/fetch-fallback.js';
 import { openPage } from '../utils/playwright-helpers.js';
 import { extractIdentity, compareIdentities, checkForKnownTemplateArtifacts } from './content-checker.js';
-import { runSiteHealthChecks, checkDomainConnection } from './site-health-checker.js';
+import { runSiteHealthChecks, checkDomainConnection, validateBrJsonImages } from './site-health-checker.js';
 import type { BRSiteData } from '../types/index.js';
 import type { SiteIdentity, ContentMismatch, ContentCheckResult } from './content-checker.js';
 import type { SiteHealthResult } from './site-health-checker.js';
@@ -636,9 +636,9 @@ export async function checkMenu(options: MenuCheckOptions): Promise<MenuCheckRes
         console.log(chalk.yellow(`  ⚠ Could not extract migrated identity: ${(err as Error).message}`));
       }
 
-      // Run site health checks (BrokerCheck + domain) while page is open
+      // Run site health checks (BrokerCheck + domain + social + images + subtitle)
       try {
-        siteHealth = await runSiteHealthChecks(page, migrated);
+        siteHealth = await runSiteHealthChecks(page, migrated, siteData);
       } catch (err) {
         console.log(chalk.yellow(`  ⚠ Site health checks failed: ${(err as Error).message}`));
       }
@@ -874,6 +874,7 @@ export async function checkMenu(options: MenuCheckOptions): Promise<MenuCheckRes
     siteHealth = {
       brokerCheck: { found: false, type: 'none', position: 'none', details: 'Migrated page not crawled', severity: 'warning' },
       domainCheck: checkDomainConnection(migrated),
+      imageValidation: siteData ? validateBrJsonImages(siteData) : undefined,
     };
   }
 
@@ -890,6 +891,44 @@ export async function checkMenu(options: MenuCheckOptions): Promise<MenuCheckRes
   console.log(chalk.bold('\n═══ Part 5: Domain Connection ═══\n'));
   const domIcon = siteHealth.domainCheck.hasCustomDomain ? chalk.green('  ✓') : chalk.yellow('  ⚠');
   console.log(`${domIcon} ${siteHealth.domainCheck.details}`);
+
+  if (siteHealth.templateSocial) {
+    console.log(chalk.bold('\n═══ Part 6: Template Social Links ═══\n'));
+    if (siteHealth.templateSocial.templateCount > 0) {
+      console.log(chalk.red(`  ✗ ${siteHealth.templateSocial.templateCount} template social link(s) found:`));
+      for (const l of siteHealth.templateSocial.links.filter((l) => l.isTemplate)) {
+        console.log(chalk.red(`    • ${l.platform}: ${l.href}`));
+      }
+    } else {
+      console.log(chalk.green(`  ✓ ${siteHealth.templateSocial.totalCount} social links, all look real`));
+    }
+  }
+
+  if (siteHealth.imageValidation) {
+    console.log(chalk.bold('\n═══ Part 7: BR JSON Image URLs ═══\n'));
+    if (siteHealth.imageValidation.issues.length > 0) {
+      console.log(chalk.red(`  ✗ ${siteHealth.imageValidation.issues.length} image URL issue(s) in BR JSON:`));
+      for (const i of siteHealth.imageValidation.issues.slice(0, 5)) {
+        console.log(chalk.red(`    • [${i.issue}] ${i.details}`));
+      }
+      if (siteHealth.imageValidation.issues.length > 5) {
+        console.log(chalk.gray(`    ... and ${siteHealth.imageValidation.issues.length - 5} more`));
+      }
+    } else {
+      console.log(chalk.green(`  ✓ ${siteHealth.imageValidation.totalImages} images scanned, no issues`));
+    }
+  }
+
+  if (siteHealth.templateSubtitle) {
+    console.log(chalk.bold('\n═══ Part 8: Subtitle/Tagline Check ═══\n'));
+    if (siteHealth.templateSubtitle.isTemplate) {
+      console.log(chalk.red(`  ✗ ${siteHealth.templateSubtitle.details}`));
+    } else if (siteHealth.templateSubtitle.found) {
+      console.log(chalk.green(`  ✓ ${siteHealth.templateSubtitle.details}`));
+    } else {
+      console.log(chalk.gray('  No hero subtitle detected'));
+    }
+  }
 
   return {
     originalDomain: original,

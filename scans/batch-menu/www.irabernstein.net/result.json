@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.irabernstein.net",
     "migratedDomain": "https://irabernstein-31030808.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:07:40.406Z",
+    "capturedAt": "2026-04-12T08:26:26.357Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -280,649 +280,81 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://irabernstein-31030808.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://irabernstein-31030808.brprodaccount.com/new-york-city-trs-bers-and-nycers-pension-services5",
-        "path": "/new-york-city-trs-bers-and-nycers-pension-services5",
-        "subItems": [
-          {
-            "text": "New York City TRS, BERS and  NYCERS Pension Services",
-            "href": "https://irabernstein-31030808.brprodaccount.com/new-york-city-trs-bers-and-nycers-pension-services5",
-            "path": "/new-york-city-trs-bers-and-nycers-pension-services5"
-          },
-          {
-            "text": "Upcoming Pension Seminars",
-            "href": "https://irabernstein-31030808.brprodaccount.com/upcoming-pension-webinars14",
-            "path": "/upcoming-pension-webinars14"
-          },
-          {
-            "text": "Available Pension Appointments",
-            "href": "https://irabernstein-31030808.brprodaccount.com/available-pension-appointments10",
-            "path": "/available-pension-appointments10"
-          },
-          {
-            "text": "10 Important Suggestions",
-            "href": "https://irabernstein-31030808.brprodaccount.com/important-suggestions19",
-            "path": "/important-suggestions19"
-          },
-          {
-            "text": "Our Mission Statement",
-            "href": "https://irabernstein-31030808.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Associates",
-            "href": "https://irabernstein-31030808.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Our Firm",
-            "href": "https://irabernstein-31030808.brprodaccount.com/our-firmbr2",
-            "path": "/our-firmbr2"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://irabernstein-31030808.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://irabernstein-31030808.brprodaccount.com/our-qualifications4",
-            "path": "/our-qualifications4"
-          },
-          {
-            "text": "Late Breaking News",
-            "href": "https://irabernstein-31030808.brprodaccount.com/late-breaking-news17",
-            "path": "/late-breaking-news17"
-          },
-          {
-            "text": "Contact Bulletin",
-            "href": "https://irabernstein-31030808.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Which states tax a NY pension?",
-            "href": "http://rpea.org/retirement-planning/pension-tax-by-state/",
-            "path": "/retirement-planning/pension-tax-by-state"
-          },
-          {
-            "text": "ATTENTION NYC CSA MEMBERS",
-            "href": "https://irabernstein-31030808.brprodaccount.com/attention-nyc-csa-members20",
-            "path": "/attention-nyc-csa-members20"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://irabernstein-31030808.brprodaccount.com/featured-links",
-            "path": "/featured-links"
-          },
-          {
-            "text": "Affiliated Offices",
-            "href": "https://irabernstein-31030808.brprodaccount.com/affiliated-office",
-            "path": "/affiliated-office"
-          },
-          {
-            "text": "REQUIRED MINIMUM DISTRIBUTIONS (RMD) - IRS",
-            "href": "http://www.irs.gov/retirement/article/0,,id=96989,00.html",
-            "path": "/retirement/article/0,,id=96989,00.html"
-          },
-          {
-            "text": "Drug Coverage for NYC Retirees",
-            "href": "https://irabernstein-31030808.brprodaccount.com/drug-coverage-for-nyc-retirees11",
-            "path": "/drug-coverage-for-nyc-retirees11"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://irabernstein-31030808.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://irabernstein-31030808.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://irabernstein-31030808.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://irabernstein-31030808.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://irabernstein-31030808.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://irabernstein-31030808.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://irabernstein-31030808.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://irabernstein-31030808.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://irabernstein-31030808.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://irabernstein-31030808.brprodaccount.com/new-york-city-trs-bers-and-nycers-pension-services5",
-        "migratedPath": "/new-york-city-trs-bers-and-nycers-pension-services5",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /new-york-city-trs-bers-and-nycers-pension-services5",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "New York City TRS, BERS and  NYCERS Pension Services",
-            "brHref": "/New-York-City-TRS,-BERS-and--NYCERS-Pension-Services.5.htm",
-            "migratedText": "New York City TRS, BERS and  NYCERS Pension Services",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/new-york-city-trs-bers-and-nycers-pension-services5",
-            "migratedPath": "/new-york-city-trs-bers-and-nycers-pension-services5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Upcoming Pension Seminars",
-            "brHref": "/Upcoming-Pension-Seminars.14.htm",
-            "migratedText": "Upcoming Pension Seminars",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/upcoming-pension-webinars14",
-            "migratedPath": "/upcoming-pension-webinars14"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Available Pension Appointments",
-            "brHref": "/Available-Pension-Appointments.10.htm",
-            "migratedText": "Available Pension Appointments",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/available-pension-appointments10",
-            "migratedPath": "/available-pension-appointments10"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "10 Important Suggestions",
-            "brHref": "/10-Important-Suggestions.19.htm",
-            "migratedText": "10 Important Suggestions",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/important-suggestions19",
-            "migratedPath": "/important-suggestions19"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "migratedText": "Our Associates",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-firmbr2",
-            "migratedPath": "/our-firmbr2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Late Breaking News",
-            "brHref": "/Late-Breaking-News.17.htm",
-            "migratedText": "Late Breaking News",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/late-breaking-news17",
-            "migratedPath": "/late-breaking-news17"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Contact Bulletin",
-            "brHref": "/Contact-Bulletin.15.htm",
-            "migratedText": "Contact Bulletin",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Which states tax a NY pension?",
-            "brHref": "/http://rpea.org/retirement-planning/pension-tax-by-state/",
-            "migratedText": "Which states tax a NY pension?",
-            "migratedHref": "http://rpea.org/retirement-planning/pension-tax-by-state/",
-            "migratedPath": "/retirement-planning/pension-tax-by-state"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "ATTENTION NYC CSA MEMBERS",
-            "brHref": "/ATTENTION-NYC-CSA-MEMBERS.20.htm",
-            "migratedText": "ATTENTION NYC CSA MEMBERS",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/attention-nyc-csa-members20",
-            "migratedPath": "/attention-nyc-csa-members20"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Affiliated Offices",
-            "brHref": "/affiliated-offices.htm",
-            "migratedText": "Affiliated Offices",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/affiliated-office",
-            "migratedPath": "/affiliated-office"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "REQUIRED MINIMUM DISTRIBUTIONS (RMD) - IRS",
-            "brHref": "/http://www.irs.gov/retirement/article/0,,id=96989,00.html",
-            "migratedText": "REQUIRED MINIMUM DISTRIBUTIONS (RMD) - IRS",
-            "migratedHref": "http://www.irs.gov/retirement/article/0,,id=96989,00.html",
-            "migratedPath": "/retirement/article/0,,id=96989,00.html"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Drug Coverage for NYC Retirees",
-            "brHref": "/Drug-Coverage-for-NYC-Retirees.11.htm",
-            "migratedText": "Drug Coverage for NYC Retirees",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/drug-coverage-for-nyc-retirees11",
-            "migratedPath": "/drug-coverage-for-nyc-retirees11"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://irabernstein-31030808.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://irabernstein-31030808.brprodaccount.com/location",
-        "migratedPath": "/location"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "REQUIRED MINIMUM DISTRIBUTIONS (RMD) - IRS",
-        "migratedHref": "http://www.irs.gov/retirement/article/0,,id=96989,00.html",
-        "migratedPath": "/retirement/article/0,,id=96989,00.html",
-        "httpStatus": 404,
-        "note": "\"REQUIRED MINIMUM DISTRIBUTIONS (RMD) - IRS\" → HTTP 404 (http://www.irs.gov/retirement/article/0,,id=96989,00.html)"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 27,
-      "totalMigratedItems": 27,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
-      "brokenLinks": 1,
+      "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 25,
+      "ok": 0,
       "totalBrItems": 27
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://irabernstein-31030808.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://irabernstein-31030808.brprodaccount.com/new-york-city-trs-bers-and-nycers-pension-services5",
-        "migratedPath": "/new-york-city-trs-bers-and-nycers-pension-services5",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "New York City TRS, BERS and  NYCERS Pension Services",
-            "brHref": "/New-York-City-TRS,-BERS-and--NYCERS-Pension-Services.5.htm",
-            "migratedText": "New York City TRS, BERS and  NYCERS Pension Services",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/new-york-city-trs-bers-and-nycers-pension-services5",
-            "migratedPath": "/new-york-city-trs-bers-and-nycers-pension-services5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Upcoming Pension Seminars",
-            "brHref": "/Upcoming-Pension-Seminars.14.htm",
-            "migratedText": "Upcoming Pension Seminars",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/upcoming-pension-webinars14",
-            "migratedPath": "/upcoming-pension-webinars14"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Available Pension Appointments",
-            "brHref": "/Available-Pension-Appointments.10.htm",
-            "migratedText": "Available Pension Appointments",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/available-pension-appointments10",
-            "migratedPath": "/available-pension-appointments10"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "10 Important Suggestions",
-            "brHref": "/10-Important-Suggestions.19.htm",
-            "migratedText": "10 Important Suggestions",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/important-suggestions19",
-            "migratedPath": "/important-suggestions19"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "migratedText": "Our Associates",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-firmbr2",
-            "migratedPath": "/our-firmbr2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Late Breaking News",
-            "brHref": "/Late-Breaking-News.17.htm",
-            "migratedText": "Late Breaking News",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/late-breaking-news17",
-            "migratedPath": "/late-breaking-news17"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Contact Bulletin",
-            "brHref": "/Contact-Bulletin.15.htm",
-            "migratedText": "Contact Bulletin",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Which states tax a NY pension?",
-            "brHref": "/Which-states-tax-a-NY-pension.18.htm",
-            "migratedText": "Which states tax a NY pension?",
-            "migratedHref": "http://rpea.org/retirement-planning/pension-tax-by-state/",
-            "migratedPath": "/retirement-planning/pension-tax-by-state"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "ATTENTION NYC CSA MEMBERS",
-            "brHref": "/ATTENTION-NYC-CSA-MEMBERS.20.htm",
-            "migratedText": "ATTENTION NYC CSA MEMBERS",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/attention-nyc-csa-members20",
-            "migratedPath": "/attention-nyc-csa-members20"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Affiliated Offices",
-            "brHref": "/affiliated-offices.htm",
-            "migratedText": "Affiliated Offices",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/affiliated-office",
-            "migratedPath": "/affiliated-office"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "REQUIRED MINIMUM DISTRIBUTIONS (RMD) - IRS",
-            "brHref": "/REQUIRED-MINIMUM-DISTRIBUTIONS-RMD---IRS.6.htm",
-            "migratedText": "REQUIRED MINIMUM DISTRIBUTIONS (RMD) - IRS",
-            "migratedHref": "http://www.irs.gov/retirement/article/0,,id=96989,00.html",
-            "migratedPath": "/retirement/article/0,,id=96989,00.html"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Drug Coverage for NYC Retirees",
-            "brHref": "/Drug-Coverage-for-NYC-Retirees.11.htm",
-            "migratedText": "Drug Coverage for NYC Retirees",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/drug-coverage-for-nyc-retirees11",
-            "migratedPath": "/drug-coverage-for-nyc-retirees11"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://irabernstein-31030808.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://irabernstein-31030808.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://irabernstein-31030808.brprodaccount.com/location",
-        "migratedPath": "/location"
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "REQUIRED MINIMUM DISTRIBUTIONS (RMD) - IRS",
-        "migratedHref": "http://www.irs.gov/retirement/article/0,,id=96989,00.html",
-        "migratedPath": "/retirement/article/0,,id=96989,00.html",
-        "httpStatus": 404,
-        "note": "\"REQUIRED MINIMUM DISTRIBUTIONS (RMD) - IRS\" → HTTP 404 (http://www.irs.gov/retirement/article/0,,id=96989,00.html)"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 29,
-      "totalMigratedItems": 27,
-      "missing": 2,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
-      "brokenLinks": 1,
+      "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 27
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -944,49 +376,17 @@
         ],
         "footerText": "Ira Bernstein and Associates is not affiliated with APFS or any other financial services provider. Site Map"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.irabernstein.net",
-        "companyNames": [
-          "PENSION CONSULTANTS | WEALTH MANAGEMENT"
-        ],
-        "phoneNumbers": [
-          "6463787933",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "dcurran@americanportfolios.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik",
-          "Diana M. Curran"
-        ],
-        "footerText": "Ira Bernstein and Associates is not affiliated with APFS or any other financial services provider."
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(646) 378-7933",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Diana M. Curran",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://irabernstein-31030808.brprodaccount.com/",
@@ -994,6 +394,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on irabernstein-31030808.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 4,
+        "severity": "ok"
       }
     }
   }

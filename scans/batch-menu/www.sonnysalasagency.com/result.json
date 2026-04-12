@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.sonnysalasagency.com",
     "migratedDomain": "https://sonnysalasagency-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:24:28.752Z",
+    "capturedAt": "2026-04-12T08:37:33.659Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -282,433 +282,69 @@
         "hasDropdown": true
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://sonnysalasagency-31030754.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://sonnysalasagency-31030754.brprodaccount.com/our-mission9",
-        "path": "/our-mission9",
-        "subItems": [
-          {
-            "text": "Our Mission",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/our-mission9",
-            "path": "/our-mission9"
-          },
-          {
-            "text": "Insurance Services",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/insurance-services2",
-            "path": "/insurance-services2"
-          },
-          {
-            "text": "Financial Services",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/financial-services1",
-            "path": "/financial-services1"
-          },
-          {
-            "text": "Pre-Planned Funeral",
-            "href": "https://www.legacyoflove.com/agent/Sonny_Salas",
-            "path": "/agent/Sonny_Salas"
-          },
-          {
-            "text": "Affordable Health Plans",
-            "href": "https://www.healthsherpa.com/?_agent_id=angela-salas-",
-            "path": "/"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Our Team",
-        "href": "https://sonnysalasagency-31030754.brprodaccount.com/our-team",
-        "path": "/our-team",
-        "subItems": [
-          {
-            "text": "Our Associates",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Career Opportunities",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/career-opportunities15",
-            "path": "/career-opportunities15"
-          },
-          {
-            "text": "Salas Insurance Group",
-            "href": "http://salasinsurancegroup.com/",
-            "path": "/"
-          },
-          {
-            "text": "Online Life & Health Insurance School",
-            "href": "https://store.licensecoach.com/",
-            "path": "/"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://sonnysalasagency-31030754.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Videos",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://sonnysalasagency-31030754.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [
-          {
-            "text": "Our Location",
-            "href": "https://sonnysalasagency-31030754.brprodaccount.com/location",
-            "path": "/location"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-mission9",
-        "migratedPath": "/our-mission9",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission9",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission",
-            "brHref": "/Our-Mission.9.htm",
-            "migratedText": "Our Mission",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-mission9",
-            "migratedPath": "/our-mission9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Insurance Services",
-            "brHref": "/Insurance-Services.2.htm",
-            "migratedText": "Insurance Services",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/insurance-services2",
-            "migratedPath": "/insurance-services2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Financial Services",
-            "brHref": "/Financial-Services.1.htm",
-            "migratedText": "Financial Services",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/financial-services1",
-            "migratedPath": "/financial-services1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Pre-Planned Funeral",
-            "brHref": "/https://www.legacyoflove.com/agent/Sonny_Salas",
-            "migratedText": "Pre-Planned Funeral",
-            "migratedHref": "https://www.legacyoflove.com/agent/Sonny_Salas",
-            "migratedPath": "/agent/Sonny_Salas"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Affordable Health Plans",
-            "brHref": "/https://www.healthsherpa.com/?_agent_id=angela-salas-",
-            "migratedText": "Affordable Health Plans",
-            "migratedHref": "https://www.healthsherpa.com/?_agent_id=angela-salas-",
-            "migratedPath": "/"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Team",
         "brHref": "/",
-        "migratedText": "Our Team",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "migratedText": "Our Associates",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "structure-change",
-            "brTitle": "Join our Team",
-            "brHref": "/Join-our-Team.10.htm",
-            "migratedText": "Our Team",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-team",
-            "migratedPath": "/our-team",
-            "note": "\"Join our Team\" is a sub-item in the BR navigation JSON but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Career Opportunities",
-            "brHref": "/Career-Opportunities.15.htm",
-            "migratedText": "Career Opportunities",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/career-opportunities15",
-            "migratedPath": "/career-opportunities15"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Salas Insurance Group",
-            "brHref": "/http://salasinsurancegroup.com",
-            "migratedText": "Salas Insurance Group",
-            "migratedHref": "http://salasinsurancegroup.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Online Life &amp; Health Insurance School",
-            "brHref": "/https://store.licensecoach.com/",
-            "migratedText": "Online Life & Health Insurance School",
-            "migratedHref": "https://store.licensecoach.com/",
-            "migratedPath": "/"
-          }
-        ]
+        "note": "\"Our Team\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/location",
-            "migratedPath": "/location"
-          }
-        ]
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "Affordable Health Plans",
-        "migratedHref": "https://www.healthsherpa.com/?_agent_id=angela-salas-",
-        "migratedPath": "/",
-        "httpStatus": 406,
-        "note": "\"Affordable Health Plans\" → HTTP 406 (https://www.healthsherpa.com/?_agent_id=angela-salas-)"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 20,
-      "totalMigratedItems": 19,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
-      "brokenLinks": 1,
+      "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
-      "structureChanges": 1,
-      "ok": 17,
+      "hrefMismatches": 0,
+      "structureChanges": 0,
+      "ok": 0,
       "totalBrItems": 20
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-mission9",
-        "migratedPath": "/our-mission9",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission",
-            "brHref": "/Our-Mission.9.htm",
-            "migratedText": "Our Mission",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-mission9",
-            "migratedPath": "/our-mission9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Insurance Services",
-            "brHref": "/Insurance-Services.2.htm",
-            "migratedText": "Insurance Services",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/insurance-services2",
-            "migratedPath": "/insurance-services2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Financial Services",
-            "brHref": "/Financial-Services.1.htm",
-            "migratedText": "Financial Services",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/financial-services1",
-            "migratedPath": "/financial-services1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Pre-Planned Funeral",
-            "brHref": "/Legacy-of-Love.4.htm",
-            "migratedText": "Pre-Planned Funeral",
-            "migratedHref": "https://www.legacyoflove.com/agent/Sonny_Salas",
-            "migratedPath": "/agent/Sonny_Salas"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Affordable Health Plans",
-            "brHref": "/",
-            "migratedText": "Affordable Health Plans",
-            "migratedHref": "https://www.healthsherpa.com/?_agent_id=angela-salas-",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Affordable Health Plans",
-            "brHref": "/Affordable-Health-Plans.5.htm",
-            "migratedText": "Affordable Health Plans",
-            "migratedHref": "https://www.healthsherpa.com/?_agent_id=angela-salas-",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Legal Shield",
-            "brHref": "/Legal-Shield.20.htm",
-            "note": "Sub-item \"Legal Shield\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Team",
         "brHref": "/",
-        "migratedText": "Our Team",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "migratedText": "Our Associates",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "structure-change",
-            "brTitle": "Join our Team",
-            "brHref": "/Join-our-Team.10.htm",
-            "migratedText": "Our Team",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/our-team",
-            "migratedPath": "/our-team",
-            "note": "\"Join our Team\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Career Opportunities",
-            "brHref": "/Career-Opportunities.15.htm",
-            "migratedText": "Career Opportunities",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/career-opportunities15",
-            "migratedPath": "/career-opportunities15"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Salas Insurance Group",
-            "brHref": "/Salas-Insurance-Group.18.htm",
-            "migratedText": "Salas Insurance Group",
-            "migratedHref": "http://salasinsurancegroup.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Online Life & Health Insurance School",
-            "brHref": "/Online-Life-and-Health-Insurance-School.17.htm",
-            "migratedText": "Online Life & Health Insurance School",
-            "migratedHref": "https://store.licensecoach.com/",
-            "migratedPath": "/"
-          }
-        ]
+        "note": "\"Our Team\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -717,105 +353,28 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Contact Us",
-            "brHref": "/contact_us",
-            "migratedText": "Contact Us",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/location",
-            "migratedPath": "/location",
-            "note": "\"Contact Us\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://sonnysalasagency-31030754.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Information Request",
-            "brHref": "/form.cfm",
-            "note": "Sub-item \"Information Request\" under \"Contact Us\" is missing in migrated"
-          }
-        ]
-      },
-      {
-        "kind": "broken-link",
-        "migratedText": "Affordable Health Plans",
-        "migratedHref": "https://www.healthsherpa.com/?_agent_id=angela-salas-",
-        "migratedPath": "/",
-        "httpStatus": 406,
-        "note": "\"Affordable Health Plans\" → HTTP 406 (https://www.healthsherpa.com/?_agent_id=angela-salas-)"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 33,
-      "totalMigratedItems": 19,
-      "missing": 4,
+      "totalMigratedItems": 0,
+      "missing": 6,
       "extra": 0,
-      "brokenLinks": 1,
+      "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 2,
-      "ok": 20
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -838,43 +397,17 @@
         "personNames": [],
         "footerText": "Terms of Service 2022 Sonny Salas Agency, Inc. All Rights Reserved We are not connected with or endorsed by the United States government or the federal Medicare program. We do not offer every plan available in your area. Any information we provide is limited to those plans we do offer in your area. Please contact Medicare.gov or 1-800-MEDICARE to get information on all of your options. Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.sonnysalasagency.com",
-        "companyNames": [
-          "Sonny Salas & Angela Salas"
-        ],
-        "phoneNumbers": [
-          "9798435600",
-          "8006601504",
-          "9792411025",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "rosie@sonnysalasagency.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "Terms of Service 2022 Sonny Salas Agency, Inc. All Rights Reserved We are not connected with or endorsed by the United States government or the federal Medicare program. We do not offer every plan available in your area. Any information we provide is limited to those plans we do offer in your area. Please contact Medicare.gov or 1-800-MEDICARE to get information on all of your options."
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(979) 843-5600, (800) 660-1504, (979) 241-1025, (832) 213-3637",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://sonnysalasagency-31030754.brprodaccount.com/",
@@ -882,6 +415,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on sonnysalasagency-31030754.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 4,
+        "severity": "ok"
       }
     }
   }

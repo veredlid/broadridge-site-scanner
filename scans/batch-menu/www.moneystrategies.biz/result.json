@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.moneystrategies.biz",
     "migratedDomain": "https://moneystrategies-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:18:33.281Z",
+    "capturedAt": "2026-04-12T08:33:56.593Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -238,403 +238,63 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://moneystrategies-31030758.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://moneystrategies-31030758.brprodaccount.com/our-mission-statement1",
-        "path": "/our-mission-statement1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Our Team",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Experience",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/our-experience4",
-            "path": "/our-experience4"
-          },
-          {
-            "text": "Our Community Work",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/our-community-work5",
-            "path": "/our-community-work5"
-          },
-          {
-            "text": "Meet Harriet",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/about-harriet-cosby6",
-            "path": "/about-harriet-cosby6"
-          },
-          {
-            "text": "Meet Hayward",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/about-hayward7",
-            "path": "/about-hayward7"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://moneystrategies-31030758.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://moneystrategies-31030758.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://moneystrategies-31030758.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Team",
-            "brHref": "/Our-Team.2.htm",
-            "migratedText": "Our Team",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Experience",
-            "brHref": "/Our-Experience.4.htm",
-            "migratedText": "Our Experience",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-experience4",
-            "migratedPath": "/our-experience4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Community Work",
-            "brHref": "/Our-Community-Work.5.htm",
-            "migratedText": "Our Community Work",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-community-work5",
-            "migratedPath": "/our-community-work5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Meet Harriet",
-            "brHref": "/Meet-Harriet.6.htm",
-            "migratedText": "Meet Harriet",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/about-harriet-cosby6",
-            "migratedPath": "/about-harriet-cosby6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Meet Hayward",
-            "brHref": "/Meet-Hayward.7.htm",
-            "migratedText": "Meet Hayward",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/about-hayward7",
-            "migratedPath": "/about-hayward7"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 17,
-      "totalMigratedItems": 17,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 4,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 15,
+      "ok": 0,
       "totalBrItems": 17
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Team",
-            "brHref": "/Our-Team.2.htm",
-            "migratedText": "Our Team",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Experience",
-            "brHref": "/Our-Experience.4.htm",
-            "migratedText": "Our Experience",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-experience4",
-            "migratedPath": "/our-experience4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Community Work",
-            "brHref": "/Our-Community-Work.5.htm",
-            "migratedText": "Our Community Work",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/our-community-work5",
-            "migratedPath": "/our-community-work5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Meet Harriet",
-            "brHref": "/Meet-Harriet.6.htm",
-            "migratedText": "Meet Harriet",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/about-harriet-cosby6",
-            "migratedPath": "/about-harriet-cosby6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Meet Hayward",
-            "brHref": "/Meet-Hayward.7.htm",
-            "migratedText": "Meet Hayward",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/about-hayward7",
-            "migratedPath": "/about-hayward7"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -643,24 +303,22 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://moneystrategies-31030758.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 28,
-      "totalMigratedItems": 17,
-      "missing": 3,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 17
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -682,43 +340,17 @@
         "personNames": [],
         "footerText": "Site Map"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.moneystrategies.biz",
-        "companyNames": [
-          "Money Strategies &  Associates LLC"
-        ],
-        "phoneNumbers": [
-          "2487961609",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "moneystrategies84@gmail.com"
-        ],
-        "physicalAddresses": [
-          "25900 Greenfield Road,\n\n\n\n\nSuite "
-        ],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": ""
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(248) 796-1609",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://moneystrategies-31030758.brprodaccount.com/",
@@ -726,6 +358,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on moneystrategies-31030758.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 40,
+        "severity": "ok"
       }
     }
   }

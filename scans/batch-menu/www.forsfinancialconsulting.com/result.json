@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.forsfinancialconsulting.com",
     "migratedDomain": "https://forsfinancialconsulting-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:14:27.150Z",
+    "capturedAt": "2026-04-12T08:31:10.782Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -614,6 +614,24 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on forsfinancialconsulting-31030802.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [],
+        "templateCount": 0,
+        "totalCount": 0,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 35,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.greykirwan.com",
     "migratedDomain": "https://greykirwan-31030801.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:16:30.415Z",
+    "capturedAt": "2026-04-12T08:32:28.588Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -565,6 +565,24 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on greykirwan-31030801.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [],
+        "templateCount": 0,
+        "totalCount": 0,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 24,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

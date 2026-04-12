@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.investinaris.com",
     "migratedDomain": "https://investinaris-31030800.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:16:49.474Z",
+    "capturedAt": "2026-04-12T08:32:16.530Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -275,268 +275,31 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://investinaris-31030800.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://investinaris-31030800.brprodaccount.com/our-mission-statement1",
-        "path": "/our-mission-statement1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://investinaris-31030800.brprodaccount.com/our-mission-statement1",
-            "path": "/our-mission-statement1"
-          },
-          {
-            "text": "Our Firm",
-            "href": "https://investinaris-31030800.brprodaccount.com/our-firm2",
-            "path": "/our-firm2"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Our Services",
-        "href": "https://investinaris-31030800.brprodaccount.com/our-services3",
-        "path": "/our-services3",
-        "subItems": [
-          {
-            "text": "Financial Planning",
-            "href": "https://investinaris-31030800.brprodaccount.com/financial-planning6",
-            "path": "/financial-planning6"
-          },
-          {
-            "text": "Retirement Income Strategies",
-            "href": "https://investinaris-31030800.brprodaccount.com/retirement-income-strategies5",
-            "path": "/retirement-income-strategies5"
-          },
-          {
-            "text": "401k Services",
-            "href": "https://investinaris-31030800.brprodaccount.com/401k-services9",
-            "path": "/401k-services9"
-          },
-          {
-            "text": "Funding Education",
-            "href": "https://investinaris-31030800.brprodaccount.com/funding-education8",
-            "path": "/funding-education8"
-          },
-          {
-            "text": "Dynamic Portfolio",
-            "href": "https://investinaris-31030800.brprodaccount.com/dynamic-portfolio7",
-            "path": "/dynamic-portfolio7"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://investinaris-31030800.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://investinaris-31030800.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://investinaris-31030800.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://investinaris-31030800.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://investinaris-31030800.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://investinaris-31030800.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://investinaris-31030800.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Our Latest Insights",
-        "href": "https://investinaris-31030800.brprodaccount.com/our-latest-insights10",
-        "path": "/our-latest-insights10",
-        "subItems": [
-          {
-            "text": "Our Videos",
-            "href": "https://investinaris-31030800.brprodaccount.com/videos",
-            "path": "/videos"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://investinaris-31030800.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Services",
         "brHref": "/Our-Services.3.htm",
-        "migratedText": "Our Services",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-services3",
-        "migratedPath": "/our-services3",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Financial Planning",
-            "brHref": "/Financial-Planning.6.htm",
-            "migratedText": "Financial Planning",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/financial-planning6",
-            "migratedPath": "/financial-planning6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Retirement Income Strategies",
-            "brHref": "/Retirement-Income-Strategies.5.htm",
-            "migratedText": "Retirement Income Strategies",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/retirement-income-strategies5",
-            "migratedPath": "/retirement-income-strategies5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "401k Services",
-            "brHref": "/401k-Services.9.htm",
-            "migratedText": "401k Services",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/401k-services9",
-            "migratedPath": "/401k-services9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Funding Education",
-            "brHref": "/Funding-Education.8.htm",
-            "migratedText": "Funding Education",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/funding-education8",
-            "migratedPath": "/funding-education8"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Dynamic Portfolio",
-            "brHref": "/Dynamic-Portfolio.7.htm",
-            "migratedText": "Dynamic Portfolio",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/dynamic-portfolio7",
-            "migratedPath": "/dynamic-portfolio7"
-          }
-        ]
+        "note": "\"Our Services\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters/",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary/",
-            "migratedText": "Glossary",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library/",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "Videos",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -545,207 +308,54 @@
         "note": "\"Request Information\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Latest Insights",
         "brHref": "/Our-Latest-Videos.10.htm",
-        "migratedText": "Our Latest Insights",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-latest-insights10",
-        "migratedPath": "/our-latest-insights10",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Videos",
-            "brHref": "/Our-Videos.11.htm",
-            "migratedText": "Our Videos",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Our Latest Insights\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 21,
-      "totalMigratedItems": 20,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 7,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 18,
+      "ok": 0,
       "totalBrItems": 21
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About Us",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-mission-statement1",
-        "migratedPath": "/our-mission-statement1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-mission-statement1",
-            "migratedPath": "/our-mission-statement1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-firm2",
-            "migratedPath": "/our-firm2"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Services",
         "brHref": "/",
-        "migratedText": "Our Services",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-services3",
-        "migratedPath": "/our-services3",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3",
-            "note": "\"Our Services\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Financial Planning",
-            "brHref": "/Financial-Planning.6.htm",
-            "migratedText": "Financial Planning",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/financial-planning6",
-            "migratedPath": "/financial-planning6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Retirement Income Strategies",
-            "brHref": "/Retirement-Income-Strategies.5.htm",
-            "migratedText": "Retirement Income Strategies",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/retirement-income-strategies5",
-            "migratedPath": "/retirement-income-strategies5"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "401k Services",
-            "brHref": "/401k-Services.9.htm",
-            "migratedText": "401k Services",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/401k-services9",
-            "migratedPath": "/401k-services9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Funding Education",
-            "brHref": "/Funding-Education.8.htm",
-            "migratedText": "Funding Education",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/funding-education8",
-            "migratedPath": "/funding-education8"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Dynamic Portfolio",
-            "brHref": "/Dynamic-Portfolio.7.htm",
-            "migratedText": "Dynamic Portfolio",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/dynamic-portfolio7",
-            "migratedPath": "/dynamic-portfolio7"
-          }
-        ]
+        "note": "\"Our Services\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Newsletters",
-            "brHref": "/learning_center/newsletters",
-            "migratedText": "Newsletters",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/newsletters",
-            "migratedPath": "/newsletters"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Tax Library",
-            "brHref": "/learning_center/tax_library",
-            "migratedText": "Tax Library",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/tax-library",
-            "migratedPath": "/tax-library"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -754,51 +364,28 @@
         "note": "\"Request Information\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Latest Insights",
         "brHref": "/",
-        "migratedText": "Our Latest Insights",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-latest-insights10",
-        "migratedPath": "/our-latest-insights10",
-        "subIssues": [
-          {
-            "kind": "structure-change",
-            "brTitle": "Our Latest Insights",
-            "brHref": "/Our-Latest-Videos.10.htm",
-            "migratedText": "Our Latest Insights",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/our-latest-insights10",
-            "migratedPath": "/our-latest-insights10",
-            "note": "\"Our Latest Insights\" is a sub-item in the original live site but top-level in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Videos",
-            "brHref": "/Our-Videos.11.htm",
-            "migratedText": "Our Videos",
-            "migratedHref": "https://investinaris-31030800.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Our Latest Insights\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://investinaris-31030800.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 30,
-      "totalMigratedItems": 20,
-      "missing": 3,
+      "totalMigratedItems": 0,
+      "missing": 7,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
-      "structureChanges": 2,
-      "ok": 20
+      "structureChanges": 0,
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -821,52 +408,17 @@
         "personNames": [],
         "footerText": "American Retirement & Investment Strategies, LLC is a Massachusetts registered investment advisory firm whose main office is in Gloucester, MA. American Retirement & Investment Strategies, LLC, Joseph M. Grella and William D'Annibale (Principals) are in compliance with the current registration and/or notice filing requirements imposed upon state registered advisors by those states in which it is registered or qualifies for exemption or exclusion from registered requirements. A copy of American Retirement & Investment Strategies' current disclosure statement (Form ADV Part 1) containing American Retirement & Investment Strategies' operations, services, and fees, is available by accessing the SEC's Investment Adviser Public Disclosure Website. American Retirement & Investment Strategies, LLC will provide form ADV Part 2A (Firm Brochure) and 2B (Brochure Supplement) to interested parties upon request. Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.investinaris.com",
-        "companyNames": [
-          "American Retirement & Investment Strategies, LLC"
-        ],
-        "phoneNumbers": [
-          "9782831011",
-          "5085337370",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "joeg@investinaris.com",
-          "billd@investinaris.com"
-        ],
-        "physicalAddresses": [
-          "14 Fleetwoods Drive\n\n\n\n\nGloucester\n\n"
-        ],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "American Retirement & Investment Strategies, LLC is a Massachusetts registered investment advisory firm whose main office is in Gloucester, MA. American Retirement & Investment Strategies, LLC, Joseph M. Grella and William D'Annibale (Principals) are in compliance with the current registration and/or notice filing requirements imposed upon state registered advisors by those states in which it is registered or qualifies for exemption or exclusion from registered requirements. A copy of American Retirement & Investment Strategies' current disclosure statement (Form ADV Part 1) containing American Retirement & Investment Strategies' operations, services, and fees, is available by accessing the SEC's Investment Adviser Public Disclosure Website. American Retirement & Investment Strategies, LLC will provide form ADV Part 2A (Firm Brochure) and 2B (Brochure Supplement) to interested parties upon request."
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(978) 283-1011, (508) 533-7370",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "address",
-          "originalValue": "14 Fleetwoods Drive\nGloucester, MA 01930",
-          "migratedValue": "14 Fleetwoods Drive\n\n\n\n\nGloucester\n\n",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://investinaris-31030800.brprodaccount.com/",
@@ -874,6 +426,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on investinaris-31030800.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 24,
+        "severity": "ok"
       }
     }
   }

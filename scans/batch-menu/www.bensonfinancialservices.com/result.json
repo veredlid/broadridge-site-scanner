@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.bensonfinancialservices.com",
     "migratedDomain": "https://bensonfinancialservices-31030805.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:33:07.984Z",
+    "capturedAt": "2026-04-12T08:40:32.592Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -81,8 +81,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.bensonfinancialservices.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our Locations",
@@ -114,8 +114,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.bensonfinancialservices.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -157,8 +157,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.bensonfinancialservices.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
@@ -431,13 +431,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/location",
         "migratedPath": "/location",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /location",
         "subIssues": [
           {
             "kind": "ok",
@@ -481,13 +480,12 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://bensonfinancialservices-31030805.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -548,7 +546,7 @@
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -567,9 +565,9 @@
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 1,
-      "ok": 11
+      "ok": 13
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -579,73 +577,11 @@
           "Benson Financial Services",
           "Benson Financial Services, Consultants in Tax, Estate and Accounting Services."
         ],
-        "phoneNumbers": [
-          "(607) 432-3775"
-        ],
-        "emailAddresses": [
-          "don@donaldbensoncpa.com"
-        ],
-        "physicalAddresses": [
-          "28 Oneida Street\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tOneonta,\n\t\t\t\t\n\t\t\t\t\tNY \n\t\t\t\t\t13820"
-        ],
-        "personNames": [
-          "Home\n          \n          About",
-          "Us\n           \n            Our",
-          "Locations\n            Our",
-          "Associates\n            Our",
-          "Mission Statement",
-          "Tell A Friend",
-          "Us\n            \n           \n          \n          Resources",
-          "Articles\n            Calculators",
-          "Flipbooks\n            Newsletters",
-          "Glossary\n            Tax",
-          "Library\n            Videos",
-          "Request A Quote",
-          "Annuity \n            Long",
-          "Term Care",
-          "Insurance  \n            Group",
-          "Health \n            Life",
-          "Insurance  \n            Individual",
-          "Health \n            Disability",
-          "Income Insurance",
-          "Information Request",
-          "Benson Financial",
-          "Oneida Street",
-          "View Videos",
-          "View Flipbooks",
-          "Accounting Services",
-          "Socially Conscious",
-          "College Funding",
-          "Savvy Social",
-          "Security Planning",
-          "Wealth Accumulation",
-          "Highest Level",
-          "Customer Care",
-          "Strengthen Your",
-          "Retirement Strategy",
-          "Foreign Stocks",
-          "Tariffs Drive",
-          "Market Volatility",
-          "Cash Balance",
-          "Plans Help",
-          "Some Business",
-          "Owners Supersize",
-          "Retirement Savings",
-          "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cash",
-          "Flow Analysis",
-          "This Cash",
-          "Waiting\n          \n        \n        Estimate",
-          "Life Expectancy",
-          "Retirement Plan",
-          "Early Distribution",
-          "More Calculators",
-          "Investment Advisory",
-          "Asset Management",
-          "Site Map",
-          "To Top"
-        ],
-        "footerText": "Investment Advisory Services offered through PVG Asset Management Corporation. PVG Asset Management Corporation is separately owned and other entities and marketing names, products or services are independent of PVG Asset Management Corporation. PVG Asset Management Corporation and Benson Financial Services are not affiliated.\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSite Map\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBack To Top"
+        "phoneNumbers": [],
+        "emailAddresses": [],
+        "physicalAddresses": [],
+        "personNames": [],
+        "footerText": "Investment Advisory Services offered through PVG Asset Management Corporation. PVG Asset Management Corporation is separately owned and other entities and marketing names, products or services are independent of PVG Asset Management Corporation. PVG Asset Management Corporation and Benson Financial Services are not affiliated. Site Map Back To Top"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.bensonfinancialservices.com",
@@ -658,15 +594,7 @@
         ],
         "footerText": "Investment Advisory Services offered through PVG Asset Management Corporation. PVG Asset Management Corporation is separately owned and other entities and marketing names, products or services are independent of PVG Asset Management Corporation. PVG Asset Management Corporation and Benson Financial Services are not affiliated."
       },
-      "mismatches": [
-        {
-          "field": "person-name",
-          "originalValue": "Home\n          \n          About, Us\n           \n            Our, Locations\n            Our, Associates\n            Our, Mission Statement, Tell A Friend, Us\n            \n           \n          \n          Resources, Articles\n            Calculators, Flipbooks\n            Newsletters, Glossary\n            Tax, Library\n            Videos, Request A Quote, Annuity \n            Long, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Benson Financial, Oneida Street, View Videos, View Flipbooks, Accounting Services, Socially Conscious, College Funding, Savvy Social, Security Planning, Wealth Accumulation, Highest Level, Customer Care, Strengthen Your, Retirement Strategy, Foreign Stocks, Tariffs Drive, Market Volatility, Cash Balance, Plans Help, Some Business, Owners Supersize, Retirement Savings, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Cash, Flow Analysis, This Cash, Waiting\n          \n        \n        Estimate, Life Expectancy, Retirement Plan, Early Distribution, More Calculators, Investment Advisory, Asset Management, Site Map, To Top",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
-        }
-      ]
+      "mismatches": []
     },
     "siteHealth": {
       "brokerCheck": {
@@ -682,6 +610,24 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on bensonfinancialservices-31030805.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [],
+        "templateCount": 0,
+        "totalCount": 0,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 6,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.foundationfinancialconcepts.com",
     "migratedDomain": "https://foundationfinancialconcepts-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:10:38.683Z",
+    "capturedAt": "2026-04-12T08:28:50.851Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -715,6 +715,24 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on foundationfinancialconcepts-31030802.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [],
+        "templateCount": 0,
+        "totalCount": 0,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 74,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

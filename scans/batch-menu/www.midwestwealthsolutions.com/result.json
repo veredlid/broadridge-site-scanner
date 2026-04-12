@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.midwestwealthsolutions.com",
     "migratedDomain": "https://midwestwealthsolutions-31030758.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:48:16.392Z",
+    "capturedAt": "2026-04-12T08:43:01.689Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -118,55 +118,19 @@
           "Midwest Wealth Solutions"
         ],
         "phoneNumbers": [
-          "(414) 777-0700"
+          "4147770700"
         ],
         "emailAddresses": [
           "bleben@lltcpas.com"
         ],
         "physicalAddresses": [
-          "19575 Janacek CtSuite 104\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tBrookfield,\n\t\t\t\t\n\t\t\t\t\tWI \n\t\t\t\t\t53045"
+          "19575 Janacek Ct\nSuite 104\nBrookfield, WI 53045"
         ],
         "personNames": [
-          "Midwest Wealth",
-          "Solutions \n      Dependable",
-          "Focused\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact",
-          "Home\n          \n          Contact",
-          "Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive",
-          "Client Focused",
-          "Only Full",
-          "Service Financial",
-          "Wealth Management",
-          "Net Worth",
-          "Cash Flow",
-          "Money Management",
-          "Investment Planning",
-          "Tax Projections",
-          "Firm\n\nFull",
-          "About Midwest",
-          "Wealth Solutions",
-          "Brian Leben",
-          "La Crosse",
-          "Business Administration",
-          "Marquette University",
-          "Cornell University",
-          "Executive Leadership",
-          "Leading Management",
-          "Certified Public",
-          "Certified Financial",
-          "Personal Financial",
-          "Certified Global",
-          "Managerial Accountant",
-          "Certified Project",
-          "Management Professional",
-          "Public Accounting",
-          "Then Brian",
-          "Internal Audit",
-          "Strategic Management",
-          "American Institute",
-          "Wisconsin Institute",
-          "Site Map"
+          "Firm\n\nFull Service",
+          "Bn Leben"
         ],
-        "footerText": "body {\n    font-size: 15px;}\n      \n        \n          \n            \n              \n                  Site Map"
+        "footerText": "body { font-size: 15px;} Site Map"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.midwestwealthsolutions.com",
@@ -200,21 +164,14 @@
         },
         {
           "field": "person-name",
-          "originalValue": "Midwest Wealth, Solutions \n      Dependable, Focused\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, Home\n          \n          Contact, Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive, Client Focused, Only Full, Service Financial, Wealth Management, Net Worth, Cash Flow, Money Management, Investment Planning, Tax Projections, Firm\n\nFull, About Midwest, Wealth Solutions, Brian Leben, La Crosse, Business Administration, Marquette University, Cornell University, Executive Leadership, Leading Management, Certified Public, Certified Financial, Personal Financial, Certified Global, Managerial Accountant, Certified Project, Management Professional, Public Accounting, Then Brian, Internal Audit, Strategic Management, American Institute, Wisconsin Institute, Site Map",
+          "originalValue": "Firm\n\nFull Service, Bn Leben",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         },
         {
-          "field": "person-name",
-          "originalValue": "Midwest Wealth, Solutions \n      Dependable, Focused\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, Home\n          \n          Contact, Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive, Client Focused, Only Full, Service Financial, Wealth Management, Net Worth, Cash Flow, Money Management, Investment Planning, Tax Projections, Firm\n\nFull, About Midwest, Wealth Solutions, Brian Leben, La Crosse, Business Administration, Marquette University, Cornell University, Executive Leadership, Leading Management, Certified Public, Certified Financial, Personal Financial, Certified Global, Managerial Accountant, Certified Project, Management Professional, Public Accounting, Then Brian, Internal Audit, Strategic Management, American Institute, Wisconsin Institute, Site Map",
-          "migratedValue": "Bn Leben",
-          "severity": "critical",
-          "note": "Person \"Bn Leben\" appears on migrated site but not on original"
-        },
-        {
           "field": "address",
-          "originalValue": "19575 Janacek CtSuite 104\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tBrookfield,\n\t\t\t\t\n\t\t\t\t\tWI \n\t\t\t\t\t53045",
+          "originalValue": "19575 Janacek Ct\nSuite 104\nBrookfield, WI 53045",
           "migratedValue": "19575 Janacek Ct\n\nSuite 104\n\n\n\n\nBrookfield\n\n",
           "severity": "critical",
           "note": "Physical address on migrated site differs from original"
@@ -235,6 +192,56 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on midwestwealthsolutions-31030758.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/93199/CFP Image.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/93199/CFP Image.JPG\""
+          },
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/93199/CFP Image.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/93199/CFP Image.JPG\""
+          }
+        ],
+        "totalImages": 20,
+        "severity": "warning"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

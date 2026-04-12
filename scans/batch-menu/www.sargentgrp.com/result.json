@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.sargentgrp.com",
     "migratedDomain": "https://sargentgrp-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:51:20.444Z",
+    "capturedAt": "2026-04-12T08:43:38.116Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -109,8 +109,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.sargentgrp.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our Mission Statement",
@@ -197,8 +197,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.sargentgrp.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -235,8 +235,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.sargentgrp.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Auto Policy Change Request",
@@ -589,13 +589,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About",
         "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/our-team",
         "migratedPath": "/our-team",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
         "subIssues": [
           {
             "kind": "missing",
@@ -700,13 +699,12 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://sargentgrp-31030754.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -759,7 +757,7 @@
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -818,9 +816,9 @@
       "extra": 6,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 8
+      "ok": 10
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -831,81 +829,17 @@
           "Sargent Insurance Group"
         ],
         "phoneNumbers": [
-          "(208) 392-1721",
-          "(866) 275-7770"
+          "2083921721",
+          "8662757770"
         ],
         "emailAddresses": [
           "ladale@sargentgrp.com"
         ],
         "physicalAddresses": [
-          "810 Pancheri Drive\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tIdaho Falls,\n\t\t\t\t\n\t\t\t\t\tID \n\t\t\t\t\t83402"
+          "810 Pancheri Drive\nIdaho Falls, ID 83402"
         ],
-        "personNames": [
-          "Pancheri Drive",
-          "Idaho Falls",
-          "Home\n          \n          About",
-          "Us\n           \n            Our",
-          "Mission Statement",
-          "Our Location",
-          "Sargent Insurance",
-          "Group\n            Our",
-          "Services\n            Our",
-          "Qualifications\n            Our",
-          "Staff\n            Our",
-          "Carriers\n            Click",
-          "Free Prescription",
-          "Drug Discount",
-          "Card\n            Featured",
-          "Links\n            Tell",
-          "Friend\n            \n           \n          \n          Resources",
-          "Articles\n            Calculators",
-          "Newsletters\n            Glossary",
-          "Tax Library",
-          "Faqs\n           \n          \n          Request",
-          "Quote\n           \n            Auto",
-          "Policy Change",
-          "Request\n            Auto",
-          "Card Request",
-          "Auto Quote",
-          "Request\n            Homeowners",
-          "Insurance Quote",
-          "Request\n            Life",
-          "Request\n           \n          \n          Contact",
-          "Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\nThanks",
-          "Our Learning",
-          "Quote Center",
-          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Long",
-          "Term Care",
-          "Self Insurance",
-          "Lifetime Earnings",
-          "Credit Card",
-          "Debt\n          \n        \n        How",
-          "Long Will",
-          "It Take",
-          "Car Affordability",
-          "More Calculators",
-          "Learning Center",
-          "Articles\n                Educate",
-          "Glossary\n                  \n                  Financial",
-          "Frequently Asked",
-          "Questions\n              \n            \n              \n                \n                  Tax",
-          "Library\n                \n                Manage",
-          "Auto Insurance",
-          "Home Insurance",
-          "Quotes Powered",
-          "Privacy Policy",
-          "Website Visitors",
-          "Internet Protocol",
-          "Identifying Information",
-          "Aggregated Statistics",
-          "Certain Personally",
-          "Business Transfers",
-          "If Sargent",
-          "Insurance Group",
-          "This Privacy",
-          "Site Map"
-        ],
-        "footerText": "Auto Insurance Quotes and Home Insurance Quotes Powered by AgentInsure\n\t\t\t\n\t\t\n\t\n\n\n\nPrivacy Policy:\nSargent Insurance Group operates sargentgrp.com and may operate other websites. It is Sargent Insurance Group’s policy to respect your privacy regarding any information we may collect while operating our websites.\nWebsite Visitors\nLike most website operators, Sargent Insurance Group collects non-personally-identifying information of the sort that web browsers and servers typically make available, s"
+        "personNames": [],
+        "footerText": "Auto Insurance Quotes and Home Insurance Quotes Powered by AgentInsure Privacy Policy: Sargent Insurance Group operates sargentgrp.com and may operate other websites. It is Sargent Insurance Group’s policy to respect your privacy regarding any information we may collect while operating our websites. Website Visitors Like most website operators, Sargent Insurance Group collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Sargent Insurance Group’s purpose in collecting non-personally identifying information is to better understand how Sargent Insurance Group’s visitors use its website. From time to time, Sargent Insurance Group may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Sargent Insurance Group also collects potentially person"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.sargentgrp.com",
@@ -974,13 +908,6 @@
           "note": "Email \"resnik_neil@nlgroupmail.com\" on migrated site not found on original"
         },
         {
-          "field": "person-name",
-          "originalValue": "Pancheri Drive, Idaho Falls, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Location, Sargent Insurance, Group\n            Our, Services\n            Our, Qualifications\n            Our, Staff\n            Our, Carriers\n            Click, Free Prescription, Drug Discount, Card\n            Featured, Links\n            Tell, Friend\n            \n           \n          \n          Resources, Articles\n            Calculators, Newsletters\n            Glossary, Tax Library, Faqs\n           \n          \n          Request, Quote\n           \n            Auto, Policy Change, Request\n            Auto, Card Request, Auto Quote, Request\n            Homeowners, Insurance Quote, Request\n            Life, Request\n           \n          \n          Contact, Us\n          \n           \n         \n \n            \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t \n\nThanks, Our Learning, Quote Center, Calculators\n        \n      \n      \n         \n      \n        \n          \n            Long, Term Care, Self Insurance, Lifetime Earnings, Credit Card, Debt\n          \n        \n        How, Long Will, It Take, Car Affordability, More Calculators, Learning Center, Articles\n                Educate, Glossary\n                  \n                  Financial, Frequently Asked, Questions\n              \n            \n              \n                \n                  Tax, Library\n                \n                Manage, Auto Insurance, Home Insurance, Quotes Powered, Privacy Policy, Website Visitors, Internet Protocol, Identifying Information, Aggregated Statistics, Certain Personally, Business Transfers, If Sargent, Insurance Group, This Privacy, Site Map",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
-        },
-        {
           "field": "company-name",
           "originalValue": "Insurance solutions to protect the things that matter most. / Sargent Insurance Group",
           "migratedValue": "Creative Financial\nProfessionals",
@@ -989,7 +916,7 @@
         },
         {
           "field": "address",
-          "originalValue": "810 Pancheri Drive\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tIdaho Falls,\n\t\t\t\t\n\t\t\t\t\tID \n\t\t\t\t\t83402",
+          "originalValue": "810 Pancheri Drive\nIdaho Falls, ID 83402",
           "migratedValue": "4500 Westgrove Suite 356\nAddison, TX 75001",
           "severity": "critical",
           "note": "Physical address on migrated site differs from original"
@@ -1010,6 +937,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on sargentgrp-31030754.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 32,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

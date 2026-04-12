@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.smithfinancialgrouponline.com",
     "migratedDomain": "https://smithfinancialgrouponline-31030754.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:28:24.233Z",
+    "capturedAt": "2026-04-12T08:39:26.904Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -529,42 +529,17 @@
           "Smith Financial Group"
         ],
         "phoneNumbers": [
-          "(512) 554-6086",
-          "(512) 308-6942"
+          "5125546086",
+          "5123086942"
         ],
         "emailAddresses": [
           "mikes@smithfinancialgrouponline.com"
         ],
         "physicalAddresses": [
-          "11824 Jollyville Road, Suite 500Austin,  TX 78659"
+          "11824 Jollyville Road, Suite "
         ],
-        "personNames": [
-          "Contact Info",
-          "Jollyville Road",
-          "Home\n          \n                Our",
-          "Firm\n              \n                Our",
-          "Mission Statement",
-          "Our Services",
-          "Our Team",
-          "Our Location",
-          "Resources\n          \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n    \n       \n      \n      Today",
-          "At Smith",
-          "Financial Group",
-          "Smith Financial",
-          "Cedar Park",
-          "Financial Advice",
-          "Acquisition International",
-          "Worldwide Finance",
-          "Best Alternative",
-          "Financial Planning",
-          "Additional Pages",
-          "Archive\n                  \n            \n          \n        \n      \n        \n      \n      \n  \n\n  \n    \n\n      \n  \t\t\tFinancial",
-          "Real World",
-          "Infinity Financial",
-          "Services Advisory",
-          "Site Map"
-        ],
-        "footerText": "Financial Planning for the Real World Securities offered through Infinity Financial Services member FINRA/SIPC\nInvestment advisory services offered through Infinity Financial Services Advisory, an SEC registered RIA\n      \n        \n          \n            \n              \n                  Site Map"
+        "personNames": [],
+        "footerText": "Financial Planning for the Real World Securities offered through Infinity Financial Services member FINRA/SIPC Investment advisory services offered through Infinity Financial Services Advisory, an SEC registered RIA Site Map"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.smithfinancialgrouponline.com",
@@ -633,13 +608,6 @@
           "note": "Email \"resnik_neil@nlgroupmail.com\" on migrated site not found on original"
         },
         {
-          "field": "person-name",
-          "originalValue": "Contact Info, Jollyville Road, Home\n          \n                Our, Firm\n              \n                Our, Mission Statement, Our Services, Our Team, Our Location, Resources\n          \n        \n      \n    \n  \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n    \n       \n      \n      Today, At Smith, Financial Group, Smith Financial, Cedar Park, Financial Advice, Acquisition International, Worldwide Finance, Best Alternative, Financial Planning, Additional Pages, Archive\n                  \n            \n          \n        \n      \n        \n      \n      \n  \n\n  \n    \n\n      \n  \t\t\tFinancial, Real World, Infinity Financial, Services Advisory, Site Map",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
-        },
-        {
           "field": "company-name",
           "originalValue": "Smith Financial Group",
           "migratedValue": "Creative Financial\nProfessionals",
@@ -648,7 +616,7 @@
         },
         {
           "field": "address",
-          "originalValue": "11824 Jollyville Road, Suite 500Austin,  TX 78659",
+          "originalValue": "11824 Jollyville Road, Suite ",
           "migratedValue": "4500 Westgrove Suite 356\nAddison, TX 75001",
           "severity": "critical",
           "note": "Physical address on migrated site differs from original"
@@ -669,6 +637,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on smithfinancialgrouponline-31030754.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 10,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

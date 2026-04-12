@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.coordinatedplanninggroup.com",
     "migratedDomain": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:14:08.518Z",
+    "capturedAt": "2026-04-12T08:30:33.832Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -117,32 +117,32 @@
         "subItems": [
           {
             "text": "Annuity",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=8877&SN=2594345298",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=8877&SN=2599441127",
             "path": "/form.cfm"
           },
           {
             "text": "Long-Term Care Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=8877&SN=2594345298",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=8877&SN=2599441127",
             "path": "/form.cfm"
           },
           {
             "text": "Group Health",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=8877&SN=2594345298",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=67&SSLID=8877&SN=2599441127",
             "path": "/form.cfm"
           },
           {
             "text": "Life Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=8877&SN=2594345298",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=8877&SN=2599441127",
             "path": "/form.cfm"
           },
           {
             "text": "Disability Income Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=8877&SN=2594345298",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=8877&SN=2599441127",
             "path": "/form.cfm"
           },
           {
             "text": "401(k) Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=8877&SN=2594345298",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=72&SSLID=8877&SN=2599441127",
             "path": "/form.cfm"
           }
         ],
@@ -156,348 +156,51 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About",
-        "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/our-team",
-        "path": "/our-team",
-        "subItems": [
-          {
-            "text": "Our Team",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Location",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "HR360",
-            "href": "https://www.hr360.com/login/",
-            "path": "/login"
-          },
-          {
-            "text": "Apply for Individual Health Insurance",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
-            "path": "/"
-          },
-          {
-            "text": "Featured Links",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/featured-links",
-            "path": "/featured-links"
-          },
-          {
-            "text": "Affiliated Office",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/affiliated-office",
-            "path": "/affiliated-office"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Newsletters",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/newsletters",
-            "path": "/newsletters"
-          },
-          {
-            "text": "Glossary",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/glossary",
-            "path": "/glossary"
-          },
-          {
-            "text": "Tax Library",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/tax-library",
-            "path": "/tax-library"
-          },
-          {
-            "text": "Videos",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/videos",
-            "path": "/videos"
-          },
-          {
-            "text": "FAQ",
-            "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/faq",
-            "path": "/faq"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Location",
-        "href": "https://coordinatedplanninggroup-31030804.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-team",
-        "subIssues": [
-          {
-            "kind": "missing",
-            "brTitle": "Our Firm's Services",
-            "brHref": "/Our-Firms-Services.1.htm",
-            "note": "Sub-item \"Our Firm's Services\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "note": "Sub-item \"Our Associates\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Location",
-            "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          }
-        ]
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Team",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "HR360",
-        "migratedHref": "https://www.hr360.com/login/",
-        "migratedPath": "/login",
-        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Apply for Individual Health Insurance",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Affiliated Office",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/affiliated-office",
-        "migratedPath": "/affiliated-office",
-        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Resources",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Articles",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Articles\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Calculators",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/calculators",
-        "migratedPath": "/calculators",
-        "note": "\"Calculators\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Newsletters",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/newsletters",
-        "migratedPath": "/newsletters",
-        "note": "\"Newsletters\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Glossary",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/glossary",
-        "migratedPath": "/glossary",
-        "note": "\"Glossary\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Tax Library",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/tax-library",
-        "migratedPath": "/tax-library",
-        "note": "\"Tax Library\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Videos",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/videos",
-        "migratedPath": "/videos",
-        "note": "\"Videos\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "FAQ",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/faq",
-        "migratedPath": "/faq",
-        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the BR navigation JSON"
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 6,
-      "totalMigratedItems": 17,
+      "totalMigratedItems": 0,
       "missing": 2,
-      "extra": 12,
+      "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 1,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 3,
+      "ok": 0,
       "totalBrItems": 6
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/",
-        "migratedText": "About",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "subIssues": [
-          {
-            "kind": "missing",
-            "brTitle": "Our Firm's Services",
-            "brHref": "/Our-Firms-Services.1.htm",
-            "note": "Sub-item \"Our Firm's Services\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Our Associates",
-            "brHref": "/team.htm",
-            "note": "Sub-item \"Our Associates\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Location",
-            "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Featured Links",
-            "brHref": "/featured_links.htm",
-            "migratedText": "Featured Links",
-            "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/featured-links",
-            "migratedPath": "/featured-links"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Flipbooks",
-            "brHref": "/learning_center/flipbooks",
-            "note": "Sub-item \"Flipbooks\" under \"Resources\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Glossary",
-            "brHref": "/learning_center/glossary",
-            "migratedText": "Glossary",
-            "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/glossary",
-            "migratedPath": "/glossary"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "Videos",
-            "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -510,67 +213,18 @@
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
         "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Team",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "note": "\"Our Team\" (under \"About\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "HR360",
-        "migratedHref": "https://www.hr360.com/login/",
-        "migratedPath": "/login",
-        "note": "\"HR360\" (under \"About\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Apply for Individual Health Insurance",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Apply for Individual Health Insurance\" (under \"About\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Affiliated Office",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/affiliated-office",
-        "migratedPath": "/affiliated-office",
-        "note": "\"Affiliated Office\" (under \"About\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Newsletters",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/newsletters",
-        "migratedPath": "/newsletters",
-        "note": "\"Newsletters\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Tax Library",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/tax-library",
-        "migratedPath": "/tax-library",
-        "note": "\"Tax Library\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "FAQ",
-        "migratedHref": "https://coordinatedplanninggroup-31030804.brprodaccount.com/faq",
-        "migratedPath": "/faq",
-        "note": "\"FAQ\" (under \"Resources\") appears in the migrated menu but is not in the original live site"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 21,
-      "totalMigratedItems": 17,
-      "missing": 6,
-      "extra": 7,
+      "totalMigratedItems": 0,
+      "missing": 5,
+      "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 9
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -590,55 +244,17 @@
         "personNames": [],
         "footerText": "DisclosureWARRANTIES & DISCLAIMERSThere are no warranties implied.Coordinated Planning Group, Inc. (“RIA Firm”) is a registered investment adviser located in Melville, NY. Coordinated Planning Group, Inc. may only transact business in those states in which it is registered, or qualifies for an exemption or exclusion from registration requirements. Coordinated Planning Group, Inc. web site is limited to the dissemination of general information pertaining to its advisory services, together with access to additional investment-related information, publications, and links. Accordingly, the publication of Coordinated Planning Group, Inc. web site on the Internet should not be construed by any consumer and/or prospective client as RIA Firm Name’s solicitation to effect, or attempt to effect transactions in securities, or the rendering of personalized investment advice for compensation, over the Internet. Any subsequent, direct communication by Coordinated Planning Group, Inc. with a prospect"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.coordinatedplanninggroup.com",
-        "companyNames": [
-          "Creative Financial\nProfessionals"
-        ],
-        "phoneNumbers": [
-          "6313936044",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "fdelape@coordinatedplanning.net"
-        ],
-        "physicalAddresses": [
-          "150 Broadhollow Road\n\n\n\n\nSuite 209\n\n\n\n\nMelville\n\n"
-        ],
-        "personNames": [],
-        "footerText": "DisclosureWARRANTIES & DISCLAIMERSThere are no warranties implied.Coordinated Planning Group, Inc. (“RIA Firm”) is a registered investment adviser located in Melville, NY. Coordinated Planning Group, Inc. may only transact business in those states in which it is registered, or qualifies for an exemption or exclusion from registration requirements. Coordinated Planning Group, Inc. web site is limited to the dissemination of general information pertaining to its advisory services, together with access to additional investment-related information, publications, and links. Accordingly, the publication of Coordinated Planning Group, Inc. web site on the Internet should not be construed by any consumer and/or prospective client as RIA Firm Name’s solicitation to effect, or attempt to effect transactions in securities, or the rendering of personalized investment advice for compensation, over the Internet. Any subsequent, direct communication by Coordinated Planning Group, Inc. with a prospect"
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(631) 393-6044, (631) 393-6046",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "company-name",
-          "originalValue": "Coordinated Planning Group, NY",
-          "migratedValue": "Creative Financial\nProfessionals",
-          "severity": "warning",
-          "note": "Company name \"Creative Financial\nProfessionals\" on migrated site may not match original"
-        },
-        {
-          "field": "address",
-          "originalValue": "150 Broadhollow Road\nSuite 209\nMelville, NY 11747",
-          "migratedValue": "150 Broadhollow Road\n\n\n\n\nSuite 209\n\n\n\n\nMelville\n\n",
-          "severity": "critical",
-          "note": "Physical address on migrated site differs from original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://coordinatedplanninggroup-31030804.brprodaccount.com/",
@@ -646,6 +262,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on coordinatedplanninggroup-31030804.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 0,
+        "severity": "ok"
       }
     }
   }

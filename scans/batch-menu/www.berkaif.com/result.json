@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.berkaif.com",
     "migratedDomain": "https://berkaif-31030805.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:33:46.588Z",
+    "capturedAt": "2026-04-12T08:40:21.701Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -46,8 +46,8 @@
       },
       {
         "text": "About Us",
-        "href": "https://www.berkaif.com/about_us/",
-        "path": "/about_us",
+        "href": "https://www.berkaif.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our Mission Statement",
@@ -79,8 +79,8 @@
       },
       {
         "text": "Resources",
-        "href": "https://www.berkaif.com/learning_center/",
-        "path": "/learning_center",
+        "href": "https://www.berkaif.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -117,32 +117,32 @@
       },
       {
         "text": "Request A Quote",
-        "href": "https://www.berkaif.com/request_quote/",
-        "path": "/request_quote",
+        "href": "https://www.berkaif.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=43010&SN=2647943572",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=64&SSLID=43010&SN=2599443058",
             "path": "/form.cfm"
           },
           {
             "text": "Long-Term Care Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=43010&SN=2647943572",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=65&SSLID=43010&SN=2599443058",
             "path": "/form.cfm"
           },
           {
             "text": "Life Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=43010&SN=2647943572",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=68&SSLID=43010&SN=2599443058",
             "path": "/form.cfm"
           },
           {
             "text": "Disability Income Insurance",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=43010&SN=2647943572",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=70&SSLID=43010&SN=2599443058",
             "path": "/form.cfm"
           },
           {
             "text": "Information Request",
-            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=43010&SN=2647943572",
+            "href": "https://www.emeraldsecure.com/form.cfm?ID=73&SSLID=43010&SN=2599443058",
             "path": "/form.cfm"
           }
         ],
@@ -156,196 +156,56 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://berkaif-31030805.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Home",
-        "href": "https://berkaif-31030805.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://berkaif-31030805.brprodaccount.com/protecting-whats-important-strengthening-your-future1",
-        "path": "/protecting-whats-important-strengthening-your-future1",
-        "subItems": [
-          {
-            "text": "Our Mission Statement",
-            "href": "https://berkaif-31030805.brprodaccount.com/protecting-whats-important-strengthening-your-future1",
-            "path": "/protecting-whats-important-strengthening-your-future1"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://berkaif-31030805.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Our Services",
-            "href": "https://berkaif-31030805.brprodaccount.com/our-services3",
-            "path": "/our-services3"
-          },
-          {
-            "text": "Our Qualifications",
-            "href": "https://berkaif-31030805.brprodaccount.com/our-qualifications4",
-            "path": "/our-qualifications4"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://berkaif-31030805.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://berkaif-31030805.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://berkaif-31030805.brprodaccount.com/protecting-whats-important-strengthening-your-future1",
-        "migratedPath": "/protecting-whats-important-strengthening-your-future1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /protecting-whats-important-strengthening-your-future1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://berkaif-31030805.brprodaccount.com/protecting-whats-important-strengthening-your-future1",
-            "migratedPath": "/protecting-whats-important-strengthening-your-future1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://berkaif-31030805.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://berkaif-31030805.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://berkaif-31030805.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 6,
-      "totalMigratedItems": 7,
-      "missing": 0,
+      "totalMigratedItems": 0,
+      "missing": 2,
       "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
-      "hrefMismatches": 1,
+      "duplicates": 0,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 5,
+      "ok": 0,
       "totalBrItems": 6
     },
     "liveIssues": [
       {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://berkaif-31030805.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://berkaif-31030805.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "About Us",
-        "brHref": "/about_us",
-        "migratedText": "About Us",
-        "migratedHref": "https://berkaif-31030805.brprodaccount.com/protecting-whats-important-strengthening-your-future1",
-        "migratedPath": "/protecting-whats-important-strengthening-your-future1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission Statement",
-            "brHref": "/Our-Mission-Statement.1.htm",
-            "migratedText": "Our Mission Statement",
-            "migratedHref": "https://berkaif-31030805.brprodaccount.com/protecting-whats-important-strengthening-your-future1",
-            "migratedPath": "/protecting-whats-important-strengthening-your-future1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://berkaif-31030805.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Services",
-            "brHref": "/Our-Services.3.htm",
-            "migratedText": "Our Services",
-            "migratedHref": "https://berkaif-31030805.brprodaccount.com/our-services3",
-            "migratedPath": "/our-services3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Qualifications",
-            "brHref": "/Our-Qualifications.4.htm",
-            "migratedText": "Our Qualifications",
-            "migratedHref": "https://berkaif-31030805.brprodaccount.com/our-qualifications4",
-            "migratedPath": "/our-qualifications4"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Tell A Friend",
-            "brHref": "/tellafriend.cfm",
-            "note": "Sub-item \"Tell A Friend\" under \"About Us\" is missing in migrated"
-          }
-        ]
+        "brHref": "/",
+        "note": "\"About Us\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
         "brTitle": "Resources",
-        "brHref": "/learning_center",
+        "brHref": "/",
         "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/request_quote",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -357,14 +217,14 @@
     ],
     "liveSummary": {
       "totalSourceItems": 21,
-      "totalMigratedItems": 7,
-      "missing": 4,
+      "totalMigratedItems": 0,
+      "missing": 5,
       "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
+      "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 6
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -375,102 +235,27 @@
           "Berka Insurance And Financial"
         ],
         "phoneNumbers": [
-          "(920) 948-2471",
-          "(920) 933-3376"
-        ],
-        "emailAddresses": [
-          "berkaif@charter.net"
-        ],
-        "physicalAddresses": [],
-        "personNames": [
-          "Protecting What",
-          "Strengthening Your",
-          "Future\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\tContact",
-          "Po Box",
-          "Du Lac",
-          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n      \n    \n  \n\n    \n      \n        \n          \n            \n\t\n\t \n\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHome",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Our",
-          "Mission Statement",
-          "Our Location",
-          "Our Services",
-          "Our Qualifications",
-          "Tell A Friend",
-          "Resources\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n          \n            Articles",
-          "Calculators\n          \n        \n          \n            Flipbooks",
-          "Glossary\n          \n        \n          \n            Tax",
-          "Library\n          \n        \n          \n            Videos",
-          "Request A Quote",
-          "Annuity \n            \n          \n            \n              Long",
-          "Term Care",
-          "Insurance  \n            \n          \n            \n              Life",
-          "Insurance  \n            \n          \n            \n              Disability",
-          "Income Insurance",
-          "Information Request",
-          "Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tProtecting",
-          "Retirement Analysis",
-          "Life Insurance",
-          "Index Annuities",
-          "Long Term",
-          "Care Insurance",
-          "Dan Berka",
-          "Calculators\n        \n      \n      \n         \n      \n        \n          \n            Required",
-          "Minimum Distributions",
-          "Retirement\n          \n        \n        Use",
-          "Conversion\n          \n        \n        This",
-          "More Calculators",
-          "Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tOur",
-          "Learning Center",
-          "Articles\n                Educate",
-          "Flipbooks\n                \n                  These",
-          "Glossary\n                  \n                  Financial",
-          "Tax Library",
-          "Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n  \n\n      \n      \n  \n    \n\n      \n  \t\t\tThis",
-          "Site Map"
-        ],
-        "footerText": "This is not intended to provide professional legal or tax advice. Please contact your legal or tax advisor with you particular legal or tax questions.\n      \n        \n          \n            \n              \n                  Site Map"
-      },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.berkaif.com",
-        "companyNames": [
-          "BERKA INSURANCE & FINANCIAL"
-        ],
-        "phoneNumbers": [
           "9209482471",
-          "9723800097"
+          "9209333376"
         ],
         "emailAddresses": [
           "berkaif@charter.net"
         ],
         "physicalAddresses": [],
-        "personNames": [
-          "Neil H. Resnik"
-        ],
-        "footerText": "This is not intended to provide professional legal or tax advice. Please contact your legal or tax advisor with you particular legal or tax questions."
+        "personNames": [],
+        "footerText": "This is not intended to provide professional legal or tax advice. Please contact your legal or tax advisor with you particular legal or tax questions. Site Map"
       },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(920) 948-2471, (920) 933-3376",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        },
-        {
-          "field": "person-name",
-          "originalValue": "Protecting What, Strengthening Your, Future\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\tContact, Po Box, Du Lac, Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n      \n    \n  \n\n    \n      \n        \n          \n            \n\t\n\t \n\t\t\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHome, Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n      \n        Our, Mission Statement, Our Location, Our Services, Our Qualifications, Tell A Friend, Resources\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n          \n            Articles, Calculators\n          \n        \n          \n            Flipbooks, Glossary\n          \n        \n          \n            Tax, Library\n          \n        \n          \n            Videos, Request A Quote, Annuity \n            \n          \n            \n              Long, Term Care, Insurance  \n            \n          \n            \n              Life, Insurance  \n            \n          \n            \n              Disability, Income Insurance, Information Request, Us\n\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\n\n          \n        \n      \n    \n  \n      \n        \n          \n    \n      \n        \n     \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n         \n           \n         \n       \n     \n     \n  \n      \n    \n  \n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tProtecting, Retirement Analysis, Life Insurance, Index Annuities, Long Term, Care Insurance, Dan Berka, Calculators\n        \n      \n      \n         \n      \n        \n          \n            Required, Minimum Distributions, Retirement\n          \n        \n        Use, Conversion\n          \n        \n        This, More Calculators, Us \n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tOur, Learning Center, Articles\n                Educate, Flipbooks\n                \n                  These, Glossary\n                  \n                  Financial, Tax Library, Directions\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n  \n\n      \n      \n  \n    \n\n      \n  \t\t\tThis, Site Map",
-          "migratedValue": "Neil H. Resnik",
-          "severity": "critical",
-          "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://berkaif-31030805.brprodaccount.com/",
@@ -478,6 +263,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on berkaif-31030805.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 14,
+        "severity": "ok"
       }
     }
   }

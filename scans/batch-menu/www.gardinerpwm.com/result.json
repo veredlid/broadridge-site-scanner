@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.gardinerpwm.com",
     "migratedDomain": "https://gardinerpwm-31030802.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:43:32.534Z",
+    "capturedAt": "2026-04-12T08:42:25.148Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -89,8 +89,8 @@
       },
       {
         "text": "About Us",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.gardinerpwm.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Our Mission Statement",
@@ -132,8 +132,8 @@
       },
       {
         "text": "Resources",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.gardinerpwm.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Articles",
@@ -175,8 +175,8 @@
       },
       {
         "text": "Request A Quote",
-        "href": "#",
-        "path": "/#",
+        "href": "https://www.gardinerpwm.com/#",
+        "path": "/",
         "subItems": [
           {
             "text": "Annuity",
@@ -479,13 +479,12 @@
         "migratedPath": "/"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "About Us",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "About Us",
         "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/our-mission-statement1",
         "migratedPath": "/our-mission-statement1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-mission-statement1",
         "subIssues": [
           {
             "kind": "ok",
@@ -544,13 +543,12 @@
         ]
       },
       {
-        "kind": "href-mismatch",
+        "kind": "ok",
         "brTitle": "Resources",
-        "brHref": "/#",
+        "brHref": "/",
         "migratedText": "Resources",
         "migratedHref": "https://gardinerpwm-31030802.brprodaccount.com/articles",
         "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
         "subIssues": [
           {
             "kind": "ok",
@@ -611,7 +609,7 @@
       {
         "kind": "missing",
         "brTitle": "Request A Quote",
-        "brHref": "/#",
+        "brHref": "/",
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
@@ -630,9 +628,9 @@
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 14
+      "ok": 16
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -642,90 +640,21 @@
           "Gardiner Private Wealth Management"
         ],
         "phoneNumbers": [
-          "(410) 857-9438",
-          "(410) 857-9474",
-          "(631) 845-5100"
+          "4108579438",
+          "4108579474",
+          "6318455100"
         ],
         "emailAddresses": [
           "brian@gardinerpwm.com"
         ],
         "physicalAddresses": [
-          "6 East Green Street\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tWestminster,\n\t\t\t\t\n\t\t\t\t\tMD \n\t\t\t\t\t21157",
+          "6 East Green Street\nWestminster, MD 21157",
           "125 Froehlich Farm Blvd, Woodbury, NY 11797"
         ],
         "personNames": [
-          "Gardiner Private",
-          "Wealth Management",
-          "Brian E Gardiner",
-          "Licensed Tax",
-          "Preparer\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact",
-          "East Green",
-          "Home\n          \n          About",
-          "Us\n           \n            Our",
-          "Mission Statement",
-          "Our Associates",
-          "Our Location",
-          "Our Firm",
-          "Our Services",
-          "Our Qualifications",
-          "Tell A Friend",
-          "Resources\n           \n            Articles",
-          "Calculators\n            Flipbooks",
-          "Newsletters\n            Glossary",
-          "Tax Library",
-          "Videos\n           \n          \n          Request",
-          "Quote\n           \n            Annuity",
-          "Term Care",
-          "Insurance  \n            Group",
-          "Health \n            Life",
-          "Insurance  \n            Individual",
-          "Health \n            Disability",
-          "Income Insurance",
-          "Information Request",
-          "Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive",
-          "Preparer\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tBrian",
-          "Preparer\n\t\t \n\t\t\t\t\t\t\nYour",
-          "Your Way",
-          "At Gardiner",
-          "Private Wealth",
-          "Brian Gardiner",
-          "Certified Financial",
-          "Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tKey",
-          "Tax Law",
-          "Higher Education",
-          "Coming Soon",
-          "The One",
-          "Big Beautiful",
-          "Bill Act",
-          "Life Insurance",
-          "Two \n\t\t\t\t\n\t\t\t\tSurvivorship",
-          "Key Retirement",
-          "Tax Numbers",
-          "Convertible Bonds",
-          "Line Between",
-          "Fixed Income",
-          "Potential Growth",
-          "More Newsletters",
-          "Calculators\n        \n      \n      \n        \n      \n        \n          \n            Disability",
-          "Disability Income",
-          "Savings Goals",
-          "Net Worth",
-          "College Funding",
-          "More Calculators",
-          "Vanderbilt Financial",
-          "Vanderbilt Securities",
-          "Fidelity Clearing",
-          "Custody Solutions",
-          "Advisory Services",
-          "Vanderbilt Advisory",
-          "Consolidated Portfolio",
-          "Charles Schwab",
-          "Vanderbilt Insurance",
-          "Supervising Office",
-          "Froehlich Farm",
-          "Site Map"
+          "Bn E Gardiner"
         ],
-        "footerText": "Vanderbilt Financial Group is the marketing name for Vanderbilt Securities, LLC and its affiliates.\nSecurities offered through Vanderbilt Securities, LLC. Member FINRA, SIPC. Registered with MSRB. Clearing agent: Fidelity Clearing & Custody Solutions Advisory Services offered through Vanderbilt Advisory Services & Consolidated Portfolio Review. Clearing agents: Fidelity Clearing & Custody Solutions, Charles Schwab offered through Vanderbilt Insurance and other agencies Supervising Office: 125 Fr"
+        "footerText": "Vanderbilt Financial Group is the marketing name for Vanderbilt Securities, LLC and its affiliates. Securities offered through Vanderbilt Securities, LLC. Member FINRA, SIPC. Registered with MSRB. Clearing agent: Fidelity Clearing & Custody Solutions Advisory Services offered through Vanderbilt Advisory Services & Consolidated Portfolio Review. Clearing agents: Fidelity Clearing & Custody Solutions, Charles Schwab offered through Vanderbilt Insurance and other agencies Supervising Office: 125 Froehlich Farm Blvd, Woodbury, NY 11797 • 631-845-5100 For additional information on services, disclosures, fees, and conflicts of interest, please visit https://www.joinvanderbilt.com/disclosures/ Site Map"
       },
       "migratedIdentity": {
         "pageTitle": "Home | www.gardinerpwm.com",
@@ -759,14 +688,14 @@
         },
         {
           "field": "person-name",
-          "originalValue": "Gardiner Private, Wealth Management, Brian E Gardiner, Licensed Tax, Preparer\n    \n    \n  \n\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\tContact, East Green, Home\n          \n          About, Us\n           \n            Our, Mission Statement, Our Associates, Our Location, Our Firm, Our Services, Our Qualifications, Tell A Friend, Resources\n           \n            Articles, Calculators\n            Flipbooks, Newsletters\n            Glossary, Tax Library, Videos\n           \n          \n          Request, Quote\n           \n            Annuity, Term Care, Insurance  \n            Group, Health \n            Life, Insurance  \n            Individual, Health \n            Disability, Income Insurance, Information Request, Tomorrow \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLive, Preparer\n  \n\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\tBrian, Preparer\n\t\t \n\t\t\t\t\t\t\nYour, Your Way, At Gardiner, Private Wealth, Brian Gardiner, Certified Financial, Newsletters\n\t\t\t\n\t\t\t\n\t\t\t\t \n\t\t\t\n\t\t\t\t\n\t\t\t\t\tKey, Tax Law, Higher Education, Coming Soon, The One, Big Beautiful, Bill Act, Life Insurance, Two \n\t\t\t\t\n\t\t\t\tSurvivorship, Key Retirement, Tax Numbers, Convertible Bonds, Line Between, Fixed Income, Potential Growth, More Newsletters, Calculators\n        \n      \n      \n        \n      \n        \n          \n            Disability, Disability Income, Savings Goals, Net Worth, College Funding, More Calculators, Vanderbilt Financial, Vanderbilt Securities, Fidelity Clearing, Custody Solutions, Advisory Services, Vanderbilt Advisory, Consolidated Portfolio, Charles Schwab, Vanderbilt Insurance, Supervising Office, Froehlich Farm, Site Map",
+          "originalValue": "Bn E Gardiner",
           "migratedValue": "Neil H. Resnik",
           "severity": "critical",
           "note": "Person \"Neil H. Resnik\" appears on migrated site but not on original"
         },
         {
           "field": "address",
-          "originalValue": "6 East Green Street\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tWestminster,\n\t\t\t\t\n\t\t\t\t\tMD \n\t\t\t\t\t21157",
+          "originalValue": "6 East Green Street\nWestminster, MD 21157",
           "migratedValue": "6 East Green Street\n\n\n\n\nWestminster\n\n",
           "severity": "critical",
           "note": "Physical address on migrated site differs from original"
@@ -787,6 +716,43 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on gardinerpwm-31030802.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 12,
+        "severity": "ok"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

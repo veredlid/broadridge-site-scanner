@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.plantoinvest.co",
     "migratedDomain": "https://plantoinvest-31030756.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:12:58.897Z",
+    "capturedAt": "2026-04-12T08:30:03.180Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -102,465 +102,45 @@
       }
     ],
     "originalItems": [],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://plantoinvest-31030756.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://plantoinvest-31030756.brprodaccount.com/our-founder-and-firm1",
-        "path": "/our-founder-and-firm1",
-        "subItems": [
-          {
-            "text": "Our Founder and Firm",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/our-founder-and-firm1",
-            "path": "/our-founder-and-firm1"
-          },
-          {
-            "text": "Our Typical Clients",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/our-typical-clients2",
-            "path": "/our-typical-clients2"
-          },
-          {
-            "text": "Health Care Professionals",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/health-care-professionals4",
-            "path": "/health-care-professionals4"
-          },
-          {
-            "text": "FAQs",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/faqs3",
-            "path": "/faqs3"
-          },
-          {
-            "text": "Education",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/education7",
-            "path": "/education7"
-          },
-          {
-            "text": "Books",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/books13",
-            "path": "/books13"
-          },
-          {
-            "text": "Contact Us",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Whitepapers",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/whitepapers14",
-            "path": "/whitepapers14"
-          },
-          {
-            "text": "Our Expertise",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/our-expertise6",
-            "path": "/our-expertise6"
-          },
-          {
-            "text": "Our Holistic Approach",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/our-holistic-approach5",
-            "path": "/our-holistic-approach5"
-          },
-          {
-            "text": "Schedule A Consultation",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/schedule-a-consultation9",
-            "path": "/schedule-a-consultation9"
-          },
-          {
-            "text": "Who We Are",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "How We Help",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/how-we-help12",
-            "path": "/how-we-help12"
-          },
-          {
-            "text": "Articles",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Career Transition",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/career-transition17",
-            "path": "/career-transition17"
-          },
-          {
-            "text": "Client Resources",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/client-resources18",
-            "path": "/client-resources18"
-          },
-          {
-            "text": "Advanced Planning for Physicians",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/advanced-planning-for-physicians19",
-            "path": "/advanced-planning-for-physicians19"
-          },
-          {
-            "text": "Practice Management",
-            "href": "https://plantoinvest-31030756.brprodaccount.com/practice-management20",
-            "path": "/practice-management20"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://plantoinvest-31030756.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-founder-and-firm1",
-        "migratedPath": "/our-founder-and-firm1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /our-founder-and-firm1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Founder and Firm",
-            "brHref": "/Our-Founder-and-Firm.1.htm",
-            "migratedText": "Our Founder and Firm",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-founder-and-firm1",
-            "migratedPath": "/our-founder-and-firm1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Typical Clients",
-            "brHref": "/Our-Typical-Clients.2.htm",
-            "migratedText": "Our Typical Clients",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-typical-clients2",
-            "migratedPath": "/our-typical-clients2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Health Care Professionals",
-            "brHref": "/Health-Care-Professionals.4.htm",
-            "migratedText": "Health Care Professionals",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/health-care-professionals4",
-            "migratedPath": "/health-care-professionals4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "FAQs",
-            "brHref": "/FAQs.3.htm",
-            "migratedText": "FAQs",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/faqs3",
-            "migratedPath": "/faqs3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Education",
-            "brHref": "/Education.7.htm",
-            "migratedText": "Education",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/education7",
-            "migratedPath": "/education7"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Books",
-            "brHref": "/Books.13.htm",
-            "migratedText": "Books",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/books13",
-            "migratedPath": "/books13"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Contact Us",
-            "brHref": "/location.htm",
-            "migratedText": "Contact Us",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Whitepapers",
-            "brHref": "/Whitepapers.14.htm",
-            "migratedText": "Whitepapers",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/whitepapers14",
-            "migratedPath": "/whitepapers14"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Expertise",
-            "brHref": "/Our-Expertise.6.htm",
-            "migratedText": "Our Expertise",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-expertise6",
-            "migratedPath": "/our-expertise6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Holistic Approach",
-            "brHref": "/Our-Holistic-Approach.5.htm",
-            "migratedText": "Our Holistic Approach",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-holistic-approach5",
-            "migratedPath": "/our-holistic-approach5"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Location & Contact",
-            "brHref": "/Location-and-Contact.8.htm",
-            "note": "Sub-item \"Location & Contact\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Schedule A Consultation",
-            "brHref": "/Schedule-A-Consultation.9.htm",
-            "migratedText": "Schedule A Consultation",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/schedule-a-consultation9",
-            "migratedPath": "/schedule-a-consultation9"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Who We Are",
-            "brHref": "/Who-We-Are.11.htm",
-            "migratedText": "Who We Are",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "How We Help",
-            "brHref": "/How-We-Help.12.htm",
-            "migratedText": "How We Help",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/how-we-help12",
-            "migratedPath": "/how-we-help12"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/Articles.16.htm",
-            "migratedText": "Articles",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Career Transition",
-            "brHref": "/Career-Transition.17.htm",
-            "migratedText": "Career Transition",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/career-transition17",
-            "migratedPath": "/career-transition17"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Client Resources",
-            "brHref": "/Client-Resources.18.htm",
-            "migratedText": "Client Resources",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/client-resources18",
-            "migratedPath": "/client-resources18"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Advanced Planning for Physicians",
-            "brHref": "/Advanced-Planning-for-Physicians.19.htm",
-            "migratedText": "Advanced Planning for Physicians",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/advanced-planning-for-physicians19",
-            "migratedPath": "/advanced-planning-for-physicians19"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Practice Management",
-            "brHref": "/Practice-Management.20.htm",
-            "migratedText": "Practice Management",
-            "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/practice-management20",
-            "migratedPath": "/practice-management20"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 22,
-      "totalMigratedItems": 21,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 3,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 1,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 20,
+      "ok": 0,
       "totalBrItems": 22
     },
-    "liveIssues": [
-      {
-        "kind": "extra",
-        "migratedText": "Home",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "About Us",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-founder-and-firm1",
-        "migratedPath": "/our-founder-and-firm1",
-        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Founder and Firm",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-founder-and-firm1",
-        "migratedPath": "/our-founder-and-firm1",
-        "note": "\"Our Founder and Firm\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Typical Clients",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-typical-clients2",
-        "migratedPath": "/our-typical-clients2",
-        "note": "\"Our Typical Clients\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Health Care Professionals",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/health-care-professionals4",
-        "migratedPath": "/health-care-professionals4",
-        "note": "\"Health Care Professionals\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "FAQs",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/faqs3",
-        "migratedPath": "/faqs3",
-        "note": "\"FAQs\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Education",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/education7",
-        "migratedPath": "/education7",
-        "note": "\"Education\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Books",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/books13",
-        "migratedPath": "/books13",
-        "note": "\"Books\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "note": "\"Contact Us\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Whitepapers",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/whitepapers14",
-        "migratedPath": "/whitepapers14",
-        "note": "\"Whitepapers\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Expertise",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-expertise6",
-        "migratedPath": "/our-expertise6",
-        "note": "\"Our Expertise\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Holistic Approach",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-holistic-approach5",
-        "migratedPath": "/our-holistic-approach5",
-        "note": "\"Our Holistic Approach\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Schedule A Consultation",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/schedule-a-consultation9",
-        "migratedPath": "/schedule-a-consultation9",
-        "note": "\"Schedule A Consultation\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Who We Are",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "note": "\"Who We Are\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "How We Help",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/how-we-help12",
-        "migratedPath": "/how-we-help12",
-        "note": "\"How We Help\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Articles",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Articles\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Career Transition",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/career-transition17",
-        "migratedPath": "/career-transition17",
-        "note": "\"Career Transition\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Client Resources",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/client-resources18",
-        "migratedPath": "/client-resources18",
-        "note": "\"Client Resources\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Advanced Planning for Physicians",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/advanced-planning-for-physicians19",
-        "migratedPath": "/advanced-planning-for-physicians19",
-        "note": "\"Advanced Planning for Physicians\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Practice Management",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/practice-management20",
-        "migratedPath": "/practice-management20",
-        "note": "\"Practice Management\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://plantoinvest-31030756.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "note": "\"Contact Us\" appears in the migrated menu but is not in the original live site"
-      }
-    ],
+    "liveIssues": [],
     "liveSummary": {
       "totalSourceItems": 0,
-      "totalMigratedItems": 21,
+      "totalMigratedItems": 0,
       "missing": 0,
-      "extra": 21,
+      "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
@@ -589,39 +169,17 @@
         "personNames": [],
         "footerText": ""
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.plantoinvest.co",
-        "companyNames": [
-          "Plan to Invest Capital Management, Inc. | Denver, CO"
-        ],
-        "phoneNumbers": [
-          "3032210949",
-          "9723800097"
-        ],
-        "emailAddresses": [
-          "johnp@pticm.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [],
-        "footerText": ""
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(303) 221-0949, (303) 721-1480",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://plantoinvest-31030756.brprodaccount.com/",
@@ -629,6 +187,54 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on plantoinvest-31030756.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "Disclosure",
+            "src": "//assets.primeagentmarketing.com/js/emerald/modernizr.min.js",
+            "issue": "double-slash",
+            "details": "Double slash in image path: \"//assets.primeagentmarketing.com/js/emerald/modernizr.min.js\""
+          },
+          {
+            "fieldName": "Disclosure",
+            "src": "//assets.primeagentmarketing.com/js/emerald/lodash.min.js",
+            "issue": "double-slash",
+            "details": "Double slash in image path: \"//assets.primeagentmarketing.com/js/emerald/lodash.min.js\""
+          },
+          {
+            "fieldName": "Disclosure",
+            "src": "//assets.primeagentmarketing.com/js/emerald/20150513/init.js",
+            "issue": "double-slash",
+            "details": "Double slash in image path: \"//assets.primeagentmarketing.com/js/emerald/20150513/init.js\""
+          },
+          {
+            "fieldName": "Disclosure",
+            "src": "//s3-us-west-2.amazonaws.com/s.cdpn.io/3/jquery.fittext.js",
+            "issue": "double-slash",
+            "details": "Double slash in image path: \"//s3-us-west-2.amazonaws.com/s.cdpn.io/3/jquery.fittext.js\""
+          },
+          {
+            "fieldName": "OurFirm",
+            "src": "/files/23976/JP 3.12.14.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/23976/JP 3.12.14.jpg\""
+          },
+          {
+            "fieldName": "SiteDisc2",
+            "src": "//lmg-videos.s3-us-west-2.amazonaws.com/lmg2018/plantoinvest-new.mp4",
+            "issue": "double-slash",
+            "details": "Double slash in image path: \"//lmg-videos.s3-us-west-2.amazonaws.com/lmg2018/plantoinvest-new.mp4\""
+          },
+          {
+            "fieldName": "Our Founder and Firm",
+            "src": "/files/23976/JP 3.12.14.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/23976/JP 3.12.14.jpg\""
+          }
+        ],
+        "totalImages": 88,
+        "severity": "critical"
       }
     }
   }

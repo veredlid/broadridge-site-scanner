@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.bayadvisers.com",
     "migratedDomain": "https://bayadvisers-31030806.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:11:14.095Z",
+    "capturedAt": "2026-04-12T08:29:12.651Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -723,6 +723,188 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on bayadvisers-31030806.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 3,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/Marine Corps Reserve_logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Marine Corps Reserve_logo.jpg\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/AAIFPA Logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/AAIFPA Logo.jpg\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/NewFSP Logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/NewFSP Logo.jpg\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/Scott Knies.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Scott Knies.JPG\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/SFSP Members and Guests.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/SFSP Members and Guests.JPG\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/Larry Stone 2011.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Larry Stone 2011.JPG\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/Army-Reserve Logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Army-Reserve Logo.jpg\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/Mountain View seal.gif",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Mountain View seal.gif\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/Marine Corps Reserve_logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Marine Corps Reserve_logo.jpg\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/NewFSP Logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/NewFSP Logo.jpg\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/1336/SFSP_Oath 14Jun2012.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/SFSP_Oath 14Jun2012.jpg\""
+          },
+          {
+            "fieldName": "OurServices",
+            "src": "/files/1336/60 Pierce Av.101.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/60 Pierce Av.101.jpg\""
+          },
+          {
+            "fieldName": "Our Office",
+            "src": "/files/1336/60 Pierce Av.101.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/60 Pierce Av.101.jpg\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/Marine Corps Reserve_logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Marine Corps Reserve_logo.jpg\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/AAIFPA Logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/AAIFPA Logo.jpg\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/NewFSP Logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/NewFSP Logo.jpg\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/Scott Knies.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Scott Knies.JPG\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/SFSP Members and Guests.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/SFSP Members and Guests.JPG\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/Larry Stone 2011.JPG",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Larry Stone 2011.JPG\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/Army-Reserve Logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Army-Reserve Logo.jpg\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/Mountain View seal.gif",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Mountain View seal.gif\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/Marine Corps Reserve_logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/Marine Corps Reserve_logo.jpg\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/NewFSP Logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/NewFSP Logo.jpg\""
+          },
+          {
+            "fieldName": "Our Past Events",
+            "src": "/files/1336/SFSP_Oath 14Jun2012.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/1336/SFSP_Oath 14Jun2012.jpg\""
+          }
+        ],
+        "totalImages": 196,
+        "severity": "critical"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

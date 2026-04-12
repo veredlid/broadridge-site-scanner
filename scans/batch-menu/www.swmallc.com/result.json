@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.swmallc.com",
     "migratedDomain": "https://swmallc-31030753.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:23:08.608Z",
+    "capturedAt": "2026-04-12T08:36:52.003Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -77,359 +77,41 @@
       }
     ],
     "originalItems": [],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://swmallc-31030753.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Home",
-        "href": "https://swmallc-31030753.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "About Us",
-        "href": "https://swmallc-31030753.brprodaccount.com/wealth-management1",
-        "path": "/wealth-management1",
-        "subItems": [
-          {
-            "text": "Wealth Management",
-            "href": "https://swmallc-31030753.brprodaccount.com/wealth-management1",
-            "path": "/wealth-management1"
-          },
-          {
-            "text": "Corporate Retirement Plans",
-            "href": "https://swmallc-31030753.brprodaccount.com/corporate-retirement-solutions2",
-            "path": "/corporate-retirement-solutions2"
-          },
-          {
-            "text": "Our Difference",
-            "href": "https://swmallc-31030753.brprodaccount.com/our-difference3",
-            "path": "/our-difference3"
-          },
-          {
-            "text": "Service Offerings",
-            "href": "https://swmallc-31030753.brprodaccount.com/service-offerings4",
-            "path": "/service-offerings4"
-          },
-          {
-            "text": "Our People",
-            "href": "https://swmallc-31030753.brprodaccount.com/our-team",
-            "path": "/our-team"
-          },
-          {
-            "text": "Our Location",
-            "href": "https://swmallc-31030753.brprodaccount.com/location",
-            "path": "/location"
-          },
-          {
-            "text": "Estate Planning",
-            "href": "https://swmallc-31030753.brprodaccount.com/estate-planning6",
-            "path": "/estate-planning6"
-          },
-          {
-            "text": "emoney",
-            "href": "https://swmallc-31030753.brprodaccount.com/",
-            "path": "/"
-          },
-          {
-            "text": "Our Mission",
-            "href": "https://swmallc-31030753.brprodaccount.com/mission-statement10",
-            "path": "/mission-statement10"
-          },
-          {
-            "text": "Economic Commentary",
-            "href": "https://swmallc-31030753.brprodaccount.com/economic-commentary11",
-            "path": "/economic-commentary11"
-          },
-          {
-            "text": "Investment Advisory Services",
-            "href": "https://swmallc-31030753.brprodaccount.com/investment-advisory-services12",
-            "path": "/investment-advisory-services12"
-          },
-          {
-            "text": "Client Experience",
-            "href": "https://swmallc-31030753.brprodaccount.com/client-experience13",
-            "path": "/client-experience13"
-          }
-        ],
-        "hasDropdown": true
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "About Us",
         "brHref": "/#",
-        "migratedText": "About Us",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/wealth-management1",
-        "migratedPath": "/wealth-management1",
-        "note": "\"About Us\" should be a dropdown (/#) but migrated links to /wealth-management1",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Wealth Management ",
-            "brHref": "/Wealth-Management.1.htm",
-            "migratedText": "Wealth Management",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/wealth-management1",
-            "migratedPath": "/wealth-management1"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Corporate Retirement Plans",
-            "brHref": "/Corporate-Retirement-Plans.2.htm",
-            "migratedText": "Corporate Retirement Plans",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/corporate-retirement-solutions2",
-            "migratedPath": "/corporate-retirement-solutions2"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Difference",
-            "brHref": "/Our-Difference.3.htm",
-            "migratedText": "Our Difference",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/our-difference3",
-            "migratedPath": "/our-difference3"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Service Offerings",
-            "brHref": "/Service-Offerings.4.htm",
-            "migratedText": "Service Offerings",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/service-offerings4",
-            "migratedPath": "/service-offerings4"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our People",
-            "brHref": "/Our-People.5.htm",
-            "migratedText": "Our People",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Location",
-            "brHref": "/location.htm",
-            "migratedText": "Our Location",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/location",
-            "migratedPath": "/location"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Estate Planning",
-            "brHref": "/Estate-Planning.6.htm",
-            "migratedText": "Estate Planning",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/estate-planning6",
-            "migratedPath": "/estate-planning6"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "emoney",
-            "brHref": "/emoney.7.htm",
-            "migratedText": "emoney",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/",
-            "migratedPath": "/"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "Schwab",
-            "brHref": "/Schwab.8.htm",
-            "note": "Sub-item \"Schwab\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "missing",
-            "brTitle": "John Hancock/401k",
-            "brHref": "/John-Hancock-401k.9.htm",
-            "note": "Sub-item \"John Hancock/401k\" under \"About Us\" is missing in migrated"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Mission",
-            "brHref": "/Our-Mission.10.htm",
-            "migratedText": "Our Mission",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/mission-statement10",
-            "migratedPath": "/mission-statement10"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Economic Commentary",
-            "brHref": "/Economic-Commentary.11.htm",
-            "migratedText": "Economic Commentary",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/economic-commentary11",
-            "migratedPath": "/economic-commentary11"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Investment Advisory Services",
-            "brHref": "/Investment-Advisory-Services.12.htm",
-            "migratedText": "Investment Advisory Services",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/investment-advisory-services12",
-            "migratedPath": "/investment-advisory-services12"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Client Experience",
-            "brHref": "/Client-Experience.13.htm",
-            "migratedText": "Client Experience",
-            "migratedHref": "https://swmallc-31030753.brprodaccount.com/client-experience13",
-            "migratedPath": "/client-experience13"
-          }
-        ]
+        "note": "\"About Us\" is in the BR navigation JSON but not found in the migrated site menu"
       }
     ],
     "summary": {
       "totalSourceItems": 16,
-      "totalMigratedItems": 15,
+      "totalMigratedItems": 0,
       "missing": 2,
       "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
-      "hrefMismatches": 1,
+      "duplicates": 0,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 13,
+      "ok": 0,
       "totalBrItems": 16
     },
-    "liveIssues": [
-      {
-        "kind": "duplicate",
-        "migratedText": "Home",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears 2 times in the migrated menu"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Home",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Home",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"Home\" appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "About Us",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/wealth-management1",
-        "migratedPath": "/wealth-management1",
-        "note": "\"About Us\" appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Wealth Management",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/wealth-management1",
-        "migratedPath": "/wealth-management1",
-        "note": "\"Wealth Management\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Corporate Retirement Plans",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/corporate-retirement-solutions2",
-        "migratedPath": "/corporate-retirement-solutions2",
-        "note": "\"Corporate Retirement Plans\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Difference",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/our-difference3",
-        "migratedPath": "/our-difference3",
-        "note": "\"Our Difference\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Service Offerings",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/service-offerings4",
-        "migratedPath": "/service-offerings4",
-        "note": "\"Service Offerings\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our People",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/our-team",
-        "migratedPath": "/our-team",
-        "note": "\"Our People\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Location",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/location",
-        "migratedPath": "/location",
-        "note": "\"Our Location\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Estate Planning",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/estate-planning6",
-        "migratedPath": "/estate-planning6",
-        "note": "\"Estate Planning\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "emoney",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/",
-        "migratedPath": "/",
-        "note": "\"emoney\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Our Mission",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/mission-statement10",
-        "migratedPath": "/mission-statement10",
-        "note": "\"Our Mission\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Economic Commentary",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/economic-commentary11",
-        "migratedPath": "/economic-commentary11",
-        "note": "\"Economic Commentary\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Investment Advisory Services",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/investment-advisory-services12",
-        "migratedPath": "/investment-advisory-services12",
-        "note": "\"Investment Advisory Services\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      },
-      {
-        "kind": "extra",
-        "migratedText": "Client Experience",
-        "migratedHref": "https://swmallc-31030753.brprodaccount.com/client-experience13",
-        "migratedPath": "/client-experience13",
-        "note": "\"Client Experience\" (under \"About Us\") appears in the migrated menu but is not in the original live site"
-      }
-    ],
+    "liveIssues": [],
     "liveSummary": {
       "totalSourceItems": 0,
-      "totalMigratedItems": 15,
+      "totalMigratedItems": 0,
       "missing": 0,
-      "extra": 15,
+      "extra": 0,
       "brokenLinks": 0,
-      "duplicates": 1,
+      "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
       "ok": 0
@@ -448,39 +130,17 @@
         "personNames": [],
         "footerText": "Strategic Wealth Management Advisors, LLC, is a registered name for J. Alden Associates, Inc., Alden Capital Management and Alden Securities. Securities offered through J. Alden Associates, Inc. FINRA/SIPC. Investment Advisory services offered through Alden Capital Management, Inc. This site is published for residents of the United States only. Registered Representatives and Investment Advisor Representatives may only conduct business with residents of the states and jurisdictions in which they are properly registered. Therefore, a response to a request for information may be delayed. Not all products and services referenced on this site are available in every state and through every representative or advisor listed. For additional information, please contact our Compliance Department at 610 337-6500. 2022 © Strategic Wealth Management Advisors, LLC | Form ADV https://aldeninvestmentgroup.com/investor-information/ sup { vertical-align: super !important; font-size: smaller !important; }"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.swmallc.com",
-        "companyNames": [
-          "Strategic Wealth Management Advisors, LLC"
-        ],
-        "phoneNumbers": [
-          "9723800097",
-          "6103376500"
-        ],
-        "emailAddresses": [
-          "info@swmallc.com"
-        ],
-        "physicalAddresses": [],
-        "personNames": [],
-        "footerText": "Strategic Wealth Management Advisors, LLC, is a registered name for J. Alden Associates, Inc., Alden Capital Management and Alden Securities. Securities offered through J. Alden Associates, Inc. FINRA/SIPC. Investment Advisory services offered through Alden Capital Management, Inc. This site is published for residents of the United States only. Registered Representatives and Investment Advisor Representatives may only conduct business with residents of the states and jurisdictions in which they are properly registered. Therefore, a response to a request for information may be delayed. Not all products and services referenced on this site are available in every state and through every representative or advisor listed. For additional information, please contact our Compliance Department at 610 337-6500. 2022 © Strategic Wealth Management Advisors, LLC | Form ADV https://aldeninvestmentgroup.com/investor-information/"
-      },
-      "mismatches": [
-        {
-          "field": "phone",
-          "originalValue": "(none found)",
-          "migratedValue": "(972) 380-0097",
-          "severity": "critical",
-          "note": "Template phone \"(972) 380-0097\" found on migrated site — not the company's real number"
-        }
-      ]
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
-        "found": true,
-        "type": "non-svg",
-        "position": "bottom-floater",
-        "details": "BrokerCheck banner uses non-SVG (should be \"Top and Bottom (SVG)\")",
-        "severity": "critical"
+        "found": false,
+        "type": "none",
+        "position": "none",
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://swmallc-31030753.brprodaccount.com/",
@@ -488,6 +148,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on swmallc-31030753.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 15,
+        "severity": "ok"
       }
     }
   }

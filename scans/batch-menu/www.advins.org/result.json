@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.advins.org",
     "migratedDomain": "https://advins-31030807.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:26:49.346Z",
+    "capturedAt": "2026-04-12T08:39:39.483Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -776,7 +776,7 @@
         "footerText": "\"Choices are Good - Experience the Advantage!\" Site Map"
       },
       "migratedIdentity": {
-        "pageTitle": "Home | Template01022026",
+        "pageTitle": "Home | www.advins.org",
         "companyNames": [
           "Advantage Insurance Agency LLC"
         ],
@@ -818,6 +818,458 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on advins-31030807.brprodaccount.com",
         "severity": "warning"
+      },
+      "templateSocial": {
+        "links": [
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/WixStudio",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/WixStudio"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/WixStudio",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/WixStudio"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "https://www.linkedin.com/company/wix-com",
+            "isTemplate": false,
+            "details": "LinkedIn: https://www.linkedin.com/company/wix-com"
+          },
+          {
+            "platform": "Twitter/X",
+            "href": "https://twitter.com/GFAdvins",
+            "isTemplate": false,
+            "details": "Twitter/X: https://twitter.com/GFAdvins"
+          },
+          {
+            "platform": "Facebook",
+            "href": "https://www.facebook.com/AdvantageInsuranceAgencyLlc?ref=hl",
+            "isTemplate": false,
+            "details": "Facebook: https://www.facebook.com/AdvantageInsuranceAgencyLlc?ref=hl"
+          },
+          {
+            "platform": "LinkedIn",
+            "href": "http://www.linkedin.com/company/3508612?trk=tyah&trkInfo=tas%3AAdvantage%20Insurance%20%2Cidx%3A1-1-1",
+            "isTemplate": false,
+            "details": "LinkedIn: http://www.linkedin.com/company/3508612?trk=tyah&trkInfo=tas%3AAdvantage%20Insurance%20%2Cidx%3A1-1-1"
+          }
+        ],
+        "templateCount": 0,
+        "totalCount": 6,
+        "severity": "ok"
+      },
+      "imageValidation": {
+        "issues": [
+          {
+            "fieldName": "Content5",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content5",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content5",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content5",
+            "src": "/files/63913/tractor in field.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/tractor in field.jpg\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/63913/safeco logo.gif",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/safeco logo.gif\""
+          },
+          {
+            "fieldName": "Content6",
+            "src": "/files/63913/LNW logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/LNW logo.jpg\""
+          },
+          {
+            "fieldName": "Content7",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content7",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content7",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/63913/googleplus logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/googleplus logo.jpg\""
+          },
+          {
+            "fieldName": "Content8",
+            "src": "/files/63913/angieslist logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/angieslist logo.jpg\""
+          },
+          {
+            "fieldName": "OurCalendar",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurCalendar",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurCalendar",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurFirm",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurFirm",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurFirm",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurQualifications",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurQualifications",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurQualifications",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurQualifications",
+            "src": "/files/63913/Manwcar copy.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/Manwcar copy.jpg\""
+          },
+          {
+            "fieldName": "OurQualifications",
+            "src": "/files/63913/mc with mtns in back.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/mc with mtns in back.jpg\""
+          },
+          {
+            "fieldName": "OurServices",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurServices",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "OurServices",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/63913/consumer portal link.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/consumer portal link.jpg\""
+          },
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/63913/Manwcar copy.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/Manwcar copy.jpg\""
+          },
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/63913/consumer portal link.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/consumer portal link.jpg\""
+          },
+          {
+            "fieldName": "SiteDisc2",
+            "src": "/files/63913/Manwcar copy.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/Manwcar copy.jpg\""
+          },
+          {
+            "fieldName": "Our Mission Statement",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Mission Statement",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Mission Statement",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Personal Insurance Products",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Personal Insurance Products",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Personal Insurance Products",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Personal Insurance Products",
+            "src": "/files/63913/Manwcar copy.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/Manwcar copy.jpg\""
+          },
+          {
+            "fieldName": "Personal Insurance Products",
+            "src": "/files/63913/mc with mtns in back.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/mc with mtns in back.jpg\""
+          },
+          {
+            "fieldName": "Our Insurance Agency",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Insurance Agency",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Insurance Agency",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Insurance Agency's Qualifications",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Insurance Agency's Qualifications",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Insurance Agency's Qualifications",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Commercial Insurance Products",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Commercial Insurance Products",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Commercial Insurance Products",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Commercial Insurance Products",
+            "src": "/files/63913/tractor in field.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/tractor in field.jpg\""
+          },
+          {
+            "fieldName": "Our Companies",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Companies",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Companies",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "Our Companies",
+            "src": "/files/63913/safeco logo.gif",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/safeco logo.gif\""
+          },
+          {
+            "fieldName": "Our Companies",
+            "src": "/files/63913/LNW logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/LNW logo.jpg\""
+          },
+          {
+            "fieldName": "Specialty Insurance Products",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "Specialty Insurance Products",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "Specialty Insurance Products",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "And the Winner Is...",
+            "src": "/files/63913/twitter for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/twitter for outlook.GIF\""
+          },
+          {
+            "fieldName": "And the Winner Is...",
+            "src": "/files/63913/linked in for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/linked in for outlook.GIF\""
+          },
+          {
+            "fieldName": "And the Winner Is...",
+            "src": "/files/63913/facebook for outlook.GIF",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/facebook for outlook.GIF\""
+          },
+          {
+            "fieldName": "And the Winner Is...",
+            "src": "/files/63913/googleplus logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/googleplus logo.jpg\""
+          },
+          {
+            "fieldName": "And the Winner Is...",
+            "src": "/files/63913/angieslist logo.jpg",
+            "issue": "broken-path",
+            "details": "Whitespace in image path: \"/files/63913/angieslist logo.jpg\""
+          }
+        ],
+        "totalImages": 154,
+        "severity": "critical"
+      },
+      "templateSubtitle": {
+        "found": false,
+        "migratedSubtitle": "",
+        "isTemplate": false,
+        "details": "No hero subtitle found",
+        "severity": "ok"
       }
     }
   }

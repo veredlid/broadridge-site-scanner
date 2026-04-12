@@ -6,7 +6,7 @@
   "result": {
     "originalDomain": "www.woodforestinsurance.com",
     "migratedDomain": "https://woodforestinsurance-31030751.brprodaccount.com/",
-    "capturedAt": "2026-04-01T14:25:26.553Z",
+    "capturedAt": "2026-04-12T08:38:18.089Z",
     "brNavItems": [
       {
         "title": "Home",
@@ -195,224 +195,37 @@
         "hasDropdown": false
       }
     ],
-    "migratedItems": [
-      {
-        "text": "Home",
-        "href": "https://woodforestinsurance-31030751.brprodaccount.com/",
-        "path": "/",
-        "subItems": [],
-        "hasDropdown": false
-      },
-      {
-        "text": "Our Difference",
-        "href": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-11",
-        "path": "/custom-section-11",
-        "subItems": [
-          {
-            "text": "Our Philosophy",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-11",
-            "path": "/custom-section-11"
-          },
-          {
-            "text": "Our Firm & Community",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-22",
-            "path": "/custom-section-22"
-          },
-          {
-            "text": "Our Team",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/our-team",
-            "path": "/our-team"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Our Services",
-        "href": "https://woodforestinsurance-31030751.brprodaccount.com/",
-        "path": "/",
-        "subItems": [
-          {
-            "text": "Personal",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-44",
-            "path": "/custom-section-44"
-          },
-          {
-            "text": "Business",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-55",
-            "path": "/custom-section-55"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Resources",
-        "href": "https://woodforestinsurance-31030751.brprodaccount.com/articles",
-        "path": "/articles",
-        "subItems": [
-          {
-            "text": "Articles",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/articles",
-            "path": "/articles"
-          },
-          {
-            "text": "Insurance Videos",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-66",
-            "path": "/custom-section-66"
-          },
-          {
-            "text": "General Videos",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/videos",
-            "path": "/videos"
-          },
-          {
-            "text": "Calculators",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/calculators",
-            "path": "/calculators"
-          },
-          {
-            "text": "Health Insurance FAQs",
-            "href": "https://woodforestinsurance-31030751.brprodaccount.com/health-insurance-faqs3",
-            "path": "/health-insurance-faqs3"
-          }
-        ],
-        "hasDropdown": true
-      },
-      {
-        "text": "Contact Us",
-        "href": "https://woodforestinsurance-31030751.brprodaccount.com/location",
-        "path": "/location",
-        "subItems": [],
-        "hasDropdown": false
-      }
-    ],
+    "migratedItems": [],
     "issues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/./",
-        "migratedText": "Home",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Our Difference",
         "brHref": "/#",
-        "migratedText": "Our Difference",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-11",
-        "migratedPath": "/custom-section-11",
-        "note": "\"Our Difference\" should be a dropdown (/#) but migrated links to /custom-section-11",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Philosophy",
-            "brHref": "/Our-Philosophy.1.htm",
-            "migratedText": "Our Philosophy",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-11",
-            "migratedPath": "/custom-section-11"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm &amp; Community",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm & Community",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-22",
-            "migratedPath": "/custom-section-22"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Team",
-            "brHref": "/team.htm",
-            "migratedText": "Our Team",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          }
-        ]
+        "note": "\"Our Difference\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Services",
         "brHref": "/",
-        "migratedText": "Our Services",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Personal",
-            "brHref": "/Personal.4.htm",
-            "migratedText": "Personal",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-44",
-            "migratedPath": "/custom-section-44"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business",
-            "brHref": "/Business.5.htm",
-            "migratedText": "Business",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-55",
-            "migratedPath": "/custom-section-55"
-          }
-        ]
+        "note": "\"Our Services\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "href-mismatch",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/#",
-        "migratedText": "Resources",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "note": "\"Resources\" should be a dropdown (/#) but migrated links to /articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research/",
-            "migratedText": "Articles",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Insurance Videos",
-            "brHref": "/Insurance-Videos.6.htm",
-            "migratedText": "Insurance Videos",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-66",
-            "migratedPath": "/custom-section-66"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "General Videos",
-            "brHref": "/learning_center/videos/",
-            "migratedText": "General Videos",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators/",
-            "migratedText": "Calculators",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Health Insurance FAQs",
-            "brHref": "/FAQs.3.htm",
-            "migratedText": "Health Insurance FAQs",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/health-insurance-faqs3",
-            "migratedPath": "/health-insurance-faqs3"
-          }
-        ]
+        "note": "\"Resources\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us/",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the BR navigation JSON but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -423,134 +236,40 @@
     ],
     "summary": {
       "totalSourceItems": 16,
-      "totalMigratedItems": 15,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 6,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
-      "hrefMismatches": 2,
+      "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 13,
+      "ok": 0,
       "totalBrItems": 16
     },
     "liveIssues": [
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Home",
         "brHref": "/",
-        "migratedText": "Home",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/",
-        "migratedPath": "/"
+        "note": "\"Home\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Difference",
         "brHref": "/",
-        "migratedText": "Our Difference",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-11",
-        "migratedPath": "/custom-section-11",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Our Philosophy",
-            "brHref": "/Our-Philosophy.1.htm",
-            "migratedText": "Our Philosophy",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-11",
-            "migratedPath": "/custom-section-11"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Firm & Community",
-            "brHref": "/Our-Firm.2.htm",
-            "migratedText": "Our Firm & Community",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-22",
-            "migratedPath": "/custom-section-22"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Our Team",
-            "brHref": "/team.htm",
-            "migratedText": "Our Team",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/our-team",
-            "migratedPath": "/our-team"
-          }
-        ]
+        "note": "\"Our Difference\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Our Services",
         "brHref": "/",
-        "migratedText": "Our Services",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/",
-        "migratedPath": "/",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Personal",
-            "brHref": "/Personal.4.htm",
-            "migratedText": "Personal",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-44",
-            "migratedPath": "/custom-section-44"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Business",
-            "brHref": "/Business.5.htm",
-            "migratedText": "Business",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-55",
-            "migratedPath": "/custom-section-55"
-          }
-        ]
+        "note": "\"Our Services\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Resources",
         "brHref": "/",
-        "migratedText": "Resources",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/articles",
-        "migratedPath": "/articles",
-        "subIssues": [
-          {
-            "kind": "ok",
-            "brTitle": "Articles",
-            "brHref": "/learning_center/research",
-            "migratedText": "Articles",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/articles",
-            "migratedPath": "/articles"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Insurance Videos",
-            "brHref": "/Insurance-Videos.6.htm",
-            "migratedText": "Insurance Videos",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/custom-section-66",
-            "migratedPath": "/custom-section-66"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "General Videos",
-            "brHref": "/learning_center/videos",
-            "migratedText": "General Videos",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/videos",
-            "migratedPath": "/videos"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Calculators",
-            "brHref": "/learning_center/calculators",
-            "migratedText": "Calculators",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/calculators",
-            "migratedPath": "/calculators"
-          },
-          {
-            "kind": "ok",
-            "brTitle": "Health Insurance FAQs",
-            "brHref": "/FAQs.3.htm",
-            "migratedText": "Health Insurance FAQs",
-            "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/health-insurance-faqs3",
-            "migratedPath": "/health-insurance-faqs3"
-          }
-        ]
+        "note": "\"Resources\" is in the original live site but not found in the migrated site menu"
       },
       {
         "kind": "missing",
@@ -559,24 +278,22 @@
         "note": "\"Request A Quote\" is in the original live site but not found in the migrated site menu"
       },
       {
-        "kind": "ok",
+        "kind": "missing",
         "brTitle": "Contact Us",
         "brHref": "/contact_us",
-        "migratedText": "Contact Us",
-        "migratedHref": "https://woodforestinsurance-31030751.brprodaccount.com/location",
-        "migratedPath": "/location"
+        "note": "\"Contact Us\" is in the original live site but not found in the migrated site menu"
       }
     ],
     "liveSummary": {
       "totalSourceItems": 19,
-      "totalMigratedItems": 15,
-      "missing": 1,
+      "totalMigratedItems": 0,
+      "missing": 6,
       "extra": 0,
       "brokenLinks": 0,
       "duplicates": 0,
       "hrefMismatches": 0,
       "structureChanges": 0,
-      "ok": 15
+      "ok": 0
     },
     "originalCrawlFailed": false,
     "contentCheck": {
@@ -595,30 +312,17 @@
         "personNames": [],
         "footerText": "1330 Lake Robbins Drive, Suite 150 The Woodlands, TX 77380 832.375.2999Insurance services are brought to you by Woodforest Financial Services, Inc. dba Woodforest Insurance Partners. Woodforest Financial Services, Inc. and Woodforest National Bank are wholly-owned subsidiaries of Woodforest Financial Group, Inc. Insurance products are not insured by bank insurance, the FDIC or any other government agency, are not deposits or obligations of a bank, are not guaranteed by a bank, and are subject to risks and may go down in value, including the possible loss of principal. Woodforest Insurance Partners is not an insurance company but acts as an agent for certain insurance companies. Products not available in all states. Woodforest Insurance Partners, Texas State Insurance License Number 9118. Site Map Back To Top"
       },
-      "migratedIdentity": {
-        "pageTitle": "Home | www.woodforestinsurance.com",
-        "companyNames": [
-          "Welcome to Woodforest Insurance Partners"
-        ],
-        "phoneNumbers": [
-          "8323752999"
-        ],
-        "emailAddresses": [],
-        "physicalAddresses": [
-          "1330 Lake Robbins Drive, Suite "
-        ],
-        "personNames": [],
-        "footerText": "1330 Lake Robbins Drive, Suite 150 The Woodlands, TX 77380 832.375.2999Insurance services are brought to you by Woodforest Financial Services, Inc. dba Woodforest Insurance Partners. Woodforest Financial Services, Inc. and Woodforest National Bank are wholly-owned subsidiaries of Woodforest Financial Group, Inc. Insurance products are not insured by bank insurance, the FDIC or any other government agency, are not deposits or obligations of a bank, are not guaranteed by a bank, and are subject to risks and may go down in value, including the possible loss of principal. Woodforest Insurance Partners is not an insurance company but acts as an agent for certain insurance companies. Products not available in all states. Woodforest Insurance Partners, Texas State Insurance License Number 9118."
-      },
-      "mismatches": []
+      "migratedIdentity": null,
+      "mismatches": [],
+      "error": "Identity extraction failed"
     },
     "siteHealth": {
       "brokerCheck": {
         "found": false,
         "type": "none",
         "position": "none",
-        "details": "No BrokerCheck banner found on page",
-        "severity": "ok"
+        "details": "Migrated page not crawled",
+        "severity": "warning"
       },
       "domainCheck": {
         "migratedUrl": "https://woodforestinsurance-31030751.brprodaccount.com/",
@@ -626,6 +330,11 @@
         "hasCustomDomain": false,
         "details": "No custom domain — still on woodforestinsurance-31030751.brprodaccount.com",
         "severity": "warning"
+      },
+      "imageValidation": {
+        "issues": [],
+        "totalImages": 27,
+        "severity": "ok"
       }
     }
   }
